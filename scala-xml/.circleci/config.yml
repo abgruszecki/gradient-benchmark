@@ -1,0 +1,147 @@
+version: 2.1
+
+executors:
+  scala_jdk8_executor:
+    docker:
+      - image: circleci/openjdk:8-jdk-node
+    resource_class: small
+  scala_jdk11_executor:
+    docker:
+      - image: circleci/openjdk:11-jdk
+    resource_class: small
+  scala_jdk17_executor:
+    docker:
+      - image: circleci/openjdk:17-buster
+    resource_class: small
+
+commands:
+  sbt_cmd:
+    description: "Build with sbt"
+    parameters:
+      scala_version:
+        type: string
+        default: 2.12.18
+      sbt_tasks:
+        type: string
+        default: update compile test:compile test doc package osgiBundle
+    steps:
+      - restore_cache:
+          keys:
+            - sbt-deps-v1-{{ checksum "build.sbt" }}
+            - sbt-deps-v1-
+      - run: sbt -Dsbt.io.jdktimestamps=true ++<< parameters.scala_version >> << parameters.sbt_tasks >>
+      - save_cache:
+          key: sbt-deps-v1-{{ checksum "build.sbt" }}
+          paths:
+            - "~/.cache/coursier"
+            - "~/.ivy2/cache"
+            - "~/.sbt"
+            - "~/.m2"
+
+jobs:
+  scala_job:
+    executor: scala_<<parameters.java_version>>_executor
+    parameters:
+      scala_version:
+        description: "Scala version"
+        default: 2.12.18
+        type: string
+      java_version:
+        description: "Java version"
+        default: jdk8
+        type: string
+    steps:
+      - checkout
+      - run: java -version
+      - sbt_cmd:
+          scala_version: << parameters.scala_version >>
+          sbt_tasks: xml/update xml/compile xml/Test/compile xml/test xml/doc xml/package xml/osgiBundle
+  scalajs_job:
+    executor: scala_jdk8_executor
+    parameters:
+      scala_version:
+        description: "Scala version"
+        default: 2.12.18
+        type: string
+    steps:
+      - checkout
+      - run: java -version
+      - run: node -v
+      - sbt_cmd:
+          scala_version: << parameters.scala_version >>
+          sbt_tasks: xmlJS/update xmlJS/compile xmlJS/Test/compile xmlJS/test xmlJS/doc xmlJS/package
+  scalanative_job:
+    executor: scala_jdk8_executor
+    parameters:
+      scala_version:
+        description: "Scala version"
+        default: 2.12.18
+        type: string
+    steps:
+      - checkout
+      - run:
+          name: Install dependencies
+          command: |
+            sudo apt-get update
+            sudo apt-get install -y clang
+      - sbt_cmd:
+          scala_version: << parameters.scala_version >>
+          sbt_tasks: xmlNative/update xmlNative/compile xmlNative/test:compile xmlNative/test xmlNative/doc xmlNative/package
+
+workflows:
+  build:
+    jobs:
+      - scala_job:
+          name: 2.12.x
+          java_version: jdk8
+          scala_version: 2.12.19
+      - scala_job:
+          name: 2.13.x
+          java_version: jdk8
+          scala_version: 2.13.13
+      - scala_job:
+          name: 3.x
+          java_version: jdk8
+          scala_version: 3.3.1
+      - scala_job:
+          name: jdk11_2.12.x
+          java_version: jdk11
+          scala_version: 2.12.19
+      - scala_job:
+          name: jdk11_2.13.x
+          java_version: jdk11
+          scala_version: 2.13.13
+      - scala_job:
+          name: jdk11_3.x
+          java_version: jdk11
+          scala_version: 3.3.1
+      - scala_job:
+          name: jdk17_2.12.x
+          java_version: jdk17
+          scala_version: 2.12.19
+      - scala_job:
+          name: jdk17_2.13.x
+          java_version: jdk17
+          scala_version: 2.13.13
+      - scala_job:
+          name: jdk17_3.x
+          java_version: jdk17
+          scala_version: 3.3.1
+      - scalajs_job:
+          name: sjs1.0_2.12.x
+          scala_version: 2.12.19
+      - scalajs_job:
+          name: sjs1.0_2.13.x
+          scala_version: 2.13.13
+      - scalajs_job:
+          name: sjs1.0_3.x
+          scala_version: 3.3.1
+      - scalanative_job:
+          name: native0.4_2.12.x
+          scala_version: 2.12.19
+      - scalanative_job:
+          name: native0.4_2.13.x
+          scala_version: 2.13.13
+      - scalanative_job:
+          name: native0.4_3.x
+          scala_version: 3.3.1

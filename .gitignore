@@ -1,0 +1,39 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+*.class
+
+target/
+_build/
+*.dot
+*.ppm
+.idea
+
+local.sbt
+.ammonite/
+
+bin/
+.project
+.classpath
+.settings/
+.externalToolBuilders/
+.cache*
+
+# scala-cli
+**/.scala-build
+
+# metals
+**/.bloop/
+/.metals/
+/project/**/metals.sbt
+
+# Build Server Protocol, used by sbt
+/.bsp/
+
+# vscode
+/.vscode/
+
+# vim
+*.swp

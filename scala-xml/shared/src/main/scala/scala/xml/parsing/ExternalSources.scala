@@ -26,8 +26,8 @@ trait ExternalSources {
   self: ExternalSources with MarkupParser with MarkupHandler =>
 
   def externalSource(systemId: String): Source = {
-    if (systemId.startsWith("http:"))
-      return Source.fromURL(new URL(systemId))
+    // if (systemId.startsWith("http:"))
+    //   return Source.fromURL(new URL(systemId))
 
     val fileStr: String = input.descr match {
       case x if x.startsWith("file:") => x.drop(5)

@@ -1,0 +1,21 @@
+liTest run started
+liTest scala.scalanative.junit.AssertEqualsDoubleTest.failsWithDouble started
+ldTest scala.scalanative.junit.AssertEqualsDoubleTest.failsWithDouble finished, took <TIME>
+e0scala.scalanative.junit.AssertEqualsDoubleTest.failsWithDouble
+liTest scala.scalanative.junit.AssertEqualsDoubleTest.failsWithDoubleMessage started
+ldTest scala.scalanative.junit.AssertEqualsDoubleTest.failsWithDoubleMessage finished, took <TIME>
+e0scala.scalanative.junit.AssertEqualsDoubleTest.failsWithDoubleMessage
+liTest scala.scalanative.junit.AssertEqualsDoubleTest.worksWithByte started
+ldTest scala.scalanative.junit.AssertEqualsDoubleTest.worksWithByte finished, took <TIME>
+e0scala.scalanative.junit.AssertEqualsDoubleTest.worksWithByte
+liTest scala.scalanative.junit.AssertEqualsDoubleTest.worksWithEpsilon started
+ldTest scala.scalanative.junit.AssertEqualsDoubleTest.worksWithEpsilon finished, took <TIME>
+e0scala.scalanative.junit.AssertEqualsDoubleTest.worksWithEpsilon
+liTest scala.scalanative.junit.AssertEqualsDoubleTest.worksWithInt started
+ldTest scala.scalanative.junit.AssertEqualsDoubleTest.worksWithInt finished, took <TIME>
+e0scala.scalanative.junit.AssertEqualsDoubleTest.worksWithInt
+liTest scala.scalanative.junit.AssertEqualsDoubleTest.worksWithShort started
+ldTest scala.scalanative.junit.AssertEqualsDoubleTest.worksWithShort finished, took <TIME>
+e0scala.scalanative.junit.AssertEqualsDoubleTest.worksWithShort
+liTest run finished: 0 failed, 0 ignored, 6 total, <TIME>
+d

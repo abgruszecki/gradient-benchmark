@@ -188,9 +188,9 @@ word_t *LargeAllocator_lazySweep(Heap *heap, uint32_t size) {
 #ifdef DEBUG_PRINT
     uint32_t increment =
         (uint32_t)MathUtils_DivAndRoundUp(size, BLOCK_TOTAL_SIZE);
-    printf("Sweeper_LazySweepLarge (%" PRIu32 ") => %" PRIu32 "\n", size,
+    fprintf(stderr, "Sweeper_LazySweepLarge (%" PRIu32 ") => %" PRIu32 "\n", size,
            increment);
-    fflush(stdout);
+    fflush(stderr);
 #endif
     // lazy sweep will happen
     Stats_DefineOrNothing(stats, heap->stats);

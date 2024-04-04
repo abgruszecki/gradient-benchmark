@@ -173,10 +173,10 @@ uint32_t Sweeper_sweepSimpleBlock(Allocator *allocator, BlockMeta *blockMeta,
             LocalBlockList_Push(&result->recycledBlocks,
                                 allocator->blockMetaStart, blockMeta);
 #ifdef DEBUG_PRINT
-            printf(
+            fprintf(stderr, 
                 "sweepSimpleBlock %p %" PRIu32 " => RECYCLED\n", blockMeta,
                 BlockMeta_GetBlockIndex(allocator->blockMetaStart, blockMeta));
-            fflush(stdout);
+            fflush(stderr);
 #endif
         } else {
 #ifdef DEBUG_ASSERT
@@ -300,11 +300,11 @@ uint32_t Sweeper_sweepSuperblock(LargeAllocator *allocator,
         }
     }
 #ifdef DEBUG_PRINT
-    printf("sweepSuperblock %p %" PRIu32 " => FREE %" PRIu32 "/ %" PRIu32 "\n",
+    fprintf(stderr, "sweepSuperblock %p %" PRIu32 " => FREE %" PRIu32 "/ %" PRIu32 "\n",
            blockMeta,
            BlockMeta_GetBlockIndex(allocator->blockMetaStart, blockMeta),
            freeCount, superblockSize);
-    fflush(stdout);
+    fflush(stderr);
 #endif
     return freeCount;
 }
@@ -364,9 +364,9 @@ void Sweeper_Sweep(Heap *heap, Stats *stats, atomic_uint_fast32_t *cursorDone,
     // reserved block are at the start
 
 #ifdef DEBUG_PRINT
-    printf("Sweeper_Sweep(%p %" PRIu32 ",%p %" PRIu32 "\n", first, startIdx,
+    fprintf(stderr, "Sweeper_Sweep(%p %" PRIu32 ",%p %" PRIu32 "\n", first, startIdx,
            limit, limitIdx);
-    fflush(stdout);
+    fflush(stderr);
 #endif
 
     // skip superblock_middle these are handled by the previous batch
@@ -375,9 +375,9 @@ void Sweeper_Sweep(Heap *heap, Stats *stats, atomic_uint_fast32_t *cursorDone,
     // first < limit 0xb, 0x3, 0x13).contains(flags)
     while (((first->block.simple.flags & 0x3) == 0x3) && first < limit) {
 #ifdef DEBUG_PRINT
-        printf("Sweeper_Sweep SuperblockTail %p %" PRIu32 "\n", first,
+        fprintf(stderr, "Sweeper_Sweep SuperblockTail %p %" PRIu32 "\n", first,
                BlockMeta_GetBlockIndex(heap->blockMetaStart, first));
-        fflush(stdout);
+        fflush(stderr);
 #endif
         startIdx += 1;
         first += 1;
@@ -403,9 +403,9 @@ void Sweeper_Sweep(Heap *heap, Stats *stats, atomic_uint_fast32_t *cursorDone,
                 Sweeper_sweepSimpleBlock(&allocator, current, currentBlockStart,
                                          lineMetas, &sweepResult);
 #ifdef DEBUG_PRINT
-            printf("Sweeper_Sweep SimpleBlock %p %" PRIu32 "\n", current,
+            fprintf(stderr, "Sweeper_Sweep SimpleBlock %p %" PRIu32 "\n", current,
                    BlockMeta_GetBlockIndex(heap->blockMetaStart, current));
-            fflush(stdout);
+            fflush(stderr);
 #endif
         } else if (BlockMeta_IsSuperblockStart(current)) {
             size = BlockMeta_SuperblockSize(current);
@@ -413,10 +413,10 @@ void Sweeper_Sweep(Heap *heap, Stats *stats, atomic_uint_fast32_t *cursorDone,
             freeCount = Sweeper_sweepSuperblock(&largeAllocator, current,
                                                 currentBlockStart, limit);
 #ifdef DEBUG_PRINT
-            printf("Sweeper_Sweep Superblock(%" PRIu32 ") %p %" PRIu32 "\n",
+            fprintf(stderr, "Sweeper_Sweep Superblock(%" PRIu32 ") %p %" PRIu32 "\n",
                    size, current,
                    BlockMeta_GetBlockIndex(heap->blockMetaStart, current));
-            fflush(stdout);
+            fflush(stderr);
 #endif
         } else {
             assert(BlockMeta_IsFree(current));
@@ -426,9 +426,9 @@ void Sweeper_Sweep(Heap *heap, Stats *stats, atomic_uint_fast32_t *cursorDone,
             current->debugFlag = dbg_free;
 #endif
 #ifdef DEBUG_PRINT
-            printf("Sweeper_Sweep FreeBlock %p %" PRIu32 "\n", current,
+            fprintf(stderr, "Sweeper_Sweep FreeBlock %p %" PRIu32 "\n", current,
                    BlockMeta_GetBlockIndex(heap->blockMetaStart, current));
-            fflush(stdout);
+            fflush(stderr);
 #endif
         }
         // ignore superblock middle blocks, that superblock will be swept by

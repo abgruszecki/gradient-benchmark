@@ -246,13 +246,13 @@ bool Heap_shouldGrow(Heap *heap) {
         blockCount - (freeBlockCount + recycledBlockCount);
 
 #ifdef DEBUG_PRINT
-    printf("\n\n Max mark time ratio: %lf \n", heap->maxMarkTimeRatio);
-    printf("Min free ratio: %lf \n", heap->minFreeRatio);
-    printf("Block count: %" PRIu32 "\n", blockCount);
-    printf("Unavailable: %" PRIu32 "\n", unavailableBlockCount);
-    printf("Free: %" PRIu32 "\n", freeBlockCount);
-    printf("Recycled: %" PRIu32 "\n", recycledBlockCount);
-    fflush(stdout);
+    fprintf(stderr, "\n\n Max mark time ratio: %lf \n", heap->maxMarkTimeRatio);
+    fprintf(stderr, "Min free ratio: %lf \n", heap->minFreeRatio);
+    fprintf(stderr, "Block count: %" PRIu32 "\n", blockCount);
+    fprintf(stderr, "Unavailable: %" PRIu32 "\n", unavailableBlockCount);
+    fprintf(stderr, "Free: %" PRIu32 "\n", freeBlockCount);
+    fprintf(stderr, "Recycled: %" PRIu32 "\n", recycledBlockCount);
+    fflush(stderr);
 #endif
 
     uint64_t timeInMark = heap->mark.currentEnd_ns - heap->mark.currentStart_ns;
@@ -296,9 +296,9 @@ void Heap_Grow(Heap *heap, uint32_t incrementInBlocks) {
     size_t incrementInBytes = incrementInBlocks * SPACE_USED_PER_BLOCK;
 
 #ifdef DEBUG_PRINT
-    printf("Growing small heap by %zu bytes, to %zu bytes\n", incrementInBytes,
+    fprintf(stderr, "Growing small heap by %zu bytes, to %zu bytes\n", incrementInBytes,
            heap->heapSize + incrementInBytes);
-    fflush(stdout);
+    fflush(stderr);
 #endif
 
     word_t *heapEnd = heap->heapEnd;

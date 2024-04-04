@@ -256,8 +256,8 @@ void Heap_Collect(Heap *heap, Stack *stack) {
     uint64_t start_ns, nullify_start_ns, sweep_start_ns, end_ns;
     Stats *stats = heap->stats;
 #ifdef DEBUG_PRINT
-    printf("\nCollect\n");
-    fflush(stdout);
+    fprintf(stderr, "\nCollect\n");
+    fflush(stderr);
 #endif
     if (stats != NULL) {
         start_ns = scalanative_nano_time();
@@ -278,8 +278,8 @@ void Heap_Collect(Heap *heap, Stack *stack) {
     }
     WeakRefStack_CallHandlers();
 #ifdef DEBUG_PRINT
-    printf("End collect\n");
-    fflush(stdout);
+    fprintf(stderr, "End collect\n");
+    fflush(stderr);
 #endif
 }
 
@@ -291,11 +291,11 @@ bool Heap_shouldGrow(Heap *heap) {
         blockCount - (freeBlockCount + recycledBlockCount);
 
 #ifdef DEBUG_PRINT
-    printf("\n\nBlock count: %u\n", blockCount);
-    printf("Unavailable: %u\n", unavailableBlockCount);
-    printf("Free: %u\n", freeBlockCount);
-    printf("Recycled: %u\n", recycledBlockCount);
-    fflush(stdout);
+    fprintf(stderr, "\n\nBlock count: %u\n", blockCount);
+    fprintf(stderr, "Unavailable: %u\n", unavailableBlockCount);
+    fprintf(stderr, "Free: %u\n", freeBlockCount);
+    fprintf(stderr, "Recycled: %u\n", recycledBlockCount);
+    fflush(stderr);
 #endif
 
     return freeBlockCount * 2 < blockCount ||
@@ -360,9 +360,9 @@ void Heap_Grow(Heap *heap, uint32_t incrementInBlocks) {
     size_t incrementInBytes = incrementInBlocks * SPACE_USED_PER_BLOCK;
 
 #ifdef DEBUG_PRINT
-    printf("Growing small heap by %zu bytes, to %zu bytes\n", incrementInBytes,
+    fprintf(stderr, "Growing small heap by %zu bytes, to %zu bytes\n", incrementInBytes,
            heap->heapSize + incrementInBytes);
-    fflush(stdout);
+    fflush(stderr);
 #endif
 
     word_t *heapEnd = heap->heapEnd;

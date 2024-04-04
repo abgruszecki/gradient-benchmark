@@ -169,9 +169,9 @@ bool Allocator_newBlock(Allocator *allocator) {
         // get all the changes done by sweeping
         atomic_thread_fence(memory_order_acquire);
 #ifdef DEBUG_PRINT
-        printf("Allocator_newBlock RECYCLED %p %" PRIu32 "\n", block,
+        fprintf(stderr, "Allocator_newBlock RECYCLED %p %" PRIu32 "\n", block,
                BlockMeta_GetBlockIndex(blockMetaStart, block));
-        fflush(stdout);
+        fflush(stderr);
 #endif
         assert(block->debugFlag == dbg_partial_free);
 #ifdef DEBUG_ASSERT
@@ -194,9 +194,9 @@ bool Allocator_newBlock(Allocator *allocator) {
     } else {
         block = BlockAllocator_GetFreeBlock(allocator->blockAllocator);
 #ifdef DEBUG_PRINT
-        printf("Allocator_newBlock %p %" PRIu32 "\n", block,
+        fprintf(stderr, "Allocator_newBlock %p %" PRIu32 "\n", block,
                BlockMeta_GetBlockIndex(blockMetaStart, block));
-        fflush(stdout);
+        fflush(stderr);
 #endif
         if (block == NULL) {
             return false;

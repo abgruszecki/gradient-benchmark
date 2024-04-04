@@ -150,9 +150,9 @@ INLINE BlockMeta *BlockAllocator_GetFreeBlock(BlockAllocator *blockAllocator) {
 
 // not decrementing freeBlockCount, because it is only used after sweep
 #ifdef DEBUG_PRINT
-    printf("BlockAllocator_GetFreeBlock = %p %" PRIu32 "\n", block,
+    fprintf(stderr, "BlockAllocator_GetFreeBlock = %p %" PRIu32 "\n", block,
            BlockMeta_GetBlockIndex(blockAllocator->blockMetaStart, block));
-    fflush(stdout);
+    fflush(stderr);
 #endif
     return block;
 }
@@ -220,10 +220,10 @@ BlockMeta *BlockAllocator_GetFreeSuperblock(BlockAllocator *blockAllocator,
     }
 // not decrementing freeBlockCount, because it is only used after sweep
 #ifdef DEBUG_PRINT
-    printf("BlockAllocator_GetFreeSuperblock(%" PRIu32 ") = %p %" PRIu32 "\n",
+    fprintf(stderr, "BlockAllocator_GetFreeSuperblock(%" PRIu32 ") = %p %" PRIu32 "\n",
            size, superblock,
            BlockMeta_GetBlockIndex(blockAllocator->blockMetaStart, superblock));
-    fflush(stdout);
+    fflush(stderr);
 #endif
     return superblock;
 }
@@ -275,12 +275,12 @@ void BlockAllocator_AddFreeSuperblockLocal(BlockAllocator *blockAllocator,
                                            uint32_t count) {
 
 #ifdef DEBUG_PRINT
-    printf("BlockAllocator_AddFreeSuperblock %p %" PRIu32 " count = %" PRIu32
+    fprintf(stderr, "BlockAllocator_AddFreeSuperblock %p %" PRIu32 " count = %" PRIu32
            "\n",
            superblock,
            BlockMeta_GetBlockIndex(blockAllocator->blockMetaStart, superblock),
            count);
-    fflush(stdout);
+    fflush(stderr);
 #endif
     BlockMeta *limit = superblock + count;
     for (BlockMeta *current = superblock; current < limit; current++) {
@@ -301,12 +301,12 @@ void BlockAllocator_AddFreeSuperblock(BlockAllocator *blockAllocator,
                                       BlockMeta *superblock, uint32_t count) {
 
 #ifdef DEBUG_PRINT
-    printf("BlockAllocator_AddFreeSuperblock %p %" PRIu32 " count = %" PRIu32
+    fprintf(stderr, "BlockAllocator_AddFreeSuperblock %p %" PRIu32 " count = %" PRIu32
            "\n",
            superblock,
            BlockMeta_GetBlockIndex(blockAllocator->blockMetaStart, superblock),
            count);
-    fflush(stdout);
+    fflush(stderr);
 #endif
     BlockMeta *limit = superblock + count;
     for (BlockMeta *current = superblock; current < limit; current++) {
@@ -330,7 +330,7 @@ void BlockAllocator_AddFreeBlocks(BlockAllocator *blockAllocator,
            superblock,
            BlockMeta_GetBlockIndex(blockAllocator->blockMetaStart, superblock),
            count);
-    fflush(stdout);
+    fflush(stderr);
 #endif
     assert(count > 0);
     BlockMeta *limit = superblock + count;

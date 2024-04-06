@@ -1,4 +1,11 @@
-# The dependencies of the benchmark
+# Gradient: benchmark code
+This is a supplementary repository for the
+"Gradient: Gradual Compartmentalization via Object Capabilities" paper,
+accepted at OOPSLA 2024.
+
+It contains the code behind the benchmark described in the paper.
+
+## Dependencies
 Building the benchmark code and its dependencies requires Java and SBT.
 Both can be installed by following the instructions here: 
 https://www.scala-lang.org/download/.
@@ -38,6 +45,10 @@ $ cd scala-xml
 $ sbt publishLocal
 ```
 
+Take note of the exact version published locally;
+the snapshot identifier may be different and you may need to update
+`build.sbt` accordingly.
+
 ## Building the benchmark code
 Run the following command:
 ```
@@ -59,3 +70,5 @@ Assuming the code is built, run:
 $ ./benchmark.sh main 100000
 $ ./analyze.py target/benchmark-results
 ```
+
+The traces used in the paper are in the `large-benchmark-results` directory.

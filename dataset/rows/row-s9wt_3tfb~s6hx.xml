@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-s9wt_3tfb~s6hx" _uuid="00000000-0000-0000-1E98-479A4F6460A2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-s9wt_3tfb~s6hx">
+      <vin_1_10>WAUVPBF2XM</vin_1_10>
+      <county>Pierce</county>
+      <city>Bonney Lake</city>
+      <state>WA</state>
+      <zip_code>98391</zip_code>
+      <model_year>2021</model_year>
+      <make>AUDI</make>
+      <model>A7</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>24</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>161840290</dol_vehicle_id>
+      <geocoded_column>POINT (-122.183805 47.18062)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053070208</_2020_census_tract>
+    </row>
+    

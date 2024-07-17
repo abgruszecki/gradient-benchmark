@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-b47r-gsr3-njqt" _uuid="00000000-0000-0000-B10B-E70DEE6DCA12" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-b47r-gsr3-njqt">
+      <vin_1_10>YV4H60DW6P</vin_1_10>
+      <county>Whatcom</county>
+      <city>Bellingham</city>
+      <state>WA</state>
+      <zip_code>98225</zip_code>
+      <model_year>2023</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>35</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>224216492</dol_vehicle_id>
+      <geocoded_column>POINT (-122.486115 48.761615)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073000401</_2020_census_tract>
+    </row>
+    

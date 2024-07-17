@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2n4p~4nnu-gvh2" _uuid="00000000-0000-0000-5E74-F58BA45FC304" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2n4p~4nnu-gvh2">
+      <vin_1_10>3FMTK4SX0M</vin_1_10>
+      <county>Bell</county>
+      <city>Killeen</city>
+      <state>TX</state>
+      <zip_code>76542</zip_code>
+      <model_year>2021</model_year>
+      <make>FORD</make>
+      <model>MUSTANG MACH-E</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>183469779</dol_vehicle_id>
+      <geocoded_column>POINT (-97.74709 31.09733)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>48027022402</_2020_census_tract>
+    </row>
+    

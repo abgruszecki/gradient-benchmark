@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wphe.9ipd_duhq" _uuid="00000000-0000-0000-C6CF-7F33DA81C135" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wphe.9ipd_duhq">
+      <vin_1_10>7SAYGDEF0N</vin_1_10>
+      <county>Pierce</county>
+      <city>Lake Tapps</city>
+      <state>WA</state>
+      <zip_code>98391</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>196348183</dol_vehicle_id>
+      <geocoded_column>POINT (-122.183805 47.18062)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053070307</_2020_census_tract>
+    </row>
+    

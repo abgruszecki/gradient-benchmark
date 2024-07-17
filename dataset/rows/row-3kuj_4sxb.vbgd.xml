@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3kuj_4sxb.vbgd" _uuid="00000000-0000-0000-D1FF-5C8E2259B956" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3kuj_4sxb.vbgd">
+      <vin_1_10>JTMEB3FV4P</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lynnwood</city>
+      <state>WA</state>
+      <zip_code>98087</zip_code>
+      <model_year>2023</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>21</legislative_district>
+      <dol_vehicle_id>236289826</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2551991 47.8650827)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061041816</_2020_census_tract>
+    </row>
+    

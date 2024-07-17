@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-sa9d-f4b3-2qu3" _uuid="00000000-0000-0000-07BA-CED38EAED573" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-sa9d-f4b3-2qu3">
+      <vin_1_10>5YJSA1DPXC</vin_1_10>
+      <county>Travis</county>
+      <city>Leander</city>
+      <state>TX</state>
+      <zip_code>78641</zip_code>
+      <model_year>2012</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>265</electric_range>
+      <base_msrp>59900</base_msrp>
+      <dol_vehicle_id>184954423</dol_vehicle_id>
+      <geocoded_column>POINT (-97.8617984 30.5551224)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>48453035600</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-cm4k~h5v9_bi2g" _uuid="00000000-0000-0000-143F-DFB63CC9DE0F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-cm4k~h5v9_bi2g">
+      <vin_1_10>WMW13DJ01P</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98118</zip_code>
+      <model_year>2023</model_year>
+      <make>MINI</make>
+      <model>HARDTOP</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>37</legislative_district>
+      <dol_vehicle_id>226160763</dol_vehicle_id>
+      <geocoded_column>POINT (-122.28339 47.549285)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033011700</_2020_census_tract>
+    </row>
+    

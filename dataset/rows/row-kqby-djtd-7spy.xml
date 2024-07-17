@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kqby-djtd-7spy" _uuid="00000000-0000-0000-DB06-9A6313B8AC1D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kqby-djtd-7spy">
+      <vin_1_10>JTDKN3DP9E</vin_1_10>
+      <county>San Juan</county>
+      <city>Lopez Island</city>
+      <state>WA</state>
+      <zip_code>98261</zip_code>
+      <model_year>2014</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>349994228</dol_vehicle_id>
+      <geocoded_column>POINT (-122.9109264 48.5262809)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||ORCAS POWER &amp; LIGHT COOP</electric_utility>
+      <_2020_census_tract>53055960501</_2020_census_tract>
+    </row>
+    

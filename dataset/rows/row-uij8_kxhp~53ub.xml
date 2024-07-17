@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-uij8_kxhp~53ub" _uuid="00000000-0000-0000-30A3-76CF9AADB7CC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-uij8_kxhp~53ub">
+      <vin_1_10>4JGDA6DB1G</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lynnwood</city>
+      <state>WA</state>
+      <zip_code>98037</zip_code>
+      <model_year>2016</model_year>
+      <make>MERCEDES-BENZ</make>
+      <model>GLE-CLASS</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>10</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>216846759</dol_vehicle_id>
+      <geocoded_column>POINT (-122.297265 47.84182)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051602</_2020_census_tract>
+    </row>
+    

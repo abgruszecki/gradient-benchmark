@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jqam_h69e-yxzh" _uuid="00000000-0000-0000-8ABA-04C704E4E8F6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jqam_h69e-yxzh">
+      <vin_1_10>1G1RA6E48D</vin_1_10>
+      <county>San Juan</county>
+      <city>Eastsound</city>
+      <state>WA</state>
+      <zip_code>98245</zip_code>
+      <model_year>2013</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>107812050</dol_vehicle_id>
+      <geocoded_column>POINT (-122.907229 48.7016716)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||ORCAS POWER &amp; LIGHT COOP</electric_utility>
+      <_2020_census_tract>53055960102</_2020_census_tract>
+    </row>
+    

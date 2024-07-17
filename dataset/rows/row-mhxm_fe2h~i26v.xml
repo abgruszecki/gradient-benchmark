@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mhxm_fe2h~i26v" _uuid="00000000-0000-0000-65FF-D66876F0EA7E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mhxm_fe2h~i26v">
+      <vin_1_10>KNDJX3AE9G</vin_1_10>
+      <county>Snohomish</county>
+      <city>Bothell</city>
+      <state>WA</state>
+      <zip_code>98012</zip_code>
+      <model_year>2016</model_year>
+      <make>KIA</make>
+      <model>SOUL</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>31950</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>121702913</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1873 47.820245)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051921</_2020_census_tract>
+    </row>
+    

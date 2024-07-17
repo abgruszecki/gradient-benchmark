@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-d7ep.u2qb.t956" _uuid="00000000-0000-0000-2C49-2DF8D4391ED4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-d7ep.u2qb.t956">
+      <vin_1_10>2C4RC1H74L</vin_1_10>
+      <county>Yakima</county>
+      <city>Sunnyside</city>
+      <state>WA</state>
+      <zip_code>98944</zip_code>
+      <model_year>2020</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>15</legislative_district>
+      <dol_vehicle_id>151879836</dol_vehicle_id>
+      <geocoded_column>POINT (-120.011515 46.32189)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PACIFICORP||BENTON RURAL ELECTRIC ASSN</electric_utility>
+      <_2020_census_tract>53077002003</_2020_census_tract>
+    </row>
+    

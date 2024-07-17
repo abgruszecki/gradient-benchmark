@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-eakp-h5cq-33r9" _uuid="00000000-0000-0000-A2A2-FA900D52F5EC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-eakp-h5cq-33r9">
+      <vin_1_10>5YJXCBE44M</vin_1_10>
+      <county>Maricopa</county>
+      <city>Chandler</city>
+      <state>AZ</state>
+      <zip_code>85248</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>138109079</dol_vehicle_id>
+      <geocoded_column>POINT (-111.848015 33.243785)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>04013812900</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-9fw9_i589~higp" _uuid="00000000-0000-0000-1456-5F824EDC86C7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-9fw9_i589~higp">
+      <vin_1_10>WVWKP7AU0G</vin_1_10>
+      <county>Virginia Beach</county>
+      <city>Virginia Beach</city>
+      <state>VA</state>
+      <zip_code>23456</zip_code>
+      <model_year>2016</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>E-GOLF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>83</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>154035290</dol_vehicle_id>
+      <geocoded_column>POINT (-76.11799 36.784765)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>51810045431</_2020_census_tract>
+    </row>
+    

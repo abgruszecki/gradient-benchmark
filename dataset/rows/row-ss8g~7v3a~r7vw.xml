@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ss8g~7v3a~r7vw" _uuid="00000000-0000-0000-7A3C-A9FE7A2BFF1E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ss8g~7v3a~r7vw">
+      <vin_1_10>5YJ3E1EB1N</vin_1_10>
+      <county>Cumberland</county>
+      <city>Mechanicsburg</city>
+      <state>PA</state>
+      <zip_code>17050</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>211173182</dol_vehicle_id>
+      <geocoded_column>POINT (-77.01976 40.240985)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>42041011303</_2020_census_tract>
+    </row>
+    

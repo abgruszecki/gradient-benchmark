@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ttnj-a9r3.gd4a" _uuid="00000000-0000-0000-8C78-9359D4EBF304" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ttnj-a9r3.gd4a">
+      <vin_1_10>KNDJX3AE8J</vin_1_10>
+      <county>Pierce</county>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip_code>98443</zip_code>
+      <model_year>2018</model_year>
+      <make>KIA</make>
+      <model>SOUL EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>111</electric_range>
+      <base_msrp>33950</base_msrp>
+      <legislative_district>25</legislative_district>
+      <dol_vehicle_id>256641290</dol_vehicle_id>
+      <geocoded_column>POINT (-122.364635 47.19449)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053940004</_2020_census_tract>
+    </row>
+    

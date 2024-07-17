@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-j8gq.vi73_ivd3" _uuid="00000000-0000-0000-75DA-521EC1230E25" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-j8gq.vi73_ivd3">
+      <vin_1_10>5UX43EU04R</vin_1_10>
+      <county>Thurston</county>
+      <city>Olympia</city>
+      <state>WA</state>
+      <zip_code>98516</zip_code>
+      <model_year>2024</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>39</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>261466061</dol_vehicle_id>
+      <geocoded_column>POINT (-122.7474291 47.0821119)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012221</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-snfa.uviq.2j5v" _uuid="00000000-0000-0000-B71F-49C6F671C616" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-snfa.uviq.2j5v">
+      <vin_1_10>1C4RJYB60N</vin_1_10>
+      <county>Grant</county>
+      <city>Soap Lake</city>
+      <state>WA</state>
+      <zip_code>98851</zip_code>
+      <model_year>2022</model_year>
+      <make>JEEP</make>
+      <model>GRAND CHEROKEE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>232925213</dol_vehicle_id>
+      <geocoded_column>POINT (-119.485115 47.38686)</geocoded_column>
+      <electric_utility>PUD NO 2 OF GRANT COUNTY</electric_utility>
+      <_2020_census_tract>53025010300</_2020_census_tract>
+    </row>
+    

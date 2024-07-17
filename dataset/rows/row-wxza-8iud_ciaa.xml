@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wxza-8iud_ciaa" _uuid="00000000-0000-0000-4892-F8AE80E8F8B5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wxza-8iud_ciaa">
+      <vin_1_10>5YJSA1CN9D</vin_1_10>
+      <county>Douglas</county>
+      <city>East Wenatchee</city>
+      <state>WA</state>
+      <zip_code>98802</zip_code>
+      <model_year>2013</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>69900</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>201128357</dol_vehicle_id>
+      <geocoded_column>POINT (-120.28674 47.4176)</geocoded_column>
+      <electric_utility>PUD NO 1 OF DOUGLAS COUNTY</electric_utility>
+      <_2020_census_tract>53017950300</_2020_census_tract>
+    </row>
+    

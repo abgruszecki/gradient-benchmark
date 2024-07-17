@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-h5ik.uuq2~ng3a" _uuid="00000000-0000-0000-1C6A-56BE61AE5B88" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-h5ik.uuq2~ng3a">
+      <vin_1_10>JTDKN3DP4C</vin_1_10>
+      <county>Skagit</county>
+      <city>Mount Vernon</city>
+      <state>WA</state>
+      <zip_code>98273</zip_code>
+      <model_year>2012</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>477492711</dol_vehicle_id>
+      <geocoded_column>POINT (-122.338975 48.41333)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53057952600</_2020_census_tract>
+    </row>
+    

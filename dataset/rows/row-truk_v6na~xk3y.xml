@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-truk_v6na~xk3y" _uuid="00000000-0000-0000-6481-7234A620FF88" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-truk_v6na~xk3y">
+      <vin_1_10>5YJ3E1EB1J</vin_1_10>
+      <county>Clark</county>
+      <city>Washougal</city>
+      <state>WA</state>
+      <zip_code>98671</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>18</legislative_district>
+      <dol_vehicle_id>110173871</dol_vehicle_id>
+      <geocoded_column>POINT (-122.35465 45.58359)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040510</_2020_census_tract>
+    </row>
+    

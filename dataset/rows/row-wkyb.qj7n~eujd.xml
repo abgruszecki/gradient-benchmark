@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wkyb.qj7n~eujd" _uuid="00000000-0000-0000-5847-A9F5F3338866" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wkyb.qj7n~eujd">
+      <vin_1_10>WBY7Z4C54J</vin_1_10>
+      <county>King</county>
+      <city>Des Moines</city>
+      <state>WA</state>
+      <zip_code>98198</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>97</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>33</legislative_district>
+      <dol_vehicle_id>161764900</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3219166 47.4013897)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033028700</_2020_census_tract>
+    </row>
+    

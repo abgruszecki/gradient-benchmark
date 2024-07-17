@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jn6i-fw3q_em4u" _uuid="00000000-0000-0000-74E3-8A7E4135B987" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jn6i-fw3q_em4u">
+      <vin_1_10>YV4ED3UL1P</vin_1_10>
+      <county>Pima</county>
+      <city>Tucson</city>
+      <state>AZ</state>
+      <zip_code>85718</zip_code>
+      <model_year>2023</model_year>
+      <make>VOLVO</make>
+      <model>XC40</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>228303218</dol_vehicle_id>
+      <geocoded_column>POINT (-110.8915191 32.3125691)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>04019004712</_2020_census_tract>
+    </row>
+    

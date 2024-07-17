@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-d54q_5mk6_fmgv" _uuid="00000000-0000-0000-47FB-577C1791EA63" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-d54q_5mk6_fmgv">
+      <vin_1_10>WMEEJ9AA2E</vin_1_10>
+      <county>Kitsap</county>
+      <city>Bremerton</city>
+      <state>WA</state>
+      <zip_code>98312</zip_code>
+      <model_year>2014</model_year>
+      <make>SMART</make>
+      <model>FORTWO ELECTRIC DRIVE</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>58</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>35</legislative_district>
+      <dol_vehicle_id>221819860</dol_vehicle_id>
+      <geocoded_column>POINT (-122.65223 47.57192)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035081000</_2020_census_tract>
+    </row>
+    

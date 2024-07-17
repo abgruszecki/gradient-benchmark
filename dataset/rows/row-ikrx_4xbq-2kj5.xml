@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ikrx_4xbq-2kj5" _uuid="00000000-0000-0000-916F-8477667034DB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ikrx_4xbq-2kj5">
+      <vin_1_10>3FA6P0SU0D</vin_1_10>
+      <county>Thurston</county>
+      <city>Rochester</city>
+      <state>WA</state>
+      <zip_code>98579</zip_code>
+      <model_year>2013</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>138697212</dol_vehicle_id>
+      <geocoded_column>POINT (-123.09575 46.82114)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012730</_2020_census_tract>
+    </row>
+    

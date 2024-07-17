@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wmm2-kb6q~qfyz" _uuid="00000000-0000-0000-9B10-6A1E7DC7F22D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wmm2-kb6q~qfyz">
+      <vin_1_10>5YJ3E1EB2P</vin_1_10>
+      <county>Douglas</county>
+      <city>Waterville</city>
+      <state>WA</state>
+      <zip_code>98858</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>260177256</dol_vehicle_id>
+      <geocoded_column>POINT (-120.071735 47.64645)</geocoded_column>
+      <electric_utility>PUD NO 1 OF DOUGLAS COUNTY</electric_utility>
+      <_2020_census_tract>53017950200</_2020_census_tract>
+    </row>
+    

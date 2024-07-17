@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6jch_wd6k_2wjt" _uuid="00000000-0000-0000-2A20-6785CCC37D59" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6jch_wd6k_2wjt">
+      <vin_1_10>5YJSA1E40H</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Elma</city>
+      <state>WA</state>
+      <zip_code>98541</zip_code>
+      <model_year>2017</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>210</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>138447389</dol_vehicle_id>
+      <geocoded_column>POINT (-123.410105 47.00679)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027000501</_2020_census_tract>
+    </row>
+    

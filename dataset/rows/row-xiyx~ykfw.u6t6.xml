@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-xiyx~ykfw.u6t6" _uuid="00000000-0000-0000-D62E-602137804E90" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-xiyx~ykfw.u6t6">
+      <vin_1_10>KM8KNDDF5R</vin_1_10>
+      <county>King</county>
+      <city>Burien</city>
+      <state>WA</state>
+      <zip_code>98166</zip_code>
+      <model_year>2024</model_year>
+      <make>HYUNDAI</make>
+      <model>IONIQ 5</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>34</legislative_district>
+      <dol_vehicle_id>262616063</dol_vehicle_id>
+      <geocoded_column>POINT (-122.341345 47.465925)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033027902</_2020_census_tract>
+    </row>
+    

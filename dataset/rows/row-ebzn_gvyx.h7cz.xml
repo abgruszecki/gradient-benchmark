@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ebzn_gvyx.h7cz" _uuid="00000000-0000-0000-7032-99ABD1EF6C2D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ebzn_gvyx.h7cz">
+      <vin_1_10>3FA6P0SUXK</vin_1_10>
+      <county>Pend Oreille</county>
+      <city>Cusick</city>
+      <state>WA</state>
+      <zip_code>99119</zip_code>
+      <model_year>2019</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>3590968</dol_vehicle_id>
+      <geocoded_column>POINT (-117.3446295 48.5624298)</geocoded_column>
+      <electric_utility>PUD NO 1 OF PEND OREILLE COUNTY</electric_utility>
+      <_2020_census_tract>53051970200</_2020_census_tract>
+    </row>
+    

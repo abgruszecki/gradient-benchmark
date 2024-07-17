@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-79qc-9j98~hp2c" _uuid="00000000-0000-0000-1A81-21A04A8C155E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-79qc-9j98~hp2c">
+      <vin_1_10>KM8K53AG0M</vin_1_10>
+      <county>Essex</county>
+      <city>Bloomfield</city>
+      <state>NJ</state>
+      <zip_code>07003</zip_code>
+      <model_year>2021</model_year>
+      <make>HYUNDAI</make>
+      <model>KONA ELECTRIC</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>166425017</dol_vehicle_id>
+      <geocoded_column>POINT (-74.19575 40.792705)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>34013015300</_2020_census_tract>
+    </row>
+    

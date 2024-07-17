@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ei3u.f5b7_caiu" _uuid="00000000-0000-0000-9B98-A6A46958A8BA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ei3u.f5b7_caiu">
+      <vin_1_10>3FA6P0SU0K</vin_1_10>
+      <county>Pierce</county>
+      <city>Graham</city>
+      <state>WA</state>
+      <zip_code>98338</zip_code>
+      <model_year>2019</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>285935926</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2953401 47.0763961)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||OHOP MUTUAL LIGHT COMPANY, INC|PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053073117</_2020_census_tract>
+    </row>
+    

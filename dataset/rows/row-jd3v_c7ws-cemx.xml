@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jd3v_c7ws-cemx" _uuid="00000000-0000-0000-D311-9B01EF6B394D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jd3v_c7ws-cemx">
+      <vin_1_10>WB523CF06P</vin_1_10>
+      <county>Arapahoe</county>
+      <city>Englewood</city>
+      <state>CO</state>
+      <zip_code>80111</zip_code>
+      <model_year>2023</model_year>
+      <make>BMW</make>
+      <model>IX</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>230381308</dol_vehicle_id>
+      <geocoded_column>POINT (-104.8750737 39.6055754)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>08005006861</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-u24d-m7vr_t2bm" _uuid="00000000-0000-0000-EAAB-12742A5F15D6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-u24d-m7vr_t2bm">
+      <vin_1_10>1G1RD6E48C</vin_1_10>
+      <county>Kittitas</county>
+      <city>Ronald</city>
+      <state>WA</state>
+      <zip_code>98940</zip_code>
+      <model_year>2012</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>35</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>190224380</dol_vehicle_id>
+      <geocoded_column>POINT (-121.0551802 47.2555714)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53037975101</_2020_census_tract>
+    </row>
+    

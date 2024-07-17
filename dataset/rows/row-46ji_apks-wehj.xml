@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-46ji_apks-wehj" _uuid="00000000-0000-0000-44AF-B9678BDFEFC2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-46ji_apks-wehj">
+      <vin_1_10>JTDKARFP0J</vin_1_10>
+      <county>Chelan</county>
+      <city>Peshastin</city>
+      <state>WA</state>
+      <zip_code>98847</zip_code>
+      <model_year>2018</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>474231719</dol_vehicle_id>
+      <geocoded_column>POINT (-120.60008 47.568765)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007960502</_2020_census_tract>
+    </row>
+    

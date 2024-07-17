@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ggwi.agaz~u5i8" _uuid="00000000-0000-0000-4853-57534D9A4DA3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ggwi.agaz~u5i8">
+      <vin_1_10>WBY1Z8C55H</vin_1_10>
+      <county>Stevens</county>
+      <city>Nine Mile Falls</city>
+      <state>WA</state>
+      <zip_code>99026</zip_code>
+      <model_year>2017</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>97</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>180262512</dol_vehicle_id>
+      <geocoded_column>POINT (-117.5967686 47.8204962)</geocoded_column>
+      <electric_utility>NO KNOWN ELECTRIC UTILITY SERVICE</electric_utility>
+      <_2020_census_tract>53065951402</_2020_census_tract>
+    </row>
+    

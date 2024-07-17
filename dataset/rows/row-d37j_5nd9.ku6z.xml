@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-d37j_5nd9.ku6z" _uuid="00000000-0000-0000-7CB7-7F41E8C6C5E3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-d37j_5nd9.ku6z">
+      <vin_1_10>1C4RJYB63N</vin_1_10>
+      <county>Thurston</county>
+      <city>Olympia</city>
+      <state>WA</state>
+      <zip_code>98506</zip_code>
+      <model_year>2022</model_year>
+      <make>JEEP</make>
+      <model>GRAND CHEROKEE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>232909085</dol_vehicle_id>
+      <geocoded_column>POINT (-122.8874781 47.0519573)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012223</_2020_census_tract>
+    </row>
+    

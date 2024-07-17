@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jxcz~9c5t-5dsa" _uuid="00000000-0000-0000-E882-DE6E8E7EBF07" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jxcz~9c5t-5dsa">
+      <vin_1_10>5YJSA1DP6C</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99224</zip_code>
+      <model_year>2012</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>265</electric_range>
+      <base_msrp>59900</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>112795084</dol_vehicle_id>
+      <geocoded_column>POINT (-117.460225 47.64927)</geocoded_column>
+      <electric_utility>MODERN ELECTRIC WATER COMPANY</electric_utility>
+      <_2020_census_tract>53063003800</_2020_census_tract>
+    </row>
+    

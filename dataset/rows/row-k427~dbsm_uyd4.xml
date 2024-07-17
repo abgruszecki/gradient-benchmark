@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-k427~dbsm_uyd4" _uuid="00000000-0000-0000-3A02-2406B6170845" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-k427~dbsm_uyd4">
+      <vin_1_10>3FMTK3SU9M</vin_1_10>
+      <county>Pierce</county>
+      <city>Fife</city>
+      <state>WA</state>
+      <zip_code>98424</zip_code>
+      <model_year>2021</model_year>
+      <make>FORD</make>
+      <model>MUSTANG MACH-E</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>25</legislative_district>
+      <dol_vehicle_id>196585539</dol_vehicle_id>
+      <geocoded_column>POINT (-122.36151 47.241885)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053940010</_2020_census_tract>
+    </row>
+    

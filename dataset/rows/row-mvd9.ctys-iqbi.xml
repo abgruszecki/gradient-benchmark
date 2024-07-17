@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mvd9.ctys-iqbi" _uuid="00000000-0000-0000-4F06-F3A2ED592FD3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mvd9.ctys-iqbi">
+      <vin_1_10>WA1H2BFZ0N</vin_1_10>
+      <county>King</county>
+      <city>Auburn</city>
+      <state>WA</state>
+      <zip_code>98092</zip_code>
+      <model_year>2022</model_year>
+      <make>AUDI</make>
+      <model>Q4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>230210011</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1820969 47.3198995)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031000</_2020_census_tract>
+    </row>
+    

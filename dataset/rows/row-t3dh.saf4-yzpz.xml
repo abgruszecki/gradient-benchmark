@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-t3dh.saf4-yzpz" _uuid="00000000-0000-0000-EBEC-08A8823A21AB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-t3dh.saf4-yzpz">
+      <vin_1_10>5YJ3E1EB5K</vin_1_10>
+      <county>Pierce</county>
+      <city>Graham</city>
+      <state>WA</state>
+      <zip_code>98338</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>476078235</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2953401 47.0763961)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053073124</_2020_census_tract>
+    </row>
+    

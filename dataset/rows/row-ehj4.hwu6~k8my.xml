@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ehj4.hwu6~k8my" _uuid="00000000-0000-0000-E1FE-626B28E97D02" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ehj4.hwu6~k8my">
+      <vin_1_10>5YJ3E1EB2K</vin_1_10>
+      <county>King</county>
+      <city>Snoqualmie</city>
+      <state>WA</state>
+      <zip_code>98065</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>476904298</dol_vehicle_id>
+      <geocoded_column>POINT (-121.8740496 47.5345546)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032605</_2020_census_tract>
+    </row>
+    

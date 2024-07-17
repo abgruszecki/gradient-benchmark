@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-j23d.pzeg-ju2p" _uuid="00000000-0000-0000-E9BF-B7EBF2C3FF42" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-j23d.pzeg-ju2p">
+      <vin_1_10>3FA6P0SU9H</vin_1_10>
+      <county>Bexar</county>
+      <city>San Antonio</city>
+      <state>TX</state>
+      <zip_code>78251</zip_code>
+      <model_year>2017</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>186056034</dol_vehicle_id>
+      <geocoded_column>POINT (-98.6491367 29.4670473)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>48029171918</_2020_census_tract>
+    </row>
+    

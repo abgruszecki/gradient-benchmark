@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-54kn-e358.fghy" _uuid="00000000-0000-0000-CC79-762359B03D17" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-54kn-e358.fghy">
+      <vin_1_10>WP0AB2Y11L</vin_1_10>
+      <county>King</county>
+      <city>Carnation</city>
+      <state>WA</state>
+      <zip_code>98014</zip_code>
+      <model_year>2020</model_year>
+      <make>PORSCHE</make>
+      <model>TAYCAN</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>203</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>107704831</dol_vehicle_id>
+      <geocoded_column>POINT (-121.9105947 47.6483005)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032500</_2020_census_tract>
+    </row>
+    

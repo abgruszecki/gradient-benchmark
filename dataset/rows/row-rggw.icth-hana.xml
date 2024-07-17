@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rggw.icth-hana" _uuid="00000000-0000-0000-7FB0-27965798C615" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rggw.icth-hana">
+      <vin_1_10>KNDCE3LGXK</vin_1_10>
+      <county>Chelan</county>
+      <city>Wenatchee</city>
+      <state>WA</state>
+      <zip_code>98801</zip_code>
+      <model_year>2019</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>239</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>116811131</dol_vehicle_id>
+      <geocoded_column>POINT (-120.32009 47.42255)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007961002</_2020_census_tract>
+    </row>
+    

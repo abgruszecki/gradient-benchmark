@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7c7r_abd5-7img" _uuid="00000000-0000-0000-2BC6-72277C8C4B20" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7c7r_abd5-7img">
+      <vin_1_10>YV4H60CX3P</vin_1_10>
+      <county>Snohomish</county>
+      <city>Edmonds</city>
+      <state>WA</state>
+      <zip_code>98026</zip_code>
+      <model_year>2023</model_year>
+      <make>VOLVO</make>
+      <model>XC90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>21</legislative_district>
+      <dol_vehicle_id>251281614</dol_vehicle_id>
+      <geocoded_column>POINT (-122.335685 47.80372)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061050101</_2020_census_tract>
+    </row>
+    

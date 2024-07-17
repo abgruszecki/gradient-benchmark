@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zqbm~qnbv_cuep" _uuid="00000000-0000-0000-78CF-8346CC3104C9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zqbm~qnbv_cuep">
+      <vin_1_10>KNDJX3AE0G</vin_1_10>
+      <county>Skagit</county>
+      <city>Mount Vernon</city>
+      <state>WA</state>
+      <zip_code>98274</zip_code>
+      <model_year>2016</model_year>
+      <make>KIA</make>
+      <model>SOUL</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>31950</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>102800862</dol_vehicle_id>
+      <geocoded_column>POINT (-122.322955 48.4152)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53057951200</_2020_census_tract>
+    </row>
+    

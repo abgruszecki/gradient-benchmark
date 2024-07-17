@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6g7g-5a6t_idmh" _uuid="00000000-0000-0000-2DEB-F783F1E8D55C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6g7g-5a6t_idmh">
+      <vin_1_10>WMZYU7C58K</vin_1_10>
+      <county>King</county>
+      <city>Mercer Island</city>
+      <state>WA</state>
+      <zip_code>98040</zip_code>
+      <model_year>2019</model_year>
+      <make>MINI</make>
+      <model>COUNTRYMAN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>12</electric_range>
+      <base_msrp>36900</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>476202275</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2377542 47.582905)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033024301</_2020_census_tract>
+    </row>
+    

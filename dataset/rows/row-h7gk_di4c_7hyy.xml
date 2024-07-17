@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-h7gk_di4c_7hyy" _uuid="00000000-0000-0000-00EC-B48C287F1968" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-h7gk_di4c_7hyy">
+      <vin_1_10>7PDSGABA9P</vin_1_10>
+      <county>King</county>
+      <city>Shoreline</city>
+      <state>WA</state>
+      <zip_code>98177</zip_code>
+      <model_year>2023</model_year>
+      <make>RIVIAN</make>
+      <model>R1S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>241420238</dol_vehicle_id>
+      <geocoded_column>POINT (-122.382425 47.77279)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033020200</_2020_census_tract>
+    </row>
+    

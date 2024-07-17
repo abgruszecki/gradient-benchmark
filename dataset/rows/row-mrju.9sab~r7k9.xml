@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mrju.9sab~r7k9" _uuid="00000000-0000-0000-2036-C5687399370B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mrju.9sab~r7k9">
+      <vin_1_10>2C4RC1N72K</vin_1_10>
+      <county>Loudoun</county>
+      <city>Chantilly</city>
+      <state>VA</state>
+      <zip_code>20152</zip_code>
+      <model_year>2019</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>39995</base_msrp>
+      <dol_vehicle_id>228891379</dol_vehicle_id>
+      <geocoded_column>POINT (-77.497965 38.89622)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>51107611804</_2020_census_tract>
+    </row>
+    

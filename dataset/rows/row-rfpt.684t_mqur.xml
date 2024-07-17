@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rfpt.684t_mqur" _uuid="00000000-0000-0000-1710-24694029F9F2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rfpt.684t_mqur">
+      <vin_1_10>WA1LABGE3P</vin_1_10>
+      <county>Benton</county>
+      <city>Richland</city>
+      <state>WA</state>
+      <zip_code>99354</zip_code>
+      <model_year>2023</model_year>
+      <make>AUDI</make>
+      <model>E-TRON</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>8</legislative_district>
+      <dol_vehicle_id>228853551</dol_vehicle_id>
+      <geocoded_column>POINT (-119.28753 46.29747)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF RICHLAND - (WA)</electric_utility>
+      <_2020_census_tract>53005010201</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jwp6-kcrp-pnqw" _uuid="00000000-0000-0000-7A92-361AF25CD11B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jwp6-kcrp-pnqw">
+      <vin_1_10>5YJ3E1EA4L</vin_1_10>
+      <county>Pierce</county>
+      <city>Milton</city>
+      <state>WA</state>
+      <zip_code>98354</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>266</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>30</legislative_district>
+      <dol_vehicle_id>250978563</dol_vehicle_id>
+      <geocoded_column>POINT (-122.31774 47.246525)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF MILTON - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053070703</_2020_census_tract>
+    </row>
+    

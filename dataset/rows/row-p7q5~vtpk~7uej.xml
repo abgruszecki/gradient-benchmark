@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-p7q5~vtpk~7uej" _uuid="00000000-0000-0000-F029-03DF1DC4425C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-p7q5~vtpk~7uej">
+      <vin_1_10>5YJYGDEE7M</vin_1_10>
+      <county>Benton</county>
+      <city>Kennewick</city>
+      <state>WA</state>
+      <zip_code>99336</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>8</legislative_district>
+      <dol_vehicle_id>169393640</dol_vehicle_id>
+      <geocoded_column>POINT (-119.113535 46.204945)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF BENTON COUNTY</electric_utility>
+      <_2020_census_tract>53005011201</_2020_census_tract>
+    </row>
+    

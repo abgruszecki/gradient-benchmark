@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-tsvg-ypnw-uepe" _uuid="00000000-0000-0000-B85C-C4B22FA78207" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-tsvg-ypnw-uepe">
+      <vin_1_10>2T3YL4DV8E</vin_1_10>
+      <county>King</county>
+      <city>North Bend</city>
+      <state>WA</state>
+      <zip_code>98045</zip_code>
+      <model_year>2014</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>103</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>348543268</dol_vehicle_id>
+      <geocoded_column>POINT (-121.7814012 47.4935316)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032706</_2020_census_tract>
+    </row>
+    

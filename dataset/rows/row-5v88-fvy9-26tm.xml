@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5v88-fvy9-26tm" _uuid="00000000-0000-0000-DE01-8556C01F082C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5v88-fvy9-26tm">
+      <vin_1_10>LPSED3KA0M</vin_1_10>
+      <county>King</county>
+      <city>Des Moines</city>
+      <state>WA</state>
+      <zip_code>98198</zip_code>
+      <model_year>2021</model_year>
+      <make>POLESTAR</make>
+      <model>PS2</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>233</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>33</legislative_district>
+      <dol_vehicle_id>255406763</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3219166 47.4013897)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033028700</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-nq26-bkdg.s8tp" _uuid="00000000-0000-0000-769C-CD814236B342" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-nq26-bkdg.s8tp">
+      <vin_1_10>2C4RC1N74H</vin_1_10>
+      <county>Benton</county>
+      <city>Kennewick</city>
+      <state>WA</state>
+      <zip_code>99337</zip_code>
+      <model_year>2017</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>33</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>8</legislative_district>
+      <dol_vehicle_id>284091307</dol_vehicle_id>
+      <geocoded_column>POINT (-119.14533 46.187395)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF BENTON COUNTY</electric_utility>
+      <_2020_census_tract>53005011402</_2020_census_tract>
+    </row>
+    

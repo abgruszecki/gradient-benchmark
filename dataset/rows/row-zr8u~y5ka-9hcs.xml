@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zr8u~y5ka-9hcs" _uuid="00000000-0000-0000-1014-4316850E7FB6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zr8u~y5ka-9hcs">
+      <vin_1_10>7JRH60FL5R</vin_1_10>
+      <county>Snohomish</county>
+      <city>Mountlake Terrace</city>
+      <state>WA</state>
+      <zip_code>98043</zip_code>
+      <model_year>2024</model_year>
+      <make>VOLVO</make>
+      <model>S60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>41</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>262591647</dol_vehicle_id>
+      <geocoded_column>POINT (-122.30842 47.78416)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051000</_2020_census_tract>
+    </row>
+    

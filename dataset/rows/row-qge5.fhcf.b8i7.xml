@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-qge5.fhcf.b8i7" _uuid="00000000-0000-0000-8788-5BFC8C70B260" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-qge5.fhcf.b8i7">
+      <vin_1_10>JHMZC5F3XL</vin_1_10>
+      <county>Mason</county>
+      <city>Shelton</city>
+      <state>WA</state>
+      <zip_code>98584</zip_code>
+      <model_year>2020</model_year>
+      <make>HONDA</make>
+      <model>CLARITY</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>47</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>35</legislative_district>
+      <dol_vehicle_id>108781137</dol_vehicle_id>
+      <geocoded_column>POINT (-123.105305 47.211085)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 3 OF MASON COUNTY</electric_utility>
+      <_2020_census_tract>53045961101</_2020_census_tract>
+    </row>
+    

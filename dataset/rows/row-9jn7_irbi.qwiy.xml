@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-9jn7_irbi.qwiy" _uuid="00000000-0000-0000-039D-C1C0D91C7CBD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-9jn7_irbi.qwiy">
+      <vin_1_10>JTDKN3DP3D</vin_1_10>
+      <county>King</county>
+      <city>Bellevue</city>
+      <state>WA</state>
+      <zip_code>98007</zip_code>
+      <model_year>2013</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>48</legislative_district>
+      <dol_vehicle_id>245352432</dol_vehicle_id>
+      <geocoded_column>POINT (-122.147385 47.599975)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033023300</_2020_census_tract>
+    </row>
+    

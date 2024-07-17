@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-47fj.i476.eifm" _uuid="00000000-0000-0000-C6C9-3EC62C22896B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-47fj.i476.eifm">
+      <vin_1_10>1G1FW6S06H</vin_1_10>
+      <county>Lewis</county>
+      <city>Onalaska</city>
+      <state>WA</state>
+      <zip_code>98570</zip_code>
+      <model_year>2017</model_year>
+      <make>CHEVROLET</make>
+      <model>BOLT EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>102511839</dol_vehicle_id>
+      <geocoded_column>POINT (-122.71921 46.577)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF LEWIS COUNTY</electric_utility>
+      <_2020_census_tract>53041971800</_2020_census_tract>
+    </row>
+    

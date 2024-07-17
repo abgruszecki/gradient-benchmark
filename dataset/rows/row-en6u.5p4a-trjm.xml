@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-en6u.5p4a-trjm" _uuid="00000000-0000-0000-78AA-04D276DF3124" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-en6u.5p4a-trjm">
+      <vin_1_10>5YJXCAE2XG</vin_1_10>
+      <county>Whatcom</county>
+      <city>Blaine</city>
+      <state>WA</state>
+      <zip_code>98230</zip_code>
+      <model_year>2016</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>200</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>183588177</dol_vehicle_id>
+      <geocoded_column>POINT (-122.74499 48.99505)</geocoded_column>
+      <electric_utility>CITY OF BLAINE - (WA)||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073010405</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-i2wb_h223.5wwi" _uuid="00000000-0000-0000-355B-09934FB7659C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-i2wb_h223.5wwi">
+      <vin_1_10>1N4BZ1CP2K</vin_1_10>
+      <county>Pierce</county>
+      <city>Graham</city>
+      <state>WA</state>
+      <zip_code>98338</zip_code>
+      <model_year>2019</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>150</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>100612739</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2953401 47.0763961)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053073124</_2020_census_tract>
+    </row>
+    

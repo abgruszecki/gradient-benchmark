@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-t2m6~dupu-y36z" _uuid="00000000-0000-0000-8D85-2ECD0CFBB7EB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-t2m6~dupu-y36z">
+      <vin_1_10>KNDRJDLH4N</vin_1_10>
+      <county>Skagit</county>
+      <city>Mount Vernon</city>
+      <state>WA</state>
+      <zip_code>98273</zip_code>
+      <model_year>2022</model_year>
+      <make>KIA</make>
+      <model>SORENTO</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>193593851</dol_vehicle_id>
+      <geocoded_column>POINT (-122.338975 48.41333)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53057951900</_2020_census_tract>
+    </row>
+    

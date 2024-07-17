@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-g9y8~i7fg~zekw" _uuid="00000000-0000-0000-3160-0E63DD08E25A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-g9y8~i7fg~zekw">
+      <vin_1_10>JTMABACA6P</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98146</zip_code>
+      <model_year>2023</model_year>
+      <make>TOYOTA</make>
+      <model>BZ4X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>34</legislative_district>
+      <dol_vehicle_id>257195557</dol_vehicle_id>
+      <geocoded_column>POINT (-122.355145 47.505655)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033026600</_2020_census_tract>
+    </row>
+    

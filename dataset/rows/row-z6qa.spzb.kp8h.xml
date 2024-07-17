@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-z6qa.spzb.kp8h" _uuid="00000000-0000-0000-2158-7745D53D8F29" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-z6qa.spzb.kp8h">
+      <vin_1_10>JA4T5VA96P</vin_1_10>
+      <county>Spokane</county>
+      <city>Chattaroy</city>
+      <state>WA</state>
+      <zip_code>99003</zip_code>
+      <model_year>2023</model_year>
+      <make>MITSUBISHI</make>
+      <model>OUTLANDER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>257526482</dol_vehicle_id>
+      <geocoded_column>POINT (-117.35764 47.892595)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063010304</_2020_census_tract>
+    </row>
+    

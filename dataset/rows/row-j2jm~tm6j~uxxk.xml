@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-j2jm~tm6j~uxxk" _uuid="00000000-0000-0000-4B41-5B6557F26583" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-j2jm~tm6j~uxxk">
+      <vin_1_10>3FMTK3R76M</vin_1_10>
+      <county>Santa Clara</county>
+      <city>Palo Alto</city>
+      <state>CA</state>
+      <zip_code>94303</zip_code>
+      <model_year>2021</model_year>
+      <make>FORD</make>
+      <model>MUSTANG MACH-E</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>142133393</dol_vehicle_id>
+      <geocoded_column>POINT (-122.10567 37.424955)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06085510801</_2020_census_tract>
+    </row>
+    

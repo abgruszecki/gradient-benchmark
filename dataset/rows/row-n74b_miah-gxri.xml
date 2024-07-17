@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-n74b_miah-gxri" _uuid="00000000-0000-0000-7743-B452D4508FBB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-n74b_miah-gxri">
+      <vin_1_10>JM3KKBHAXR</vin_1_10>
+      <county>King</county>
+      <city>Milton</city>
+      <state>WA</state>
+      <zip_code>98354</zip_code>
+      <model_year>2024</model_year>
+      <make>MAZDA</make>
+      <model>CX-90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>30</legislative_district>
+      <dol_vehicle_id>252558967</dol_vehicle_id>
+      <geocoded_column>POINT (-122.31774 47.246525)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033030403</_2020_census_tract>
+    </row>
+    

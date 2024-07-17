@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ujh9.c4s3_bujj" _uuid="00000000-0000-0000-FE5E-347974559F80" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ujh9.c4s3_bujj">
+      <vin_1_10>JTDKN3DP3C</vin_1_10>
+      <county>Walla Walla</county>
+      <city>Walla Walla</city>
+      <state>WA</state>
+      <zip_code>99362</zip_code>
+      <model_year>2012</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>216195339</dol_vehicle_id>
+      <geocoded_column>POINT (-118.34332 46.063985)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53071920200</_2020_census_tract>
+    </row>
+    

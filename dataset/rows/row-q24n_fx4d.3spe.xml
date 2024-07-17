@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-q24n_fx4d.3spe" _uuid="00000000-0000-0000-3985-2832D5E2FCAA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-q24n_fx4d.3spe">
+      <vin_1_10>JTMFB3FV3N</vin_1_10>
+      <county>Fairfax</county>
+      <city>Vienna</city>
+      <state>VA</state>
+      <zip_code>22180</zip_code>
+      <model_year>2022</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>217116756</dol_vehicle_id>
+      <geocoded_column>POINT (-77.2638 38.902685)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>51059461000</_2020_census_tract>
+    </row>
+    

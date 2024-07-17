@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wdsq~nyu9~g56f" _uuid="00000000-0000-0000-D12D-534AF7F32662" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wdsq~nyu9~g56f">
+      <vin_1_10>JHMZC5F18L</vin_1_10>
+      <county>Spokane</county>
+      <city>Spangle</city>
+      <state>WA</state>
+      <zip_code>99031</zip_code>
+      <model_year>2020</model_year>
+      <make>HONDA</make>
+      <model>CLARITY</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>47</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>170457997</dol_vehicle_id>
+      <geocoded_column>POINT (-117.37657 47.42784)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063014300</_2020_census_tract>
+    </row>
+    

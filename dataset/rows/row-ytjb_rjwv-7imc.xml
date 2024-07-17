@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ytjb_rjwv-7imc" _uuid="00000000-0000-0000-5034-FCBD7B2288A8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ytjb_rjwv-7imc">
+      <vin_1_10>KNDJX3AE0H</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98109</zip_code>
+      <model_year>2017</model_year>
+      <make>KIA</make>
+      <model>SOUL EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>32250</base_msrp>
+      <legislative_district>36</legislative_district>
+      <dol_vehicle_id>151751029</dol_vehicle_id>
+      <geocoded_column>POINT (-122.34848 47.632405)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033007203</_2020_census_tract>
+    </row>
+    

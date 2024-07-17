@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kxk5-e4hx-krrq" _uuid="00000000-0000-0000-DB39-0845FFE21C66" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kxk5-e4hx-krrq">
+      <vin_1_10>5YJYGDEE9M</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lake Stevens</city>
+      <state>WA</state>
+      <zip_code>98258</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>133513614</dol_vehicle_id>
+      <geocoded_column>POINT (-122.112265 48.0047)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052604</_2020_census_tract>
+    </row>
+    

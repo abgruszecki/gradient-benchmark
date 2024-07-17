@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-imy7~ym2a-a2yh" _uuid="00000000-0000-0000-A88D-61B73E9A144D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-imy7~ym2a-a2yh">
+      <vin_1_10>1FT6W1EV5N</vin_1_10>
+      <county>Adams</county>
+      <city>Ritzville</city>
+      <state>WA</state>
+      <zip_code>99169</zip_code>
+      <model_year>2022</model_year>
+      <make>FORD</make>
+      <model>F-150</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>227286657</dol_vehicle_id>
+      <geocoded_column>POINT (-118.376715 47.12569)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||BIG BEND ELECTRIC COOP, INC</electric_utility>
+      <_2020_census_tract>53001950100</_2020_census_tract>
+    </row>
+    

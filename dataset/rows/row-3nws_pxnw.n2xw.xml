@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3nws_pxnw.n2xw" _uuid="00000000-0000-0000-874F-EABEB1867701" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3nws_pxnw.n2xw">
+      <vin_1_10>WA1AAAGE4M</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99218</zip_code>
+      <model_year>2021</model_year>
+      <make>AUDI</make>
+      <model>E-TRON</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>222</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>175336213</dol_vehicle_id>
+      <geocoded_column>POINT (-117.411805 47.745795)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063010506</_2020_census_tract>
+    </row>
+    

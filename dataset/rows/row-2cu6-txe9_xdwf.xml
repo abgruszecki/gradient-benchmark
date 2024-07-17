@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2cu6-txe9_xdwf" _uuid="00000000-0000-0000-8CFC-9263E6475704" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2cu6-txe9_xdwf">
+      <vin_1_10>KNDRMDLH0R</vin_1_10>
+      <county>Chelan</county>
+      <city>Wenatchee</city>
+      <state>WA</state>
+      <zip_code>98801</zip_code>
+      <model_year>2024</model_year>
+      <make>KIA</make>
+      <model>SORENTO</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>261263537</dol_vehicle_id>
+      <geocoded_column>POINT (-120.32009 47.42255)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007961304</_2020_census_tract>
+    </row>
+    

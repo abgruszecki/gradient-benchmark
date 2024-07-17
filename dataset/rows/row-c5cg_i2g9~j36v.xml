@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-c5cg_i2g9~j36v" _uuid="00000000-0000-0000-8F08-612F17E8DEE5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-c5cg_i2g9~j36v">
+      <vin_1_10>WAUEJBFW4P</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98125</zip_code>
+      <model_year>2023</model_year>
+      <make>AUDI</make>
+      <model>E-TRON GT</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>46</legislative_district>
+      <dol_vehicle_id>262380121</dol_vehicle_id>
+      <geocoded_column>POINT (-122.296385 47.71558)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033000700</_2020_census_tract>
+    </row>
+    

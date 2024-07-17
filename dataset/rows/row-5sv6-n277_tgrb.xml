@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5sv6-n277_tgrb" _uuid="00000000-0000-0000-7642-4AE7F15A4975" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5sv6-n277_tgrb">
+      <vin_1_10>KNDC3DLC2N</vin_1_10>
+      <county>King</county>
+      <city>Mercer Island</city>
+      <state>WA</state>
+      <zip_code>98040</zip_code>
+      <model_year>2022</model_year>
+      <make>KIA</make>
+      <model>EV6</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>214934520</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2377542 47.582905)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033024301</_2020_census_tract>
+    </row>
+    

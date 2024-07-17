@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-973v-cthp-wu5y" _uuid="00000000-0000-0000-2CB6-00817DFA5FE6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-973v-cthp-wu5y">
+      <vin_1_10>KM8KRDAF1P</vin_1_10>
+      <county>King</county>
+      <city>Woodinville</city>
+      <state>WA</state>
+      <zip_code>98072</zip_code>
+      <model_year>2023</model_year>
+      <make>HYUNDAI</make>
+      <model>IONIQ 5</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>45</legislative_district>
+      <dol_vehicle_id>253336450</dol_vehicle_id>
+      <geocoded_column>POINT (-122.151665 47.75855)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032327</_2020_census_tract>
+    </row>
+    

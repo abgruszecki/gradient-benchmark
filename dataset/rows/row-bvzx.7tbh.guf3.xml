@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-bvzx.7tbh.guf3" _uuid="00000000-0000-0000-C1BB-34C5A4C7E10D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-bvzx.7tbh.guf3">
+      <vin_1_10>KNDC3DLC2P</vin_1_10>
+      <county>Thurston</county>
+      <city>Lacey</city>
+      <state>WA</state>
+      <zip_code>98503</zip_code>
+      <model_year>2023</model_year>
+      <make>KIA</make>
+      <model>EV6</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>228657229</dol_vehicle_id>
+      <geocoded_column>POINT (-122.8285 47.03646)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067011422</_2020_census_tract>
+    </row>
+    

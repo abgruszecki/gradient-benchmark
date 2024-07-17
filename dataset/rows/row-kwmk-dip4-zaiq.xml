@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kwmk-dip4-zaiq" _uuid="00000000-0000-0000-8727-C5F8530C7C58" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kwmk-dip4-zaiq">
+      <vin_1_10>LYVBR0DM6K</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lake Stevens</city>
+      <state>WA</state>
+      <zip_code>98258</zip_code>
+      <model_year>2019</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>17</electric_range>
+      <base_msrp>52900</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>110530647</dol_vehicle_id>
+      <geocoded_column>POINT (-122.112265 48.0047)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052603</_2020_census_tract>
+    </row>
+    

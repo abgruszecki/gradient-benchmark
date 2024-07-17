@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-nxjn-v8ij.u9h7" _uuid="00000000-0000-0000-5CFD-3D7CAC1B4720" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-nxjn-v8ij.u9h7">
+      <vin_1_10>WVWPR7AUXK</vin_1_10>
+      <county>Ventura</county>
+      <city>Moorpark</city>
+      <state>CA</state>
+      <zip_code>93021</zip_code>
+      <model_year>2019</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>E-GOLF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>125</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>259831708</dol_vehicle_id>
+      <geocoded_column>POINT (-118.8789021 34.2828921)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06111007614</_2020_census_tract>
+    </row>
+    

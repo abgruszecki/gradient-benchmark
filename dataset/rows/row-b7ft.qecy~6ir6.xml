@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-b7ft.qecy~6ir6" _uuid="00000000-0000-0000-A6C7-909B394080CC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-b7ft.qecy~6ir6">
+      <vin_1_10>1N4AZ0CP4F</vin_1_10>
+      <county>King</county>
+      <city>Vashon</city>
+      <state>WA</state>
+      <zip_code>98070</zip_code>
+      <model_year>2015</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>84</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>34</legislative_district>
+      <dol_vehicle_id>167107832</dol_vehicle_id>
+      <geocoded_column>POINT (-122.46049 47.44873)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033027701</_2020_census_tract>
+    </row>
+    

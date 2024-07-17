@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-u7eg-yzvw.23jb" _uuid="00000000-0000-0000-3D9A-8C40DD87ECD5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-u7eg-yzvw.23jb">
+      <vin_1_10>JTMABABA8P</vin_1_10>
+      <county>Island</county>
+      <city>Greenbank</city>
+      <state>WA</state>
+      <zip_code>98253</zip_code>
+      <model_year>2023</model_year>
+      <make>SUBARU</make>
+      <model>SOLTERRA</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>226153035</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6071588 48.0754917)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53029971301</_2020_census_tract>
+    </row>
+    

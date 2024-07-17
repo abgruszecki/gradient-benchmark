@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zxu3-pt7k_kdem" _uuid="00000000-0000-0000-CF1E-876AB406F31E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zxu3-pt7k_kdem">
+      <vin_1_10>WBY8P2C09L</vin_1_10>
+      <county>Jefferson</county>
+      <city>Port Ludlow</city>
+      <state>WA</state>
+      <zip_code>98365</zip_code>
+      <model_year>2020</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>153</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>135087382</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6872285 47.9281524)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUGET SOUND ENERGY INC||PUD NO 1 OF JEFFERSON COUNTY</electric_utility>
+      <_2020_census_tract>53031950302</_2020_census_tract>
+    </row>
+    

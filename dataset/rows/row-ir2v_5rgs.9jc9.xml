@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ir2v_5rgs.9jc9" _uuid="00000000-0000-0000-E7A0-F66DFDD1A533" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ir2v_5rgs.9jc9">
+      <vin_1_10>JF2GTDNC6K</vin_1_10>
+      <county>Kitsap</county>
+      <city>Port Orchard</city>
+      <state>WA</state>
+      <zip_code>98366</zip_code>
+      <model_year>2019</model_year>
+      <make>SUBARU</make>
+      <model>CROSSTREK</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>17</electric_range>
+      <base_msrp>34995</base_msrp>
+      <legislative_district>26</legislative_district>
+      <dol_vehicle_id>228670011</dol_vehicle_id>
+      <geocoded_column>POINT (-122.639265 47.5373)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035092600</_2020_census_tract>
+    </row>
+    

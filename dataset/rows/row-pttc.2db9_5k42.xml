@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pttc.2db9_5k42" _uuid="00000000-0000-0000-1B4F-A425E6F2050D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pttc.2db9_5k42">
+      <vin_1_10>KL8CL6S03F</vin_1_10>
+      <county>Whitman</county>
+      <city>Colfax</city>
+      <state>WA</state>
+      <zip_code>99111</zip_code>
+      <model_year>2015</model_year>
+      <make>CHEVROLET</make>
+      <model>SPARK</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>82</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>235249416</dol_vehicle_id>
+      <geocoded_column>POINT (-117.3631029 46.8783751)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53075000800</_2020_census_tract>
+    </row>
+    

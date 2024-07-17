@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3j7e.2byh-k8xw" _uuid="00000000-0000-0000-B812-D49668713E10" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3j7e.2byh-k8xw">
+      <vin_1_10>JA4J24A52J</vin_1_10>
+      <county>Snohomish</county>
+      <city>Bothell</city>
+      <state>WA</state>
+      <zip_code>98012</zip_code>
+      <model_year>2018</model_year>
+      <make>MITSUBISHI</make>
+      <model>OUTLANDER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>22</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>147826073</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1873 47.820245)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052007</_2020_census_tract>
+    </row>
+    

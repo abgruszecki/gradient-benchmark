@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-shxq.3n6d.dh5m" _uuid="00000000-0000-0000-D7DD-83DA1701A48E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-shxq.3n6d.dh5m">
+      <vin_1_10>1FTBW3XK5P</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane Valley</city>
+      <state>WA</state>
+      <zip_code>99206</zip_code>
+      <model_year>2023</model_year>
+      <make>FORD</make>
+      <model>TRANSIT</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>238752594</dol_vehicle_id>
+      <geocoded_column>POINT (-117.24549 47.6534)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||VERA IRRIGATION DISTRICT #15</electric_utility>
+      <_2020_census_tract>53063011900</_2020_census_tract>
+    </row>
+    

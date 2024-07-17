@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-tbir.4wm2-3rv3" _uuid="00000000-0000-0000-BDAC-7758AC6FBBD0" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-tbir.4wm2-3rv3">
+      <vin_1_10>2C4RC1S79M</vin_1_10>
+      <county>Clallam</county>
+      <city>Port Angeles</city>
+      <state>WA</state>
+      <zip_code>98363</zip_code>
+      <model_year>2021</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>143930685</dol_vehicle_id>
+      <geocoded_column>POINT (-123.46101 48.118925)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLALLAM COUNTY</electric_utility>
+      <_2020_census_tract>53009001500</_2020_census_tract>
+    </row>
+    

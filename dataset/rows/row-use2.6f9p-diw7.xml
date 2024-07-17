@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-use2.6f9p-diw7" _uuid="00000000-0000-0000-5364-4A371D4A86F9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-use2.6f9p-diw7">
+      <vin_1_10>5YJ3E1EA7K</vin_1_10>
+      <county>Clallam</county>
+      <city>Port Angeles</city>
+      <state>WA</state>
+      <zip_code>98363</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>478441736</dol_vehicle_id>
+      <geocoded_column>POINT (-123.46101 48.118925)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF PORT ANGELES - (WA)</electric_utility>
+      <_2020_census_tract>53009000800</_2020_census_tract>
+    </row>
+    

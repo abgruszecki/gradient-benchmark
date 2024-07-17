@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-xw7a~i5cw-r377" _uuid="00000000-0000-0000-5E12-F7CB60B56113" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-xw7a~i5cw-r377">
+      <vin_1_10>1N4AZ1CP6J</vin_1_10>
+      <county>King</county>
+      <city>Seatac</city>
+      <state>WA</state>
+      <zip_code>98188</zip_code>
+      <model_year>2018</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>151</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>33</legislative_district>
+      <dol_vehicle_id>130269058</dol_vehicle_id>
+      <geocoded_column>POINT (-122.29179 47.43473)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033028300</_2020_census_tract>
+    </row>
+    

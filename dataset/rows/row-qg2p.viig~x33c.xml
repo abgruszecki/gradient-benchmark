@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-qg2p.viig~x33c" _uuid="00000000-0000-0000-11B1-FAF271A0111D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-qg2p.viig~x33c">
+      <vin_1_10>5YJXCBE48K</vin_1_10>
+      <county>Skamania</county>
+      <city>Stevenson</city>
+      <state>WA</state>
+      <zip_code>98648</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>289</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>139982328</dol_vehicle_id>
+      <geocoded_column>POINT (-121.8849392 45.6980854)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF SKAMANIA CO</electric_utility>
+      <_2020_census_tract>53059950300</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rgfm~c3re.5cfy" _uuid="00000000-0000-0000-3227-6BB550F7001C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rgfm~c3re.5cfy">
+      <vin_1_10>5LMYJ8XY2P</vin_1_10>
+      <county>Island</county>
+      <city>Coupeville</city>
+      <state>WA</state>
+      <zip_code>98239</zip_code>
+      <model_year>2023</model_year>
+      <make>LINCOLN</make>
+      <model>AVIATOR</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>241438116</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6880708 48.2179983)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53029971100</_2020_census_tract>
+    </row>
+    

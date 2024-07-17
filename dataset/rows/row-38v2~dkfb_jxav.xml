@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-38v2~dkfb_jxav" _uuid="00000000-0000-0000-0560-3D491A9102CB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-38v2~dkfb_jxav">
+      <vin_1_10>1N4BZ1DV9M</vin_1_10>
+      <county>King</county>
+      <city>Sammamish</city>
+      <state>WA</state>
+      <zip_code>98075</zip_code>
+      <model_year>2021</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>161878454</dol_vehicle_id>
+      <geocoded_column>POINT (-122.03309 47.58153)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032218</_2020_census_tract>
+    </row>
+    

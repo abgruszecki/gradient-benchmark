@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-nyiq.dkbs_bfew" _uuid="00000000-0000-0000-A45F-37FA0E19AF7D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-nyiq.dkbs_bfew">
+      <vin_1_10>5YJ3E1EB3K</vin_1_10>
+      <county>King</county>
+      <city>Ravensdale</city>
+      <state>WA</state>
+      <zip_code>98051</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>475416777</dol_vehicle_id>
+      <geocoded_column>POINT (-121.98104 47.358625)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031603</_2020_census_tract>
+    </row>
+    

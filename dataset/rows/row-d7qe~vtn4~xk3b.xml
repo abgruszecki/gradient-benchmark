@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-d7qe~vtn4~xk3b" _uuid="00000000-0000-0000-DA40-490A74635FCC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-d7qe~vtn4~xk3b">
+      <vin_1_10>5YJ3E1EA0P</vin_1_10>
+      <county>King</county>
+      <city>Shoreline</city>
+      <state>WA</state>
+      <zip_code>98155</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>256014370</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3175 47.7578146)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033020500</_2020_census_tract>
+    </row>
+    

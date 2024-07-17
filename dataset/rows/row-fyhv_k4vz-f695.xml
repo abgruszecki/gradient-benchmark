@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fyhv_k4vz-f695" _uuid="00000000-0000-0000-FEB9-0C7195B38C91" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fyhv_k4vz-f695">
+      <vin_1_10>JTDKARFP8J</vin_1_10>
+      <county>King</county>
+      <city>Auburn</city>
+      <state>WA</state>
+      <zip_code>98092</zip_code>
+      <model_year>2018</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>347292396</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1820969 47.3198995)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031000</_2020_census_tract>
+    </row>
+    

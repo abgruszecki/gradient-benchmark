@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rfam_bwz3.k8zj" _uuid="00000000-0000-0000-FE0F-DAC9BCCF4310" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rfam_bwz3.k8zj">
+      <vin_1_10>5YJSA1CN6C</vin_1_10>
+      <county>Clark</county>
+      <city>La Center</city>
+      <state>WA</state>
+      <zip_code>98629</zip_code>
+      <model_year>2012</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>265</electric_range>
+      <base_msrp>59900</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>239304096</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6706246 45.8662548)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040202</_2020_census_tract>
+    </row>
+    

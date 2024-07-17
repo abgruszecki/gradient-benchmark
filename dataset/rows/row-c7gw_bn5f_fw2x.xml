@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-c7gw_bn5f_fw2x" _uuid="00000000-0000-0000-E6CF-3DE3CEDA4A94" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-c7gw_bn5f_fw2x">
+      <vin_1_10>YV4BC0ZXXH</vin_1_10>
+      <county>Whatcom</county>
+      <city>Bellingham</city>
+      <state>WA</state>
+      <zip_code>98225</zip_code>
+      <model_year>2017</model_year>
+      <make>VOLVO</make>
+      <model>XC90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>314697218</dol_vehicle_id>
+      <geocoded_column>POINT (-122.486115 48.761615)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073000402</_2020_census_tract>
+    </row>
+    

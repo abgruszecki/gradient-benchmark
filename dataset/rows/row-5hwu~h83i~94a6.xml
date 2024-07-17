@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5hwu~h83i~94a6" _uuid="00000000-0000-0000-FE6C-FB73697EEEFE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5hwu~h83i~94a6">
+      <vin_1_10>1FADP5CU2E</vin_1_10>
+      <county>Pierce</county>
+      <city>Lake Tapps</city>
+      <state>WA</state>
+      <zip_code>98391</zip_code>
+      <model_year>2014</model_year>
+      <make>FORD</make>
+      <model>C-MAX</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>152111760</dol_vehicle_id>
+      <geocoded_column>POINT (-122.183805 47.18062)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053070313</_2020_census_tract>
+    </row>
+    

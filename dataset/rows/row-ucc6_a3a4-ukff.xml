@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ucc6_a3a4-ukff" _uuid="00000000-0000-0000-145F-E6FE8DADB570" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ucc6_a3a4-ukff">
+      <vin_1_10>7FCTGAAL1N</vin_1_10>
+      <county>Adams</county>
+      <city>Lind</city>
+      <state>WA</state>
+      <zip_code>99341</zip_code>
+      <model_year>2022</model_year>
+      <make>RIVIAN</make>
+      <model>R1T</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>230952816</dol_vehicle_id>
+      <geocoded_column>POINT (-118.616395 46.97191)</geocoded_column>
+      <electric_utility>AVISTA CORP</electric_utility>
+      <_2020_census_tract>53001950200</_2020_census_tract>
+    </row>
+    

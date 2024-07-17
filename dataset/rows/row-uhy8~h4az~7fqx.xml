@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-uhy8~h4az~7fqx" _uuid="00000000-0000-0000-2379-1B769F25C4F0" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-uhy8~h4az~7fqx">
+      <vin_1_10>JTDKARFP6H</vin_1_10>
+      <county>King</county>
+      <city>North Bend</city>
+      <state>WA</state>
+      <zip_code>98045</zip_code>
+      <model_year>2017</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>267989487</dol_vehicle_id>
+      <geocoded_column>POINT (-121.7814012 47.4935316)</geocoded_column>
+      <electric_utility>CITY OF TACOMA - (WA)||TANNER ELECTRIC COOP</electric_utility>
+      <_2020_census_tract>53033032800</_2020_census_tract>
+    </row>
+    

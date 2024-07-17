@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ph59_vidc_4jv7" _uuid="00000000-0000-0000-692C-9B87DB36645F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ph59_vidc_4jv7">
+      <vin_1_10>1G1RD6S54H</vin_1_10>
+      <county>King</county>
+      <city>Kent</city>
+      <state>WA</state>
+      <zip_code>98058</zip_code>
+      <model_year>2017</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>53</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>47</legislative_district>
+      <dol_vehicle_id>206917028</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1298876 47.4451257)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033029307</_2020_census_tract>
+    </row>
+    

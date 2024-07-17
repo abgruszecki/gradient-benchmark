@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-spdc-hhuz.8mtv" _uuid="00000000-0000-0000-9CFE-0B80D5626EC8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-spdc-hhuz.8mtv">
+      <vin_1_10>1G1RH6E46D</vin_1_10>
+      <county>Kittitas</county>
+      <city>Ellensburg</city>
+      <state>WA</state>
+      <zip_code>98926</zip_code>
+      <model_year>2013</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>207435609</dol_vehicle_id>
+      <geocoded_column>POINT (-120.54513 46.993465)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF ELLENSBURG - (WA)</electric_utility>
+      <_2020_census_tract>53037975500</_2020_census_tract>
+    </row>
+    

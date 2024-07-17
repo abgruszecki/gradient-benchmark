@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-4i2v_864c.t5vx" _uuid="00000000-0000-0000-3BA9-5460E1DD2B8F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-4i2v_864c.t5vx">
+      <vin_1_10>WMWXP3C0XM</vin_1_10>
+      <county>Thurston</county>
+      <city>Lacey</city>
+      <state>WA</state>
+      <zip_code>98503</zip_code>
+      <model_year>2021</model_year>
+      <make>MINI</make>
+      <model>HARDTOP</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>110</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>122311381</dol_vehicle_id>
+      <geocoded_column>POINT (-122.8285 47.03646)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067011625</_2020_census_tract>
+    </row>
+    

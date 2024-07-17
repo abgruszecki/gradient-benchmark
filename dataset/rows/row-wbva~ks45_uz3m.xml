@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wbva~ks45_uz3m" _uuid="00000000-0000-0000-F5C3-7D6EC16A7B53" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wbva~ks45_uz3m">
+      <vin_1_10>KL8CL6S02G</vin_1_10>
+      <county>King</county>
+      <city>Mercer Island</city>
+      <state>WA</state>
+      <zip_code>98040</zip_code>
+      <model_year>2016</model_year>
+      <make>CHEVROLET</make>
+      <model>SPARK</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>82</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>213691250</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2377542 47.582905)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033024301</_2020_census_tract>
+    </row>
+    

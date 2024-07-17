@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-cb9x~hwg6.5urb" _uuid="00000000-0000-0000-5BA6-9C3855AAD59D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-cb9x~hwg6.5urb">
+      <vin_1_10>JA4J2VA77N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lynnwood</city>
+      <state>WA</state>
+      <zip_code>98037</zip_code>
+      <model_year>2022</model_year>
+      <make>MITSUBISHI</make>
+      <model>OUTLANDER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>24</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>193394680</dol_vehicle_id>
+      <geocoded_column>POINT (-122.297265 47.84182)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051802</_2020_census_tract>
+    </row>
+    

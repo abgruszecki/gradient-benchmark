@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8u47.k7t3-i2cm" _uuid="00000000-0000-0000-D5B3-D966DC0FB7D2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8u47.k7t3-i2cm">
+      <vin_1_10>7SAXCBE63N</vin_1_10>
+      <county>King</county>
+      <city>Bellevue</city>
+      <state>WA</state>
+      <zip_code>98006</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>216992492</dol_vehicle_id>
+      <geocoded_column>POINT (-122.16937 47.571015)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033025008</_2020_census_tract>
+    </row>
+    

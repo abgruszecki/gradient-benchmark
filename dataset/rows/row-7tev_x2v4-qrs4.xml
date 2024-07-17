@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7tev_x2v4-qrs4" _uuid="00000000-0000-0000-4221-7373E7C1D94C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7tev_x2v4-qrs4">
+      <vin_1_10>1G1RB6E40C</vin_1_10>
+      <county>Snohomish</county>
+      <city>Marysville</city>
+      <state>WA</state>
+      <zip_code>98270</zip_code>
+      <model_year>2012</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>35</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>210633671</dol_vehicle_id>
+      <geocoded_column>POINT (-122.17673 48.05542)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052104</_2020_census_tract>
+    </row>
+    

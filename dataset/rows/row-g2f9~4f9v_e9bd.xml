@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-g2f9~4f9v_e9bd" _uuid="00000000-0000-0000-584A-664DF5BAEFC4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-g2f9~4f9v_e9bd">
+      <vin_1_10>YV4H60CE0R</vin_1_10>
+      <county>Yakima</county>
+      <city>Yakima</city>
+      <state>WA</state>
+      <zip_code>98908</zip_code>
+      <model_year>2024</model_year>
+      <make>VOLVO</make>
+      <model>XC90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>255347767</dol_vehicle_id>
+      <geocoded_column>POINT (-120.6027202 46.5965625)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077000401</_2020_census_tract>
+    </row>
+    

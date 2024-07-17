@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-karn-5tm4_raqy" _uuid="00000000-0000-0000-967F-AA1027314BB8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-karn-5tm4_raqy">
+      <vin_1_10>YV4BR00L3L</vin_1_10>
+      <county>King</county>
+      <city>Bellevue</city>
+      <state>WA</state>
+      <zip_code>98006</zip_code>
+      <model_year>2020</model_year>
+      <make>VOLVO</make>
+      <model>XC90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>18</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>251296419</dol_vehicle_id>
+      <geocoded_column>POINT (-122.16937 47.571015)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033025001</_2020_census_tract>
+    </row>
+    

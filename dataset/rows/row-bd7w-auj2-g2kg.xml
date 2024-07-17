@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-bd7w-auj2-g2kg" _uuid="00000000-0000-0000-9E94-E6801BC746A1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-bd7w-auj2-g2kg">
+      <vin_1_10>5YJSA1E40G</vin_1_10>
+      <county>Snohomish</county>
+      <city>Snohomish</city>
+      <state>WA</state>
+      <zip_code>98290</zip_code>
+      <model_year>2016</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>210</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>227107366</dol_vehicle_id>
+      <geocoded_column>POINT (-122.091505 47.915555)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052502</_2020_census_tract>
+    </row>
+    

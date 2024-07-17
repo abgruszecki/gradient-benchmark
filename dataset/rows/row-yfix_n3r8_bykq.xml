@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yfix_n3r8_bykq" _uuid="00000000-0000-0000-CDB7-10A0AE52F890" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yfix_n3r8_bykq">
+      <vin_1_10>KNDC4DLC7N</vin_1_10>
+      <county>King</county>
+      <city>Ravensdale</city>
+      <state>WA</state>
+      <zip_code>98051</zip_code>
+      <model_year>2022</model_year>
+      <make>KIA</make>
+      <model>EV6</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>199093030</dol_vehicle_id>
+      <geocoded_column>POINT (-121.98104 47.358625)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031603</_2020_census_tract>
+    </row>
+    

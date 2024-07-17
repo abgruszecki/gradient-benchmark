@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-t98d_f5dt~5f62" _uuid="00000000-0000-0000-880F-B27DEC02E4E9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-t98d_f5dt~5f62">
+      <vin_1_10>5UXKT0C38H</vin_1_10>
+      <county>King</county>
+      <city>Redmond</city>
+      <state>WA</state>
+      <zip_code>98052</zip_code>
+      <model_year>2017</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>45</legislative_district>
+      <dol_vehicle_id>349486931</dol_vehicle_id>
+      <geocoded_column>POINT (-122.12302 47.67668)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032321</_2020_census_tract>
+    </row>
+    

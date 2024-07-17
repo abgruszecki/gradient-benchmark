@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wdju.5hv6-hnzm" _uuid="00000000-0000-0000-022A-5E6DA1126465" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wdju.5hv6-hnzm">
+      <vin_1_10>KNDCC3LD8K</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98121</zip_code>
+      <model_year>2019</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>43</legislative_district>
+      <dol_vehicle_id>258069353</dol_vehicle_id>
+      <geocoded_column>POINT (-122.344125 47.61546)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033007302</_2020_census_tract>
+    </row>
+    

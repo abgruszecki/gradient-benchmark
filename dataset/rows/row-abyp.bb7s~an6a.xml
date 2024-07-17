@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-abyp.bb7s~an6a" _uuid="00000000-0000-0000-A930-F491E31A6CEA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-abyp.bb7s~an6a">
+      <vin_1_10>2C4RC1L73M</vin_1_10>
+      <county>King</county>
+      <city>Redmond</city>
+      <state>WA</state>
+      <zip_code>98052</zip_code>
+      <model_year>2021</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>48</legislative_district>
+      <dol_vehicle_id>264585632</dol_vehicle_id>
+      <geocoded_column>POINT (-122.12302 47.67668)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033022902</_2020_census_tract>
+    </row>
+    

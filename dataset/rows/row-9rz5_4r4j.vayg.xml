@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-9rz5_4r4j.vayg" _uuid="00000000-0000-0000-4D3A-48272AD36AAD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-9rz5_4r4j.vayg">
+      <vin_1_10>JTDKARFP5L</vin_1_10>
+      <county>Snohomish</county>
+      <city>Bothell</city>
+      <state>WA</state>
+      <zip_code>98012</zip_code>
+      <model_year>2020</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>228623363</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1873 47.820245)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052008</_2020_census_tract>
+    </row>
+    

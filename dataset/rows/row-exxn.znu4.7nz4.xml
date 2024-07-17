@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-exxn.znu4.7nz4" _uuid="00000000-0000-0000-9B14-20A5FB7CB9D7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-exxn.znu4.7nz4">
+      <vin_1_10>1N4AZ0CP4G</vin_1_10>
+      <county>King</county>
+      <city>Ravensdale</city>
+      <state>WA</state>
+      <zip_code>98051</zip_code>
+      <model_year>2016</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>84</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>117312226</dol_vehicle_id>
+      <geocoded_column>POINT (-121.98104 47.358625)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031603</_2020_census_tract>
+    </row>
+    

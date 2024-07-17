@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-j953-2839.4aqe" _uuid="00000000-0000-0000-547D-977BABA5237E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-j953-2839.4aqe">
+      <vin_1_10>JA4J24A50L</vin_1_10>
+      <county>Whatcom</county>
+      <city>Custer</city>
+      <state>WA</state>
+      <zip_code>98240</zip_code>
+      <model_year>2020</model_year>
+      <make>MITSUBISHI</make>
+      <model>OUTLANDER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>22</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>148995661</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6410958 48.919121)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073010407</_2020_census_tract>
+    </row>
+    

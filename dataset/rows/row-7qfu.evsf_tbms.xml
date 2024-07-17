@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7qfu.evsf_tbms" _uuid="00000000-0000-0000-5606-49E84176C56A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7qfu.evsf_tbms">
+      <vin_1_10>1N4CZ1CV5P</vin_1_10>
+      <county>Lewis</county>
+      <city>Centralia</city>
+      <state>WA</state>
+      <zip_code>98531</zip_code>
+      <model_year>2023</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>235509389</dol_vehicle_id>
+      <geocoded_column>POINT (-122.962555 46.716875)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF CENTRALIA - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53041970700</_2020_census_tract>
+    </row>
+    

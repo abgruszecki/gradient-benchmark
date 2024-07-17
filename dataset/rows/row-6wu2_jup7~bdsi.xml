@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6wu2_jup7~bdsi" _uuid="00000000-0000-0000-BC25-C9CC8589C7BB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6wu2_jup7~bdsi">
+      <vin_1_10>3FA6P0PU2H</vin_1_10>
+      <county>Thurston</county>
+      <city>Olympia</city>
+      <state>WA</state>
+      <zip_code>98501</zip_code>
+      <model_year>2017</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>35</legislative_district>
+      <dol_vehicle_id>176127017</dol_vehicle_id>
+      <geocoded_column>POINT (-122.89692 47.043535)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067011721</_2020_census_tract>
+    </row>
+    

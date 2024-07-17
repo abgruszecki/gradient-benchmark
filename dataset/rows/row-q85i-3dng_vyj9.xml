@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-q85i-3dng_vyj9" _uuid="00000000-0000-0000-1A71-0C52611E6012" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-q85i-3dng_vyj9">
+      <vin_1_10>WA1VABGE7K</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98107</zip_code>
+      <model_year>2019</model_year>
+      <make>AUDI</make>
+      <model>E-TRON</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>204</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>43</legislative_district>
+      <dol_vehicle_id>103108428</dol_vehicle_id>
+      <geocoded_column>POINT (-122.37815 47.66866)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033003400</_2020_census_tract>
+    </row>
+    

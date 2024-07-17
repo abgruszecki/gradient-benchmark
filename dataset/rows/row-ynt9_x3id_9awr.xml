@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ynt9_x3id_9awr" _uuid="00000000-0000-0000-E70E-D318A0283AC9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ynt9_x3id_9awr">
+      <vin_1_10>7SAYGDEE9P</vin_1_10>
+      <county>Whitman</county>
+      <city>Pullman</city>
+      <state>WA</state>
+      <zip_code>99163</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>251787385</dol_vehicle_id>
+      <geocoded_column>POINT (-117.17912 46.730885)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53075000300</_2020_census_tract>
+    </row>
+    

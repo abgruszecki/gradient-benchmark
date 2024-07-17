@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-u9bn~3eve.27pt" _uuid="00000000-0000-0000-E4EC-D8FEE06F9486" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-u9bn~3eve.27pt">
+      <vin_1_10>1N4AZ0CP2F</vin_1_10>
+      <county>Pierce</county>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip_code>98445</zip_code>
+      <model_year>2015</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>84</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>29</legislative_district>
+      <dol_vehicle_id>349096520</dol_vehicle_id>
+      <geocoded_column>POINT (-122.40872 47.165675)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||ELMHURST MUTUAL POWER &amp; LIGHT CO|PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053071506</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jtdj_934a_situ" _uuid="00000000-0000-0000-9DC8-2A0E938900BE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jtdj_934a_situ">
+      <vin_1_10>55SWF4HBXJ</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98108</zip_code>
+      <model_year>2018</model_year>
+      <make>MERCEDES-BENZ</make>
+      <model>C-CLASS</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>8</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>37</legislative_district>
+      <dol_vehicle_id>171080472</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3268963 47.5499519)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033010401</_2020_census_tract>
+    </row>
+    

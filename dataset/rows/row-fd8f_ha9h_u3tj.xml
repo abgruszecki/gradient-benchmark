@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fd8f_ha9h_u3tj" _uuid="00000000-0000-0000-B413-A01DFC49E01F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fd8f_ha9h_u3tj">
+      <vin_1_10>5YJXCBE22G</vin_1_10>
+      <county>Whatcom</county>
+      <city>Bellingham</city>
+      <state>WA</state>
+      <zip_code>98226</zip_code>
+      <model_year>2016</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>200</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>240849129</dol_vehicle_id>
+      <geocoded_column>POINT (-122.45493 48.76809)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073000804</_2020_census_tract>
+    </row>
+    

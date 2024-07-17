@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-eeqc-7n5a-rppf" _uuid="00000000-0000-0000-F4DA-6605200A7EAB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-eeqc-7n5a-rppf">
+      <vin_1_10>KNAGV4LD5H</vin_1_10>
+      <county>Douglas</county>
+      <city>Orondo</city>
+      <state>WA</state>
+      <zip_code>98843</zip_code>
+      <model_year>2017</model_year>
+      <make>KIA</make>
+      <model>OPTIMA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>29</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>173182957</dol_vehicle_id>
+      <geocoded_column>POINT (-120.19519 47.704075)</geocoded_column>
+      <electric_utility>PUD NO 1 OF DOUGLAS COUNTY</electric_utility>
+      <_2020_census_tract>53017950101</_2020_census_tract>
+    </row>
+    

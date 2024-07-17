@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-adzi-s29y~h9nf" _uuid="00000000-0000-0000-7E6B-A76653BD4597" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-adzi-s29y~h9nf">
+      <vin_1_10>5YJ3E1EB6K</vin_1_10>
+      <county>Los Angeles</county>
+      <city>Reseda</city>
+      <state>CA</state>
+      <zip_code>91335</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>332415184</dol_vehicle_id>
+      <geocoded_column>POINT (-118.537355 34.19849)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06037131022</_2020_census_tract>
+    </row>
+    

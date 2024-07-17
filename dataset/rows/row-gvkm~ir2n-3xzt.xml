@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-gvkm~ir2n-3xzt" _uuid="00000000-0000-0000-0659-020BA23CB48E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-gvkm~ir2n-3xzt">
+      <vin_1_10>LPSED3KA1M</vin_1_10>
+      <county>Boulder</county>
+      <city>Longmont</city>
+      <state>CO</state>
+      <zip_code>80501</zip_code>
+      <model_year>2021</model_year>
+      <make>POLESTAR</make>
+      <model>PS2</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>233</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>177670118</dol_vehicle_id>
+      <geocoded_column>POINT (-105.10686 40.16174)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>08013013307</_2020_census_tract>
+    </row>
+    

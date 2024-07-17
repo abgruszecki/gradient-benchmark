@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-z58k.fx8j-rwna" _uuid="00000000-0000-0000-A4F9-8B869D3FB265" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-z58k.fx8j-rwna">
+      <vin_1_10>5YJXCAE24J</vin_1_10>
+      <county>Stevens</county>
+      <city>Nine Mile Falls</city>
+      <state>WA</state>
+      <zip_code>99026</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>476113144</dol_vehicle_id>
+      <geocoded_column>POINT (-117.5967686 47.8204962)</geocoded_column>
+      <electric_utility>NO KNOWN ELECTRIC UTILITY SERVICE</electric_utility>
+      <_2020_census_tract>53065951401</_2020_census_tract>
+    </row>
+    

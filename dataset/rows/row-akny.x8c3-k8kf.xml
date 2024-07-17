@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-akny.x8c3-k8kf" _uuid="00000000-0000-0000-45C9-394096617561" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-akny.x8c3-k8kf">
+      <vin_1_10>WBY1Z4C59E</vin_1_10>
+      <county>Pierce</county>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip_code>98405</zip_code>
+      <model_year>2014</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>72</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>27</legislative_district>
+      <dol_vehicle_id>131430848</dol_vehicle_id>
+      <geocoded_column>POINT (-122.45153 47.251135)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053061400</_2020_census_tract>
+    </row>
+    

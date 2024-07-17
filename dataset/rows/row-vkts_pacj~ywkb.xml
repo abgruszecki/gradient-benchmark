@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-vkts_pacj~ywkb" _uuid="00000000-0000-0000-0EFB-2E1FE1D1A900" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-vkts_pacj~ywkb">
+      <vin_1_10>1G1RF6E44D</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lynnwood</city>
+      <state>WA</state>
+      <zip_code>98087</zip_code>
+      <model_year>2013</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>21</legislative_district>
+      <dol_vehicle_id>178650685</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2551991 47.8650827)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051803</_2020_census_tract>
+    </row>
+    

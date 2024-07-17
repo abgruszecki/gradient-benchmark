@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-49hw.nd3x~wqsr" _uuid="00000000-0000-0000-6C5A-BE4CFEF4BC08" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-49hw.nd3x~wqsr">
+      <vin_1_10>5YJSA1E29H</vin_1_10>
+      <county>Pierce</county>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip_code>98409</zip_code>
+      <model_year>2017</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>210</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>29</legislative_district>
+      <dol_vehicle_id>137918420</dol_vehicle_id>
+      <geocoded_column>POINT (-122.47913 47.2198)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053062902</_2020_census_tract>
+    </row>
+    

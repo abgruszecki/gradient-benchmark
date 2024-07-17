@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rpfe_8qsi_rt97" _uuid="00000000-0000-0000-9F6F-DEC6974A9F33" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rpfe_8qsi_rt97">
+      <vin_1_10>1C4JJXR68P</vin_1_10>
+      <county>Fairfax</county>
+      <city>Springfield</city>
+      <state>VA</state>
+      <zip_code>22152</zip_code>
+      <model_year>2023</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>265951416</dol_vehicle_id>
+      <geocoded_column>POINT (-77.23582 38.78379)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>51059431300</_2020_census_tract>
+    </row>
+    

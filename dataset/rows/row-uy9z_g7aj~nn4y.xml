@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-uy9z_g7aj~nn4y" _uuid="00000000-0000-0000-0A28-FF86B5132BF6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-uy9z_g7aj~nn4y">
+      <vin_1_10>1G1RB6S50H</vin_1_10>
+      <county>King</county>
+      <city>Shoreline</city>
+      <state>WA</state>
+      <zip_code>98133</zip_code>
+      <model_year>2017</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>53</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>147575802</dol_vehicle_id>
+      <geocoded_column>POINT (-122.34584 47.76726)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033020600</_2020_census_tract>
+    </row>
+    

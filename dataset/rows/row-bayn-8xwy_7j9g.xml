@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-bayn-8xwy_7j9g" _uuid="00000000-0000-0000-4347-543CC19E7306" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-bayn-8xwy_7j9g">
+      <vin_1_10>JN1AZ0CP6C</vin_1_10>
+      <county>Snohomish</county>
+      <city>Everett</city>
+      <state>WA</state>
+      <zip_code>98208</zip_code>
+      <model_year>2012</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>73</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>205949257</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2247757 47.9156409)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061041607</_2020_census_tract>
+    </row>
+    

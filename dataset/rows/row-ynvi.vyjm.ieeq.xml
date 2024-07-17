@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ynvi.vyjm.ieeq" _uuid="00000000-0000-0000-8486-2586CE22A429" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ynvi.vyjm.ieeq">
+      <vin_1_10>KNDC3DLC1P</vin_1_10>
+      <county>Cowlitz</county>
+      <city>Longview</city>
+      <state>WA</state>
+      <zip_code>98632</zip_code>
+      <model_year>2023</model_year>
+      <make>KIA</make>
+      <model>EV6</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>240409319</dol_vehicle_id>
+      <geocoded_column>POINT (-122.9379953 46.1372997)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF COWLITZ COUNTY</electric_utility>
+      <_2020_census_tract>53015000702</_2020_census_tract>
+    </row>
+    

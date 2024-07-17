@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-hxzu_i9gk.qg5c" _uuid="00000000-0000-0000-C49E-8804779BBABF" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-hxzu_i9gk.qg5c">
+      <vin_1_10>YV4BR0DLXN</vin_1_10>
+      <county>King</county>
+      <city>Skykomish</city>
+      <state>WA</state>
+      <zip_code>98288</zip_code>
+      <model_year>2022</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>18</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>39</legislative_district>
+      <dol_vehicle_id>192580083</dol_vehicle_id>
+      <geocoded_column>POINT (-121.360745 47.709505)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032800</_2020_census_tract>
+    </row>
+    

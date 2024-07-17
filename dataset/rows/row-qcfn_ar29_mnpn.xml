@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-qcfn_ar29_mnpn" _uuid="00000000-0000-0000-035C-5C3420C95BA4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-qcfn_ar29_mnpn">
+      <vin_1_10>WVWKP7AU7G</vin_1_10>
+      <county>Snohomish</county>
+      <city>Everett</city>
+      <state>WA</state>
+      <zip_code>98203</zip_code>
+      <model_year>2016</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>E-GOLF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>83</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>38</legislative_district>
+      <dol_vehicle_id>477281206</dol_vehicle_id>
+      <geocoded_column>POINT (-122.213105 47.95479)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061040900</_2020_census_tract>
+    </row>
+    

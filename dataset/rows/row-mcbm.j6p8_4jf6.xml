@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mcbm.j6p8_4jf6" _uuid="00000000-0000-0000-D826-0EF3892A4E31" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mcbm.j6p8_4jf6">
+      <vin_1_10>1N4AZ1CP1J</vin_1_10>
+      <county>Pierce</county>
+      <city>Lake Tapps</city>
+      <state>WA</state>
+      <zip_code>98391</zip_code>
+      <model_year>2018</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>151</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>142391721</dol_vehicle_id>
+      <geocoded_column>POINT (-122.183805 47.18062)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053070314</_2020_census_tract>
+    </row>
+    

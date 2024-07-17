@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-x4i4~avx5~u9yz" _uuid="00000000-0000-0000-8B96-4DACBF3ECEF8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-x4i4~avx5~u9yz">
+      <vin_1_10>1N4AZ1CP1J</vin_1_10>
+      <county>Clark</county>
+      <city>Vancouver</city>
+      <state>WA</state>
+      <zip_code>98685</zip_code>
+      <model_year>2018</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>151</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>18</legislative_district>
+      <dol_vehicle_id>475386509</dol_vehicle_id>
+      <geocoded_column>POINT (-122.70302 45.703706)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040907</_2020_census_tract>
+    </row>
+    

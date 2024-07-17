@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-miqu.3fsf~74me" _uuid="00000000-0000-0000-3D16-E115E9FE5E44" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-miqu.3fsf~74me">
+      <vin_1_10>1C4JJXR64N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Snohomish</city>
+      <state>WA</state>
+      <zip_code>98290</zip_code>
+      <model_year>2022</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>22</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>224015060</dol_vehicle_id>
+      <geocoded_column>POINT (-122.091505 47.915555)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052302</_2020_census_tract>
+    </row>
+    

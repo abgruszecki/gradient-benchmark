@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ur2g~3hxx_wgcx" _uuid="00000000-0000-0000-D80C-94624DB37BFA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ur2g~3hxx_wgcx">
+      <vin_1_10>3FMTK3SU8N</vin_1_10>
+      <county>King</county>
+      <city>Renton</city>
+      <state>WA</state>
+      <zip_code>98058</zip_code>
+      <model_year>2022</model_year>
+      <make>FORD</make>
+      <model>MUSTANG MACH-E</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>11</legislative_district>
+      <dol_vehicle_id>224467071</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1298876 47.4451257)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031906</_2020_census_tract>
+    </row>
+    

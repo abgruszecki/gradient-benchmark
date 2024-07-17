@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-cfe2.547z.mrup" _uuid="00000000-0000-0000-EBBA-821F0F879133" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-cfe2.547z.mrup">
+      <vin_1_10>YV4BR0PM6J</vin_1_10>
+      <county>King</county>
+      <city>Auburn</city>
+      <state>WA</state>
+      <zip_code>98002</zip_code>
+      <model_year>2018</model_year>
+      <make>VOLVO</make>
+      <model>XC90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>64950</base_msrp>
+      <legislative_district>47</legislative_district>
+      <dol_vehicle_id>348984492</dol_vehicle_id>
+      <geocoded_column>POINT (-122.222855 47.305065)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033030501</_2020_census_tract>
+    </row>
+    

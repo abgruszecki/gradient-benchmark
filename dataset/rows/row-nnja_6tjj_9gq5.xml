@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-nnja_6tjj_9gq5" _uuid="00000000-0000-0000-7B3A-482D892FF1FC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-nnja_6tjj_9gq5">
+      <vin_1_10>7SAYGDEE9N</vin_1_10>
+      <county>Whitman</county>
+      <city>Tekoa</city>
+      <state>WA</state>
+      <zip_code>99033</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>204782189</dol_vehicle_id>
+      <geocoded_column>POINT (-117.071775 47.22265)</geocoded_column>
+      <electric_utility>AVISTA CORP</electric_utility>
+      <_2020_census_tract>53075000900</_2020_census_tract>
+    </row>
+    

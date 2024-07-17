@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ywdz_6btu-5ndy" _uuid="00000000-0000-0000-A0FD-9DA4405F75AC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ywdz_6btu-5ndy">
+      <vin_1_10>YV4BC0PM8G</vin_1_10>
+      <county>Snohomish</county>
+      <city>Everett</city>
+      <state>WA</state>
+      <zip_code>98208</zip_code>
+      <model_year>2016</model_year>
+      <make>VOLVO</make>
+      <model>XC90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>13</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>21</legislative_district>
+      <dol_vehicle_id>176233473</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2247757 47.9156409)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061041606</_2020_census_tract>
+    </row>
+    

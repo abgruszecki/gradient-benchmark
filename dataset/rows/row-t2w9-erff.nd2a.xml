@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-t2w9-erff.nd2a" _uuid="00000000-0000-0000-5AF3-DF1BD6C5E85E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-t2w9-erff.nd2a">
+      <vin_1_10>WP1AE2A2XF</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98105</zip_code>
+      <model_year>2015</model_year>
+      <make>PORSCHE</make>
+      <model>CAYENNE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>46</legislative_district>
+      <dol_vehicle_id>224254075</dol_vehicle_id>
+      <geocoded_column>POINT (-122.319115 47.66132)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033004101</_2020_census_tract>
+    </row>
+    

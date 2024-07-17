@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mvw2-2w97-yf2f" _uuid="00000000-0000-0000-75BC-A4DBE2E849F2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mvw2-2w97-yf2f">
+      <vin_1_10>7SAYGDEF1P</vin_1_10>
+      <county>Skagit</county>
+      <city>La Conner</city>
+      <state>WA</state>
+      <zip_code>98257</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>245741450</dol_vehicle_id>
+      <geocoded_column>POINT (-122.5135345 48.3829111)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53057940802</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8424_hrwq_gpm5" _uuid="00000000-0000-0000-A562-7693519FB42C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8424_hrwq_gpm5">
+      <vin_1_10>WA1AAAGE3P</vin_1_10>
+      <county>Orange</county>
+      <city>Buena Park</city>
+      <state>CA</state>
+      <zip_code>90621</zip_code>
+      <model_year>2023</model_year>
+      <make>AUDI</make>
+      <model>E-TRON</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>224666711</dol_vehicle_id>
+      <geocoded_column>POINT (-117.997795 33.86741)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06059110604</_2020_census_tract>
+    </row>
+    

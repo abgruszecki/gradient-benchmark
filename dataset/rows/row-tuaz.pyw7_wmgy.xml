@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-tuaz.pyw7_wmgy" _uuid="00000000-0000-0000-FBDD-16E70A828FA7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-tuaz.pyw7_wmgy">
+      <vin_1_10>KM8K23AG2P</vin_1_10>
+      <county>Douglas</county>
+      <city>East Wenatchee</city>
+      <state>WA</state>
+      <zip_code>98802</zip_code>
+      <model_year>2023</model_year>
+      <make>HYUNDAI</make>
+      <model>KONA ELECTRIC</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>229856105</dol_vehicle_id>
+      <geocoded_column>POINT (-120.28674 47.4176)</geocoded_column>
+      <electric_utility>PUD NO 1 OF DOUGLAS COUNTY</electric_utility>
+      <_2020_census_tract>53017950400</_2020_census_tract>
+    </row>
+    

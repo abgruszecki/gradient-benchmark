@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fjb7.m5ns-n5ue" _uuid="00000000-0000-0000-D955-4EDA48686C60" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fjb7.m5ns-n5ue">
+      <vin_1_10>5YJ3E1EB3N</vin_1_10>
+      <county>Los Angeles</county>
+      <city>Los Angeles</city>
+      <state>CA</state>
+      <zip_code>90016</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>186958600</dol_vehicle_id>
+      <geocoded_column>POINT (-118.3417 34.02851)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06037219902</_2020_census_tract>
+    </row>
+    

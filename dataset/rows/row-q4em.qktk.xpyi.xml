@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-q4em.qktk.xpyi" _uuid="00000000-0000-0000-CEDA-CEBD0C5B26DC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-q4em.qktk.xpyi">
+      <vin_1_10>JTJHKCFZ0R</vin_1_10>
+      <county>Spokane</county>
+      <city>Medical Lake</city>
+      <state>WA</state>
+      <zip_code>99022</zip_code>
+      <model_year>2024</model_year>
+      <make>LEXUS</make>
+      <model>NX</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>37</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>260233186</dol_vehicle_id>
+      <geocoded_column>POINT (-117.6773 47.573335)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063013900</_2020_census_tract>
+    </row>
+    

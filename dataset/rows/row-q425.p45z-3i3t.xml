@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-q425.p45z-3i3t" _uuid="00000000-0000-0000-9E28-A5EF47B00E2B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-q425.p45z-3i3t">
+      <vin_1_10>1G1FZ6S05K</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Elma</city>
+      <state>WA</state>
+      <zip_code>98541</zip_code>
+      <model_year>2019</model_year>
+      <make>CHEVROLET</make>
+      <model>BOLT EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>254779556</dol_vehicle_id>
+      <geocoded_column>POINT (-123.410105 47.00679)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027000502</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ff2s~i8jk-u7jc" _uuid="00000000-0000-0000-7460-B89AA8E1B168" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ff2s~i8jk-u7jc">
+      <vin_1_10>WBA7J2C57J</vin_1_10>
+      <county>King</county>
+      <city>Renton</city>
+      <state>WA</state>
+      <zip_code>98059</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>740E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>90700</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>187581215</dol_vehicle_id>
+      <geocoded_column>POINT (-122.15734 47.487175)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031904</_2020_census_tract>
+    </row>
+    

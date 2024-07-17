@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6q9n.vhx2.u7dm" _uuid="00000000-0000-0000-6507-6B3D68379268" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6q9n.vhx2.u7dm">
+      <vin_1_10>1G1RC6S5XJ</vin_1_10>
+      <county>King</county>
+      <city>Des Moines</city>
+      <state>WA</state>
+      <zip_code>98198</zip_code>
+      <model_year>2018</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>53</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>30</legislative_district>
+      <dol_vehicle_id>209612938</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3219166 47.4013897)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033030102</_2020_census_tract>
+    </row>
+    

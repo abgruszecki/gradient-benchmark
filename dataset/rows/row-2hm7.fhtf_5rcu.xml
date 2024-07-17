@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2hm7.fhtf_5rcu" _uuid="00000000-0000-0000-1ABC-2B119BC4462D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2hm7.fhtf_5rcu">
+      <vin_1_10>KNDJX3AE7G</vin_1_10>
+      <county>Snohomish</county>
+      <city>Sultan</city>
+      <state>WA</state>
+      <zip_code>98294</zip_code>
+      <model_year>2016</model_year>
+      <make>KIA</make>
+      <model>SOUL</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>31950</base_msrp>
+      <legislative_district>39</legislative_district>
+      <dol_vehicle_id>140069814</dol_vehicle_id>
+      <geocoded_column>POINT (-121.814825 47.868195)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061053802</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wrcx-9w2y.pfhg" _uuid="00000000-0000-0000-A43D-B2E2EF6DBEA1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wrcx-9w2y.pfhg">
+      <vin_1_10>1C4JJXR60N</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99208</zip_code>
+      <model_year>2022</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>22</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>205509020</dol_vehicle_id>
+      <geocoded_column>POINT (-117.40725 47.718625)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063010507</_2020_census_tract>
+    </row>
+    

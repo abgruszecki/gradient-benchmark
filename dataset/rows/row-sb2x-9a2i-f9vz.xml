@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-sb2x-9a2i-f9vz" _uuid="00000000-0000-0000-7384-EC9313F1098D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-sb2x-9a2i-f9vz">
+      <vin_1_10>2C4RC1H71J</vin_1_10>
+      <county>Moore</county>
+      <city>Southern Pines</city>
+      <state>NC</state>
+      <zip_code>28387</zip_code>
+      <model_year>2018</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>33</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>107341699</dol_vehicle_id>
+      <geocoded_column>POINT (-79.3887 35.176905)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>37125950801</_2020_census_tract>
+    </row>
+    

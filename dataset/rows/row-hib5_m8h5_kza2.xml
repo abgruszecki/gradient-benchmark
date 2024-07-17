@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-hib5_m8h5_kza2" _uuid="00000000-0000-0000-AEF9-BFE67DB339F0" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-hib5_m8h5_kza2">
+      <vin_1_10>WBA7J2C38H</vin_1_10>
+      <county>Kitsap</county>
+      <city>Hansville</city>
+      <state>WA</state>
+      <zip_code>98340</zip_code>
+      <model_year>2017</model_year>
+      <make>BMW</make>
+      <model>740E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>89100</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>255665980</dol_vehicle_id>
+      <geocoded_column>POINT (-122.57781 47.903975)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035090101</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-phzk.pqpm~nxuz" _uuid="00000000-0000-0000-9D83-5B3048FBA5D8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-phzk.pqpm~nxuz">
+      <vin_1_10>7SAYGDEEXP</vin_1_10>
+      <county>Wake</county>
+      <city>Holly Springs</city>
+      <state>NC</state>
+      <zip_code>27540</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>228246182</dol_vehicle_id>
+      <geocoded_column>POINT (-78.8371904 35.6604412)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>37183053208</_2020_census_tract>
+    </row>
+    

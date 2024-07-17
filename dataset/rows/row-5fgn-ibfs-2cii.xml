@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5fgn-ibfs-2cii" _uuid="00000000-0000-0000-EB82-8D3F60A89326" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5fgn-ibfs-2cii">
+      <vin_1_10>WAUTPBFF1J</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lynnwood</city>
+      <state>WA</state>
+      <zip_code>98037</zip_code>
+      <model_year>2018</model_year>
+      <make>AUDI</make>
+      <model>A3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>16</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>282741455</dol_vehicle_id>
+      <geocoded_column>POINT (-122.297265 47.84182)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051802</_2020_census_tract>
+    </row>
+    

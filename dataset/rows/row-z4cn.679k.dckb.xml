@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-z4cn.679k.dckb" _uuid="00000000-0000-0000-5DB4-6FB9AE76BA64" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-z4cn.679k.dckb">
+      <vin_1_10>WBAJB1C53K</vin_1_10>
+      <county>Snohomish</county>
+      <city>Snohomish</city>
+      <state>WA</state>
+      <zip_code>98296</zip_code>
+      <model_year>2019</model_year>
+      <make>BMW</make>
+      <model>530E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>15</electric_range>
+      <base_msrp>55700</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>262435372</dol_vehicle_id>
+      <geocoded_column>POINT (-122.15134 47.8851158)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061041610</_2020_census_tract>
+    </row>
+    

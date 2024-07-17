@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-vi8h_idz4~4wr3" _uuid="00000000-0000-0000-F10C-25B4B4916964" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-vi8h_idz4~4wr3">
+      <vin_1_10>JN1AF0BA9P</vin_1_10>
+      <county>Clallam</county>
+      <city>Port Angeles</city>
+      <state>WA</state>
+      <zip_code>98363</zip_code>
+      <model_year>2023</model_year>
+      <make>NISSAN</make>
+      <model>ARIYA</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>228556373</dol_vehicle_id>
+      <geocoded_column>POINT (-123.46101 48.118925)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF PORT ANGELES - (WA)</electric_utility>
+      <_2020_census_tract>53009000800</_2020_census_tract>
+    </row>
+    

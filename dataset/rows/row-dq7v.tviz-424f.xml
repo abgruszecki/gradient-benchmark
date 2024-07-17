@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dq7v.tviz-424f" _uuid="00000000-0000-0000-C643-C1D47356333F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dq7v.tviz-424f">
+      <vin_1_10>JTDKN3DP6C</vin_1_10>
+      <county>Lewis</county>
+      <city>Chehalis</city>
+      <state>WA</state>
+      <zip_code>98532</zip_code>
+      <model_year>2012</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>130145165</dol_vehicle_id>
+      <geocoded_column>POINT (-122.96692 46.66113)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53041971400</_2020_census_tract>
+    </row>
+    

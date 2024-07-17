@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ffc9~cnnf.xgij" _uuid="00000000-0000-0000-AF3E-47EDB6E79C38" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ffc9~cnnf.xgij">
+      <vin_1_10>5UXTS1C07M</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99203</zip_code>
+      <model_year>2021</model_year>
+      <make>BMW</make>
+      <model>X3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>17</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>185576324</dol_vehicle_id>
+      <geocoded_column>POINT (-117.425265 47.635365)</geocoded_column>
+      <electric_utility>MODERN ELECTRIC WATER COMPANY</electric_utility>
+      <_2020_census_tract>53063004200</_2020_census_tract>
+    </row>
+    

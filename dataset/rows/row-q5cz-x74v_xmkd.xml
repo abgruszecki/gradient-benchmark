@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-q5cz-x74v_xmkd" _uuid="00000000-0000-0000-D3C9-40AFAA4FB585" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-q5cz-x74v_xmkd">
+      <vin_1_10>1G1RC6S55K</vin_1_10>
+      <county>Wahkiakum</county>
+      <city>Cathlamet</city>
+      <state>WA</state>
+      <zip_code>98612</zip_code>
+      <model_year>2019</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>53</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>140116756</dol_vehicle_id>
+      <geocoded_column>POINT (-123.380635 46.20034)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF WAHKIAKUM COUNTY</electric_utility>
+      <_2020_census_tract>53069950100</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mbrn-nn5w-w5t7" _uuid="00000000-0000-0000-60EF-AA0804662BEE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mbrn-nn5w-w5t7">
+      <vin_1_10>1C4JJXR63P</vin_1_10>
+      <county>Clark</county>
+      <city>Ridgefield</city>
+      <state>WA</state>
+      <zip_code>98642</zip_code>
+      <model_year>2023</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>18</legislative_district>
+      <dol_vehicle_id>244148936</dol_vehicle_id>
+      <geocoded_column>POINT (-122.74291 45.818445)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040303</_2020_census_tract>
+    </row>
+    

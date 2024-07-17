@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-qb9c~t9q2~g83g" _uuid="00000000-0000-0000-C253-77BA490AA639" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-qb9c~t9q2~g83g">
+      <vin_1_10>5YJ3E1EA0N</vin_1_10>
+      <county>Whitman</county>
+      <city>St John</city>
+      <state>WA</state>
+      <zip_code>99171</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>218177851</dol_vehicle_id>
+      <geocoded_column>POINT (-117.582395 47.08821)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53075000900</_2020_census_tract>
+    </row>
+    

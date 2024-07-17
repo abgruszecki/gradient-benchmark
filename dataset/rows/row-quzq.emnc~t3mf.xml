@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-quzq.emnc~t3mf" _uuid="00000000-0000-0000-274A-F73019A84944" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-quzq.emnc~t3mf">
+      <vin_1_10>JTDKARFP8J</vin_1_10>
+      <county>Snohomish</county>
+      <city>Darrington</city>
+      <state>WA</state>
+      <zip_code>98241</zip_code>
+      <model_year>2018</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>39</legislative_district>
+      <dol_vehicle_id>119516106</dol_vehicle_id>
+      <geocoded_column>POINT (-121.604165 48.252975)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY</electric_utility>
+      <_2020_census_tract>53061053700</_2020_census_tract>
+    </row>
+    

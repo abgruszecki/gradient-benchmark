@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-vdv4-7czf_jdgy" _uuid="00000000-0000-0000-0A3C-684C6E8A0E42" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-vdv4-7czf_jdgy">
+      <vin_1_10>WA132BFZ0N</vin_1_10>
+      <county>King</county>
+      <city>Medina</city>
+      <state>WA</state>
+      <zip_code>98039</zip_code>
+      <model_year>2022</model_year>
+      <make>AUDI</make>
+      <model>Q4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>48</legislative_district>
+      <dol_vehicle_id>219468385</dol_vehicle_id>
+      <geocoded_column>POINT (-122.228025 47.61598)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033024200</_2020_census_tract>
+    </row>
+    

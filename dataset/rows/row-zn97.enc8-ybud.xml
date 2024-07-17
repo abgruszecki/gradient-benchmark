@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zn97.enc8-ybud" _uuid="00000000-0000-0000-3A62-E2E445BFC5D9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zn97.enc8-ybud">
+      <vin_1_10>1G1FX6S0XJ</vin_1_10>
+      <county>Okanogan</county>
+      <city>Okanogan</city>
+      <state>WA</state>
+      <zip_code>98840</zip_code>
+      <model_year>2018</model_year>
+      <make>CHEVROLET</make>
+      <model>BOLT EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>476130294</dol_vehicle_id>
+      <geocoded_column>POINT (-119.5875704 48.3648226)</geocoded_column>
+      <electric_utility>PUD NO 1 OF OKANOGAN COUNTY</electric_utility>
+      <_2020_census_tract>53047970500</_2020_census_tract>
+    </row>
+    

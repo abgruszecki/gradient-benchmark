@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fefd~gx6i.jri2" _uuid="00000000-0000-0000-E2B6-8D6E5E480E5A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fefd~gx6i.jri2">
+      <vin_1_10>3FA6P0SU6H</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Montesano</city>
+      <state>WA</state>
+      <zip_code>98563</zip_code>
+      <model_year>2017</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>122784105</dol_vehicle_id>
+      <geocoded_column>POINT (-123.60535 46.982215)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027000800</_2020_census_tract>
+    </row>
+    

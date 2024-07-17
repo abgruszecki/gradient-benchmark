@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fym2.gqcy-gnyk" _uuid="00000000-0000-0000-3A49-2D4AD86A35F4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fym2.gqcy-gnyk">
+      <vin_1_10>5YJYGAEE3M</vin_1_10>
+      <county>Pierce</county>
+      <city>Ashford</city>
+      <state>WA</state>
+      <zip_code>98304</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>150083629</dol_vehicle_id>
+      <geocoded_column>POINT (-122.0187185 46.7560603)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||BENTON RURAL ELECTRIC ASSN|PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053073200</_2020_census_tract>
+    </row>
+    

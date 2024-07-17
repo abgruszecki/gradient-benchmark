@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yxcd.3vpz.5jp6" _uuid="00000000-0000-0000-767E-C56B86CF64A6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yxcd.3vpz.5jp6">
+      <vin_1_10>WVGRMPE28M</vin_1_10>
+      <county>Orange</county>
+      <city>Irvine</city>
+      <state>CA</state>
+      <zip_code>92620</zip_code>
+      <model_year>2021</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>ID.4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>161550532</dol_vehicle_id>
+      <geocoded_column>POINT (-117.74619 33.70468)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06059052433</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-n3i5_uee3_pwfi" _uuid="00000000-0000-0000-90A4-D474F9441AFF" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-n3i5_uee3_pwfi">
+      <vin_1_10>1G1FY6S04P</vin_1_10>
+      <county>Lewis</county>
+      <city>Packwood</city>
+      <state>WA</state>
+      <zip_code>98361</zip_code>
+      <model_year>2023</model_year>
+      <make>CHEVROLET</make>
+      <model>BOLT EUV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>218239129</dol_vehicle_id>
+      <geocoded_column>POINT (-121.66915 46.60968)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF LEWIS COUNTY</electric_utility>
+      <_2020_census_tract>53041972000</_2020_census_tract>
+    </row>
+    

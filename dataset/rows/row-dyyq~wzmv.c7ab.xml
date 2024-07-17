@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dyyq~wzmv.c7ab" _uuid="00000000-0000-0000-4D31-532DDCEDAD55" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dyyq~wzmv.c7ab">
+      <vin_1_10>WMW13DJ0XP</vin_1_10>
+      <county>Clallam</county>
+      <city>Port Angeles</city>
+      <state>WA</state>
+      <zip_code>98363</zip_code>
+      <model_year>2023</model_year>
+      <make>MINI</make>
+      <model>HARDTOP</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>226147295</dol_vehicle_id>
+      <geocoded_column>POINT (-123.46101 48.118925)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF PORT ANGELES - (WA)</electric_utility>
+      <_2020_census_tract>53009000700</_2020_census_tract>
+    </row>
+    

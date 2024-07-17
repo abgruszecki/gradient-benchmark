@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7c9g~8g9e-38kj" _uuid="00000000-0000-0000-0319-667581279F20" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7c9g~8g9e-38kj">
+      <vin_1_10>7FCTGCAA4R</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Grayland</city>
+      <state>WA</state>
+      <zip_code>98547</zip_code>
+      <model_year>2024</model_year>
+      <make>RIVIAN</make>
+      <model>R1T</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>260326482</dol_vehicle_id>
+      <geocoded_column>POINT (-124.084295 46.746475)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027001602</_2020_census_tract>
+    </row>
+    

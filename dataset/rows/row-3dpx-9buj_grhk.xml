@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3dpx-9buj_grhk" _uuid="00000000-0000-0000-4475-E1F9C3C28BA2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3dpx-9buj_grhk">
+      <vin_1_10>2C4RC1S71N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lake Stevens</city>
+      <state>WA</state>
+      <zip_code>98258</zip_code>
+      <model_year>2022</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>223905370</dol_vehicle_id>
+      <geocoded_column>POINT (-122.112265 48.0047)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052606</_2020_census_tract>
+    </row>
+    

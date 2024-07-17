@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-r6c9-ya9p_bcbk" _uuid="00000000-0000-0000-3258-3AE8D69AFE49" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-r6c9-ya9p_bcbk">
+      <vin_1_10>5YJXCBE25G</vin_1_10>
+      <county>Okanogan</county>
+      <city>Twisp</city>
+      <state>WA</state>
+      <zip_code>98856</zip_code>
+      <model_year>2016</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>200</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>231079684</dol_vehicle_id>
+      <geocoded_column>POINT (-120.12477 48.365635)</geocoded_column>
+      <electric_utility>OKANOGAN COUNTY ELEC COOP, INC</electric_utility>
+      <_2020_census_tract>53047971000</_2020_census_tract>
+    </row>
+    

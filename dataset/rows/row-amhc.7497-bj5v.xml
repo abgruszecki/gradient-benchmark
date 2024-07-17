@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-amhc.7497-bj5v" _uuid="00000000-0000-0000-379E-816D9B44305C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-amhc.7497-bj5v">
+      <vin_1_10>3FA6P0PU4G</vin_1_10>
+      <county>King</county>
+      <city>Kent</city>
+      <state>WA</state>
+      <zip_code>98042</zip_code>
+      <model_year>2016</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>47</legislative_district>
+      <dol_vehicle_id>299804781</dol_vehicle_id>
+      <geocoded_column>POINT (-122.111625 47.36078)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033029307</_2020_census_tract>
+    </row>
+    

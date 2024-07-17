@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-i828_qv68.rk7a" _uuid="00000000-0000-0000-85D7-E640608CD2A7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-i828_qv68.rk7a">
+      <vin_1_10>5YJ3E1EA7J</vin_1_10>
+      <county>Thurston</county>
+      <city>Olympia</city>
+      <state>WA</state>
+      <zip_code>98501</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>315415775</dol_vehicle_id>
+      <geocoded_column>POINT (-122.89692 47.043535)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067011721</_2020_census_tract>
+    </row>
+    

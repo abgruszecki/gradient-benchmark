@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-nq9x_ptb9_9j3q" _uuid="00000000-0000-0000-111B-39FE54B4CE94" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-nq9x_ptb9_9j3q">
+      <vin_1_10>1C4JJXR65P</vin_1_10>
+      <county>Pend Oreille</county>
+      <city>Newport</city>
+      <state>WA</state>
+      <zip_code>99156</zip_code>
+      <model_year>2023</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>257328053</dol_vehicle_id>
+      <geocoded_column>POINT (-117.049135 48.181095)</geocoded_column>
+      <electric_utility>PUD NO 1 OF PEND OREILLE COUNTY</electric_utility>
+      <_2020_census_tract>53051970500</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8a3z-6s8g.wvgy" _uuid="00000000-0000-0000-F5EE-2DCE36D13E26" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8a3z-6s8g.wvgy">
+      <vin_1_10>JHMZC5F3XJ</vin_1_10>
+      <county>Pierce</county>
+      <city>Anderson Island</city>
+      <state>WA</state>
+      <zip_code>98303</zip_code>
+      <model_year>2018</model_year>
+      <make>HONDA</make>
+      <model>CLARITY</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>47</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>28</legislative_district>
+      <dol_vehicle_id>477223890</dol_vehicle_id>
+      <geocoded_column>POINT (-122.68607 47.158295)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053072603</_2020_census_tract>
+    </row>
+    

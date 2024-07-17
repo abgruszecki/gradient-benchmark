@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-bian-2xbs-rm5i" _uuid="00000000-0000-0000-0540-178078AF612E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-bian-2xbs-rm5i">
+      <vin_1_10>YV4BR0DL0J</vin_1_10>
+      <county>San Juan</county>
+      <city>Eastsound</city>
+      <state>WA</state>
+      <zip_code>98245</zip_code>
+      <model_year>2018</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>17</electric_range>
+      <base_msrp>52900</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>241036617</dol_vehicle_id>
+      <geocoded_column>POINT (-122.907229 48.7016716)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||ORCAS POWER &amp; LIGHT COOP</electric_utility>
+      <_2020_census_tract>53055960101</_2020_census_tract>
+    </row>
+    

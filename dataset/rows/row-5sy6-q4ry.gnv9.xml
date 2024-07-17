@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5sy6-q4ry.gnv9" _uuid="00000000-0000-0000-B9E2-ADE9592D6326" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5sy6-q4ry.gnv9">
+      <vin_1_10>1G1RF6E4XD</vin_1_10>
+      <county>Chelan</county>
+      <city>Peshastin</city>
+      <state>WA</state>
+      <zip_code>98847</zip_code>
+      <model_year>2013</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>6250723</dol_vehicle_id>
+      <geocoded_column>POINT (-120.60008 47.568765)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007960502</_2020_census_tract>
+    </row>
+    

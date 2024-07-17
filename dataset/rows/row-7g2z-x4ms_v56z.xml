@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7g2z-x4ms_v56z" _uuid="00000000-0000-0000-0396-460ADC3F7988" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7g2z-x4ms_v56z">
+      <vin_1_10>KNDJP3AE0G</vin_1_10>
+      <county>Walla Walla</county>
+      <city>Touchet</city>
+      <state>WA</state>
+      <zip_code>99360</zip_code>
+      <model_year>2016</model_year>
+      <make>KIA</make>
+      <model>SOUL</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>31950</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>168861703</dol_vehicle_id>
+      <geocoded_column>POINT (-118.669895 46.039755)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53071920100</_2020_census_tract>
+    </row>
+    

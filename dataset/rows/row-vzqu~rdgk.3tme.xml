@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-vzqu~rdgk.3tme" _uuid="00000000-0000-0000-F7FA-3A3AE5D5F17A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-vzqu~rdgk.3tme">
+      <vin_1_10>WA1E2AFY3N</vin_1_10>
+      <county>Spokane</county>
+      <city>Liberty Lake</city>
+      <state>WA</state>
+      <zip_code>99019</zip_code>
+      <model_year>2022</model_year>
+      <make>AUDI</make>
+      <model>Q5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>22</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>203636373</dol_vehicle_id>
+      <geocoded_column>POINT (-117.0923638 47.6643385)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063013205</_2020_census_tract>
+    </row>
+    

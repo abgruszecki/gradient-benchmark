@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mk8u-gibz_hinu" _uuid="00000000-0000-0000-E759-F2C921F2F515" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mk8u-gibz_hinu">
+      <vin_1_10>5YJ3E1EA7P</vin_1_10>
+      <county>Franklin</county>
+      <city>Pasco</city>
+      <state>WA</state>
+      <zip_code>99301</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>253036997</dol_vehicle_id>
+      <geocoded_column>POINT (-119.0982 46.232395)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FRANKLIN COUNTY</electric_utility>
+      <_2020_census_tract>53021020201</_2020_census_tract>
+    </row>
+    

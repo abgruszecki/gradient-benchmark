@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ac3m.g2w3_mx35" _uuid="00000000-0000-0000-54D1-D0ACA97D34A2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ac3m.g2w3_mx35">
+      <vin_1_10>JTMAB3FV3R</vin_1_10>
+      <county>Clark</county>
+      <city>Camas</city>
+      <state>WA</state>
+      <zip_code>98607</zip_code>
+      <model_year>2024</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>18</legislative_district>
+      <dol_vehicle_id>261013595</dol_vehicle_id>
+      <geocoded_column>POINT (-122.405565 45.59009)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040603</_2020_census_tract>
+    </row>
+    

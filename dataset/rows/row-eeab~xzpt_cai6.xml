@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-eeab~xzpt_cai6" _uuid="00000000-0000-0000-94D5-65D2877DDC0C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-eeab~xzpt_cai6">
+      <vin_1_10>KNDJX3AEXH</vin_1_10>
+      <county>Yakima</county>
+      <city>Moxee</city>
+      <state>WA</state>
+      <zip_code>98936</zip_code>
+      <model_year>2017</model_year>
+      <make>KIA</make>
+      <model>SOUL EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>32250</base_msrp>
+      <legislative_district>15</legislative_district>
+      <dol_vehicle_id>244989629</dol_vehicle_id>
+      <geocoded_column>POINT (-120.3795117 46.55609)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077001702</_2020_census_tract>
+    </row>
+    

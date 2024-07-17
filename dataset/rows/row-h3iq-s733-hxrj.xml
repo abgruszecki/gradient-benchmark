@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-h3iq-s733-hxrj" _uuid="00000000-0000-0000-D280-6DE4E0FB95C3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-h3iq-s733-hxrj">
+      <vin_1_10>5YJ3E1EA8J</vin_1_10>
+      <county>Kittitas</county>
+      <city>Ronald</city>
+      <state>WA</state>
+      <zip_code>98940</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>305315538</dol_vehicle_id>
+      <geocoded_column>POINT (-121.0551802 47.2555714)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53037975101</_2020_census_tract>
+    </row>
+    

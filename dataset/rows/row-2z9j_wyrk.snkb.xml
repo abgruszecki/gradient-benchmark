@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2z9j_wyrk.snkb" _uuid="00000000-0000-0000-9AF3-852796A8817D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2z9j_wyrk.snkb">
+      <vin_1_10>KM8K53AG1L</vin_1_10>
+      <county>Grant</county>
+      <city>Moses Lake</city>
+      <state>WA</state>
+      <zip_code>98837</zip_code>
+      <model_year>2020</model_year>
+      <make>HYUNDAI</make>
+      <model>KONA</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>258</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>120622008</dol_vehicle_id>
+      <geocoded_column>POINT (-119.2599876 47.1240154)</geocoded_column>
+      <electric_utility>PUD NO 2 OF GRANT COUNTY</electric_utility>
+      <_2020_census_tract>53025011101</_2020_census_tract>
+    </row>
+    

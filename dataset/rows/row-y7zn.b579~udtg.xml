@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-y7zn.b579~udtg" _uuid="00000000-0000-0000-6598-F165F5C7428E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-y7zn.b579~udtg">
+      <vin_1_10>5YJ3E1EA8K</vin_1_10>
+      <county>Tarrant</county>
+      <city>Southlake</city>
+      <state>TX</state>
+      <zip_code>76092</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>153847578</dol_vehicle_id>
+      <geocoded_column>POINT (-97.13019 32.944485)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>48439113908</_2020_census_tract>
+    </row>
+    

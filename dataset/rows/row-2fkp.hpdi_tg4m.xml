@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2fkp.hpdi_tg4m" _uuid="00000000-0000-0000-40D5-F52C097B56D4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2fkp.hpdi_tg4m">
+      <vin_1_10>1G1FX6S09H</vin_1_10>
+      <county>Walla Walla</county>
+      <city>Waitsburg</city>
+      <state>WA</state>
+      <zip_code>99361</zip_code>
+      <model_year>2017</model_year>
+      <make>CHEVROLET</make>
+      <model>BOLT EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>114794508</dol_vehicle_id>
+      <geocoded_column>POINT (-118.15324 46.267955)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PACIFICORP||COLUMBIA RURAL ELEC ASSN, INC</electric_utility>
+      <_2020_census_tract>53071920100</_2020_census_tract>
+    </row>
+    

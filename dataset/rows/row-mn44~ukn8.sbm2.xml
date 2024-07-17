@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mn44~ukn8.sbm2" _uuid="00000000-0000-0000-FE9C-B1D97C579918" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mn44~ukn8.sbm2">
+      <vin_1_10>1GYKPSRL1R</vin_1_10>
+      <county>Okanogan</county>
+      <city>Oroville</city>
+      <state>WA</state>
+      <zip_code>98844</zip_code>
+      <model_year>2024</model_year>
+      <make>CADILLAC</make>
+      <model>LYRIQ</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>260325698</dol_vehicle_id>
+      <geocoded_column>POINT (-119.43496 48.935165)</geocoded_column>
+      <electric_utility>PUD NO 1 OF OKANOGAN COUNTY</electric_utility>
+      <_2020_census_tract>53047970301</_2020_census_tract>
+    </row>
+    

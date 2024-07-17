@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-vaxm_uemf_4d8n" _uuid="00000000-0000-0000-ECF5-0B15879E1B2E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-vaxm_uemf_4d8n">
+      <vin_1_10>5YJXCDE23H</vin_1_10>
+      <county>Asotin</county>
+      <city>Asotin</city>
+      <state>WA</state>
+      <zip_code>99402</zip_code>
+      <model_year>2017</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>200</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>116722273</dol_vehicle_id>
+      <geocoded_column>POINT (-117.04437 46.338085)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||PUD NO 1 OF ASOTIN COUNTY</electric_utility>
+      <_2020_census_tract>53003960100</_2020_census_tract>
+    </row>
+    

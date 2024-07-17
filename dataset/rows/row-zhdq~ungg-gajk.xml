@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zhdq~ungg-gajk" _uuid="00000000-0000-0000-0217-736E0957E6E8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zhdq~ungg-gajk">
+      <vin_1_10>KNDC3DLC7P</vin_1_10>
+      <county>Kitsap</county>
+      <city>Port Orchard</city>
+      <state>WA</state>
+      <zip_code>98366</zip_code>
+      <model_year>2023</model_year>
+      <make>KIA</make>
+      <model>EV6</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>26</legislative_district>
+      <dol_vehicle_id>254650924</dol_vehicle_id>
+      <geocoded_column>POINT (-122.639265 47.5373)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035092300</_2020_census_tract>
+    </row>
+    

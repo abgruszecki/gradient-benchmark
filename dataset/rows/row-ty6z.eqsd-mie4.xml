@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ty6z.eqsd-mie4" _uuid="00000000-0000-0000-8618-821517208C17" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ty6z.eqsd-mie4">
+      <vin_1_10>1N4AZ0CPXF</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane Valley</city>
+      <state>WA</state>
+      <zip_code>99016</zip_code>
+      <model_year>2015</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>84</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>9727224</dol_vehicle_id>
+      <geocoded_column>POINT (-117.1407 47.673675)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063013102</_2020_census_tract>
+    </row>
+    

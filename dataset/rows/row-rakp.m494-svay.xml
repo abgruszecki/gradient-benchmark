@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rakp.m494-svay" _uuid="00000000-0000-0000-D337-C1FD4D984B72" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rakp.m494-svay">
+      <vin_1_10>JTDKARFP1J</vin_1_10>
+      <county>Whatcom</county>
+      <city>Glacier</city>
+      <state>WA</state>
+      <zip_code>98244</zip_code>
+      <model_year>2018</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>183788517</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2121108 48.8228838)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073010103</_2020_census_tract>
+    </row>
+    

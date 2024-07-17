@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-gx2z-kxnw.kh2a" _uuid="00000000-0000-0000-7AD6-703C048112AE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-gx2z-kxnw.kh2a">
+      <vin_1_10>YV4ED3UR4N</vin_1_10>
+      <county>King</county>
+      <city>Duvall</city>
+      <state>WA</state>
+      <zip_code>98019</zip_code>
+      <model_year>2022</model_year>
+      <make>VOLVO</make>
+      <model>XC40</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>45</legislative_district>
+      <dol_vehicle_id>192327586</dol_vehicle_id>
+      <geocoded_column>POINT (-121.9810747 47.7377962)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032401</_2020_census_tract>
+    </row>
+    

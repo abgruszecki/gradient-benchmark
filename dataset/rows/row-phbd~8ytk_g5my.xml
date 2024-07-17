@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-phbd~8ytk_g5my" _uuid="00000000-0000-0000-0AA2-8DE32955F8C8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-phbd~8ytk_g5my">
+      <vin_1_10>WP1AE2A26H</vin_1_10>
+      <county>Spokane</county>
+      <city>Mead</city>
+      <state>WA</state>
+      <zip_code>99021</zip_code>
+      <model_year>2017</model_year>
+      <make>PORSCHE</make>
+      <model>CAYENNE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>253264028</dol_vehicle_id>
+      <geocoded_column>POINT (-117.35761 47.76885)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063010203</_2020_census_tract>
+    </row>
+    

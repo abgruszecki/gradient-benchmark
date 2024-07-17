@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8rg5_ahjp~m3it" _uuid="00000000-0000-0000-F913-7E18888FE17F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8rg5_ahjp~m3it">
+      <vin_1_10>5YJSA1S19F</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98126</zip_code>
+      <model_year>2015</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>34</legislative_district>
+      <dol_vehicle_id>348044287</dol_vehicle_id>
+      <geocoded_column>POINT (-122.374105 47.54468)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033009802</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-qdqr~w68p-rdd9" _uuid="00000000-0000-0000-22F2-CB757CDA9987" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-qdqr~w68p-rdd9">
+      <vin_1_10>1N4AZ0CP2D</vin_1_10>
+      <county>Clark</county>
+      <city>La Center</city>
+      <state>WA</state>
+      <zip_code>98629</zip_code>
+      <model_year>2013</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>75</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>18</legislative_district>
+      <dol_vehicle_id>162684987</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6706246 45.8662548)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040201</_2020_census_tract>
+    </row>
+    

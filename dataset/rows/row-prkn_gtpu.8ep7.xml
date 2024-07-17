@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-prkn_gtpu.8ep7" _uuid="00000000-0000-0000-8DD8-52AB22588E8A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-prkn_gtpu.8ep7">
+      <vin_1_10>5YJ3E1EB4L</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99208</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>322</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>103206204</dol_vehicle_id>
+      <geocoded_column>POINT (-117.40725 47.718625)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063010701</_2020_census_tract>
+    </row>
+    

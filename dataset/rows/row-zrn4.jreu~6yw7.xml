@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zrn4.jreu~6yw7" _uuid="00000000-0000-0000-1609-8468929483B1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zrn4.jreu~6yw7">
+      <vin_1_10>KM8S6DA23N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Snohomish</city>
+      <state>WA</state>
+      <zip_code>98296</zip_code>
+      <model_year>2022</model_year>
+      <make>HYUNDAI</make>
+      <model>SANTA FE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>31</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>193991906</dol_vehicle_id>
+      <geocoded_column>POINT (-122.15134 47.8851158)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052008</_2020_census_tract>
+    </row>
+    

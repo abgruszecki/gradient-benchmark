@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-u7e5_48mg~cn2k" _uuid="00000000-0000-0000-F145-11815E1F24C9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-u7e5_48mg~cn2k">
+      <vin_1_10>WBY73AW08P</vin_1_10>
+      <county>Snohomish</county>
+      <city>Arlington</city>
+      <state>WA</state>
+      <zip_code>98223</zip_code>
+      <model_year>2023</model_year>
+      <make>BMW</make>
+      <model>I4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>39</legislative_district>
+      <dol_vehicle_id>244550281</dol_vehicle_id>
+      <geocoded_column>POINT (-122.12324 48.19485)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061053507</_2020_census_tract>
+    </row>
+    

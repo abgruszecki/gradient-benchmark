@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-c4am-v87d.f3r2" _uuid="00000000-0000-0000-F1A3-AF10CCDB5860" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-c4am-v87d.f3r2">
+      <vin_1_10>JTDKARFP3L</vin_1_10>
+      <county>Harford</county>
+      <city>Edgewood</city>
+      <state>MD</state>
+      <zip_code>21040</zip_code>
+      <model_year>2020</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>2657119</dol_vehicle_id>
+      <geocoded_column>POINT (-76.3176297 39.4257329)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>24025301601</_2020_census_tract>
+    </row>
+    

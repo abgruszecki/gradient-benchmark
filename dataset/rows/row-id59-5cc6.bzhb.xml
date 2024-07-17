@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-id59-5cc6.bzhb" _uuid="00000000-0000-0000-D2C4-B48BC6F50A1D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-id59-5cc6.bzhb">
+      <vin_1_10>4JGDA6DB0J</vin_1_10>
+      <county>Kitsap</county>
+      <city>Silverdale</city>
+      <state>WA</state>
+      <zip_code>98383</zip_code>
+      <model_year>2018</model_year>
+      <make>MERCEDES-BENZ</make>
+      <model>GLE-CLASS</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>8</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>162868716</dol_vehicle_id>
+      <geocoded_column>POINT (-122.668076 47.665978)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035091201</_2020_census_tract>
+    </row>
+    

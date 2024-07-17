@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-vyp4~bvmt~2iyy" _uuid="00000000-0000-0000-C024-CA5815A67CF0" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-vyp4~bvmt~2iyy">
+      <vin_1_10>5YJXCAE25H</vin_1_10>
+      <county>Pierce</county>
+      <city>Orting</city>
+      <state>WA</state>
+      <zip_code>98360</zip_code>
+      <model_year>2017</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>200</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>264542750</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2032237 47.0942956)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||BENTON RURAL ELECTRIC ASSN|PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053073118</_2020_census_tract>
+    </row>
+    

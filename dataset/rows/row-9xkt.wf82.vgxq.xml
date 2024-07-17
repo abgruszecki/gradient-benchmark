@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-9xkt.wf82.vgxq" _uuid="00000000-0000-0000-1A62-0B3D62AAF098" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-9xkt.wf82.vgxq">
+      <vin_1_10>7FCTGAAL5N</vin_1_10>
+      <county>Okanogan</county>
+      <city>Winthrop</city>
+      <state>WA</state>
+      <zip_code>98862</zip_code>
+      <model_year>2022</model_year>
+      <make>RIVIAN</make>
+      <model>R1T</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>240596667</dol_vehicle_id>
+      <geocoded_column>POINT (-120.1774093 48.4741766)</geocoded_column>
+      <electric_utility>OKANOGAN COUNTY ELEC COOP, INC</electric_utility>
+      <_2020_census_tract>53047970900</_2020_census_tract>
+    </row>
+    

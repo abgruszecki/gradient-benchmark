@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-9k6z.k865~h7qm" _uuid="00000000-0000-0000-74BD-D1A61E5F16A5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-9k6z.k865~h7qm">
+      <vin_1_10>KL8CK6S07E</vin_1_10>
+      <county>Kittitas</county>
+      <city>Cle Elum</city>
+      <state>WA</state>
+      <zip_code>98922</zip_code>
+      <model_year>2014</model_year>
+      <make>CHEVROLET</make>
+      <model>SPARK</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>82</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>220545426</dol_vehicle_id>
+      <geocoded_column>POINT (-120.938305 47.195355)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53037975201</_2020_census_tract>
+    </row>
+    

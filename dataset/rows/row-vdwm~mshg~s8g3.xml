@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-vdwm~mshg~s8g3" _uuid="00000000-0000-0000-0DD8-5671E7B7AD0E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-vdwm~mshg~s8g3">
+      <vin_1_10>JM3KKBHAXR</vin_1_10>
+      <county>Benton</county>
+      <city>Richland</city>
+      <state>WA</state>
+      <zip_code>99338</zip_code>
+      <model_year>2024</model_year>
+      <make>MAZDA</make>
+      <model>CX-90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>8</legislative_district>
+      <dol_vehicle_id>261668592</dol_vehicle_id>
+      <geocoded_column>POINT (-119.1973001 46.1911488)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF RICHLAND - (WA)</electric_utility>
+      <_2020_census_tract>53005010811</_2020_census_tract>
+    </row>
+    

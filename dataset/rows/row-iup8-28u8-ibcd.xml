@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-iup8-28u8-ibcd" _uuid="00000000-0000-0000-FB6A-4C60F9F0672E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-iup8-28u8-ibcd">
+      <vin_1_10>7SAYGDEE2N</vin_1_10>
+      <county>Middlesex</county>
+      <city>East Brunswick</city>
+      <state>NJ</state>
+      <zip_code>8816</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>198284397</dol_vehicle_id>
+      <geocoded_column>POINT (-74.3965246 40.4397856)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>34023006403</_2020_census_tract>
+    </row>
+    

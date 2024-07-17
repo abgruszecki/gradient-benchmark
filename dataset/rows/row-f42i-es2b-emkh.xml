@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-f42i-es2b-emkh" _uuid="00000000-0000-0000-74A6-3A94E6A3A686" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-f42i-es2b-emkh">
+      <vin_1_10>5YJSA1S26F</vin_1_10>
+      <county>Island</county>
+      <city>Langley</city>
+      <state>WA</state>
+      <zip_code>98260</zip_code>
+      <model_year>2015</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>477966884</dol_vehicle_id>
+      <geocoded_column>POINT (-122.408015 48.03557)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53029972000</_2020_census_tract>
+    </row>
+    

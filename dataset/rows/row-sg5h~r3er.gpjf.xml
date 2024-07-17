@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-sg5h~r3er.gpjf" _uuid="00000000-0000-0000-0E75-1AC7A1BD6314" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-sg5h~r3er.gpjf">
+      <vin_1_10>WA1AAAGE7N</vin_1_10>
+      <county>Whatcom</county>
+      <city>Ferndale</city>
+      <state>WA</state>
+      <zip_code>98248</zip_code>
+      <model_year>2022</model_year>
+      <make>AUDI</make>
+      <model>E-TRON</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>208338686</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6011039 48.85324)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073010407</_2020_census_tract>
+    </row>
+    

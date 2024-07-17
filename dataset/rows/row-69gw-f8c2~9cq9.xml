@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-69gw-f8c2~9cq9" _uuid="00000000-0000-0000-72EC-2A33A0E397DC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-69gw-f8c2~9cq9">
+      <vin_1_10>YH4K16AA1C</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98136</zip_code>
+      <model_year>2012</model_year>
+      <make>FISKER</make>
+      <model>KARMA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>33</electric_range>
+      <base_msrp>102000</base_msrp>
+      <legislative_district>34</legislative_district>
+      <dol_vehicle_id>191261577</dol_vehicle_id>
+      <geocoded_column>POINT (-122.388675 47.5415)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033011601</_2020_census_tract>
+    </row>
+    

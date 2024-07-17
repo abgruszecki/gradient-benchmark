@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ydxy.2jns-3u49" _uuid="00000000-0000-0000-659D-78665645DCF1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ydxy.2jns-3u49">
+      <vin_1_10>WMWXP3C06M</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99223</zip_code>
+      <model_year>2021</model_year>
+      <make>MINI</make>
+      <model>HARDTOP</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>110</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>127312286</dol_vehicle_id>
+      <geocoded_column>POINT (-117.369705 47.62637)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063005000</_2020_census_tract>
+    </row>
+    

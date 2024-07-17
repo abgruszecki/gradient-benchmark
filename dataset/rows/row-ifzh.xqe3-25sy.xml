@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ifzh.xqe3-25sy" _uuid="00000000-0000-0000-D545-B4FB9BCE74E4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ifzh.xqe3-25sy">
+      <vin_1_10>JM3KKBHA2R</vin_1_10>
+      <county>Pierce</county>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip_code>98408</zip_code>
+      <model_year>2024</model_year>
+      <make>MAZDA</make>
+      <model>CX-90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>27</legislative_district>
+      <dol_vehicle_id>245623871</dol_vehicle_id>
+      <geocoded_column>POINT (-122.438105 47.20322)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053062400</_2020_census_tract>
+    </row>
+    

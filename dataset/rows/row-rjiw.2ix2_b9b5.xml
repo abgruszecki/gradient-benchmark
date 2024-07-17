@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rjiw.2ix2_b9b5" _uuid="00000000-0000-0000-CD87-FBDB7B8A2724" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rjiw.2ix2_b9b5">
+      <vin_1_10>WA1AAAGEXM</vin_1_10>
+      <county>Snohomish</county>
+      <city>Marysville</city>
+      <state>WA</state>
+      <zip_code>98271</zip_code>
+      <model_year>2021</model_year>
+      <make>AUDI</make>
+      <model>E-TRON</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>222</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>38</legislative_district>
+      <dol_vehicle_id>168483339</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1713847 48.10433)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061053101</_2020_census_tract>
+    </row>
+    

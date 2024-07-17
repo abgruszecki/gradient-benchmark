@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dbiz~9z79_w56a" _uuid="00000000-0000-0000-EFEB-7C01E431DF04" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dbiz~9z79_w56a">
+      <vin_1_10>YV4BR0DM1N</vin_1_10>
+      <county>Richland</county>
+      <city>Hopkins</city>
+      <state>SC</state>
+      <zip_code>29061</zip_code>
+      <model_year>2022</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>18</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>180447655</dol_vehicle_id>
+      <geocoded_column>POINT (-80.87906 33.95925)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>45079011801</_2020_census_tract>
+    </row>
+    

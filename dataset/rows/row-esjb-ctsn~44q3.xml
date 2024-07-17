@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-esjb-ctsn~44q3" _uuid="00000000-0000-0000-05E8-C3A0AD0BB2C9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-esjb-ctsn~44q3">
+      <vin_1_10>5YJRE1A14B</vin_1_10>
+      <county>Snohomish</county>
+      <city>Brier</city>
+      <state>WA</state>
+      <zip_code>98036</zip_code>
+      <model_year>2011</model_year>
+      <make>TESLA</make>
+      <model>ROADSTER</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>245</electric_range>
+      <base_msrp>109000</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>160902584</dol_vehicle_id>
+      <geocoded_column>POINT (-122.316675 47.819365)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051913</_2020_census_tract>
+    </row>
+    

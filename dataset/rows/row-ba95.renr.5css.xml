@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ba95.renr.5css" _uuid="00000000-0000-0000-9AC2-5013B4A891C4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ba95.renr.5css">
+      <vin_1_10>WBY2Z2C53F</vin_1_10>
+      <county>Thurston</county>
+      <city>Yelm</city>
+      <state>WA</state>
+      <zip_code>98597</zip_code>
+      <model_year>2015</model_year>
+      <make>BMW</make>
+      <model>I8</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>154666788</dol_vehicle_id>
+      <geocoded_column>POINT (-122.61023 46.94126)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012421</_2020_census_tract>
+    </row>
+    

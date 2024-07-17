@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pjhx_kfji~3fzw" _uuid="00000000-0000-0000-DF7B-965508D09739" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pjhx_kfji~3fzw">
+      <vin_1_10>5YJSA1E29J</vin_1_10>
+      <county>Kitsap</county>
+      <city>Bainbridge Island</city>
+      <state>WA</state>
+      <zip_code>98110</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>249</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>112582634</dol_vehicle_id>
+      <geocoded_column>POINT (-122.5235781 47.6293323)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035090902</_2020_census_tract>
+    </row>
+    

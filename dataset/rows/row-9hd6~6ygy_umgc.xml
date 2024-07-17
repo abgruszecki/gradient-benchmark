@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-9hd6~6ygy_umgc" _uuid="00000000-0000-0000-ED44-2C6FBD70A96A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-9hd6~6ygy_umgc">
+      <vin_1_10>3FA6P0SU6F</vin_1_10>
+      <county>Kitsap</county>
+      <city>Port Orchard</city>
+      <state>WA</state>
+      <zip_code>98367</zip_code>
+      <model_year>2015</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>35</legislative_district>
+      <dol_vehicle_id>289413911</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6847073 47.50524)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035092901</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-va44~t2p4_95s2" _uuid="00000000-0000-0000-F220-72967DF59708" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-va44~t2p4_95s2">
+      <vin_1_10>1N4AZ0CP3D</vin_1_10>
+      <county>Clallam</county>
+      <city>Port Angeles</city>
+      <state>WA</state>
+      <zip_code>98363</zip_code>
+      <model_year>2013</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>75</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>135221845</dol_vehicle_id>
+      <geocoded_column>POINT (-123.46101 48.118925)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF PORT ANGELES - (WA)</electric_utility>
+      <_2020_census_tract>53009000800</_2020_census_tract>
+    </row>
+    

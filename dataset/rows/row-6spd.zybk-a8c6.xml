@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6spd.zybk-a8c6" _uuid="00000000-0000-0000-8D60-2BD4E797D184" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6spd.zybk-a8c6">
+      <vin_1_10>JTDKN3DPXD</vin_1_10>
+      <county>Prince George's</county>
+      <city>Upper Marlboro</city>
+      <state>MD</state>
+      <zip_code>20774</zip_code>
+      <model_year>2013</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>140485677</dol_vehicle_id>
+      <geocoded_column>POINT (-76.8140927 38.8899714)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>24033803514</_2020_census_tract>
+    </row>
+    

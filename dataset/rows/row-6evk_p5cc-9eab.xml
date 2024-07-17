@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6evk_p5cc-9eab" _uuid="00000000-0000-0000-9EC1-ACD20AFA2BAB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6evk_p5cc-9eab">
+      <vin_1_10>3FA6P0SU0K</vin_1_10>
+      <county>Galveston</county>
+      <city>Dickinson</city>
+      <state>TX</state>
+      <zip_code>77539</zip_code>
+      <model_year>2019</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>187431989</dol_vehicle_id>
+      <geocoded_column>POINT (-95.05013 29.465695)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>48167720601</_2020_census_tract>
+    </row>
+    

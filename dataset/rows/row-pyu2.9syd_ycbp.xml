@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pyu2.9syd_ycbp" _uuid="00000000-0000-0000-CB9A-A4437B918DB9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pyu2.9syd_ycbp">
+      <vin_1_10>WP1AE2A24G</vin_1_10>
+      <county>King</county>
+      <city>Enumclaw</city>
+      <state>WA</state>
+      <zip_code>98022</zip_code>
+      <model_year>2016</model_year>
+      <make>PORSCHE</make>
+      <model>CAYENNE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>271249555</dol_vehicle_id>
+      <geocoded_column>POINT (-121.98953 47.20347)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031302</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-hw8u.y68y.63n6" _uuid="00000000-0000-0000-DC61-8D5814299AE6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-hw8u.y68y.63n6">
+      <vin_1_10>3FA6P0SU2L</vin_1_10>
+      <county>Fairfax</county>
+      <city>Fort Belvoir</city>
+      <state>VA</state>
+      <zip_code>22060</zip_code>
+      <model_year>2020</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>260959807</dol_vehicle_id>
+      <geocoded_column>POINT (-77.138375 38.69559)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>51059422000</_2020_census_tract>
+    </row>
+    

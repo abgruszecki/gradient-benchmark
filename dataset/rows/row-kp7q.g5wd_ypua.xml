@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kp7q.g5wd_ypua" _uuid="00000000-0000-0000-7904-2B43AAA2FA2C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kp7q.g5wd_ypua">
+      <vin_1_10>7SAXCBE68N</vin_1_10>
+      <county>Skagit</county>
+      <city>Mount Vernon</city>
+      <state>WA</state>
+      <zip_code>98274</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>216854361</dol_vehicle_id>
+      <geocoded_column>POINT (-122.322955 48.4152)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53057951200</_2020_census_tract>
+    </row>
+    

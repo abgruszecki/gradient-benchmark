@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-4f72.djx9-2gbc" _uuid="00000000-0000-0000-658C-F9B8C15D0D72" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-4f72.djx9-2gbc">
+      <vin_1_10>JTDKN3DP5D</vin_1_10>
+      <county>Kittitas</county>
+      <city>Cle Elum</city>
+      <state>WA</state>
+      <zip_code>98922</zip_code>
+      <model_year>2013</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>260551063</dol_vehicle_id>
+      <geocoded_column>POINT (-120.938305 47.195355)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53037975102</_2020_census_tract>
+    </row>
+    

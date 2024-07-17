@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zrrj~cs3h_4qar" _uuid="00000000-0000-0000-1572-BAD745A82148" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zrrj~cs3h_4qar">
+      <vin_1_10>JF2GTDNC6K</vin_1_10>
+      <county>Williamson</county>
+      <city>Round Rock</city>
+      <state>TX</state>
+      <zip_code>78681</zip_code>
+      <model_year>2019</model_year>
+      <make>SUBARU</make>
+      <model>CROSSTREK</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>17</electric_range>
+      <base_msrp>34995</base_msrp>
+      <dol_vehicle_id>227747733</dol_vehicle_id>
+      <geocoded_column>POINT (-97.6944 30.516005)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>48491020606</_2020_census_tract>
+    </row>
+    

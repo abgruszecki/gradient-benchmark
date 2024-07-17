@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zjjj~ip4x.95ga" _uuid="00000000-0000-0000-58E7-5B831F84674A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zjjj~ip4x.95ga">
+      <vin_1_10>WBAJA9C51J</vin_1_10>
+      <county>Clallam</county>
+      <city>Sequim</city>
+      <state>WA</state>
+      <zip_code>98382</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>530E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>16</electric_range>
+      <base_msrp>52650</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>239556845</dol_vehicle_id>
+      <geocoded_column>POINT (-123.105015 48.08125)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLALLAM COUNTY</electric_utility>
+      <_2020_census_tract>53009001902</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dzv9~2y2r-w53u" _uuid="00000000-0000-0000-B2EB-9A463ABEEF48" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dzv9~2y2r-w53u">
+      <vin_1_10>1C4JJXN61P</vin_1_10>
+      <county>Douglas</county>
+      <city>East Wenatchee</city>
+      <state>WA</state>
+      <zip_code>98802</zip_code>
+      <model_year>2023</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>253245996</dol_vehicle_id>
+      <geocoded_column>POINT (-120.28674 47.4176)</geocoded_column>
+      <electric_utility>PUD NO 1 OF DOUGLAS COUNTY</electric_utility>
+      <_2020_census_tract>53017950500</_2020_census_tract>
+    </row>
+    

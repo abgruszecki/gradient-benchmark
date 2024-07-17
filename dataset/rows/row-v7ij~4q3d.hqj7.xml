@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-v7ij~4q3d.hqj7" _uuid="00000000-0000-0000-30B1-E20487892C7D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-v7ij~4q3d.hqj7">
+      <vin_1_10>1G1RA6S58K</vin_1_10>
+      <county>Kitsap</county>
+      <city>Bremerton</city>
+      <state>WA</state>
+      <zip_code>98310</zip_code>
+      <model_year>2019</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>53</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>311566825</dol_vehicle_id>
+      <geocoded_column>POINT (-122.611365 47.575195)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035080300</_2020_census_tract>
+    </row>
+    

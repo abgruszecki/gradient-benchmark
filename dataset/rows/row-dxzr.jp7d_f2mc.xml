@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dxzr.jp7d_f2mc" _uuid="00000000-0000-0000-F298-DF8B9257C8C5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dxzr.jp7d_f2mc">
+      <vin_1_10>5YJ3E1EB0K</vin_1_10>
+      <county>Kitsap</county>
+      <city>Hansville</city>
+      <state>WA</state>
+      <zip_code>98340</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>478754125</dol_vehicle_id>
+      <geocoded_column>POINT (-122.57781 47.903975)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035090101</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-j5jn-86bq~2ajw" _uuid="00000000-0000-0000-28D3-BEF0EC7B8378" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-j5jn-86bq~2ajw">
+      <vin_1_10>WAUTPBFF8J</vin_1_10>
+      <county>Thurston</county>
+      <city>Tenino</city>
+      <state>WA</state>
+      <zip_code>98589</zip_code>
+      <model_year>2018</model_year>
+      <make>AUDI</make>
+      <model>A3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>16</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>186582553</dol_vehicle_id>
+      <geocoded_column>POINT (-122.85403 46.856085)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012620</_2020_census_tract>
+    </row>
+    

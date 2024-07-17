@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-btid.mfmg_4e9g" _uuid="00000000-0000-0000-2E4B-1221D4F20E3C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-btid.mfmg_4e9g">
+      <vin_1_10>5YJYGDEE0M</vin_1_10>
+      <county>Mason</county>
+      <city>Belfair</city>
+      <state>WA</state>
+      <zip_code>98528</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>35</legislative_district>
+      <dol_vehicle_id>172547287</dol_vehicle_id>
+      <geocoded_column>POINT (-122.8551647 47.4495785)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 3 OF MASON COUNTY</electric_utility>
+      <_2020_census_tract>53045960500</_2020_census_tract>
+    </row>
+    

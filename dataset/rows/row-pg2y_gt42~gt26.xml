@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pg2y_gt42~gt26" _uuid="00000000-0000-0000-BEE0-C9B13DFA002F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pg2y_gt42~gt26">
+      <vin_1_10>1G1RA6E42D</vin_1_10>
+      <county>King</county>
+      <city>Renton</city>
+      <state>WA</state>
+      <zip_code>98056</zip_code>
+      <model_year>2013</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>11</legislative_district>
+      <dol_vehicle_id>241406182</dol_vehicle_id>
+      <geocoded_column>POINT (-122.180505 47.500055)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033025401</_2020_census_tract>
+    </row>
+    

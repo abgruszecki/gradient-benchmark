@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-x45i~ihjw.q6ix" _uuid="00000000-0000-0000-AAF7-081186A1EA06" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-x45i~ihjw.q6ix">
+      <vin_1_10>KNDCC3LG2L</vin_1_10>
+      <county>King</county>
+      <city>Seatac</city>
+      <state>WA</state>
+      <zip_code>98188</zip_code>
+      <model_year>2020</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>239</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>33</legislative_district>
+      <dol_vehicle_id>155055722</dol_vehicle_id>
+      <geocoded_column>POINT (-122.29179 47.43473)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033028300</_2020_census_tract>
+    </row>
+    

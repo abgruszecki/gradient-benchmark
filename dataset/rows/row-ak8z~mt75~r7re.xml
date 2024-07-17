@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ak8z~mt75~r7re" _uuid="00000000-0000-0000-EA11-4D4BB583471F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ak8z~mt75~r7re">
+      <vin_1_10>5YJ3E1EA5M</vin_1_10>
+      <county>King</county>
+      <city>Renton</city>
+      <state>WA</state>
+      <zip_code>98057</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>11</legislative_district>
+      <dol_vehicle_id>148298272</dol_vehicle_id>
+      <geocoded_column>POINT (-122.21024 47.4797047)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033025704</_2020_census_tract>
+    </row>
+    

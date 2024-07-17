@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-srtf~p478~cbrt" _uuid="00000000-0000-0000-7D6C-295635126B73" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-srtf~p478~cbrt">
+      <vin_1_10>WBY7Z6C53J</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Ocean Shores</city>
+      <state>WA</state>
+      <zip_code>98569</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>114</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>150629636</dol_vehicle_id>
+      <geocoded_column>POINT (-124.1599804 47.0075271)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027000201</_2020_census_tract>
+    </row>
+    

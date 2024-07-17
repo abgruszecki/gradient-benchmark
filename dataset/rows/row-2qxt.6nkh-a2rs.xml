@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2qxt.6nkh-a2rs" _uuid="00000000-0000-0000-140E-F5B95377100C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2qxt.6nkh-a2rs">
+      <vin_1_10>1N4AZ1CP9J</vin_1_10>
+      <county>King</county>
+      <city>Woodinville</city>
+      <state>WA</state>
+      <zip_code>98072</zip_code>
+      <model_year>2018</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>151</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>45</legislative_district>
+      <dol_vehicle_id>474213939</dol_vehicle_id>
+      <geocoded_column>POINT (-122.151665 47.75855)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033021802</_2020_census_tract>
+    </row>
+    

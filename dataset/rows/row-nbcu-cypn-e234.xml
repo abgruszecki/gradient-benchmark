@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-nbcu-cypn-e234" _uuid="00000000-0000-0000-92E9-4F4B1F5C9492" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-nbcu-cypn-e234">
+      <vin_1_10>1C4JJXP6XM</vin_1_10>
+      <county>Stevens</county>
+      <city>Colville</city>
+      <state>WA</state>
+      <zip_code>99114</zip_code>
+      <model_year>2021</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>175590705</dol_vehicle_id>
+      <geocoded_column>POINT (-117.90431 48.547075)</geocoded_column>
+      <electric_utility>AVISTA CORP</electric_utility>
+      <_2020_census_tract>53065950200</_2020_census_tract>
+    </row>
+    

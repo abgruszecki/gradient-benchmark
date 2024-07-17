@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-uktd-m97n~cici" _uuid="00000000-0000-0000-614D-9F0BBD777347" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-uktd-m97n~cici">
+      <vin_1_10>KNDC4DLC1P</vin_1_10>
+      <county>Okanogan</county>
+      <city>Oroville</city>
+      <state>WA</state>
+      <zip_code>98844</zip_code>
+      <model_year>2023</model_year>
+      <make>KIA</make>
+      <model>EV6</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>245531156</dol_vehicle_id>
+      <geocoded_column>POINT (-119.43496 48.935165)</geocoded_column>
+      <electric_utility>PUD NO 1 OF OKANOGAN COUNTY</electric_utility>
+      <_2020_census_tract>53047970301</_2020_census_tract>
+    </row>
+    

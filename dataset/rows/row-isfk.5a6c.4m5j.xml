@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-isfk.5a6c.4m5j" _uuid="00000000-0000-0000-E1CB-3F5EE91C895D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-isfk.5a6c.4m5j">
+      <vin_1_10>2C4RC1N78K</vin_1_10>
+      <county>Yakima</county>
+      <city>Yakima</city>
+      <state>WA</state>
+      <zip_code>98903</zip_code>
+      <model_year>2019</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>39995</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>120425532</dol_vehicle_id>
+      <geocoded_column>POINT (-120.477805 46.553505)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077002803</_2020_census_tract>
+    </row>
+    

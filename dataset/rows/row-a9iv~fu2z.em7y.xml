@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-a9iv~fu2z.em7y" _uuid="00000000-0000-0000-D137-DE93B5BB9377" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-a9iv~fu2z.em7y">
+      <vin_1_10>1G1FX6S01H</vin_1_10>
+      <county>Stevens</county>
+      <city>Chewelah</city>
+      <state>WA</state>
+      <zip_code>99109</zip_code>
+      <model_year>2017</model_year>
+      <make>CHEVROLET</make>
+      <model>BOLT EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>478187391</dol_vehicle_id>
+      <geocoded_column>POINT (-117.722145 48.27719)</geocoded_column>
+      <electric_utility>CITY OF CHEWELAH</electric_utility>
+      <_2020_census_tract>53065950700</_2020_census_tract>
+    </row>
+    

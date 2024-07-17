@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mxmg.cus7~mk7c" _uuid="00000000-0000-0000-4808-87E229ACB342" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mxmg.cus7~mk7c">
+      <vin_1_10>5YJ3E1EA7J</vin_1_10>
+      <county>Wichita</county>
+      <city>Wichita Falls</city>
+      <state>TX</state>
+      <zip_code>76310</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>132838695</dol_vehicle_id>
+      <geocoded_column>POINT (-98.573275 33.85102)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>48485012402</_2020_census_tract>
+    </row>
+    

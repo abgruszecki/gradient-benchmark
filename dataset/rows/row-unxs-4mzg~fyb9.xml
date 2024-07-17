@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-unxs-4mzg~fyb9" _uuid="00000000-0000-0000-1409-37DF0179C925" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-unxs-4mzg~fyb9">
+      <vin_1_10>JTMFB3FV6M</vin_1_10>
+      <county>Montgomery</county>
+      <city>Silver Spring</city>
+      <state>MD</state>
+      <zip_code>20906</zip_code>
+      <model_year>2021</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>251221169</dol_vehicle_id>
+      <geocoded_column>POINT (-77.0683461 39.0679087)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>24031703401</_2020_census_tract>
+    </row>
+    

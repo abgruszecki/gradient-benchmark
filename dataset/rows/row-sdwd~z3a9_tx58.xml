@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-sdwd~z3a9_tx58" _uuid="00000000-0000-0000-BB56-E3873B6653D3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-sdwd~z3a9_tx58">
+      <vin_1_10>JTMEB3FV3P</vin_1_10>
+      <county>Jefferson</county>
+      <city>Port Ludlow</city>
+      <state>WA</state>
+      <zip_code>98365</zip_code>
+      <model_year>2023</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>234996590</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6872285 47.9281524)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUGET SOUND ENERGY INC||PUD NO 1 OF JEFFERSON COUNTY</electric_utility>
+      <_2020_census_tract>53031950301</_2020_census_tract>
+    </row>
+    

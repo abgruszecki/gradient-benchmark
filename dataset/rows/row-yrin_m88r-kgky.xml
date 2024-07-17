@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yrin_m88r-kgky" _uuid="00000000-0000-0000-95C1-6112F54B9A72" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yrin_m88r-kgky">
+      <vin_1_10>2C4RC1L79P</vin_1_10>
+      <county>King</county>
+      <city>Tukwila</city>
+      <state>WA</state>
+      <zip_code>98188</zip_code>
+      <model_year>2023</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>11</legislative_district>
+      <dol_vehicle_id>244493651</dol_vehicle_id>
+      <geocoded_column>POINT (-122.29179 47.43473)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033028200</_2020_census_tract>
+    </row>
+    

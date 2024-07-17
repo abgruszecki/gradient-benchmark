@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-p8ej_kuaa-6g5f" _uuid="00000000-0000-0000-08DE-D523CBDAB4D6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-p8ej_kuaa-6g5f">
+      <vin_1_10>5YJ3E1EB1N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Bothell</city>
+      <state>WA</state>
+      <zip_code>98012</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>185336854</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1873 47.820245)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051934</_2020_census_tract>
+    </row>
+    

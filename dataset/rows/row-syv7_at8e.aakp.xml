@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-syv7_at8e.aakp" _uuid="00000000-0000-0000-5838-352ADC15C968" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-syv7_at8e.aakp">
+      <vin_1_10>WMZYU7C56K</vin_1_10>
+      <county>King</county>
+      <city>Kent</city>
+      <state>WA</state>
+      <zip_code>98032</zip_code>
+      <model_year>2019</model_year>
+      <make>MINI</make>
+      <model>COUNTRYMAN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>12</electric_range>
+      <base_msrp>36900</base_msrp>
+      <legislative_district>33</legislative_district>
+      <dol_vehicle_id>347643572</dol_vehicle_id>
+      <geocoded_column>POINT (-122.235475 47.3809)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033029803</_2020_census_tract>
+    </row>
+    

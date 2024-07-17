@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-p642~b688~39yx" _uuid="00000000-0000-0000-39A4-5C103D35FC8E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-p642~b688~39yx">
+      <vin_1_10>1G1RB6E45D</vin_1_10>
+      <county>Pierce</county>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip_code>98445</zip_code>
+      <model_year>2013</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>25</legislative_district>
+      <dol_vehicle_id>219461756</dol_vehicle_id>
+      <geocoded_column>POINT (-122.40872 47.165675)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PARKLAND LIGHT &amp; WATER COMPANY|PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053071603</_2020_census_tract>
+    </row>
+    

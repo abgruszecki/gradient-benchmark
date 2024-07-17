@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3gtx~c9s9.xxwg" _uuid="00000000-0000-0000-AC28-661148791377" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3gtx~c9s9.xxwg">
+      <vin_1_10>WMWXP3C03M</vin_1_10>
+      <county>King</county>
+      <city>Auburn</city>
+      <state>WA</state>
+      <zip_code>98002</zip_code>
+      <model_year>2021</model_year>
+      <make>MINI</make>
+      <model>HARDTOP</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>110</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>123977052</dol_vehicle_id>
+      <geocoded_column>POINT (-122.222855 47.305065)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031102</_2020_census_tract>
+    </row>
+    

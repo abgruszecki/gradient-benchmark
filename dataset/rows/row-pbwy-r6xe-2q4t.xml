@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pbwy-r6xe-2q4t" _uuid="00000000-0000-0000-49F8-D8091DBFC87B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pbwy-r6xe-2q4t">
+      <vin_1_10>YV4H60DA4P</vin_1_10>
+      <county>Klickitat</county>
+      <city>White Salmon</city>
+      <state>WA</state>
+      <zip_code>98672</zip_code>
+      <model_year>2023</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>35</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>244188234</dol_vehicle_id>
+      <geocoded_column>POINT (-121.48347 45.72977)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KLICKITAT COUNTY</electric_utility>
+      <_2020_census_tract>53039950302</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-bhn6-c9g9-xtzz" _uuid="00000000-0000-0000-30AE-028571AE9FB7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-bhn6-c9g9-xtzz">
+      <vin_1_10>WVGTMPE20N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Everett</city>
+      <state>WA</state>
+      <zip_code>98201</zip_code>
+      <model_year>2022</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>ID.4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>38</legislative_district>
+      <dol_vehicle_id>230774008</dol_vehicle_id>
+      <geocoded_column>POINT (-122.20722 47.979935)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061040700</_2020_census_tract>
+    </row>
+    

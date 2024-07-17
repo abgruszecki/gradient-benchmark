@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-n87a~6wqd_8vs9" _uuid="00000000-0000-0000-A4B5-3057D5920532" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-n87a~6wqd_8vs9">
+      <vin_1_10>JHMZC5F10K</vin_1_10>
+      <county>Douglas</county>
+      <city>East Wenatchee</city>
+      <state>WA</state>
+      <zip_code>98802</zip_code>
+      <model_year>2019</model_year>
+      <make>HONDA</make>
+      <model>CLARITY</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>47</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>262383243</dol_vehicle_id>
+      <geocoded_column>POINT (-120.28674 47.4176)</geocoded_column>
+      <electric_utility>PUD NO 1 OF DOUGLAS COUNTY</electric_utility>
+      <_2020_census_tract>53017950300</_2020_census_tract>
+    </row>
+    

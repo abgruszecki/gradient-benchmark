@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mmxa.ekpf~y386" _uuid="00000000-0000-0000-06C4-7CEE315F23C1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mmxa.ekpf~y386">
+      <vin_1_10>1N4AZ0CP4E</vin_1_10>
+      <county>Snohomish</county>
+      <city>Mountlake Terrace</city>
+      <state>WA</state>
+      <zip_code>98043</zip_code>
+      <model_year>2014</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>84</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>196614106</dol_vehicle_id>
+      <geocoded_column>POINT (-122.30842 47.78416)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051100</_2020_census_tract>
+    </row>
+    

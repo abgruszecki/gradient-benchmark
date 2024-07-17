@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-e7xn.a2qq.uzu4" _uuid="00000000-0000-0000-D38D-F7EC73EDBA8E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-e7xn.a2qq.uzu4">
+      <vin_1_10>WA1VAAGE4K</vin_1_10>
+      <county>Pierce</county>
+      <city>Spanaway</city>
+      <state>WA</state>
+      <zip_code>98387</zip_code>
+      <model_year>2019</model_year>
+      <make>AUDI</make>
+      <model>E-TRON</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>204</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>476857860</dol_vehicle_id>
+      <geocoded_column>POINT (-122.435115 47.1045)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053073005</_2020_census_tract>
+    </row>
+    

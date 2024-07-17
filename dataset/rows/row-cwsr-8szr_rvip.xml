@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-cwsr-8szr_rvip" _uuid="00000000-0000-0000-EB5E-BBBA6B10F148" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-cwsr-8szr_rvip">
+      <vin_1_10>WBY1Z8C38H</vin_1_10>
+      <county>King</county>
+      <city>Burien</city>
+      <state>WA</state>
+      <zip_code>98166</zip_code>
+      <model_year>2017</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>97</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>34</legislative_district>
+      <dol_vehicle_id>248299180</dol_vehicle_id>
+      <geocoded_column>POINT (-122.341345 47.465925)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033027800</_2020_census_tract>
+    </row>
+    

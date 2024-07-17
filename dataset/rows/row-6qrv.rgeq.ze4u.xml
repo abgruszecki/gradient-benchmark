@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6qrv.rgeq.ze4u" _uuid="00000000-0000-0000-81AE-CC07D3BABBF6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6qrv.rgeq.ze4u">
+      <vin_1_10>JTDKARFP0K</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98108</zip_code>
+      <model_year>2019</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>11</legislative_district>
+      <dol_vehicle_id>249293642</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3268963 47.5499519)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033010001</_2020_census_tract>
+    </row>
+    

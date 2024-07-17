@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-p53g.k29y_323w" _uuid="00000000-0000-0000-ED17-75023BB4A79E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-p53g.k29y_323w">
+      <vin_1_10>2T3YL4DV9C</vin_1_10>
+      <county>Jefferson</county>
+      <city>Sequim</city>
+      <state>WA</state>
+      <zip_code>98382</zip_code>
+      <model_year>2012</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>103</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>241136766</dol_vehicle_id>
+      <geocoded_column>POINT (-123.105015 48.08125)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUGET SOUND ENERGY INC||PUD NO 1 OF JEFFERSON COUNTY</electric_utility>
+      <_2020_census_tract>53031950501</_2020_census_tract>
+    </row>
+    

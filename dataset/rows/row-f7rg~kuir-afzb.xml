@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-f7rg~kuir-afzb" _uuid="00000000-0000-0000-8AE4-3C79F2738B27" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-f7rg~kuir-afzb">
+      <vin_1_10>5UXTA6C05N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Mill Creek</city>
+      <state>WA</state>
+      <zip_code>98012</zip_code>
+      <model_year>2022</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>30</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>213733124</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1873 47.820245)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052006</_2020_census_tract>
+    </row>
+    

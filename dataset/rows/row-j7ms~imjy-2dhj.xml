@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-j7ms~imjy-2dhj" _uuid="00000000-0000-0000-8D90-999A9894D648" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-j7ms~imjy-2dhj">
+      <vin_1_10>KNDJP3AE6H</vin_1_10>
+      <county>King</county>
+      <city>Covington</city>
+      <state>WA</state>
+      <zip_code>98042</zip_code>
+      <model_year>2017</model_year>
+      <make>KIA</make>
+      <model>SOUL EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>32250</base_msrp>
+      <legislative_district>47</legislative_district>
+      <dol_vehicle_id>207672587</dol_vehicle_id>
+      <geocoded_column>POINT (-122.111625 47.36078)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032005</_2020_census_tract>
+    </row>
+    

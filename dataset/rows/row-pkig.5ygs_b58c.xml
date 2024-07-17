@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pkig.5ygs_b58c" _uuid="00000000-0000-0000-B9DD-8B600BCDB99D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pkig.5ygs_b58c">
+      <vin_1_10>YV4H60DX5P</vin_1_10>
+      <county>Pierce</county>
+      <city>Eatonville</city>
+      <state>WA</state>
+      <zip_code>98328</zip_code>
+      <model_year>2023</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>35</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>240159314</dol_vehicle_id>
+      <geocoded_column>POINT (-122.270565 46.86822)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||BENTON RURAL ELECTRIC ASSN|PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053073200</_2020_census_tract>
+    </row>
+    

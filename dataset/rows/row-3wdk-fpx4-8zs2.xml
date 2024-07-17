@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3wdk-fpx4-8zs2" _uuid="00000000-0000-0000-7C4B-14E42CF1FFD0" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3wdk-fpx4-8zs2">
+      <vin_1_10>WMEEJ9AA0F</vin_1_10>
+      <county>King</county>
+      <city>Kent</city>
+      <state>WA</state>
+      <zip_code>98032</zip_code>
+      <model_year>2015</model_year>
+      <make>SMART</make>
+      <model>FORTWO ELECTRIC DRIVE</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>68</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>33</legislative_district>
+      <dol_vehicle_id>216573283</dol_vehicle_id>
+      <geocoded_column>POINT (-122.235475 47.3809)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033029206</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-4vta.d2df-9vw9" _uuid="00000000-0000-0000-20F8-F380B62E8B51" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-4vta.d2df-9vw9">
+      <vin_1_10>3FMTK4SE0N</vin_1_10>
+      <county>Alameda</county>
+      <city>Alameda</city>
+      <state>CA</state>
+      <zip_code>94501</zip_code>
+      <model_year>2022</model_year>
+      <make>FORD</make>
+      <model>MUSTANG MACH-E</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>207539601</dol_vehicle_id>
+      <geocoded_column>POINT (-122.238665 37.76311)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06001427900</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-v83r-jz5x~9744" _uuid="00000000-0000-0000-43D9-E708674C6709" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-v83r-jz5x~9744">
+      <vin_1_10>4JGDM2EB7P</vin_1_10>
+      <county>Kitsap</county>
+      <city>Port Orchard</city>
+      <state>WA</state>
+      <zip_code>98367</zip_code>
+      <model_year>2023</model_year>
+      <make>MERCEDES-BENZ</make>
+      <model>EQS-CLASS SUV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>26</legislative_district>
+      <dol_vehicle_id>245808314</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6847073 47.50524)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035092101</_2020_census_tract>
+    </row>
+    

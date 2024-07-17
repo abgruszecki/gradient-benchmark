@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wdqi~uc6i_gc7i" _uuid="00000000-0000-0000-697C-37931E89931D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wdqi~uc6i_gc7i">
+      <vin_1_10>1G1RB6S5XH</vin_1_10>
+      <county>Yakima</county>
+      <city>Yakima</city>
+      <state>WA</state>
+      <zip_code>98908</zip_code>
+      <model_year>2017</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>53</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>193485736</dol_vehicle_id>
+      <geocoded_column>POINT (-120.6027202 46.5965625)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077000800</_2020_census_tract>
+    </row>
+    

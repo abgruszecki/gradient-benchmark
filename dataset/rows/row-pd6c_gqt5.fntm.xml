@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pd6c_gqt5.fntm" _uuid="00000000-0000-0000-8BF7-336365EC479B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pd6c_gqt5.fntm">
+      <vin_1_10>KNDJX3AE5H</vin_1_10>
+      <county>Snohomish</county>
+      <city>Everett</city>
+      <state>WA</state>
+      <zip_code>98208</zip_code>
+      <model_year>2017</model_year>
+      <make>KIA</make>
+      <model>SOUL EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>32250</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>268975339</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2247757 47.9156409)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061041609</_2020_census_tract>
+    </row>
+    

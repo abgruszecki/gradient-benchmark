@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-y2n3-8m9r-ipdp" _uuid="00000000-0000-0000-70E2-3F84A9CF9A8F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-y2n3-8m9r-ipdp">
+      <vin_1_10>LVYBR0AL3J</vin_1_10>
+      <county>Pierce</county>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip_code>98409</zip_code>
+      <model_year>2018</model_year>
+      <make>VOLVO</make>
+      <model>S90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>29</legislative_district>
+      <dol_vehicle_id>262616511</dol_vehicle_id>
+      <geocoded_column>POINT (-122.47913 47.2198)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053062600</_2020_census_tract>
+    </row>
+    

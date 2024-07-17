@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-4hgh.ptv4.ed2t" _uuid="00000000-0000-0000-BC46-C5C2DF907376" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-4hgh.ptv4.ed2t">
+      <vin_1_10>5YJ3E1EB5J</vin_1_10>
+      <county>Santa Clara</county>
+      <city>Cupertino</city>
+      <state>CA</state>
+      <zip_code>95014</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>203462129</dol_vehicle_id>
+      <geocoded_column>POINT (-122.032195 37.320425)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06085508102</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-b5gg-eqvd.2b6t" _uuid="00000000-0000-0000-F485-3077EA483352" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-b5gg-eqvd.2b6t">
+      <vin_1_10>1C4RJYB69N</vin_1_10>
+      <county>Lincoln</county>
+      <city>Davenport</city>
+      <state>WA</state>
+      <zip_code>99122</zip_code>
+      <model_year>2022</model_year>
+      <make>JEEP</make>
+      <model>GRAND CHEROKEE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>229522072</dol_vehicle_id>
+      <geocoded_column>POINT (-118.15232 47.651205)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53043960100</_2020_census_tract>
+    </row>
+    

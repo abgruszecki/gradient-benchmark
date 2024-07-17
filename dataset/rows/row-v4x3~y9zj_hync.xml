@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-v4x3~y9zj_hync" _uuid="00000000-0000-0000-AE5D-F0A52942173C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-v4x3~y9zj_hync">
+      <vin_1_10>1G6RL1E46E</vin_1_10>
+      <county>Thurston</county>
+      <city>Lacey</city>
+      <state>WA</state>
+      <zip_code>98506</zip_code>
+      <model_year>2014</model_year>
+      <make>CADILLAC</make>
+      <model>ELR</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>37</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>235363208</dol_vehicle_id>
+      <geocoded_column>POINT (-122.8874781 47.0519573)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012224</_2020_census_tract>
+    </row>
+    

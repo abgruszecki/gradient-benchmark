@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-g2ps-vs8b_cnsv" _uuid="00000000-0000-0000-103B-E37313CC7304" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-g2ps-vs8b_cnsv">
+      <vin_1_10>1G1FY6S07K</vin_1_10>
+      <county>Lewis</county>
+      <city>Centralia</city>
+      <state>WA</state>
+      <zip_code>98531</zip_code>
+      <model_year>2019</model_year>
+      <make>CHEVROLET</make>
+      <model>BOLT EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>478101711</dol_vehicle_id>
+      <geocoded_column>POINT (-122.962555 46.716875)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF CENTRALIA - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53041970500</_2020_census_tract>
+    </row>
+    

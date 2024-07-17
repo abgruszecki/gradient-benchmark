@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-nuhv~255j-i3zw" _uuid="00000000-0000-0000-5E10-D24E7B807853" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-nuhv~255j-i3zw">
+      <vin_1_10>WBAJB1C59J</vin_1_10>
+      <county>Whatcom</county>
+      <city>Point Roberts</city>
+      <state>WA</state>
+      <zip_code>98281</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>530E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>54950</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>153958346</dol_vehicle_id>
+      <geocoded_column>POINT (-123.0651 48.98823)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073011000</_2020_census_tract>
+    </row>
+    

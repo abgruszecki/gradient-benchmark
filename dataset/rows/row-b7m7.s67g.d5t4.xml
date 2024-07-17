@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-b7m7.s67g.d5t4" _uuid="00000000-0000-0000-0D3A-6E7E1B540086" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-b7m7.s67g.d5t4">
+      <vin_1_10>LVYBC0AL2J</vin_1_10>
+      <county>Pierce</county>
+      <city>University Place</city>
+      <state>WA</state>
+      <zip_code>98467</zip_code>
+      <model_year>2018</model_year>
+      <make>VOLVO</make>
+      <model>S90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>28</legislative_district>
+      <dol_vehicle_id>214916614</dol_vehicle_id>
+      <geocoded_column>POINT (-122.5404512 47.2074166)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053072313</_2020_census_tract>
+    </row>
+    

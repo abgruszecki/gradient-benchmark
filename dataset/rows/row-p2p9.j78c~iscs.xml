@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-p2p9.j78c~iscs" _uuid="00000000-0000-0000-7851-DEB25ECD4D7C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-p2p9.j78c~iscs">
+      <vin_1_10>3FA6P0PU6G</vin_1_10>
+      <county>Thurston</county>
+      <city>Lacey</city>
+      <state>WA</state>
+      <zip_code>98503</zip_code>
+      <model_year>2016</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>150274274</dol_vehicle_id>
+      <geocoded_column>POINT (-122.8285 47.03646)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067011626</_2020_census_tract>
+    </row>
+    

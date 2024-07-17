@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-nkqv~vxv5~jgf2" _uuid="00000000-0000-0000-6C78-6D6E53B6C5B4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-nkqv~vxv5~jgf2">
+      <vin_1_10>1G1FW6S03J</vin_1_10>
+      <county>Pierce</county>
+      <city>Puyallup</city>
+      <state>WA</state>
+      <zip_code>98373</zip_code>
+      <model_year>2018</model_year>
+      <make>CHEVROLET</make>
+      <model>BOLT EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>25</legislative_district>
+      <dol_vehicle_id>102589007</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2987976 47.13795)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053071206</_2020_census_tract>
+    </row>
+    

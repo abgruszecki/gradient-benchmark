@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6s22-unqp.a62x" _uuid="00000000-0000-0000-5F78-DCBCDCFD678E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6s22-unqp.a62x">
+      <vin_1_10>5YJ3E1EB9J</vin_1_10>
+      <county>King</county>
+      <city>Redmond</city>
+      <state>WA</state>
+      <zip_code>98053</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>45</legislative_district>
+      <dol_vehicle_id>253187553</dol_vehicle_id>
+      <geocoded_column>POINT (-122.0222799 47.6958998)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032328</_2020_census_tract>
+    </row>
+    

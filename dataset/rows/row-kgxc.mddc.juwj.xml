@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kgxc.mddc.juwj" _uuid="00000000-0000-0000-24C9-3A51ECCDD02B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kgxc.mddc.juwj">
+      <vin_1_10>7SAYGDEE2P</vin_1_10>
+      <county>Franklin</county>
+      <city>Eltopia</city>
+      <state>WA</state>
+      <zip_code>99330</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>254750520</dol_vehicle_id>
+      <geocoded_column>POINT (-119.0189476 46.4536241)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||BIG BEND ELECTRIC COOP, INC</electric_utility>
+      <_2020_census_tract>53021020608</_2020_census_tract>
+    </row>
+    

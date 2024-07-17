@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5d6e~mfgq_hy98" _uuid="00000000-0000-0000-46D3-23F91546D2A4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5d6e~mfgq_hy98">
+      <vin_1_10>WBAJB1C5XK</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98122</zip_code>
+      <model_year>2019</model_year>
+      <make>BMW</make>
+      <model>530E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>15</electric_range>
+      <base_msrp>55700</base_msrp>
+      <legislative_district>37</legislative_district>
+      <dol_vehicle_id>477744571</dol_vehicle_id>
+      <geocoded_column>POINT (-122.30839 47.610365)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033007800</_2020_census_tract>
+    </row>
+    

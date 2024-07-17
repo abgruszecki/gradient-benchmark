@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ek73~3im2~b99f" _uuid="00000000-0000-0000-CC36-8C18B7BD9352" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ek73~3im2~b99f">
+      <vin_1_10>WBY1Z2C53E</vin_1_10>
+      <county>Thurston</county>
+      <city>Rainier</city>
+      <state>WA</state>
+      <zip_code>98576</zip_code>
+      <model_year>2014</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>81</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>121918471</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6898776 46.8908492)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012530</_2020_census_tract>
+    </row>
+    

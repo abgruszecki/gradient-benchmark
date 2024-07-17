@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-apw2_ngum-k8av" _uuid="00000000-0000-0000-E41C-6859ED57B3AA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-apw2_ngum-k8av">
+      <vin_1_10>WBA8E1C37H</vin_1_10>
+      <county>King</county>
+      <city>Redmond</city>
+      <state>WA</state>
+      <zip_code>98052</zip_code>
+      <model_year>2017</model_year>
+      <make>BMW</make>
+      <model>330E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>44100</base_msrp>
+      <legislative_district>48</legislative_district>
+      <dol_vehicle_id>238266703</dol_vehicle_id>
+      <geocoded_column>POINT (-122.12302 47.67668)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033022803</_2020_census_tract>
+    </row>
+    

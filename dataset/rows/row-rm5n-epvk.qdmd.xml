@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rm5n-epvk.qdmd" _uuid="00000000-0000-0000-D190-DFEBB55792A8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rm5n-epvk.qdmd">
+      <vin_1_10>2C4RC1H74J</vin_1_10>
+      <county>San Diego</county>
+      <city>San Diego</city>
+      <state>CA</state>
+      <zip_code>92124</zip_code>
+      <model_year>2018</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>33</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>261578082</dol_vehicle_id>
+      <geocoded_column>POINT (-117.096935 32.824435)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06073009510</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3dcx-77u4.aqs9" _uuid="00000000-0000-0000-6736-3554757EF10F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3dcx-77u4.aqs9">
+      <vin_1_10>5YJ3E1EB9J</vin_1_10>
+      <county>Maui</county>
+      <city>Kihei</city>
+      <state>HI</state>
+      <zip_code>96753</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>474346092</dol_vehicle_id>
+      <geocoded_column>POINT (-156.4531185 20.7761437)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>15009030307</_2020_census_tract>
+    </row>
+    

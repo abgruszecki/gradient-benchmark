@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rtdv~weur~42rb" _uuid="00000000-0000-0000-8F27-C3174CE71300" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rtdv~weur~42rb">
+      <vin_1_10>KM8KRDDF5R</vin_1_10>
+      <county>Pierce</county>
+      <city>Puyallup</city>
+      <state>WA</state>
+      <zip_code>98373</zip_code>
+      <model_year>2024</model_year>
+      <make>HYUNDAI</make>
+      <model>IONIQ 5</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>25</legislative_district>
+      <dol_vehicle_id>260126408</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2987976 47.13795)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||ELMHURST MUTUAL POWER &amp; LIGHT CO|PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053071310</_2020_census_tract>
+    </row>
+    

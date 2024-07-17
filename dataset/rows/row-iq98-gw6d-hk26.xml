@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-iq98-gw6d-hk26" _uuid="00000000-0000-0000-6913-8069212F70CD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-iq98-gw6d-hk26">
+      <vin_1_10>7FCEHEB72P</vin_1_10>
+      <county>Pierce</county>
+      <city>Sumner</city>
+      <state>WA</state>
+      <zip_code>98390</zip_code>
+      <model_year>2023</model_year>
+      <make>RIVIAN</make>
+      <model>EDV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>261419630</dol_vehicle_id>
+      <geocoded_column>POINT (-122.23825 47.201625)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053073301</_2020_census_tract>
+    </row>
+    

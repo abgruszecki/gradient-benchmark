@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fvxy~9mnr-pbyt" _uuid="00000000-0000-0000-46D5-50A9D329D7B7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fvxy~9mnr-pbyt">
+      <vin_1_10>7SAYGDEF0P</vin_1_10>
+      <county>Clark</county>
+      <city>Las Vegas</city>
+      <state>NV</state>
+      <zip_code>89166</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>236500687</dol_vehicle_id>
+      <geocoded_column>POINT (-115.3226218 36.2997985)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>32003003229</_2020_census_tract>
+    </row>
+    

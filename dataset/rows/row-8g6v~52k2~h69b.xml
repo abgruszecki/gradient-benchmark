@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8g6v~52k2~h69b" _uuid="00000000-0000-0000-7413-C7BF40233F70" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8g6v~52k2~h69b">
+      <vin_1_10>WA1LAAGE5N</vin_1_10>
+      <county>Clark</county>
+      <city>Washougal</city>
+      <state>WA</state>
+      <zip_code>98671</zip_code>
+      <model_year>2022</model_year>
+      <make>AUDI</make>
+      <model>E-TRON</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>193661051</dol_vehicle_id>
+      <geocoded_column>POINT (-122.35465 45.58359)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040510</_2020_census_tract>
+    </row>
+    

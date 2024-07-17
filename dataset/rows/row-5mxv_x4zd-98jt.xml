@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5mxv_x4zd-98jt" _uuid="00000000-0000-0000-398F-029D81DC1905" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5mxv_x4zd-98jt">
+      <vin_1_10>1G1RB6E41E</vin_1_10>
+      <county>Mercer</county>
+      <city>Princeton</city>
+      <state>NJ</state>
+      <zip_code>08540</zip_code>
+      <model_year>2014</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>254458480</dol_vehicle_id>
+      <geocoded_column>POINT (-74.6434 40.35122)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>34021004205</_2020_census_tract>
+    </row>
+    

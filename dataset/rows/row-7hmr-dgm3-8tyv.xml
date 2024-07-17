@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7hmr-dgm3-8tyv" _uuid="00000000-0000-0000-D1F6-0CC84D192BD6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7hmr-dgm3-8tyv">
+      <vin_1_10>1N4AZ1CP2J</vin_1_10>
+      <county>Snohomish</county>
+      <city>Mill Creek</city>
+      <state>WA</state>
+      <zip_code>98012</zip_code>
+      <model_year>2018</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>151</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>247418734</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1873 47.820245)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052004</_2020_census_tract>
+    </row>
+    

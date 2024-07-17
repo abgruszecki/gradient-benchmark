@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-x5g5_aqjf-2rat" _uuid="00000000-0000-0000-5F17-764C57236E3C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-x5g5_aqjf-2rat">
+      <vin_1_10>5YJYGAED2M</vin_1_10>
+      <county>Pierce</county>
+      <city>Puyallup</city>
+      <state>WA</state>
+      <zip_code>98374</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>153687250</dol_vehicle_id>
+      <geocoded_column>POINT (-122.275748 47.1395924)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053073129</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-epb6-hfd4~q9f4" _uuid="00000000-0000-0000-A241-D230606EA5AD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-epb6-hfd4~q9f4">
+      <vin_1_10>1G1RB6S54J</vin_1_10>
+      <county>Middlesex</county>
+      <city>Bedford</city>
+      <state>MA</state>
+      <zip_code>01730</zip_code>
+      <model_year>2018</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>53</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>136672980</dol_vehicle_id>
+      <geocoded_column>POINT (-71.2785 42.491665)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>25017359100</_2020_census_tract>
+    </row>
+    

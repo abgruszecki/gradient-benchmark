@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8a62~px4z_hj2h" _uuid="00000000-0000-0000-1CB9-A26391850EBF" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8a62~px4z_hj2h">
+      <vin_1_10>1G1RD6S57H</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99207</zip_code>
+      <model_year>2017</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>53</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>3</legislative_district>
+      <dol_vehicle_id>123139642</dol_vehicle_id>
+      <geocoded_column>POINT (-117.39787 47.67936)</geocoded_column>
+      <electric_utility>MODERN ELECTRIC WATER COMPANY</electric_utility>
+      <_2020_census_tract>53063002502</_2020_census_tract>
+    </row>
+    

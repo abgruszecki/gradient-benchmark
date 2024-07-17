@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-4ttz-qdmz_qfbm" _uuid="00000000-0000-0000-50D9-487DCD4F3CA6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-4ttz-qdmz_qfbm">
+      <vin_1_10>7PDSGABLXN</vin_1_10>
+      <county>King</county>
+      <city>Renton</city>
+      <state>WA</state>
+      <zip_code>98059</zip_code>
+      <model_year>2022</model_year>
+      <make>RIVIAN</make>
+      <model>R1S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>235394645</dol_vehicle_id>
+      <geocoded_column>POINT (-122.15734 47.487175)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031912</_2020_census_tract>
+    </row>
+    

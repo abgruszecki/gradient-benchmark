@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-v86u-fnci~fq4w" _uuid="00000000-0000-0000-0CC1-FBB8A2119E19" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-v86u-fnci~fq4w">
+      <vin_1_10>KM8KMDAF5N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Everett</city>
+      <state>WA</state>
+      <zip_code>98208</zip_code>
+      <model_year>2022</model_year>
+      <make>HYUNDAI</make>
+      <model>IONIQ 5</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>21</legislative_district>
+      <dol_vehicle_id>186739192</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2247757 47.9156409)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061041813</_2020_census_tract>
+    </row>
+    

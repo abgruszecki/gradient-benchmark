@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-h6za_6i3m-4wqj" _uuid="00000000-0000-0000-53C7-D95FB8EFA1F3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-h6za_6i3m-4wqj">
+      <vin_1_10>1N4AZ0CP1F</vin_1_10>
+      <county>Thurston</county>
+      <city>Rochester</city>
+      <state>WA</state>
+      <zip_code>98579</zip_code>
+      <model_year>2015</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>84</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>35</legislative_district>
+      <dol_vehicle_id>139565905</dol_vehicle_id>
+      <geocoded_column>POINT (-123.09575 46.82114)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012730</_2020_census_tract>
+    </row>
+    

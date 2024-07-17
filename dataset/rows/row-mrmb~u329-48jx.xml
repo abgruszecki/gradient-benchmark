@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mrmb~u329-48jx" _uuid="00000000-0000-0000-FF50-5816E818FDAD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mrmb~u329-48jx">
+      <vin_1_10>WDDVP9AB6H</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98101</zip_code>
+      <model_year>2017</model_year>
+      <make>MERCEDES-BENZ</make>
+      <model>B-CLASS</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>87</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>43</legislative_district>
+      <dol_vehicle_id>101820218</dol_vehicle_id>
+      <geocoded_column>POINT (-122.335345 47.61079)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033008101</_2020_census_tract>
+    </row>
+    

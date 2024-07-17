@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-qrjv_xz6k.6n4n" _uuid="00000000-0000-0000-3A67-DC3047CC0389" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-qrjv_xz6k.6n4n">
+      <vin_1_10>JA4J24A56K</vin_1_10>
+      <county>Snohomish</county>
+      <city>Arlington</city>
+      <state>WA</state>
+      <zip_code>98223</zip_code>
+      <model_year>2019</model_year>
+      <make>MITSUBISHI</make>
+      <model>OUTLANDER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>22</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>39</legislative_district>
+      <dol_vehicle_id>132921533</dol_vehicle_id>
+      <geocoded_column>POINT (-122.12324 48.19485)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY</electric_utility>
+      <_2020_census_tract>53061053509</_2020_census_tract>
+    </row>
+    

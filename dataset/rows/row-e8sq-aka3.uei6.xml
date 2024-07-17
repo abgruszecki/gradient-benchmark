@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-e8sq-aka3.uei6" _uuid="00000000-0000-0000-A86B-BE229349A8A8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-e8sq-aka3.uei6">
+      <vin_1_10>1C4RJYD67P</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98122</zip_code>
+      <model_year>2023</model_year>
+      <make>JEEP</make>
+      <model>GRAND CHEROKEE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>43</legislative_district>
+      <dol_vehicle_id>257951417</dol_vehicle_id>
+      <geocoded_column>POINT (-122.30839 47.610365)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033008600</_2020_census_tract>
+    </row>
+    

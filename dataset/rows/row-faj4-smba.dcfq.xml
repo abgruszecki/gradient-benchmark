@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-faj4-smba.dcfq" _uuid="00000000-0000-0000-85D4-F0E5C96D9898" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-faj4-smba.dcfq">
+      <vin_1_10>5UXKT0C58G</vin_1_10>
+      <county>Pierce</county>
+      <city>Vaughn</city>
+      <state>WA</state>
+      <zip_code>98394</zip_code>
+      <model_year>2016</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>26</legislative_district>
+      <dol_vehicle_id>107996297</dol_vehicle_id>
+      <geocoded_column>POINT (-122.769655 47.320505)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053072602</_2020_census_tract>
+    </row>
+    

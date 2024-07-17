@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3sht.wbv3.ka3k" _uuid="00000000-0000-0000-5E2F-C25C5AE75B1E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3sht.wbv3.ka3k">
+      <vin_1_10>3FA6P0PU8H</vin_1_10>
+      <county>King</county>
+      <city>Snoqualmie</city>
+      <state>WA</state>
+      <zip_code>98065</zip_code>
+      <model_year>2017</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>163526422</dol_vehicle_id>
+      <geocoded_column>POINT (-121.8740496 47.5345546)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032604</_2020_census_tract>
+    </row>
+    

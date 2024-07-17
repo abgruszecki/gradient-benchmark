@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zsm9.vcn9_52fw" _uuid="00000000-0000-0000-0E0B-9B90596F1F8C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zsm9.vcn9_52fw">
+      <vin_1_10>JN1AZ0CP3C</vin_1_10>
+      <county>Walla Walla</county>
+      <city>College Place</city>
+      <state>WA</state>
+      <zip_code>99324</zip_code>
+      <model_year>2012</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>73</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>242995903</dol_vehicle_id>
+      <geocoded_column>POINT (-118.38409 46.043895)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53071920302</_2020_census_tract>
+    </row>
+    

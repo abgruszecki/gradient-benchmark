@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dwt3~uv63_3ycz" _uuid="00000000-0000-0000-5822-6DA8D0D2CD51" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dwt3~uv63_3ycz">
+      <vin_1_10>WP1AE2AY0N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Edmonds</city>
+      <state>WA</state>
+      <zip_code>98026</zip_code>
+      <model_year>2022</model_year>
+      <make>PORSCHE</make>
+      <model>CAYENNE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>16</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>209206602</dol_vehicle_id>
+      <geocoded_column>POINT (-122.335685 47.80372)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061050402</_2020_census_tract>
+    </row>
+    

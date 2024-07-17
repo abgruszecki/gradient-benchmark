@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-c2yc_vpd8~7bvc" _uuid="00000000-0000-0000-82C0-8BE166A18218" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-c2yc_vpd8~7bvc">
+      <vin_1_10>LYVBR0DL6J</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99223</zip_code>
+      <model_year>2018</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>17</electric_range>
+      <base_msrp>52900</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>167152387</dol_vehicle_id>
+      <geocoded_column>POINT (-117.369705 47.62637)</geocoded_column>
+      <electric_utility>MODERN ELECTRIC WATER COMPANY</electric_utility>
+      <_2020_census_tract>53063004702</_2020_census_tract>
+    </row>
+    

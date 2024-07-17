@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mg8y~rkzh_fd2a" _uuid="00000000-0000-0000-E9A6-31DE4AF4E4D5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mg8y~rkzh_fd2a">
+      <vin_1_10>KNDJP3AEXG</vin_1_10>
+      <county>Clallam</county>
+      <city>Clallam Bay</city>
+      <state>WA</state>
+      <zip_code>98326</zip_code>
+      <model_year>2016</model_year>
+      <make>KIA</make>
+      <model>SOUL</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>31950</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>170583199</dol_vehicle_id>
+      <geocoded_column>POINT (-124.2601571 48.2537459)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLALLAM COUNTY</electric_utility>
+      <_2020_census_tract>53009002400</_2020_census_tract>
+    </row>
+    

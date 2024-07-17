@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rb2d-9qk3.6k3a" _uuid="00000000-0000-0000-0CA5-A4CF79DBA26A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rb2d-9qk3.6k3a">
+      <vin_1_10>7SAYGDEE2N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Edmonds</city>
+      <state>WA</state>
+      <zip_code>98026</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>182703944</dol_vehicle_id>
+      <geocoded_column>POINT (-122.335685 47.80372)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061050800</_2020_census_tract>
+    </row>
+    

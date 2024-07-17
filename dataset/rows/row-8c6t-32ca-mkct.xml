@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8c6t-32ca-mkct" _uuid="00000000-0000-0000-0F71-AFAEBCE1092C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8c6t-32ca-mkct">
+      <vin_1_10>WA15AAGEXR</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Aberdeen</city>
+      <state>WA</state>
+      <zip_code>98520</zip_code>
+      <model_year>2024</model_year>
+      <make>AUDI</make>
+      <model>Q8</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>255392910</dol_vehicle_id>
+      <geocoded_column>POINT (-123.8206 46.97789)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027001100</_2020_census_tract>
+    </row>
+    

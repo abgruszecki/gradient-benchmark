@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-v3k2-re3s-cmps" _uuid="00000000-0000-0000-AAFB-205033B4AFF1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-v3k2-re3s-cmps">
+      <vin_1_10>WP0AC2Y10M</vin_1_10>
+      <county>Snohomish</county>
+      <city>Woodway</city>
+      <state>WA</state>
+      <zip_code>98020</zip_code>
+      <model_year>2021</model_year>
+      <make>PORSCHE</make>
+      <model>TAYCAN</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>192</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>141946794</dol_vehicle_id>
+      <geocoded_column>POINT (-122.37507 47.80807)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061050600</_2020_census_tract>
+    </row>
+    

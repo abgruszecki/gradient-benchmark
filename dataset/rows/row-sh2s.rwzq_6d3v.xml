@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-sh2s.rwzq_6d3v" _uuid="00000000-0000-0000-E4F1-FF37D7E9B345" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-sh2s.rwzq_6d3v">
+      <vin_1_10>YV4BR0CK5K</vin_1_10>
+      <county>Pierce</county>
+      <city>Puyallup</city>
+      <state>WA</state>
+      <zip_code>98372</zip_code>
+      <model_year>2019</model_year>
+      <make>VOLVO</make>
+      <model>XC90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>17</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>235108051</dol_vehicle_id>
+      <geocoded_column>POINT (-122.28718 47.190465)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053940010</_2020_census_tract>
+    </row>
+    

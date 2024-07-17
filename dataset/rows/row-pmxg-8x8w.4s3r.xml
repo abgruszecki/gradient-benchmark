@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pmxg-8x8w.4s3r" _uuid="00000000-0000-0000-FE7B-4A62C2474C66" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pmxg-8x8w.4s3r">
+      <vin_1_10>KNDCE3LG7K</vin_1_10>
+      <county>Skamania</county>
+      <city>North Bonneville</city>
+      <state>WA</state>
+      <zip_code>98639</zip_code>
+      <model_year>2019</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>239</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>7806949</dol_vehicle_id>
+      <geocoded_column>POINT (-121.9755204 45.6395805)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF SKAMANIA CO</electric_utility>
+      <_2020_census_tract>53059950200</_2020_census_tract>
+    </row>
+    

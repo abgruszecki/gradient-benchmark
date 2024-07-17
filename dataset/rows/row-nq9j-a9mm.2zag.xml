@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-nq9j-a9mm.2zag" _uuid="00000000-0000-0000-BA2F-1FCA4A9C6D14" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-nq9j-a9mm.2zag">
+      <vin_1_10>5YJ3E1EB3K</vin_1_10>
+      <county>Snohomish</county>
+      <city>Mukilteo</city>
+      <state>WA</state>
+      <zip_code>98275</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>21</legislative_district>
+      <dol_vehicle_id>100872810</dol_vehicle_id>
+      <geocoded_column>POINT (-122.299965 47.94171)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061042006</_2020_census_tract>
+    </row>
+    

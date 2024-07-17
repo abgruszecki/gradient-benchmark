@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-eqx4_qxim_665y" _uuid="00000000-0000-0000-0AF5-1B96AFE472E8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-eqx4_qxim_665y">
+      <vin_1_10>WMW13DJ02N</vin_1_10>
+      <county>Thurston</county>
+      <city>Tumwater</city>
+      <state>WA</state>
+      <zip_code>98512</zip_code>
+      <model_year>2022</model_year>
+      <make>MINI</make>
+      <model>HARDTOP</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>183370463</dol_vehicle_id>
+      <geocoded_column>POINT (-122.9131017 47.0135926)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067010910</_2020_census_tract>
+    </row>
+    

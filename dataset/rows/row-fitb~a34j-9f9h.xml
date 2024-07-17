@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fitb~a34j-9f9h" _uuid="00000000-0000-0000-266C-05D04D9B149B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fitb~a34j-9f9h">
+      <vin_1_10>5YJSA1H14E</vin_1_10>
+      <county>San Juan</county>
+      <city>Friday Harbor</city>
+      <state>WA</state>
+      <zip_code>98250</zip_code>
+      <model_year>2014</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>69900</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>205690236</dol_vehicle_id>
+      <geocoded_column>POINT (-123.022255 48.531355)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||ORCAS POWER &amp; LIGHT COOP</electric_utility>
+      <_2020_census_tract>53055960302</_2020_census_tract>
+    </row>
+    

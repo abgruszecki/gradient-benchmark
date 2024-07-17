@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ysjg-m6pd-vf3b" _uuid="00000000-0000-0000-6B17-90F79BD8047B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ysjg-m6pd-vf3b">
+      <vin_1_10>KM8KMDAF9P</vin_1_10>
+      <county>Yakima</county>
+      <city>Yakima</city>
+      <state>WA</state>
+      <zip_code>98903</zip_code>
+      <model_year>2023</model_year>
+      <make>HYUNDAI</make>
+      <model>IONIQ 5</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>15</legislative_district>
+      <dol_vehicle_id>260762750</dol_vehicle_id>
+      <geocoded_column>POINT (-120.477805 46.553505)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077001300</_2020_census_tract>
+    </row>
+    

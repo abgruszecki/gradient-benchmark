@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6an5.6nnb.xcck" _uuid="00000000-0000-0000-8DB6-1760CF1C5904" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6an5.6nnb.xcck">
+      <vin_1_10>5YJYGAEE0M</vin_1_10>
+      <county>Anchorage</county>
+      <city>Eagle River</city>
+      <state>AK</state>
+      <zip_code>99577</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>183244330</dol_vehicle_id>
+      <geocoded_column>POINT (-149.5683 61.323155)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>02020000206</_2020_census_tract>
+    </row>
+    

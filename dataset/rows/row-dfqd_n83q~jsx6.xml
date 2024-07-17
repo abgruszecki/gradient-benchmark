@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dfqd_n83q~jsx6" _uuid="00000000-0000-0000-7134-C047F7E087C3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dfqd_n83q~jsx6">
+      <vin_1_10>5YJYGDEE2M</vin_1_10>
+      <county>Franklin</county>
+      <city>Connell</city>
+      <state>WA</state>
+      <zip_code>99326</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>161664534</dol_vehicle_id>
+      <geocoded_column>POINT (-118.860645 46.660455)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||BIG BEND ELECTRIC COOP, INC</electric_utility>
+      <_2020_census_tract>53021020802</_2020_census_tract>
+    </row>
+    

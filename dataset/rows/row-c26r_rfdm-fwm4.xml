@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-c26r_rfdm-fwm4" _uuid="00000000-0000-0000-CA65-0377A38E7C19" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-c26r_rfdm-fwm4">
+      <vin_1_10>5LMYJ8XY5P</vin_1_10>
+      <county>Spokane</county>
+      <city>Colbert</city>
+      <state>WA</state>
+      <zip_code>99005</zip_code>
+      <model_year>2023</model_year>
+      <make>LINCOLN</make>
+      <model>AVIATOR</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>254840484</dol_vehicle_id>
+      <geocoded_column>POINT (-117.4015511 47.8159901)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063010305</_2020_census_tract>
+    </row>
+    

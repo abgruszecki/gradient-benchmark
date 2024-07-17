@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-u87u.pcx7.gcd4" _uuid="00000000-0000-0000-6866-1E44C7B93F1B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-u87u.pcx7.gcd4">
+      <vin_1_10>JHMZC5F35J</vin_1_10>
+      <county>Whatcom</county>
+      <city>Bellingham</city>
+      <state>WA</state>
+      <zip_code>98225</zip_code>
+      <model_year>2018</model_year>
+      <make>HONDA</make>
+      <model>CLARITY</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>47</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>130079778</dol_vehicle_id>
+      <geocoded_column>POINT (-122.486115 48.761615)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073000600</_2020_census_tract>
+    </row>
+    

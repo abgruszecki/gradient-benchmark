@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-f3ju_w9gz-q3yb" _uuid="00000000-0000-0000-81B2-EEE69976C64A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-f3ju_w9gz-q3yb">
+      <vin_1_10>WAUTPBFF2J</vin_1_10>
+      <county>Okanogan</county>
+      <city>Mazama</city>
+      <state>WA</state>
+      <zip_code>98833</zip_code>
+      <model_year>2018</model_year>
+      <make>AUDI</make>
+      <model>A3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>16</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>169217149</dol_vehicle_id>
+      <geocoded_column>POINT (-120.405315 48.59203)</geocoded_column>
+      <electric_utility>OKANOGAN COUNTY ELEC COOP, INC</electric_utility>
+      <_2020_census_tract>53047970900</_2020_census_tract>
+    </row>
+    

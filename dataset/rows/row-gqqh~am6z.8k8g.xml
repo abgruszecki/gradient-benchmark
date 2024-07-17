@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-gqqh~am6z.8k8g" _uuid="00000000-0000-0000-8663-F357A032F7FD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-gqqh~am6z.8k8g">
+      <vin_1_10>WBA8E1C3XH</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Elma</city>
+      <state>WA</state>
+      <zip_code>98541</zip_code>
+      <model_year>2017</model_year>
+      <make>BMW</make>
+      <model>330E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>44100</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>252602283</dol_vehicle_id>
+      <geocoded_column>POINT (-123.410105 47.00679)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027000502</_2020_census_tract>
+    </row>
+    

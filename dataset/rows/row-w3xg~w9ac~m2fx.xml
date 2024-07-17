@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-w3xg~w9ac~m2fx" _uuid="00000000-0000-0000-B014-B51EE12481E8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-w3xg~w9ac~m2fx">
+      <vin_1_10>WVWKR7AU3K</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane Valley</city>
+      <state>WA</state>
+      <zip_code>99206</zip_code>
+      <model_year>2019</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>E-GOLF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>125</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>339052626</dol_vehicle_id>
+      <geocoded_column>POINT (-117.24549 47.6534)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||VERA IRRIGATION DISTRICT #15</electric_utility>
+      <_2020_census_tract>53063012500</_2020_census_tract>
+    </row>
+    

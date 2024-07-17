@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-swk6.mt4r-4zip" _uuid="00000000-0000-0000-CBE1-DFE882D110B8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-swk6.mt4r-4zip">
+      <vin_1_10>5YJYGDEE4M</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98199</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>36</legislative_district>
+      <dol_vehicle_id>179286614</dol_vehicle_id>
+      <geocoded_column>POINT (-122.394185 47.639195)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033005600</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-xde3~6er3.4qhr" _uuid="00000000-0000-0000-19B1-2580A9B5233B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-xde3~6er3.4qhr">
+      <vin_1_10>KNDJX3AE0H</vin_1_10>
+      <county>Benton</county>
+      <city>West Richland</city>
+      <state>WA</state>
+      <zip_code>99353</zip_code>
+      <model_year>2017</model_year>
+      <make>KIA</make>
+      <model>SOUL EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>32250</base_msrp>
+      <legislative_district>8</legislative_district>
+      <dol_vehicle_id>349063312</dol_vehicle_id>
+      <geocoded_column>POINT (-119.3535873 46.2778489)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF BENTON COUNTY</electric_utility>
+      <_2020_census_tract>53005010807</_2020_census_tract>
+    </row>
+    

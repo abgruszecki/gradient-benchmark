@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-p3az_h4ev~dndj" _uuid="00000000-0000-0000-52C2-F8838C789BB8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-p3az_h4ev~dndj">
+      <vin_1_10>KNDJX3AE2G</vin_1_10>
+      <county>Snohomish</county>
+      <city>Edmonds</city>
+      <state>WA</state>
+      <zip_code>98026</zip_code>
+      <model_year>2016</model_year>
+      <make>KIA</make>
+      <model>SOUL</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>31950</base_msrp>
+      <legislative_district>21</legislative_district>
+      <dol_vehicle_id>183551273</dol_vehicle_id>
+      <geocoded_column>POINT (-122.335685 47.80372)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061042004</_2020_census_tract>
+    </row>
+    

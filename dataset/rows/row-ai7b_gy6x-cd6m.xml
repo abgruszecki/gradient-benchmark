@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ai7b_gy6x-cd6m" _uuid="00000000-0000-0000-F790-2B8E54513203" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ai7b_gy6x-cd6m">
+      <vin_1_10>WA1E2AFY1N</vin_1_10>
+      <county>Thurston</county>
+      <city>Olympia</city>
+      <state>WA</state>
+      <zip_code>98516</zip_code>
+      <model_year>2022</model_year>
+      <make>AUDI</make>
+      <model>Q5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>22</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>236548875</dol_vehicle_id>
+      <geocoded_column>POINT (-122.7474291 47.0821119)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012221</_2020_census_tract>
+    </row>
+    

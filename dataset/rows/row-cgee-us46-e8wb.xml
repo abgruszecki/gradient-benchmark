@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-cgee-us46-e8wb" _uuid="00000000-0000-0000-2487-9F691BA8E224" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-cgee-us46-e8wb">
+      <vin_1_10>1G1RC6S58G</vin_1_10>
+      <county>Thurston</county>
+      <city>Rainier</city>
+      <state>WA</state>
+      <zip_code>98576</zip_code>
+      <model_year>2016</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>53</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>477446126</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6898776 46.8908492)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012530</_2020_census_tract>
+    </row>
+    

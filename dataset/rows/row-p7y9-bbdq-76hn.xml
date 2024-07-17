@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-p7y9-bbdq-76hn" _uuid="00000000-0000-0000-7FF1-B6EE2D2FC90E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-p7y9-bbdq-76hn">
+      <vin_1_10>5YJ3E1EA5P</vin_1_10>
+      <county>Yuba</county>
+      <city>Beale Afb</city>
+      <state>CA</state>
+      <zip_code>95903</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>227470365</dol_vehicle_id>
+      <geocoded_column>POINT (-121.3355098 39.1043955)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06115040902</_2020_census_tract>
+    </row>
+    

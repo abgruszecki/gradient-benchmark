@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-x7yn-us8q-dvt9" _uuid="00000000-0000-0000-1038-7A81B5C74B5F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-x7yn-us8q-dvt9">
+      <vin_1_10>1G1RD6E47D</vin_1_10>
+      <county>King</county>
+      <city>Kirkland</city>
+      <state>WA</state>
+      <zip_code>98034</zip_code>
+      <model_year>2013</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>45</legislative_district>
+      <dol_vehicle_id>141297131</dol_vehicle_id>
+      <geocoded_column>POINT (-122.209285 47.71124)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033021904</_2020_census_tract>
+    </row>
+    

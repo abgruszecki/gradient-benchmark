@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-t62x-tayz-nm3k" _uuid="00000000-0000-0000-EE89-A02F4F3FB7C9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-t62x-tayz-nm3k">
+      <vin_1_10>5UXKT0C54J</vin_1_10>
+      <county>Whatcom</county>
+      <city>Lynden</city>
+      <state>WA</state>
+      <zip_code>98264</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>13</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>264608312</dol_vehicle_id>
+      <geocoded_column>POINT (-122.4584536 48.9461196)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073010303</_2020_census_tract>
+    </row>
+    

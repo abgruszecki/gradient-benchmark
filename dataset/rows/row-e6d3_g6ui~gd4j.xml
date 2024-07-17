@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-e6d3_g6ui~gd4j" _uuid="00000000-0000-0000-1F31-185FEBCA1202" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-e6d3_g6ui~gd4j">
+      <vin_1_10>5YJYGDEE4M</vin_1_10>
+      <county>Cumberland</county>
+      <city>Fayetteville</city>
+      <state>NC</state>
+      <zip_code>28312</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>180440935</dol_vehicle_id>
+      <geocoded_column>POINT (-78.848979 35.0405922)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>37051002600</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-iw9x~rbs7-6zpz" _uuid="00000000-0000-0000-9A46-F0C0F2BF8A2B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-iw9x~rbs7-6zpz">
+      <vin_1_10>5UXKT0C5XG</vin_1_10>
+      <county>Skamania</county>
+      <city>Washougal</city>
+      <state>WA</state>
+      <zip_code>98671</zip_code>
+      <model_year>2016</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>298253840</dol_vehicle_id>
+      <geocoded_column>POINT (-122.35465 45.58359)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF SKAMANIA CO</electric_utility>
+      <_2020_census_tract>53059950200</_2020_census_tract>
+    </row>
+    

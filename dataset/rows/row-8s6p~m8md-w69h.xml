@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8s6p~m8md-w69h" _uuid="00000000-0000-0000-2524-48B17E953A6F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8s6p~m8md-w69h">
+      <vin_1_10>1N4BZ0CP9H</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lynnwood</city>
+      <state>WA</state>
+      <zip_code>98037</zip_code>
+      <model_year>2017</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>107</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>309165412</dol_vehicle_id>
+      <geocoded_column>POINT (-122.297265 47.84182)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051602</_2020_census_tract>
+    </row>
+    

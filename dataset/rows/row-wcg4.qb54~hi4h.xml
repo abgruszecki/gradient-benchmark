@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wcg4.qb54~hi4h" _uuid="00000000-0000-0000-5023-BB89A59CCF12" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wcg4.qb54~hi4h">
+      <vin_1_10>5YJ3E1EB3J</vin_1_10>
+      <county>Clark</county>
+      <city>Battle Ground</city>
+      <state>WA</state>
+      <zip_code>98604</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>17</legislative_district>
+      <dol_vehicle_id>271192603</dol_vehicle_id>
+      <geocoded_column>POINT (-122.53218 45.77945)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040408</_2020_census_tract>
+    </row>
+    

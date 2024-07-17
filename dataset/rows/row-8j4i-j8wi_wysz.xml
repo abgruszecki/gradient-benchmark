@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8j4i-j8wi_wysz" _uuid="00000000-0000-0000-D0D3-C234B41A0268" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8j4i-j8wi_wysz">
+      <vin_1_10>7SAYGDEF4N</vin_1_10>
+      <county>King</county>
+      <city>Auburn</city>
+      <state>WA</state>
+      <zip_code>98092</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>47</legislative_district>
+      <dol_vehicle_id>217270196</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1820969 47.3198995)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031208</_2020_census_tract>
+    </row>
+    

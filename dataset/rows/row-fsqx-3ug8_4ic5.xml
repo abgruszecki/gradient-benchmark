@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fsqx-3ug8_4ic5" _uuid="00000000-0000-0000-B8A7-635353CF116C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fsqx-3ug8_4ic5">
+      <vin_1_10>JTDKARFP1H</vin_1_10>
+      <county>Whitman</county>
+      <city>Pullman</city>
+      <state>WA</state>
+      <zip_code>99163</zip_code>
+      <model_year>2017</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>172077510</dol_vehicle_id>
+      <geocoded_column>POINT (-117.17912 46.730885)</geocoded_column>
+      <electric_utility>AVISTA CORP</electric_utility>
+      <_2020_census_tract>53075000202</_2020_census_tract>
+    </row>
+    

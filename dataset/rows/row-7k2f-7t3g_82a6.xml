@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7k2f-7t3g_82a6" _uuid="00000000-0000-0000-883C-D51C5356EC29" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7k2f-7t3g_82a6">
+      <vin_1_10>YV4H60DZ7N</vin_1_10>
+      <county>Pacific</county>
+      <city>Tokeland</city>
+      <state>WA</state>
+      <zip_code>98590</zip_code>
+      <model_year>2022</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>35</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>215018086</dol_vehicle_id>
+      <geocoded_column>POINT (-123.99449 46.71071)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 2 OF PACIFIC COUNTY</electric_utility>
+      <_2020_census_tract>53049950301</_2020_census_tract>
+    </row>
+    

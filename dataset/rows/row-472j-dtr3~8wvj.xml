@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-472j-dtr3~8wvj" _uuid="00000000-0000-0000-13B2-96EB5DD805E2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-472j-dtr3~8wvj">
+      <vin_1_10>1N4AZ0CPXD</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lake Stevens</city>
+      <state>WA</state>
+      <zip_code>98258</zip_code>
+      <model_year>2013</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>75</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>243742670</dol_vehicle_id>
+      <geocoded_column>POINT (-122.112265 48.0047)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052506</_2020_census_tract>
+    </row>
+    

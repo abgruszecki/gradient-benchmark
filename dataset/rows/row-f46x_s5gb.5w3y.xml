@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-f46x_s5gb.5w3y" _uuid="00000000-0000-0000-804F-4D7A503E6DBC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-f46x_s5gb.5w3y">
+      <vin_1_10>5YJSA1DP5D</vin_1_10>
+      <county>Whitman</county>
+      <city>Uniontown</city>
+      <state>WA</state>
+      <zip_code>99179</zip_code>
+      <model_year>2013</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>69900</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>130088794</dol_vehicle_id>
+      <geocoded_column>POINT (-117.085225 46.53802)</geocoded_column>
+      <electric_utility>AVISTA CORP</electric_utility>
+      <_2020_census_tract>53075001000</_2020_census_tract>
+    </row>
+    

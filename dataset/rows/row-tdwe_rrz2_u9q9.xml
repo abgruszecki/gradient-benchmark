@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-tdwe_rrz2_u9q9" _uuid="00000000-0000-0000-30B5-A606E17084BB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-tdwe_rrz2_u9q9">
+      <vin_1_10>WBAJB1C52J</vin_1_10>
+      <county>Pierce</county>
+      <city>Puyallup</city>
+      <state>WA</state>
+      <zip_code>98374</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>530E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>54950</base_msrp>
+      <legislative_district>25</legislative_district>
+      <dol_vehicle_id>218197171</dol_vehicle_id>
+      <geocoded_column>POINT (-122.275748 47.1395924)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053071210</_2020_census_tract>
+    </row>
+    

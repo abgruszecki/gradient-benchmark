@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pw7b~xfja.9snn" _uuid="00000000-0000-0000-17A8-C0EB5F536F11" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pw7b~xfja.9snn">
+      <vin_1_10>1N4AZ0CP0D</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98106</zip_code>
+      <model_year>2013</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>75</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>34</legislative_district>
+      <dol_vehicle_id>8426904</dol_vehicle_id>
+      <geocoded_column>POINT (-122.356145 47.52104)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033011401</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5qbq-449x.x7pa" _uuid="00000000-0000-0000-FD24-E71C3140F20D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5qbq-449x.x7pa">
+      <vin_1_10>WBY1Z8C36H</vin_1_10>
+      <county>Pierce</county>
+      <city>Joint Base Lewis Mcchord</city>
+      <state>WA</state>
+      <zip_code>98433</zip_code>
+      <model_year>2017</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>97</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>28</legislative_district>
+      <dol_vehicle_id>224082610</dol_vehicle_id>
+      <geocoded_column>POINT (-122.596275 47.097005)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053072907</_2020_census_tract>
+    </row>
+    

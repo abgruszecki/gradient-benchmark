@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-r5yq~tzr7.n8sa" _uuid="00000000-0000-0000-F5E0-89BE0AE380EE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-r5yq~tzr7.n8sa">
+      <vin_1_10>50EA1PFAXP</vin_1_10>
+      <county>Chelan</county>
+      <city>Chelan</city>
+      <state>WA</state>
+      <zip_code>98816</zip_code>
+      <model_year>2023</model_year>
+      <make>LUCID</make>
+      <model>AIR</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>249813462</dol_vehicle_id>
+      <geocoded_column>POINT (-120.015875 47.839895)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007960301</_2020_census_tract>
+    </row>
+    

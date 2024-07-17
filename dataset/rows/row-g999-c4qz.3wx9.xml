@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-g999-c4qz.3wx9" _uuid="00000000-0000-0000-7A53-FE682E6D02C6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-g999-c4qz.3wx9">
+      <vin_1_10>5YJSA1E23G</vin_1_10>
+      <county>Chelan</county>
+      <city>Wenatchee</city>
+      <state>WA</state>
+      <zip_code>98801</zip_code>
+      <model_year>2016</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>210</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>199705271</dol_vehicle_id>
+      <geocoded_column>POINT (-120.32009 47.42255)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007960501</_2020_census_tract>
+    </row>
+    

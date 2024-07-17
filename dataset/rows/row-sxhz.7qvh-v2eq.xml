@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-sxhz.7qvh-v2eq" _uuid="00000000-0000-0000-4556-A2E182442046" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-sxhz.7qvh-v2eq">
+      <vin_1_10>WBAJA9C51J</vin_1_10>
+      <county>Pierce</county>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip_code>98406</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>530E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>16</electric_range>
+      <base_msrp>52650</base_msrp>
+      <legislative_district>27</legislative_district>
+      <dol_vehicle_id>185950033</dol_vehicle_id>
+      <geocoded_column>POINT (-122.490985 47.26365)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053060700</_2020_census_tract>
+    </row>
+    

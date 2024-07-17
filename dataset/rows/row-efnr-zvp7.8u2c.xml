@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-efnr-zvp7.8u2c" _uuid="00000000-0000-0000-97AD-9F47BA01E7FF" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-efnr-zvp7.8u2c">
+      <vin_1_10>YV4BR0PKXJ</vin_1_10>
+      <county>Kitsap</county>
+      <city>Kingston</city>
+      <state>WA</state>
+      <zip_code>98346</zip_code>
+      <model_year>2018</model_year>
+      <make>VOLVO</make>
+      <model>XC90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>64950</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>316199201</dol_vehicle_id>
+      <geocoded_column>POINT (-122.50156 47.8019)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035090202</_2020_census_tract>
+    </row>
+    

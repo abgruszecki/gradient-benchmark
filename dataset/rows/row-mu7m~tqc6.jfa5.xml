@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mu7m~tqc6.jfa5" _uuid="00000000-0000-0000-A27D-AE3F7F1AB521" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mu7m~tqc6.jfa5">
+      <vin_1_10>5YJ3E1EBXJ</vin_1_10>
+      <county>Stevens</county>
+      <city>Loon Lake</city>
+      <state>WA</state>
+      <zip_code>99148</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>290408142</dol_vehicle_id>
+      <geocoded_column>POINT (-117.63454 48.05954)</geocoded_column>
+      <electric_utility>NO KNOWN ELECTRIC UTILITY SERVICE</electric_utility>
+      <_2020_census_tract>53065951301</_2020_census_tract>
+    </row>
+    

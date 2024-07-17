@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-th8h.tf3d-sah4" _uuid="00000000-0000-0000-C8B0-EA4C3E184A5E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-th8h.tf3d-sah4">
+      <vin_1_10>1N4AZ0CP0D</vin_1_10>
+      <county>Pierce</county>
+      <city>University Place</city>
+      <state>WA</state>
+      <zip_code>98466</zip_code>
+      <model_year>2013</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>75</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>28</legislative_district>
+      <dol_vehicle_id>173472645</dol_vehicle_id>
+      <geocoded_column>POINT (-122.537565 47.231645)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053072309</_2020_census_tract>
+    </row>
+    

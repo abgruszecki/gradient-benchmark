@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ap9x~uwpy_wayr" _uuid="00000000-0000-0000-D468-3112E9E58AF8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ap9x~uwpy_wayr">
+      <vin_1_10>537LS7D49B</vin_1_10>
+      <county>Whatcom</county>
+      <city>Lummi Island</city>
+      <state>WA</state>
+      <zip_code>98262</zip_code>
+      <model_year>2011</model_year>
+      <make>AZURE DYNAMICS</make>
+      <model>TRANSIT CONNECT ELECTRIC</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>56</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>190601953</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6888403 48.7199947)</geocoded_column>
+      <electric_utility>PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073010900</_2020_census_tract>
+    </row>
+    

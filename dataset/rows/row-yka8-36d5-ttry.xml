@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yka8-36d5-ttry" _uuid="00000000-0000-0000-1BD3-511BDD570A2D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yka8-36d5-ttry">
+      <vin_1_10>JTDKARFP2J</vin_1_10>
+      <county>Thurston</county>
+      <city>Lacey</city>
+      <state>WA</state>
+      <zip_code>98503</zip_code>
+      <model_year>2018</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>196749255</dol_vehicle_id>
+      <geocoded_column>POINT (-122.8285 47.03646)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067011421</_2020_census_tract>
+    </row>
+    

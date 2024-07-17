@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-59x3.a58e_8m2n" _uuid="00000000-0000-0000-453D-DAC10E68D1A6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-59x3.a58e_8m2n">
+      <vin_1_10>JTJKKCFZ7R</vin_1_10>
+      <county>Snohomish</county>
+      <city>Marysville</city>
+      <state>WA</state>
+      <zip_code>98270</zip_code>
+      <model_year>2024</model_year>
+      <make>LEXUS</make>
+      <model>NX</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>37</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>259190522</dol_vehicle_id>
+      <geocoded_column>POINT (-122.17673 48.05542)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052710</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-u4b9-k3ei_u7zn" _uuid="00000000-0000-0000-5764-5C73C3DE25C2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-u4b9-k3ei_u7zn">
+      <vin_1_10>KNDCC3LD1K</vin_1_10>
+      <county>Clallam</county>
+      <city>Sequim</city>
+      <state>WA</state>
+      <zip_code>98382</zip_code>
+      <model_year>2019</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>474036790</dol_vehicle_id>
+      <geocoded_column>POINT (-123.105015 48.08125)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLALLAM COUNTY</electric_utility>
+      <_2020_census_tract>53009001901</_2020_census_tract>
+    </row>
+    

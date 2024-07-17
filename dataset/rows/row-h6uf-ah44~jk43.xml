@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-h6uf-ah44~jk43" _uuid="00000000-0000-0000-D088-EDBBFF6D8BEA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-h6uf-ah44~jk43">
+      <vin_1_10>KNDJX3AE4J</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lake Stevens</city>
+      <state>WA</state>
+      <zip_code>98258</zip_code>
+      <model_year>2018</model_year>
+      <make>KIA</make>
+      <model>SOUL EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>111</electric_range>
+      <base_msrp>33950</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>259828313</dol_vehicle_id>
+      <geocoded_column>POINT (-122.112265 48.0047)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052604</_2020_census_tract>
+    </row>
+    

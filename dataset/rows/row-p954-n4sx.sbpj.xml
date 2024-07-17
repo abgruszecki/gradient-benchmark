@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-p954-n4sx.sbpj" _uuid="00000000-0000-0000-124C-DC9F6A3B3B6D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-p954-n4sx.sbpj">
+      <vin_1_10>KNDC4DLC8N</vin_1_10>
+      <county>Skagit</county>
+      <city>Burlington</city>
+      <state>WA</state>
+      <zip_code>98233</zip_code>
+      <model_year>2022</model_year>
+      <make>KIA</make>
+      <model>EV6</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>193991626</dol_vehicle_id>
+      <geocoded_column>POINT (-122.33079 48.474765)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53057951600</_2020_census_tract>
+    </row>
+    

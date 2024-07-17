@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2xps-vif4.h3kq" _uuid="00000000-0000-0000-92E8-9656C6DAD4A9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2xps-vif4.h3kq">
+      <vin_1_10>5YJSA1E24J</vin_1_10>
+      <county>Pierce</county>
+      <city>Milton</city>
+      <state>WA</state>
+      <zip_code>98354</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>249</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>30</legislative_district>
+      <dol_vehicle_id>250014852</dol_vehicle_id>
+      <geocoded_column>POINT (-122.31774 47.246525)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF MILTON - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053070703</_2020_census_tract>
+    </row>
+    

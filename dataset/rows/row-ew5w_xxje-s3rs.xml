@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ew5w_xxje-s3rs" _uuid="00000000-0000-0000-ACD8-1ED90A2C4C4D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ew5w_xxje-s3rs">
+      <vin_1_10>5YJYGDEF0L</vin_1_10>
+      <county>Yakima</county>
+      <city>Yakima</city>
+      <state>WA</state>
+      <zip_code>98903</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>291</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>115096348</dol_vehicle_id>
+      <geocoded_column>POINT (-120.477805 46.553505)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077003003</_2020_census_tract>
+    </row>
+    

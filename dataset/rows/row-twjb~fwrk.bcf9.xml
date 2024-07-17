@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-twjb~fwrk.bcf9" _uuid="00000000-0000-0000-DD1C-30C65261F6A5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-twjb~fwrk.bcf9">
+      <vin_1_10>WMEFJ9BA2H</vin_1_10>
+      <county>Cowlitz</county>
+      <city>Kelso</city>
+      <state>WA</state>
+      <zip_code>98626</zip_code>
+      <model_year>2017</model_year>
+      <make>SMART</make>
+      <model>FORTWO</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>58</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>171093030</dol_vehicle_id>
+      <geocoded_column>POINT (-122.90724 46.14458)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF COWLITZ COUNTY</electric_utility>
+      <_2020_census_tract>53015001100</_2020_census_tract>
+    </row>
+    

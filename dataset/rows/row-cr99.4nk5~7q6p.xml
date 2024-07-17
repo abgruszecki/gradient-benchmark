@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-cr99.4nk5~7q6p" _uuid="00000000-0000-0000-7629-33522AF62B4A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-cr99.4nk5~7q6p">
+      <vin_1_10>1GYKPMRL6R</vin_1_10>
+      <county>Lewis</county>
+      <city>Centralia</city>
+      <state>WA</state>
+      <zip_code>98531</zip_code>
+      <model_year>2024</model_year>
+      <make>CADILLAC</make>
+      <model>LYRIQ</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>253253332</dol_vehicle_id>
+      <geocoded_column>POINT (-122.962555 46.716875)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF LEWIS COUNTY</electric_utility>
+      <_2020_census_tract>53041970200</_2020_census_tract>
+    </row>
+    

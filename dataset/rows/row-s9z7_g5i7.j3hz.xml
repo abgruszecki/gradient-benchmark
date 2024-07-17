@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-s9z7_g5i7.j3hz" _uuid="00000000-0000-0000-F60F-4455EE15E8DF" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-s9z7_g5i7.j3hz">
+      <vin_1_10>WBY1Z2C55E</vin_1_10>
+      <county>Clark</county>
+      <city>Battle Ground</city>
+      <state>WA</state>
+      <zip_code>98604</zip_code>
+      <model_year>2014</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>81</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>18</legislative_district>
+      <dol_vehicle_id>200809339</dol_vehicle_id>
+      <geocoded_column>POINT (-122.53218 45.77945)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040413</_2020_census_tract>
+    </row>
+    

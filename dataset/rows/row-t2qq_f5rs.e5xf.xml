@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-t2qq_f5rs.e5xf" _uuid="00000000-0000-0000-8A93-788CB4D5C2B3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-t2qq_f5rs.e5xf">
+      <vin_1_10>1G1RA6E46E</vin_1_10>
+      <county>Hillsborough</county>
+      <city>Tampa</city>
+      <state>FL</state>
+      <zip_code>33621</zip_code>
+      <model_year>2014</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>329643821</dol_vehicle_id>
+      <geocoded_column>POINT (-82.48685 27.85184)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>12057007300</_2020_census_tract>
+    </row>
+    

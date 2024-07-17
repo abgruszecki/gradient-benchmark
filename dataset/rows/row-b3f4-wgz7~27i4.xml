@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-b3f4-wgz7~27i4" _uuid="00000000-0000-0000-DCE8-198B1513655F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-b3f4-wgz7~27i4">
+      <vin_1_10>7SAYGDEE8P</vin_1_10>
+      <county>Clark</county>
+      <city>Camas</city>
+      <state>WA</state>
+      <zip_code>98607</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>18</legislative_district>
+      <dol_vehicle_id>261074670</dol_vehicle_id>
+      <geocoded_column>POINT (-122.405565 45.59009)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040609</_2020_census_tract>
+    </row>
+    

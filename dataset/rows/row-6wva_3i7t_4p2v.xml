@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6wva_3i7t_4p2v" _uuid="00000000-0000-0000-58EE-A8538A8C09F2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6wva_3i7t_4p2v">
+      <vin_1_10>W1KCG4EB5N</vin_1_10>
+      <county>King</county>
+      <city>Hunts Point</city>
+      <state>WA</state>
+      <zip_code>98004</zip_code>
+      <model_year>2022</model_year>
+      <make>MERCEDES-BENZ</make>
+      <model>EQS-CLASS SEDAN</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>48</legislative_district>
+      <dol_vehicle_id>205677531</dol_vehicle_id>
+      <geocoded_column>POINT (-122.201905 47.61385)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033024100</_2020_census_tract>
+    </row>
+    

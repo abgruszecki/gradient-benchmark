@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-w6p4.ea8b.ry57" _uuid="00000000-0000-0000-1523-23C4E562A3E4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-w6p4.ea8b.ry57">
+      <vin_1_10>1FADP3R48J</vin_1_10>
+      <county>Douglas</county>
+      <city>East Wenatchee</city>
+      <state>WA</state>
+      <zip_code>98802</zip_code>
+      <model_year>2018</model_year>
+      <make>FORD</make>
+      <model>FOCUS</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>100</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>112949903</dol_vehicle_id>
+      <geocoded_column>POINT (-120.28674 47.4176)</geocoded_column>
+      <electric_utility>PUD NO 1 OF DOUGLAS COUNTY</electric_utility>
+      <_2020_census_tract>53017950300</_2020_census_tract>
+    </row>
+    

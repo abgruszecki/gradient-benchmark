@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kimq.2p42-6w7h" _uuid="00000000-0000-0000-B312-72E19776D48E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kimq.2p42-6w7h">
+      <vin_1_10>2C4RC1N7XK</vin_1_10>
+      <county>Whatcom</county>
+      <city>Bellingham</city>
+      <state>WA</state>
+      <zip_code>98225</zip_code>
+      <model_year>2019</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>39995</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>235462041</dol_vehicle_id>
+      <geocoded_column>POINT (-122.486115 48.761615)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073000402</_2020_census_tract>
+    </row>
+    

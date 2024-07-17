@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-a5sr~drct.zjmw" _uuid="00000000-0000-0000-E201-0019E25BA609" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-a5sr~drct.zjmw">
+      <vin_1_10>1G1RG6E49C</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Mccleary</city>
+      <state>WA</state>
+      <zip_code>98557</zip_code>
+      <model_year>2012</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>35</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>232810707</dol_vehicle_id>
+      <geocoded_column>POINT (-123.26743 47.052405)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027000600</_2020_census_tract>
+    </row>
+    

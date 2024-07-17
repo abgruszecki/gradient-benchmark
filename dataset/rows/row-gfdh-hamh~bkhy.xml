@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-gfdh-hamh~bkhy" _uuid="00000000-0000-0000-93B3-8F6C34BA87A7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-gfdh-hamh~bkhy">
+      <vin_1_10>WA1E2AFY7P</vin_1_10>
+      <county>Douglas</county>
+      <city>Castle Rock</city>
+      <state>CO</state>
+      <zip_code>80104</zip_code>
+      <model_year>2023</model_year>
+      <make>AUDI</make>
+      <model>Q5 E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>23</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>240663202</dol_vehicle_id>
+      <geocoded_column>POINT (-104.855075 39.373455)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>08035014506</_2020_census_tract>
+    </row>
+    

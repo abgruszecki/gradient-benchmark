@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-iurz_ah3w-f8eh" _uuid="00000000-0000-0000-49A9-DB6C78834ED4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-iurz_ah3w-f8eh">
+      <vin_1_10>1N4AZ0CP6F</vin_1_10>
+      <county>Pierce</county>
+      <city>Gig Harbor</city>
+      <state>WA</state>
+      <zip_code>98332</zip_code>
+      <model_year>2015</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>84</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>26</legislative_district>
+      <dol_vehicle_id>109634843</dol_vehicle_id>
+      <geocoded_column>POINT (-122.589645 47.342345)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053072509</_2020_census_tract>
+    </row>
+    

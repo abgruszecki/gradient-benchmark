@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-iaqt_4qic-ew4c" _uuid="00000000-0000-0000-B8D6-219D7CD1220A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-iaqt_4qic-ew4c">
+      <vin_1_10>KM8KRDDF3R</vin_1_10>
+      <county>King</county>
+      <city>Redmond</city>
+      <state>WA</state>
+      <zip_code>98053</zip_code>
+      <model_year>2024</model_year>
+      <make>HYUNDAI</make>
+      <model>IONIQ 5</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>45</legislative_district>
+      <dol_vehicle_id>258478412</dol_vehicle_id>
+      <geocoded_column>POINT (-122.0222799 47.6958998)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032333</_2020_census_tract>
+    </row>
+    

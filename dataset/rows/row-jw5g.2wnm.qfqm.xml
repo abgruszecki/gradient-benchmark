@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jw5g.2wnm.qfqm" _uuid="00000000-0000-0000-F543-8C47F2D41AF6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jw5g.2wnm.qfqm">
+      <vin_1_10>5UXKT0C58J</vin_1_10>
+      <county>Spokane</county>
+      <city>Veradale</city>
+      <state>WA</state>
+      <zip_code>99037</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>13</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>153968699</dol_vehicle_id>
+      <geocoded_column>POINT (-117.19651 47.65942)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063012402</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mt2w~fy4g-ffuj" _uuid="00000000-0000-0000-7627-012223465AE6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mt2w~fy4g-ffuj">
+      <vin_1_10>3FA6P0PU4H</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lynnwood</city>
+      <state>WA</state>
+      <zip_code>98087</zip_code>
+      <model_year>2017</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>21</legislative_district>
+      <dol_vehicle_id>476408845</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2551991 47.8650827)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051804</_2020_census_tract>
+    </row>
+    

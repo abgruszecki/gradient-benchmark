@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8h7s_2vu8~sp59" _uuid="00000000-0000-0000-4342-799E88049B16" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8h7s_2vu8~sp59">
+      <vin_1_10>JHMZC5F1XJ</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98115</zip_code>
+      <model_year>2018</model_year>
+      <make>HONDA</make>
+      <model>CLARITY</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>47</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>46</legislative_district>
+      <dol_vehicle_id>203277091</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3185 47.67949)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033002200</_2020_census_tract>
+    </row>
+    

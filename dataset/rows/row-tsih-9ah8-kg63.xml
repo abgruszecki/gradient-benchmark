@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-tsih-9ah8-kg63" _uuid="00000000-0000-0000-138C-A28139EA5FB5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-tsih-9ah8-kg63">
+      <vin_1_10>5YJ3E1EA8P</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Mccleary</city>
+      <state>WA</state>
+      <zip_code>98557</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>240643805</dol_vehicle_id>
+      <geocoded_column>POINT (-123.26743 47.052405)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF MCCLEARY - (WA)</electric_utility>
+      <_2020_census_tract>53027000600</_2020_census_tract>
+    </row>
+    

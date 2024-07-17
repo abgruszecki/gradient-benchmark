@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-73r8-hkjm_i9qt" _uuid="00000000-0000-0000-8D1A-35527A4D6BC1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-73r8-hkjm_i9qt">
+      <vin_1_10>JHMZC5F36J</vin_1_10>
+      <county>Yakima</county>
+      <city>Yakima</city>
+      <state>WA</state>
+      <zip_code>98908</zip_code>
+      <model_year>2018</model_year>
+      <make>HONDA</make>
+      <model>CLARITY</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>47</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>204845469</dol_vehicle_id>
+      <geocoded_column>POINT (-120.6027202 46.5965625)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077002801</_2020_census_tract>
+    </row>
+    

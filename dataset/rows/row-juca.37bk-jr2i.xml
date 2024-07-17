@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-juca.37bk-jr2i" _uuid="00000000-0000-0000-6435-320F1CBC1609" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-juca.37bk-jr2i">
+      <vin_1_10>JTDKN3DP4C</vin_1_10>
+      <county>Jefferson</county>
+      <city>Quilcene</city>
+      <state>WA</state>
+      <zip_code>98376</zip_code>
+      <model_year>2012</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>156431474</dol_vehicle_id>
+      <geocoded_column>POINT (-122.8757079 47.82477)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUGET SOUND ENERGY INC||PUD NO 1 OF JEFFERSON COUNTY</electric_utility>
+      <_2020_census_tract>53031950202</_2020_census_tract>
+    </row>
+    

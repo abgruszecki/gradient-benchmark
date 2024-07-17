@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yw5t-ru2g-7ks8" _uuid="00000000-0000-0000-2E77-519670DA40DD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yw5t-ru2g-7ks8">
+      <vin_1_10>5YJ3E1EB3M</vin_1_10>
+      <county>Snohomish</county>
+      <city>Granite Falls</city>
+      <state>WA</state>
+      <zip_code>98252</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>39</legislative_district>
+      <dol_vehicle_id>144821533</dol_vehicle_id>
+      <geocoded_column>POINT (-121.96994 48.08334)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061053604</_2020_census_tract>
+    </row>
+    

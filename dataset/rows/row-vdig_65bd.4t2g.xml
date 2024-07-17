@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-vdig_65bd.4t2g" _uuid="00000000-0000-0000-D3BA-29EB52C8CEE8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-vdig_65bd.4t2g">
+      <vin_1_10>5YJ3E1EC3L</vin_1_10>
+      <county>Thurston</county>
+      <city>Yelm</city>
+      <state>WA</state>
+      <zip_code>98597</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>308</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>254928768</dol_vehicle_id>
+      <geocoded_column>POINT (-122.61023 46.94126)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012531</_2020_census_tract>
+    </row>
+    

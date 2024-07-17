@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3md8.9a7i.jpe3" _uuid="00000000-0000-0000-E6DF-BBB8A46FA7F5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3md8.9a7i.jpe3">
+      <vin_1_10>1C4JJXR62P</vin_1_10>
+      <county>Skagit</county>
+      <city>Burlington</city>
+      <state>WA</state>
+      <zip_code>98233</zip_code>
+      <model_year>2023</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>224424910</dol_vehicle_id>
+      <geocoded_column>POINT (-122.33079 48.474765)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53057951600</_2020_census_tract>
+    </row>
+    

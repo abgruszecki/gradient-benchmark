@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yw3x~spdz.cq76" _uuid="00000000-0000-0000-4BA1-26F2B89ADC5C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yw3x~spdz.cq76">
+      <vin_1_10>WMEFJ9BA3H</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98116</zip_code>
+      <model_year>2017</model_year>
+      <make>SMART</make>
+      <model>FORTWO</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>58</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>34</legislative_district>
+      <dol_vehicle_id>349707641</dol_vehicle_id>
+      <geocoded_column>POINT (-122.38679 47.56484)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033009701</_2020_census_tract>
+    </row>
+    

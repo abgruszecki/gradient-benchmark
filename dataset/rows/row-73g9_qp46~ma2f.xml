@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-73g9_qp46~ma2f" _uuid="00000000-0000-0000-3B9B-C83C9EE761DE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-73g9_qp46~ma2f">
+      <vin_1_10>WAUUPBFF9J</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98144</zip_code>
+      <model_year>2018</model_year>
+      <make>AUDI</make>
+      <model>A3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>16</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>37</legislative_district>
+      <dol_vehicle_id>477250749</dol_vehicle_id>
+      <geocoded_column>POINT (-122.30823 47.581975)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033009000</_2020_census_tract>
+    </row>
+    

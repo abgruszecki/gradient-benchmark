@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pk5g.9bpf~ik2p" _uuid="00000000-0000-0000-E34B-79C438ACE298" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pk5g.9bpf~ik2p">
+      <vin_1_10>5YJ3E1EB4L</vin_1_10>
+      <county>Yakima</county>
+      <city>Moxee</city>
+      <state>WA</state>
+      <zip_code>98936</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>322</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>15</legislative_district>
+      <dol_vehicle_id>102357853</dol_vehicle_id>
+      <geocoded_column>POINT (-120.3795117 46.55609)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077001702</_2020_census_tract>
+    </row>
+    

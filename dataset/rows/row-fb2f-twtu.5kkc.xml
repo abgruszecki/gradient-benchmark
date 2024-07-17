@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fb2f-twtu.5kkc" _uuid="00000000-0000-0000-540A-1A5FCD8DB9A6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fb2f-twtu.5kkc">
+      <vin_1_10>3FA6P0SU4E</vin_1_10>
+      <county>Grant</county>
+      <city>Warden</city>
+      <state>WA</state>
+      <zip_code>98857</zip_code>
+      <model_year>2014</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>189267137</dol_vehicle_id>
+      <geocoded_column>POINT (-119.044355 46.965685)</geocoded_column>
+      <electric_utility>PUD NO 2 OF GRANT COUNTY</electric_utility>
+      <_2020_census_tract>53025011300</_2020_census_tract>
+    </row>
+    

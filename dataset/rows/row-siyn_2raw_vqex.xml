@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-siyn_2raw_vqex" _uuid="00000000-0000-0000-E35E-DAEA4C944F1D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-siyn_2raw_vqex">
+      <vin_1_10>7SAYGDEE8P</vin_1_10>
+      <county>Chelan</county>
+      <city>Cashmere</city>
+      <state>WA</state>
+      <zip_code>98815</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>258792075</dol_vehicle_id>
+      <geocoded_column>POINT (-120.4687 47.5173233)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007960600</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pf94_88gj-v9ps" _uuid="00000000-0000-0000-F942-418B4BE3BFA1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pf94_88gj-v9ps">
+      <vin_1_10>1C4JJXP6XM</vin_1_10>
+      <county>Clark</county>
+      <city>Woodland</city>
+      <state>WA</state>
+      <zip_code>98674</zip_code>
+      <model_year>2021</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>193755684</dol_vehicle_id>
+      <geocoded_column>POINT (-122.73125 45.923065)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040201</_2020_census_tract>
+    </row>
+    

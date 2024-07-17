@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ud2w~uvhr_h3db" _uuid="00000000-0000-0000-9337-676C0719299C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ud2w~uvhr_h3db">
+      <vin_1_10>1N4BZ1BV8N</vin_1_10>
+      <county>Thurston</county>
+      <city>Olympia</city>
+      <state>WA</state>
+      <zip_code>98501</zip_code>
+      <model_year>2022</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>180362927</dol_vehicle_id>
+      <geocoded_column>POINT (-122.89692 47.043535)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067010700</_2020_census_tract>
+    </row>
+    

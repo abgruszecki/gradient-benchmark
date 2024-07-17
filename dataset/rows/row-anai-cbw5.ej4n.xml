@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-anai-cbw5.ej4n" _uuid="00000000-0000-0000-B6AA-72C90ABA4CAB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-anai-cbw5.ej4n">
+      <vin_1_10>JTDKAMFP0M</vin_1_10>
+      <county>Thurston</county>
+      <city>Olympia</city>
+      <state>WA</state>
+      <zip_code>98513</zip_code>
+      <model_year>2021</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>150469161</dol_vehicle_id>
+      <geocoded_column>POINT (-122.817545 46.98876)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012420</_2020_census_tract>
+    </row>
+    

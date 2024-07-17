@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ntzw.d4wt.bw5h" _uuid="00000000-0000-0000-0A11-45FFFA687657" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ntzw.d4wt.bw5h">
+      <vin_1_10>YV4BR0DL3L</vin_1_10>
+      <county>King</county>
+      <city>Kirkland</city>
+      <state>WA</state>
+      <zip_code>98034</zip_code>
+      <model_year>2020</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>18</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>45</legislative_district>
+      <dol_vehicle_id>107758185</dol_vehicle_id>
+      <geocoded_column>POINT (-122.209285 47.71124)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033021905</_2020_census_tract>
+    </row>
+    

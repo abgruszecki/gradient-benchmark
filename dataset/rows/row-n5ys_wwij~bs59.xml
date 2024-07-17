@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-n5ys_wwij~bs59" _uuid="00000000-0000-0000-C5FE-CF79D2481097" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-n5ys_wwij~bs59">
+      <vin_1_10>JA4J24A56K</vin_1_10>
+      <county>Island</county>
+      <city>Oak Harbor</city>
+      <state>WA</state>
+      <zip_code>98277</zip_code>
+      <model_year>2019</model_year>
+      <make>MITSUBISHI</make>
+      <model>OUTLANDER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>22</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>474997491</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6788673 48.2897314)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53029970800</_2020_census_tract>
+    </row>
+    

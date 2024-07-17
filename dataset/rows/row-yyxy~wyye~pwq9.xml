@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yyxy~wyye~pwq9" _uuid="00000000-0000-0000-B013-3346034CC7C7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yyxy~wyye~pwq9">
+      <vin_1_10>KNDJP3AE7G</vin_1_10>
+      <county>Clallam</county>
+      <city>Port Angeles</city>
+      <state>WA</state>
+      <zip_code>98363</zip_code>
+      <model_year>2016</model_year>
+      <make>KIA</make>
+      <model>SOUL</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>31950</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>279307717</dol_vehicle_id>
+      <geocoded_column>POINT (-123.46101 48.118925)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLALLAM COUNTY</electric_utility>
+      <_2020_census_tract>53009002400</_2020_census_tract>
+    </row>
+    

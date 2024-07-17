@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-hwkt_gbmt.gwd2" _uuid="00000000-0000-0000-F3D5-E0C9394BF20A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-hwkt_gbmt.gwd2">
+      <vin_1_10>KNDCR3LF6P</vin_1_10>
+      <county>Skagit</county>
+      <city>Mount Vernon</city>
+      <state>WA</state>
+      <zip_code>98274</zip_code>
+      <model_year>2023</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>33</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>228686083</dol_vehicle_id>
+      <geocoded_column>POINT (-122.322955 48.4152)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53057952700</_2020_census_tract>
+    </row>
+    

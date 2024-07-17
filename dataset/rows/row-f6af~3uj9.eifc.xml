@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-f6af~3uj9.eifc" _uuid="00000000-0000-0000-61F1-CB74DD74863D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-f6af~3uj9.eifc">
+      <vin_1_10>3FA6P0PU8F</vin_1_10>
+      <county>Kern</county>
+      <city>Ridgecrest</city>
+      <state>CA</state>
+      <zip_code>93555</zip_code>
+      <model_year>2015</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>475775205</dol_vehicle_id>
+      <geocoded_column>POINT (-117.67228 35.62073)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06029005300</_2020_census_tract>
+    </row>
+    

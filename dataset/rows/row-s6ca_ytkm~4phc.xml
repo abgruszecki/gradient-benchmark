@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-s6ca_ytkm~4phc" _uuid="00000000-0000-0000-214D-0A602BD19767" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-s6ca_ytkm~4phc">
+      <vin_1_10>WA1LAAGE4N</vin_1_10>
+      <county>Yakima</county>
+      <city>Yakima</city>
+      <state>WA</state>
+      <zip_code>98903</zip_code>
+      <model_year>2022</model_year>
+      <make>AUDI</make>
+      <model>E-TRON</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>253786921</dol_vehicle_id>
+      <geocoded_column>POINT (-120.477805 46.553505)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077002803</_2020_census_tract>
+    </row>
+    

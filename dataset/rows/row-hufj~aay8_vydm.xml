@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-hufj~aay8_vydm" _uuid="00000000-0000-0000-7A2F-8184C6339BA0" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-hufj~aay8_vydm">
+      <vin_1_10>JM3KKDHA6R</vin_1_10>
+      <county>Skagit</county>
+      <city>Anacortes</city>
+      <state>WA</state>
+      <zip_code>98221</zip_code>
+      <model_year>2024</model_year>
+      <make>MAZDA</make>
+      <model>CX-90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>240801998</dol_vehicle_id>
+      <geocoded_column>POINT (-122.615305 48.501275)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53057940403</_2020_census_tract>
+    </row>
+    

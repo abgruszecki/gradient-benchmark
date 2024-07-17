@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-sp9c-bv5r.7v3w" _uuid="00000000-0000-0000-4D91-90417DD8E8A2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-sp9c-bv5r.7v3w">
+      <vin_1_10>WBY73AW07P</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98101</zip_code>
+      <model_year>2023</model_year>
+      <make>BMW</make>
+      <model>I4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>43</legislative_district>
+      <dol_vehicle_id>253494188</dol_vehicle_id>
+      <geocoded_column>POINT (-122.335345 47.61079)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033008200</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rdnq-5rp5-z3mk" _uuid="00000000-0000-0000-1CE1-1CA4E8985ED7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rdnq-5rp5-z3mk">
+      <vin_1_10>5YJYGDEE2L</vin_1_10>
+      <county>King</county>
+      <city>Sammamish</city>
+      <state>WA</state>
+      <zip_code>98074</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>291</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>45</legislative_district>
+      <dol_vehicle_id>110795436</dol_vehicle_id>
+      <geocoded_column>POINT (-122.0313266 47.6285782)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032215</_2020_census_tract>
+    </row>
+    

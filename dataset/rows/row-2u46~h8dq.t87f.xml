@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2u46~h8dq.t87f" _uuid="00000000-0000-0000-BC4A-038B4C5ED0F6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2u46~h8dq.t87f">
+      <vin_1_10>WVGTMPE28M</vin_1_10>
+      <county>Thurston</county>
+      <city>Lacey</city>
+      <state>WA</state>
+      <zip_code>98503</zip_code>
+      <model_year>2021</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>ID.4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>186555365</dol_vehicle_id>
+      <geocoded_column>POINT (-122.8285 47.03646)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067011622</_2020_census_tract>
+    </row>
+    

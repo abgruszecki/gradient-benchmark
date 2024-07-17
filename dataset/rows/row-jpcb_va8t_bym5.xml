@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jpcb_va8t_bym5" _uuid="00000000-0000-0000-EB30-BC87CFA2566A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jpcb_va8t_bym5">
+      <vin_1_10>YV4BK0DP8M</vin_1_10>
+      <county>Whatcom</county>
+      <city>Maple Falls</city>
+      <state>WA</state>
+      <zip_code>98266</zip_code>
+      <model_year>2021</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>18</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>151604645</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1486861 48.9492931)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073010102</_2020_census_tract>
+    </row>
+    

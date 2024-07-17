@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-bsfi-ah3w_u9cy" _uuid="00000000-0000-0000-ABCF-1AC6837519A8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-bsfi-ah3w_u9cy">
+      <vin_1_10>JA4J24A5XK</vin_1_10>
+      <county>King</county>
+      <city>North Bend</city>
+      <state>WA</state>
+      <zip_code>98045</zip_code>
+      <model_year>2019</model_year>
+      <make>MITSUBISHI</make>
+      <model>OUTLANDER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>22</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>110148461</dol_vehicle_id>
+      <geocoded_column>POINT (-121.7814012 47.4935316)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032706</_2020_census_tract>
+    </row>
+    

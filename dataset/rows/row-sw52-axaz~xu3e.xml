@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-sw52-axaz~xu3e" _uuid="00000000-0000-0000-30B6-B64D9FE6C295" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-sw52-axaz~xu3e">
+      <vin_1_10>5YJ3E1EB1L</vin_1_10>
+      <county>DuPage</county>
+      <city>West Chicago</city>
+      <state>IL</state>
+      <zip_code>60185</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>322</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>1947907</dol_vehicle_id>
+      <geocoded_column>POINT (-88.203885 41.880125)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>17043841310</_2020_census_tract>
+    </row>
+    

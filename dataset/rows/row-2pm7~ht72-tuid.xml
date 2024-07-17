@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2pm7~ht72-tuid" _uuid="00000000-0000-0000-3BBD-1001A1C227ED" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2pm7~ht72-tuid">
+      <vin_1_10>1G1RB6S54J</vin_1_10>
+      <county>Snohomish</county>
+      <city>Snohomish</city>
+      <state>WA</state>
+      <zip_code>98296</zip_code>
+      <model_year>2018</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>53</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>217441185</dol_vehicle_id>
+      <geocoded_column>POINT (-122.15134 47.8851158)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052114</_2020_census_tract>
+    </row>
+    

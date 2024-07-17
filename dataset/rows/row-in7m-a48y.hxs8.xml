@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-in7m-a48y.hxs8" _uuid="00000000-0000-0000-94F5-23CD35C08D65" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-in7m-a48y.hxs8">
+      <vin_1_10>JN1DF0CD0P</vin_1_10>
+      <county>Spokane</county>
+      <city>Elk</city>
+      <state>WA</state>
+      <zip_code>99009</zip_code>
+      <model_year>2023</model_year>
+      <make>NISSAN</make>
+      <model>ARIYA</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>252515777</dol_vehicle_id>
+      <geocoded_column>POINT (-117.34965 48.017305)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063010102</_2020_census_tract>
+    </row>
+    

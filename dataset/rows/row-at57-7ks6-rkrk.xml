@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-at57-7ks6-rkrk" _uuid="00000000-0000-0000-A760-654BF319399C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-at57-7ks6-rkrk">
+      <vin_1_10>1N4AZ0CP3D</vin_1_10>
+      <county>Yakima</county>
+      <city>Toppenish</city>
+      <state>WA</state>
+      <zip_code>98948</zip_code>
+      <model_year>2013</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>75</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>231866015</dol_vehicle_id>
+      <geocoded_column>POINT (-120.31287 46.37534)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077940002</_2020_census_tract>
+    </row>
+    

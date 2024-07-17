@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-k2fq_pmg3.c7de" _uuid="00000000-0000-0000-7C8B-EB7EC1410604" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-k2fq_pmg3.c7de">
+      <vin_1_10>WBY33AW06P</vin_1_10>
+      <county>Franklin</county>
+      <city>Pasco</city>
+      <state>WA</state>
+      <zip_code>99301</zip_code>
+      <model_year>2023</model_year>
+      <make>BMW</make>
+      <model>I4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>230121419</dol_vehicle_id>
+      <geocoded_column>POINT (-119.0982 46.232395)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FRANKLIN COUNTY</electric_utility>
+      <_2020_census_tract>53021020608</_2020_census_tract>
+    </row>
+    

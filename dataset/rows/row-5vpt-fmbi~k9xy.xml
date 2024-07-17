@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5vpt-fmbi~k9xy" _uuid="00000000-0000-0000-DFD6-C234FDBD2704" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5vpt-fmbi~k9xy">
+      <vin_1_10>5YJ3E1EB2J</vin_1_10>
+      <county>Suffolk</county>
+      <city>Suffolk</city>
+      <state>VA</state>
+      <zip_code>23435</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>476647986</dol_vehicle_id>
+      <geocoded_column>POINT (-76.42047 36.87704)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>51800075203</_2020_census_tract>
+    </row>
+    

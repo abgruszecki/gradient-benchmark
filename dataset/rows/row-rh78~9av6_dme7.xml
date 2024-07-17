@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rh78~9av6_dme7" _uuid="00000000-0000-0000-FA7D-F6EC58C6B9FC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rh78~9av6_dme7">
+      <vin_1_10>5YJYGDEE9L</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lynnwood</city>
+      <state>WA</state>
+      <zip_code>98037</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>291</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>127340755</dol_vehicle_id>
+      <geocoded_column>POINT (-122.297265 47.84182)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051802</_2020_census_tract>
+    </row>
+    

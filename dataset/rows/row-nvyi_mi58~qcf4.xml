@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-nvyi_mi58~qcf4" _uuid="00000000-0000-0000-9C45-4E7C162D2873" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-nvyi_mi58~qcf4">
+      <vin_1_10>3FA6P0SU7H</vin_1_10>
+      <county>Lewis</county>
+      <city>Rochester</city>
+      <state>WA</state>
+      <zip_code>98579</zip_code>
+      <model_year>2017</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>175541453</dol_vehicle_id>
+      <geocoded_column>POINT (-123.09575 46.82114)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF LEWIS COUNTY</electric_utility>
+      <_2020_census_tract>53041970100</_2020_census_tract>
+    </row>
+    

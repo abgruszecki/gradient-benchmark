@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-u6wa~vf8i.wuwm" _uuid="00000000-0000-0000-79A1-02CEC1A55747" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-u6wa~vf8i.wuwm">
+      <vin_1_10>1C4JJXP69N</vin_1_10>
+      <county>Kitsap</county>
+      <city>Bremerton</city>
+      <state>WA</state>
+      <zip_code>98312</zip_code>
+      <model_year>2022</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>35</legislative_district>
+      <dol_vehicle_id>216576965</dol_vehicle_id>
+      <geocoded_column>POINT (-122.65223 47.57192)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035080900</_2020_census_tract>
+    </row>
+    

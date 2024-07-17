@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-qqfd.i9xc~4gh2" _uuid="00000000-0000-0000-EB0B-FE02DB537BA3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-qqfd.i9xc~4gh2">
+      <vin_1_10>WBY83FB05R</vin_1_10>
+      <county>Adams</county>
+      <city>Othello</city>
+      <state>WA</state>
+      <zip_code>99344</zip_code>
+      <model_year>2024</model_year>
+      <make>BMW</make>
+      <model>I4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>260893769</dol_vehicle_id>
+      <geocoded_column>POINT (-119.168765 46.826175)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||BIG BEND ELECTRIC COOP, INC</electric_utility>
+      <_2020_census_tract>53001950303</_2020_census_tract>
+    </row>
+    

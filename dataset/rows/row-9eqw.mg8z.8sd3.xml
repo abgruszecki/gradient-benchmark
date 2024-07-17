@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-9eqw.mg8z.8sd3" _uuid="00000000-0000-0000-0AC6-5187A486DBE2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-9eqw.mg8z.8sd3">
+      <vin_1_10>1G1RC6E44F</vin_1_10>
+      <county>Kitsap</county>
+      <city>Port Orchard</city>
+      <state>WA</state>
+      <zip_code>98366</zip_code>
+      <model_year>2015</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>26</legislative_district>
+      <dol_vehicle_id>230272535</dol_vehicle_id>
+      <geocoded_column>POINT (-122.639265 47.5373)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035092400</_2020_census_tract>
+    </row>
+    

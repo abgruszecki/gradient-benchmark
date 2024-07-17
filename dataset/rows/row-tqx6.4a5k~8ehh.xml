@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-tqx6.4a5k~8ehh" _uuid="00000000-0000-0000-09F7-952AE1AD94E8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-tqx6.4a5k~8ehh">
+      <vin_1_10>KM8S7DA24P</vin_1_10>
+      <county>Kitsap</county>
+      <city>Kingston</city>
+      <state>WA</state>
+      <zip_code>98346</zip_code>
+      <model_year>2023</model_year>
+      <make>HYUNDAI</make>
+      <model>SANTA FE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>30</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>254289493</dol_vehicle_id>
+      <geocoded_column>POINT (-122.50156 47.8019)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035090102</_2020_census_tract>
+    </row>
+    

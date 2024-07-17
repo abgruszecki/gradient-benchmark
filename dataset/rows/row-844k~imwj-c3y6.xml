@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-844k~imwj-c3y6" _uuid="00000000-0000-0000-D870-82A0EB6F203D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-844k~imwj-c3y6">
+      <vin_1_10>JTDKARFP7H</vin_1_10>
+      <county>Kittitas</county>
+      <city>Ellensburg</city>
+      <state>WA</state>
+      <zip_code>98926</zip_code>
+      <model_year>2017</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>148450522</dol_vehicle_id>
+      <geocoded_column>POINT (-120.54513 46.993465)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53037975700</_2020_census_tract>
+    </row>
+    

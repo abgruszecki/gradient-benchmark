@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-cau4_dn4f~xiat" _uuid="00000000-0000-0000-2129-436BCCE76830" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-cau4_dn4f~xiat">
+      <vin_1_10>JA4T5VA96P</vin_1_10>
+      <county>Franklin</county>
+      <city>Pasco</city>
+      <state>WA</state>
+      <zip_code>99301</zip_code>
+      <model_year>2023</model_year>
+      <make>MITSUBISHI</make>
+      <model>OUTLANDER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>231075666</dol_vehicle_id>
+      <geocoded_column>POINT (-119.0982 46.232395)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FRANKLIN COUNTY</electric_utility>
+      <_2020_census_tract>53021020503</_2020_census_tract>
+    </row>
+    

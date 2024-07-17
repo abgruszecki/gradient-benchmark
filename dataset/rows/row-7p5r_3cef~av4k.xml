@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7p5r_3cef~av4k" _uuid="00000000-0000-0000-6AAC-0E8FB549425F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7p5r_3cef~av4k">
+      <vin_1_10>1G1FW6S07N</vin_1_10>
+      <county>San Juan</county>
+      <city>Friday Harbor</city>
+      <state>WA</state>
+      <zip_code>98250</zip_code>
+      <model_year>2022</model_year>
+      <make>CHEVROLET</make>
+      <model>BOLT EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>213502712</dol_vehicle_id>
+      <geocoded_column>POINT (-123.022255 48.531355)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||ORCAS POWER &amp; LIGHT COOP</electric_utility>
+      <_2020_census_tract>53055960302</_2020_census_tract>
+    </row>
+    

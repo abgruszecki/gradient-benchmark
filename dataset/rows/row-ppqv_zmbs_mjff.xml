@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ppqv_zmbs_mjff" _uuid="00000000-0000-0000-8702-44E61CC6B9C1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ppqv_zmbs_mjff">
+      <vin_1_10>WA1F2AFY9P</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Westport</city>
+      <state>WA</state>
+      <zip_code>98595</zip_code>
+      <model_year>2023</model_year>
+      <make>AUDI</make>
+      <model>Q5 E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>23</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>228567454</dol_vehicle_id>
+      <geocoded_column>POINT (-124.107315 46.886855)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027001601</_2020_census_tract>
+    </row>
+    

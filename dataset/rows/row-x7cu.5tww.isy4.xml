@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-x7cu.5tww.isy4" _uuid="00000000-0000-0000-D690-8D853692371E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-x7cu.5tww.isy4">
+      <vin_1_10>1C4JJXP69M</vin_1_10>
+      <county>Grant</county>
+      <city>Royal City</city>
+      <state>WA</state>
+      <zip_code>99357</zip_code>
+      <model_year>2021</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>238814544</dol_vehicle_id>
+      <geocoded_column>POINT (-119.630615 46.899585)</geocoded_column>
+      <electric_utility>PUD NO 2 OF GRANT COUNTY</electric_utility>
+      <_2020_census_tract>53025011405</_2020_census_tract>
+    </row>
+    

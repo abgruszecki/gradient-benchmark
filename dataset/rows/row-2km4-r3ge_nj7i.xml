@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2km4-r3ge_nj7i" _uuid="00000000-0000-0000-CE62-11C9EAE0A02A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2km4-r3ge_nj7i">
+      <vin_1_10>1N4BZ0CP9H</vin_1_10>
+      <county>King</county>
+      <city>Seatac</city>
+      <state>WA</state>
+      <zip_code>98168</zip_code>
+      <model_year>2017</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>107</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>33</legislative_district>
+      <dol_vehicle_id>204748323</dol_vehicle_id>
+      <geocoded_column>POINT (-122.286465 47.476)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033027300</_2020_census_tract>
+    </row>
+    

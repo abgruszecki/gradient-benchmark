@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-9725-am7m-y7q4" _uuid="00000000-0000-0000-4BF7-EAA922C2F410" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-9725-am7m-y7q4">
+      <vin_1_10>1C4RJXR64R</vin_1_10>
+      <county>Kittitas</county>
+      <city>Kittitas</city>
+      <state>WA</state>
+      <zip_code>98934</zip_code>
+      <model_year>2024</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>254877654</dol_vehicle_id>
+      <geocoded_column>POINT (-120.419015 46.98568)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53037975700</_2020_census_tract>
+    </row>
+    

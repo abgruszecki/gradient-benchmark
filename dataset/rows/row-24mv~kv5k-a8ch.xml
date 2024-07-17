@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-24mv~kv5k-a8ch" _uuid="00000000-0000-0000-E55B-95991DB6B010" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-24mv~kv5k-a8ch">
+      <vin_1_10>JTMFB3FV4N</vin_1_10>
+      <county>Pacific</county>
+      <city>Naselle</city>
+      <state>WA</state>
+      <zip_code>98638</zip_code>
+      <model_year>2022</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>192428575</dol_vehicle_id>
+      <geocoded_column>POINT (-123.8034269 46.3737287)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 2 OF PACIFIC COUNTY</electric_utility>
+      <_2020_census_tract>53049950400</_2020_census_tract>
+    </row>
+    

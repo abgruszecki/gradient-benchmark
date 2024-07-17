@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-anfu_huia-vq6j" _uuid="00000000-0000-0000-A90A-AF25CB67050B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-anfu_huia-vq6j">
+      <vin_1_10>7FCTGAAL3N</vin_1_10>
+      <county>Sacramento</county>
+      <city>Folsom</city>
+      <state>CA</state>
+      <zip_code>95630</zip_code>
+      <model_year>2022</model_year>
+      <make>RIVIAN</make>
+      <model>R1T</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>225893510</dol_vehicle_id>
+      <geocoded_column>POINT (-121.17035 38.67356)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06067008509</_2020_census_tract>
+    </row>
+    

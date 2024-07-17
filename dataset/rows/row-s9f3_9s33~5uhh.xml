@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-s9f3_9s33~5uhh" _uuid="00000000-0000-0000-1F2C-203C954D571D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-s9f3_9s33~5uhh">
+      <vin_1_10>JTDKARFPXH</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Pacific Beach</city>
+      <state>WA</state>
+      <zip_code>98571</zip_code>
+      <model_year>2017</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>331011369</dol_vehicle_id>
+      <geocoded_column>POINT (-124.1965652 47.1969238)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027000202</_2020_census_tract>
+    </row>
+    

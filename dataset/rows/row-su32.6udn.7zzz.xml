@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-su32.6udn.7zzz" _uuid="00000000-0000-0000-008F-DBD6933F57E5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-su32.6udn.7zzz">
+      <vin_1_10>JTDKN3DPXC</vin_1_10>
+      <county>Los Angeles</county>
+      <city>Lakewood</city>
+      <state>CA</state>
+      <zip_code>90713</zip_code>
+      <model_year>2012</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>247180615</dol_vehicle_id>
+      <geocoded_column>POINT (-118.112685 33.85223)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06037571000</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pnsi-6uza.rd6p" _uuid="00000000-0000-0000-4608-1699B019A21A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pnsi-6uza.rd6p">
+      <vin_1_10>WP1AH2AY7P</vin_1_10>
+      <county>San Juan</county>
+      <city>Friday Harbor</city>
+      <state>WA</state>
+      <zip_code>98250</zip_code>
+      <model_year>2023</model_year>
+      <make>PORSCHE</make>
+      <model>CAYENNE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>230817604</dol_vehicle_id>
+      <geocoded_column>POINT (-123.022255 48.531355)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||ORCAS POWER &amp; LIGHT COOP</electric_utility>
+      <_2020_census_tract>53055960301</_2020_census_tract>
+    </row>
+    

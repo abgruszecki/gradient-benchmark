@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yh2c-azud-w4p6" _uuid="00000000-0000-0000-0F74-DA2B7B9F907B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yh2c-azud-w4p6">
+      <vin_1_10>WP0AB2Y18L</vin_1_10>
+      <county>Kitsap</county>
+      <city>Bainbridge Island</city>
+      <state>WA</state>
+      <zip_code>98110</zip_code>
+      <model_year>2020</model_year>
+      <make>PORSCHE</make>
+      <model>TAYCAN</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>203</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>117964815</dol_vehicle_id>
+      <geocoded_column>POINT (-122.5235781 47.6293323)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035090800</_2020_census_tract>
+    </row>
+    

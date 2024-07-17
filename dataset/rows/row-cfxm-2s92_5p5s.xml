@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-cfxm-2s92_5p5s" _uuid="00000000-0000-0000-4E96-E8A08828507C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-cfxm-2s92_5p5s">
+      <vin_1_10>WBAJB1C56K</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99212</zip_code>
+      <model_year>2019</model_year>
+      <make>BMW</make>
+      <model>530E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>15</electric_range>
+      <base_msrp>55700</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>209835762</dol_vehicle_id>
+      <geocoded_column>POINT (-117.288055 47.68043)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||VERA IRRIGATION DISTRICT #15</electric_utility>
+      <_2020_census_tract>53063011301</_2020_census_tract>
+    </row>
+    

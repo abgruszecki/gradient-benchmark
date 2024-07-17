@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zerd~ti3x_p44e" _uuid="00000000-0000-0000-B7D9-6F7C337F7FDE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zerd~ti3x_p44e">
+      <vin_1_10>5YJ3E1EB9L</vin_1_10>
+      <county>Pulaski</county>
+      <city>Little Rock</city>
+      <state>AR</state>
+      <zip_code>72207</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>322</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>223647805</dol_vehicle_id>
+      <geocoded_column>POINT (-92.33944 34.76896)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>05119002203</_2020_census_tract>
+    </row>
+    

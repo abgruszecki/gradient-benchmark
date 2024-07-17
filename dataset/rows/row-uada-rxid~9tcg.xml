@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-uada-rxid~9tcg" _uuid="00000000-0000-0000-838E-51B818290AA9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-uada-rxid~9tcg">
+      <vin_1_10>1G1FY6S00K</vin_1_10>
+      <county>Klickitat</county>
+      <city>Centerville</city>
+      <state>WA</state>
+      <zip_code>98613</zip_code>
+      <model_year>2019</model_year>
+      <make>CHEVROLET</make>
+      <model>BOLT EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>347558116</dol_vehicle_id>
+      <geocoded_column>POINT (-120.90481 45.75199)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KLICKITAT COUNTY</electric_utility>
+      <_2020_census_tract>53039950102</_2020_census_tract>
+    </row>
+    

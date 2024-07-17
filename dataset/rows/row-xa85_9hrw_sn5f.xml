@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-xa85_9hrw_sn5f" _uuid="00000000-0000-0000-A79B-CE68F1B413B6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-xa85_9hrw_sn5f">
+      <vin_1_10>WVWKP7AU5G</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98115</zip_code>
+      <model_year>2016</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>E-GOLF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>83</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>46</legislative_district>
+      <dol_vehicle_id>124349802</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3185 47.67949)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033002600</_2020_census_tract>
+    </row>
+    

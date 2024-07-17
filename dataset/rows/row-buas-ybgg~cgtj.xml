@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-buas-ybgg~cgtj" _uuid="00000000-0000-0000-601C-5890B59D8C5C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-buas-ybgg~cgtj">
+      <vin_1_10>WVGJNPE21N</vin_1_10>
+      <county>Chelan</county>
+      <city>Cashmere</city>
+      <state>WA</state>
+      <zip_code>98815</zip_code>
+      <model_year>2022</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>ID.4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>229711870</dol_vehicle_id>
+      <geocoded_column>POINT (-120.4687 47.5173233)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007960502</_2020_census_tract>
+    </row>
+    

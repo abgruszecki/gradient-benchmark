@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5yku-rj8u~ymg4" _uuid="00000000-0000-0000-7E13-B16DB93E96ED" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5yku-rj8u~ymg4">
+      <vin_1_10>JTDKN3DP3C</vin_1_10>
+      <county>Kitsap</county>
+      <city>Indianola</city>
+      <state>WA</state>
+      <zip_code>98342</zip_code>
+      <model_year>2012</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>133067224</dol_vehicle_id>
+      <geocoded_column>POINT (-122.523855 47.75235)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035940000</_2020_census_tract>
+    </row>
+    

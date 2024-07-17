@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-px6v~jnut~drv6" _uuid="00000000-0000-0000-1FED-A27ED29A7B08" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-px6v~jnut~drv6">
+      <vin_1_10>KM8K23AG6M</vin_1_10>
+      <county>Island</county>
+      <city>Camano Island</city>
+      <state>WA</state>
+      <zip_code>98282</zip_code>
+      <model_year>2021</model_year>
+      <make>HYUNDAI</make>
+      <model>KONA ELECTRIC</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>151176840</dol_vehicle_id>
+      <geocoded_column>POINT (-122.5310901 48.2192797)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY</electric_utility>
+      <_2020_census_tract>53029971700</_2020_census_tract>
+    </row>
+    

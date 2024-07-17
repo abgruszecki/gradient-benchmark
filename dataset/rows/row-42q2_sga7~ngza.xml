@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-42q2_sga7~ngza" _uuid="00000000-0000-0000-17B1-EFB93974F070" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-42q2_sga7~ngza">
+      <vin_1_10>1N4AZ0CP8E</vin_1_10>
+      <county>Pierce</county>
+      <city>Roy</city>
+      <state>WA</state>
+      <zip_code>98580</zip_code>
+      <model_year>2014</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>84</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>163571222</dol_vehicle_id>
+      <geocoded_column>POINT (-122.522985 46.9876)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053073001</_2020_census_tract>
+    </row>
+    

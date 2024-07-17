@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-28sb~rhwc.mfgc" _uuid="00000000-0000-0000-BB57-29A9AE1550E5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-28sb~rhwc.mfgc">
+      <vin_1_10>3FMTK3SU7P</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane Valley</city>
+      <state>WA</state>
+      <zip_code>99206</zip_code>
+      <model_year>2023</model_year>
+      <make>FORD</make>
+      <model>MUSTANG MACH-E</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>228464799</dol_vehicle_id>
+      <geocoded_column>POINT (-117.24549 47.6534)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||VERA IRRIGATION DISTRICT #15</electric_utility>
+      <_2020_census_tract>53063012802</_2020_census_tract>
+    </row>
+    

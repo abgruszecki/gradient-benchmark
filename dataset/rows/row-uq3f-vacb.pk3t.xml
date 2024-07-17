@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-uq3f-vacb.pk3t" _uuid="00000000-0000-0000-9D6E-7A3B3B6A17A7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-uq3f-vacb.pk3t">
+      <vin_1_10>7SAYGDEE3P</vin_1_10>
+      <county>Pierce</county>
+      <city>Lakewood</city>
+      <state>WA</state>
+      <zip_code>98499</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>29</legislative_district>
+      <dol_vehicle_id>260630023</dol_vehicle_id>
+      <geocoded_column>POINT (-122.5181098 47.1712579)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053071803</_2020_census_tract>
+    </row>
+    

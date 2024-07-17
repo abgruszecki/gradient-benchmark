@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8pss_q87c_49kc" _uuid="00000000-0000-0000-20AC-18CC1A3E6594" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8pss_q87c_49kc">
+      <vin_1_10>WA1AAAGE8M</vin_1_10>
+      <county>Snohomish</county>
+      <city>Bothell</city>
+      <state>WA</state>
+      <zip_code>98021</zip_code>
+      <model_year>2021</model_year>
+      <make>AUDI</make>
+      <model>E-TRON</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>222</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>157440888</dol_vehicle_id>
+      <geocoded_column>POINT (-122.179458 47.802589)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051926</_2020_census_tract>
+    </row>
+    

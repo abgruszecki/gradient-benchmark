@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-v7h2-q7r6~q924" _uuid="00000000-0000-0000-AD83-EFBE862317FE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-v7h2-q7r6~q924">
+      <vin_1_10>JHMZC5F16M</vin_1_10>
+      <county>Clallam</county>
+      <city>Sequim</city>
+      <state>WA</state>
+      <zip_code>98382</zip_code>
+      <model_year>2021</model_year>
+      <make>HONDA</make>
+      <model>CLARITY</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>48</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>258782723</dol_vehicle_id>
+      <geocoded_column>POINT (-123.105015 48.08125)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLALLAM COUNTY</electric_utility>
+      <_2020_census_tract>53009002301</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wccf_eyiw-684j" _uuid="00000000-0000-0000-ED8E-DB598BCD17C6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wccf_eyiw-684j">
+      <vin_1_10>3FA6P0PU2G</vin_1_10>
+      <county>Snohomish</county>
+      <city>Arlington</city>
+      <state>WA</state>
+      <zip_code>98223</zip_code>
+      <model_year>2016</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>117342879</dol_vehicle_id>
+      <geocoded_column>POINT (-122.12324 48.19485)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY</electric_utility>
+      <_2020_census_tract>53061053101</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6s78_aiax_d5qa" _uuid="00000000-0000-0000-A96F-F76A389ACDF5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6s78_aiax_d5qa">
+      <vin_1_10>JTDKARFP5J</vin_1_10>
+      <county>Kittitas</county>
+      <city>Ellensburg</city>
+      <state>WA</state>
+      <zip_code>98926</zip_code>
+      <model_year>2018</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>203608275</dol_vehicle_id>
+      <geocoded_column>POINT (-120.54513 46.993465)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF ELLENSBURG - (WA)</electric_utility>
+      <_2020_census_tract>53037975402</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-sw4t.rpnu-vv5k" _uuid="00000000-0000-0000-707B-660DD7997CB3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-sw4t.rpnu-vv5k">
+      <vin_1_10>WB523CF07R</vin_1_10>
+      <county>King</county>
+      <city>Kent</city>
+      <state>WA</state>
+      <zip_code>98030</zip_code>
+      <model_year>2024</model_year>
+      <make>BMW</make>
+      <model>IX</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>47</legislative_district>
+      <dol_vehicle_id>250956275</dol_vehicle_id>
+      <geocoded_column>POINT (-122.199755 47.37483)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033029504</_2020_census_tract>
+    </row>
+    

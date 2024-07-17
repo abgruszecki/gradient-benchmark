@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rc4r~tiub_95di" _uuid="00000000-0000-0000-BF27-0AB7597C5D12" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rc4r~tiub_95di">
+      <vin_1_10>1FADP5EU3H</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99218</zip_code>
+      <model_year>2017</model_year>
+      <make>FORD</make>
+      <model>C-MAX</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>20</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>151255842</dol_vehicle_id>
+      <geocoded_column>POINT (-117.411805 47.745795)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063011102</_2020_census_tract>
+    </row>
+    

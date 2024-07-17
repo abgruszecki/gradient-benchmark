@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8f89-b2je-aujb" _uuid="00000000-0000-0000-41C9-3C557B06520C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8f89-b2je-aujb">
+      <vin_1_10>WP1AE2A24G</vin_1_10>
+      <county>Yakima</county>
+      <city>Yakima</city>
+      <state>WA</state>
+      <zip_code>98903</zip_code>
+      <model_year>2016</model_year>
+      <make>PORSCHE</make>
+      <model>CAYENNE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>256071980</dol_vehicle_id>
+      <geocoded_column>POINT (-120.477805 46.553505)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077002801</_2020_census_tract>
+    </row>
+    

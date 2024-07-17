@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-js6p.mnkc.92px" _uuid="00000000-0000-0000-BC78-BF48044F8731" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-js6p.mnkc.92px">
+      <vin_1_10>KNDCE3LG4N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Everett</city>
+      <state>WA</state>
+      <zip_code>98208</zip_code>
+      <model_year>2022</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>179498469</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2247757 47.9156409)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061041607</_2020_census_tract>
+    </row>
+    

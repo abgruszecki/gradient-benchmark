@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kqb6.4kbd~3fwr" _uuid="00000000-0000-0000-CCAF-F6FC31DE667D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kqb6.4kbd~3fwr">
+      <vin_1_10>WA1F2AFY3N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Woodinville</city>
+      <state>WA</state>
+      <zip_code>98077</zip_code>
+      <model_year>2022</model_year>
+      <make>AUDI</make>
+      <model>Q5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>23</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>179429561</dol_vehicle_id>
+      <geocoded_column>POINT (-122.07326 47.75425)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051912</_2020_census_tract>
+    </row>
+    

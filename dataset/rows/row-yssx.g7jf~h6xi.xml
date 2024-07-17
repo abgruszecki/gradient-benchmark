@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yssx.g7jf~h6xi" _uuid="00000000-0000-0000-192B-7B5B6425F4CE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yssx.g7jf~h6xi">
+      <vin_1_10>KNDCD3LD0N</vin_1_10>
+      <county>King</county>
+      <city>Yarrow Point</city>
+      <state>WA</state>
+      <zip_code>98004</zip_code>
+      <model_year>2022</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>48</legislative_district>
+      <dol_vehicle_id>202722236</dol_vehicle_id>
+      <geocoded_column>POINT (-122.201905 47.61385)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033024100</_2020_census_tract>
+    </row>
+    

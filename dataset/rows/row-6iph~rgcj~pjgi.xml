@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6iph~rgcj~pjgi" _uuid="00000000-0000-0000-45A6-AC92486B69C8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6iph~rgcj~pjgi">
+      <vin_1_10>JTDKARFP9J</vin_1_10>
+      <county>Walla Walla</county>
+      <city>Walla Walla</city>
+      <state>WA</state>
+      <zip_code>99362</zip_code>
+      <model_year>2018</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>260749527</dol_vehicle_id>
+      <geocoded_column>POINT (-118.34332 46.063985)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53071920901</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6vgp_43hv_7tvb" _uuid="00000000-0000-0000-3996-38121176A077" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6vgp_43hv_7tvb">
+      <vin_1_10>2C4RC1N73J</vin_1_10>
+      <county>New Haven</county>
+      <city>Madison</city>
+      <state>CT</state>
+      <zip_code>06443</zip_code>
+      <model_year>2018</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>33</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>133378997</dol_vehicle_id>
+      <geocoded_column>POINT (-72.596935 41.278635)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>09009194201</_2020_census_tract>
+    </row>
+    

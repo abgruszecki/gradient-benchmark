@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3f4x_hmcw~dqmx" _uuid="00000000-0000-0000-FE8B-DF4E65B76CF5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3f4x_hmcw~dqmx">
+      <vin_1_10>JM3KKDHA6R</vin_1_10>
+      <county>King</county>
+      <city>Federal Way</city>
+      <state>WA</state>
+      <zip_code>98003</zip_code>
+      <model_year>2024</model_year>
+      <make>MAZDA</make>
+      <model>CX-90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>30</legislative_district>
+      <dol_vehicle_id>258790360</dol_vehicle_id>
+      <geocoded_column>POINT (-122.31327 47.32309)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033030204</_2020_census_tract>
+    </row>
+    

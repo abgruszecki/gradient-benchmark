@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dv8b-fih4.x2vb" _uuid="00000000-0000-0000-4F31-5EBAFDF5DBDF" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dv8b-fih4.x2vb">
+      <vin_1_10>KM8K33AG4M</vin_1_10>
+      <county>Chelan</county>
+      <city>Malaga</city>
+      <state>WA</state>
+      <zip_code>98828</zip_code>
+      <model_year>2021</model_year>
+      <make>HYUNDAI</make>
+      <model>KONA ELECTRIC</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>171488943</dol_vehicle_id>
+      <geocoded_column>POINT (-120.199045 47.36607)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007961200</_2020_census_tract>
+    </row>
+    

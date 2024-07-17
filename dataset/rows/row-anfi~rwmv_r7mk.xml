@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-anfi~rwmv_r7mk" _uuid="00000000-0000-0000-4644-0E8984C61BD4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-anfi~rwmv_r7mk">
+      <vin_1_10>KNDJX3AE1G</vin_1_10>
+      <county>Lewis</county>
+      <city>Centralia</city>
+      <state>WA</state>
+      <zip_code>98531</zip_code>
+      <model_year>2016</model_year>
+      <make>KIA</make>
+      <model>SOUL</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>31950</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>349595291</dol_vehicle_id>
+      <geocoded_column>POINT (-122.962555 46.716875)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF LEWIS COUNTY</electric_utility>
+      <_2020_census_tract>53041970100</_2020_census_tract>
+    </row>
+    

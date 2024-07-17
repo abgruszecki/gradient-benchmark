@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jcc4~bm7y.nbkw" _uuid="00000000-0000-0000-93AD-0C36F6E8BF25" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jcc4~bm7y.nbkw">
+      <vin_1_10>1N4CZ1CV8P</vin_1_10>
+      <county>Douglas</county>
+      <city>Mansfield</city>
+      <state>WA</state>
+      <zip_code>98830</zip_code>
+      <model_year>2023</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>235884400</dol_vehicle_id>
+      <geocoded_column>POINT (-119.640425 47.81414)</geocoded_column>
+      <electric_utility>PUD NO 1 OF DOUGLAS COUNTY</electric_utility>
+      <_2020_census_tract>53017950102</_2020_census_tract>
+    </row>
+    

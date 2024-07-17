@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-stqp~8mq5-ifnb" _uuid="00000000-0000-0000-C67A-1E92910F5B52" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-stqp~8mq5-ifnb">
+      <vin_1_10>5LMTJ5DZ8P</vin_1_10>
+      <county>Pierce</county>
+      <city>Gig Harbor</city>
+      <state>WA</state>
+      <zip_code>98335</zip_code>
+      <model_year>2023</model_year>
+      <make>LINCOLN</make>
+      <model>CORSAIR</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>28</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>26</legislative_district>
+      <dol_vehicle_id>238911970</dol_vehicle_id>
+      <geocoded_column>POINT (-122.5835454 47.3234488)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053072407</_2020_census_tract>
+    </row>
+    

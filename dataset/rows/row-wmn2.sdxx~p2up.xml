@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wmn2.sdxx~p2up" _uuid="00000000-0000-0000-C6F3-BC1379631C04" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wmn2.sdxx~p2up">
+      <vin_1_10>1N4AZ0CP3G</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Copalis Crossing</city>
+      <state>WA</state>
+      <zip_code>98536</zip_code>
+      <model_year>2016</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>84</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>181614807</dol_vehicle_id>
+      <geocoded_column>POINT (-124.1853792 47.1587097)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027000202</_2020_census_tract>
+    </row>
+    

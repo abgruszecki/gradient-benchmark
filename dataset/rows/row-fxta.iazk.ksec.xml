@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fxta.iazk.ksec" _uuid="00000000-0000-0000-4A9D-0B36D2276AAD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fxta.iazk.ksec">
+      <vin_1_10>JTDKARFP3J</vin_1_10>
+      <county>Whitman</county>
+      <city>Colfax</city>
+      <state>WA</state>
+      <zip_code>99111</zip_code>
+      <model_year>2018</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>133023523</dol_vehicle_id>
+      <geocoded_column>POINT (-117.3631029 46.8783751)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53075000800</_2020_census_tract>
+    </row>
+    

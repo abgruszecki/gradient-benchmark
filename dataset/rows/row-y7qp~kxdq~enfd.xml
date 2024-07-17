@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-y7qp~kxdq~enfd" _uuid="00000000-0000-0000-A1BE-2D52DF574B4B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-y7qp~kxdq~enfd">
+      <vin_1_10>WMZYU7C59K</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lynnwood</city>
+      <state>WA</state>
+      <zip_code>98036</zip_code>
+      <model_year>2019</model_year>
+      <make>MINI</make>
+      <model>COUNTRYMAN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>12</electric_range>
+      <base_msrp>36900</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>235348837</dol_vehicle_id>
+      <geocoded_column>POINT (-122.316675 47.819365)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051402</_2020_census_tract>
+    </row>
+    

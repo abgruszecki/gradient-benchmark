@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-u7pk-xw25~gjgx" _uuid="00000000-0000-0000-E8B7-00DD1684EE2E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-u7pk-xw25~gjgx">
+      <vin_1_10>JTDKARFPXL</vin_1_10>
+      <county>Pend Oreille</county>
+      <city>Newport</city>
+      <state>WA</state>
+      <zip_code>99156</zip_code>
+      <model_year>2020</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>197490114</dol_vehicle_id>
+      <geocoded_column>POINT (-117.049135 48.181095)</geocoded_column>
+      <electric_utility>PUD NO 1 OF PEND OREILLE COUNTY</electric_utility>
+      <_2020_census_tract>53051970400</_2020_census_tract>
+    </row>
+    

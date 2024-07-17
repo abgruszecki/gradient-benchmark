@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2pgv_b3p3_wg3x" _uuid="00000000-0000-0000-3EB4-0AC3E9615A90" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2pgv_b3p3_wg3x">
+      <vin_1_10>5LMTJ5DZ6N</vin_1_10>
+      <county>Cowlitz</county>
+      <city>Longview</city>
+      <state>WA</state>
+      <zip_code>98632</zip_code>
+      <model_year>2022</model_year>
+      <make>LINCOLN</make>
+      <model>CORSAIR</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>28</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>229604210</dol_vehicle_id>
+      <geocoded_column>POINT (-122.9379953 46.1372997)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF COWLITZ COUNTY</electric_utility>
+      <_2020_census_tract>53015000802</_2020_census_tract>
+    </row>
+    

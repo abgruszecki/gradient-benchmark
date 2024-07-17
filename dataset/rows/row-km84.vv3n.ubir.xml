@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-km84.vv3n.ubir" _uuid="00000000-0000-0000-4432-02141D7856A7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-km84.vv3n.ubir">
+      <vin_1_10>1C4JJXP60M</vin_1_10>
+      <county>Pacific</county>
+      <city>Raymond</city>
+      <state>WA</state>
+      <zip_code>98577</zip_code>
+      <model_year>2021</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>175484613</dol_vehicle_id>
+      <geocoded_column>POINT (-123.72855 46.686115)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 2 OF PACIFIC COUNTY</electric_utility>
+      <_2020_census_tract>53049950200</_2020_census_tract>
+    </row>
+    

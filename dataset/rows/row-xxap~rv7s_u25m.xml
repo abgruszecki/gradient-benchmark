@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-xxap~rv7s_u25m" _uuid="00000000-0000-0000-FB37-FFAA1C2A1D57" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-xxap~rv7s_u25m">
+      <vin_1_10>JTDKN3DP5D</vin_1_10>
+      <county>King</county>
+      <city>Sammamish</city>
+      <state>WA</state>
+      <zip_code>98029</zip_code>
+      <model_year>2013</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>104291099</dol_vehicle_id>
+      <geocoded_column>POINT (-121.9993659 47.5484866)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032222</_2020_census_tract>
+    </row>
+    

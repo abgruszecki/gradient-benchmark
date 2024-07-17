@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yn5u.wjq5.gzjc" _uuid="00000000-0000-0000-87F4-C11DAF0AA4D9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yn5u.wjq5.gzjc">
+      <vin_1_10>JTMEB3FV7M</vin_1_10>
+      <county>Whatcom</county>
+      <city>Bellingham</city>
+      <state>WA</state>
+      <zip_code>98226</zip_code>
+      <model_year>2021</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>201956590</dol_vehicle_id>
+      <geocoded_column>POINT (-122.45493 48.76809)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073000203</_2020_census_tract>
+    </row>
+    

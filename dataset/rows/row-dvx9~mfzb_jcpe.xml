@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dvx9~mfzb_jcpe" _uuid="00000000-0000-0000-7BF8-1F7AE85E4211" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dvx9~mfzb_jcpe">
+      <vin_1_10>5YJSA1CG1D</vin_1_10>
+      <county>Cowlitz</county>
+      <city>Kelso</city>
+      <state>WA</state>
+      <zip_code>98626</zip_code>
+      <model_year>2013</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>69900</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>326852137</dol_vehicle_id>
+      <geocoded_column>POINT (-122.90724 46.14458)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF COWLITZ COUNTY</electric_utility>
+      <_2020_census_tract>53015000901</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3que_63gm_6w9y" _uuid="00000000-0000-0000-33AA-B6CD70189246" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3que_63gm_6w9y">
+      <vin_1_10>YH4K14AA6C</vin_1_10>
+      <county>Charles</county>
+      <city>Hughesville</city>
+      <state>MD</state>
+      <zip_code>20637</zip_code>
+      <model_year>2012</model_year>
+      <make>FISKER</make>
+      <model>KARMA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>33</electric_range>
+      <base_msrp>102000</base_msrp>
+      <dol_vehicle_id>131146571</dol_vehicle_id>
+      <geocoded_column>POINT (-76.78444 38.53366)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>24017851402</_2020_census_tract>
+    </row>
+    

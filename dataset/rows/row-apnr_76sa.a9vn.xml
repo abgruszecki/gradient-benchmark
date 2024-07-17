@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-apnr_76sa.a9vn" _uuid="00000000-0000-0000-B6AC-32E1603BAE9B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-apnr_76sa.a9vn">
+      <vin_1_10>JHMZC5F39J</vin_1_10>
+      <county>Anne Arundel</county>
+      <city>Gambrills</city>
+      <state>MD</state>
+      <zip_code>21054</zip_code>
+      <model_year>2018</model_year>
+      <make>HONDA</make>
+      <model>CLARITY</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>47</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>320663080</dol_vehicle_id>
+      <geocoded_column>POINT (-76.67903 39.038)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>24003702208</_2020_census_tract>
+    </row>
+    

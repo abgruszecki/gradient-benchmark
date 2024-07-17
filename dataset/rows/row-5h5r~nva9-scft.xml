@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5h5r~nva9-scft" _uuid="00000000-0000-0000-1B32-45C5D98C6C2E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5h5r~nva9-scft">
+      <vin_1_10>WBY33AW04R</vin_1_10>
+      <county>Island</county>
+      <city>Freeland</city>
+      <state>WA</state>
+      <zip_code>98249</zip_code>
+      <model_year>2024</model_year>
+      <make>BMW</make>
+      <model>I4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>257793812</dol_vehicle_id>
+      <geocoded_column>POINT (-122.544745 48.03024)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53029971301</_2020_census_tract>
+    </row>
+    

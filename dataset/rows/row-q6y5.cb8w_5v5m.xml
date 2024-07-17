@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-q6y5.cb8w_5v5m" _uuid="00000000-0000-0000-0703-D4A9ED30736A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-q6y5.cb8w_5v5m">
+      <vin_1_10>WP0AE2A71J</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99223</zip_code>
+      <model_year>2018</model_year>
+      <make>PORSCHE</make>
+      <model>PANAMERA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>16</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>133539542</dol_vehicle_id>
+      <geocoded_column>POINT (-117.369705 47.62637)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063013401</_2020_census_tract>
+    </row>
+    

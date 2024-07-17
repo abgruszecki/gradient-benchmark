@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-49t8-c2qu_y2t9" _uuid="00000000-0000-0000-5C54-9C5C21EA880A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-49t8-c2qu_y2t9">
+      <vin_1_10>KNDJX3AE1G</vin_1_10>
+      <county>Spokane</county>
+      <city>Edwall</city>
+      <state>WA</state>
+      <zip_code>99008</zip_code>
+      <model_year>2016</model_year>
+      <make>KIA</make>
+      <model>SOUL</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>31950</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>232782931</dol_vehicle_id>
+      <geocoded_column>POINT (-117.95109 47.5052517)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063014100</_2020_census_tract>
+    </row>
+    

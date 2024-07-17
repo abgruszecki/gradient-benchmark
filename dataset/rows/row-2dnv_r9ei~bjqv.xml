@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2dnv_r9ei~bjqv" _uuid="00000000-0000-0000-59B5-BEB23E4A971E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2dnv_r9ei~bjqv">
+      <vin_1_10>5YJ3E1EB4J</vin_1_10>
+      <county>Grant</county>
+      <city>Quincy</city>
+      <state>WA</state>
+      <zip_code>98848</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>474682498</dol_vehicle_id>
+      <geocoded_column>POINT (-119.8493873 47.2339933)</geocoded_column>
+      <electric_utility>PUD NO 2 OF GRANT COUNTY</electric_utility>
+      <_2020_census_tract>53025010700</_2020_census_tract>
+    </row>
+    

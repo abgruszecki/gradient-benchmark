@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-9q3m_j5y4_egdx" _uuid="00000000-0000-0000-EFE1-FC224DE47103" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-9q3m_j5y4_egdx">
+      <vin_1_10>KNDC3DLC3P</vin_1_10>
+      <county>Pend Oreille</county>
+      <city>Elk</city>
+      <state>WA</state>
+      <zip_code>99009</zip_code>
+      <model_year>2023</model_year>
+      <make>KIA</make>
+      <model>EV6</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>233569136</dol_vehicle_id>
+      <geocoded_column>POINT (-117.34965 48.017305)</geocoded_column>
+      <electric_utility>PUD NO 1 OF PEND OREILLE COUNTY</electric_utility>
+      <_2020_census_tract>53051970500</_2020_census_tract>
+    </row>
+    

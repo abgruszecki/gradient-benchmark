@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ft9s~3uj3-55xw" _uuid="00000000-0000-0000-4F4E-B4B3E1EDBF19" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ft9s~3uj3-55xw">
+      <vin_1_10>1C4RJYB64N</vin_1_10>
+      <county>Whitman</county>
+      <city>Uniontown</city>
+      <state>WA</state>
+      <zip_code>99179</zip_code>
+      <model_year>2022</model_year>
+      <make>JEEP</make>
+      <model>GRAND CHEROKEE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>261059823</dol_vehicle_id>
+      <geocoded_column>POINT (-117.085225 46.53802)</geocoded_column>
+      <electric_utility>AVISTA CORP</electric_utility>
+      <_2020_census_tract>53075001000</_2020_census_tract>
+    </row>
+    

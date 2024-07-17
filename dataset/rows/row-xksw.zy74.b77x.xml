@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-xksw.zy74.b77x" _uuid="00000000-0000-0000-722C-D6032AB61B04" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-xksw.zy74.b77x">
+      <vin_1_10>JTMABABA4P</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98199</zip_code>
+      <model_year>2023</model_year>
+      <make>SUBARU</make>
+      <model>SOLTERRA</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>36</legislative_district>
+      <dol_vehicle_id>235139075</dol_vehicle_id>
+      <geocoded_column>POINT (-122.394185 47.639195)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033005700</_2020_census_tract>
+    </row>
+    

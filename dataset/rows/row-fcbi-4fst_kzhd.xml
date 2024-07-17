@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fcbi-4fst_kzhd" _uuid="00000000-0000-0000-539F-47C2F6F81D52" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fcbi-4fst_kzhd">
+      <vin_1_10>KNDJX3AE3G</vin_1_10>
+      <county>Pacific</county>
+      <city>Long Beach</city>
+      <state>WA</state>
+      <zip_code>98631</zip_code>
+      <model_year>2016</model_year>
+      <make>KIA</make>
+      <model>SOUL</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>31950</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>104199035</dol_vehicle_id>
+      <geocoded_column>POINT (-124.05472 46.34691)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 2 OF PACIFIC COUNTY</electric_utility>
+      <_2020_census_tract>53049950600</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mjec~8nam-cn2u" _uuid="00000000-0000-0000-2EEF-2E49B0309700" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mjec~8nam-cn2u">
+      <vin_1_10>JTDKAMFP7N</vin_1_10>
+      <county>Chelan</county>
+      <city>Wenatchee</city>
+      <state>WA</state>
+      <zip_code>98801</zip_code>
+      <model_year>2022</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>186941982</dol_vehicle_id>
+      <geocoded_column>POINT (-120.32009 47.42255)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007960700</_2020_census_tract>
+    </row>
+    

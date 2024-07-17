@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-s9tc.znfw_5q9m" _uuid="00000000-0000-0000-E01D-7FE0CB0352CB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-s9tc.znfw_5q9m">
+      <vin_1_10>WBY73AW0XP</vin_1_10>
+      <county>Snohomish</county>
+      <city>Snohomish</city>
+      <state>WA</state>
+      <zip_code>98296</zip_code>
+      <model_year>2023</model_year>
+      <make>BMW</make>
+      <model>I4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>224021738</dol_vehicle_id>
+      <geocoded_column>POINT (-122.15134 47.8851158)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052122</_2020_census_tract>
+    </row>
+    

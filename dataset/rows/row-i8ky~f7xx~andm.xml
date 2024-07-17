@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-i8ky~f7xx~andm" _uuid="00000000-0000-0000-B1C0-EF2D77769C56" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-i8ky~f7xx~andm">
+      <vin_1_10>5YJYGDEE6L</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Pacific Beach</city>
+      <state>WA</state>
+      <zip_code>98571</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>291</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>127169150</dol_vehicle_id>
+      <geocoded_column>POINT (-124.1965652 47.1969238)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027000202</_2020_census_tract>
+    </row>
+    

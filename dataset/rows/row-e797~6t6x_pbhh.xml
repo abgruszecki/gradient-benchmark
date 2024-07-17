@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-e797~6t6x_pbhh" _uuid="00000000-0000-0000-6013-0DEF956202C3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-e797~6t6x_pbhh">
+      <vin_1_10>KM8KM4AE0N</vin_1_10>
+      <county>King</county>
+      <city>Bothell</city>
+      <state>WA</state>
+      <zip_code>98011</zip_code>
+      <model_year>2022</model_year>
+      <make>HYUNDAI</make>
+      <model>IONIQ 5</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>195281327</dol_vehicle_id>
+      <geocoded_column>POINT (-122.20578 47.762405)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033021905</_2020_census_tract>
+    </row>
+    

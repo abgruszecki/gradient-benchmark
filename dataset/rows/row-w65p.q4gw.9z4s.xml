@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-w65p.q4gw.9z4s" _uuid="00000000-0000-0000-AE4E-FAE7C36DB590" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-w65p.q4gw.9z4s">
+      <vin_1_10>3FMTK2SU6N</vin_1_10>
+      <county>Klickitat</county>
+      <city>White Salmon</city>
+      <state>WA</state>
+      <zip_code>98672</zip_code>
+      <model_year>2022</model_year>
+      <make>FORD</make>
+      <model>MUSTANG MACH-E</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>207171310</dol_vehicle_id>
+      <geocoded_column>POINT (-121.48347 45.72977)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KLICKITAT COUNTY</electric_utility>
+      <_2020_census_tract>53039950302</_2020_census_tract>
+    </row>
+    

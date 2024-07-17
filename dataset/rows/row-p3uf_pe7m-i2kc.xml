@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-p3uf_pe7m-i2kc" _uuid="00000000-0000-0000-1962-C8C87F53AC6D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-p3uf_pe7m-i2kc">
+      <vin_1_10>1N4AZ1CP1J</vin_1_10>
+      <county>King</county>
+      <city>Redmond</city>
+      <state>WA</state>
+      <zip_code>98053</zip_code>
+      <model_year>2018</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>151</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>45</legislative_district>
+      <dol_vehicle_id>223941994</dol_vehicle_id>
+      <geocoded_column>POINT (-122.0222799 47.6958998)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032328</_2020_census_tract>
+    </row>
+    

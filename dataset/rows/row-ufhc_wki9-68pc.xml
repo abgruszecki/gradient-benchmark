@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ufhc_wki9-68pc" _uuid="00000000-0000-0000-E0AB-44B86628821B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ufhc_wki9-68pc">
+      <vin_1_10>WBY1Z8C38H</vin_1_10>
+      <county>Clark</county>
+      <city>Vancouver</city>
+      <state>WA</state>
+      <zip_code>98665</zip_code>
+      <model_year>2017</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>97</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>49</legislative_district>
+      <dol_vehicle_id>107500095</dol_vehicle_id>
+      <geocoded_column>POINT (-122.66592 45.678565)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011041008</_2020_census_tract>
+    </row>
+    

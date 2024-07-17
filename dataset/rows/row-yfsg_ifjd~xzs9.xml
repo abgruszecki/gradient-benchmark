@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yfsg_ifjd~xzs9" _uuid="00000000-0000-0000-B0A6-A03F496EA9E0" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yfsg_ifjd~xzs9">
+      <vin_1_10>5LMYJ8XY7N</vin_1_10>
+      <county>Whatcom</county>
+      <city>Ferndale</city>
+      <state>WA</state>
+      <zip_code>98248</zip_code>
+      <model_year>2022</model_year>
+      <make>LINCOLN</make>
+      <model>AVIATOR</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>212009990</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6011039 48.85324)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073010505</_2020_census_tract>
+    </row>
+    

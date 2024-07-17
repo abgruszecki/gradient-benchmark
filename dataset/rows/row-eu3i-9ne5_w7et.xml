@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-eu3i-9ne5_w7et" _uuid="00000000-0000-0000-15D5-8418098ED101" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-eu3i-9ne5_w7et">
+      <vin_1_10>1G1RD6E45D</vin_1_10>
+      <county>Clark</county>
+      <city>Laughlin</city>
+      <state>NV</state>
+      <zip_code>89029</zip_code>
+      <model_year>2013</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>5204412</dol_vehicle_id>
+      <geocoded_column>POINT (-114.6281946 35.1419938)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>32003005702</_2020_census_tract>
+    </row>
+    

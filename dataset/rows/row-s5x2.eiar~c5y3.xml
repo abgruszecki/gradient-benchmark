@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-s5x2.eiar~c5y3" _uuid="00000000-0000-0000-2E1F-2F4EB273939E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-s5x2.eiar~c5y3">
+      <vin_1_10>5YJ3E1EA2J</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Copalis Beach</city>
+      <state>WA</state>
+      <zip_code>98535</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>284372063</dol_vehicle_id>
+      <geocoded_column>POINT (-124.17386 47.11043)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027000202</_2020_census_tract>
+    </row>
+    

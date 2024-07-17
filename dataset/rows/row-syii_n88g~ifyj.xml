@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-syii_n88g~ifyj" _uuid="00000000-0000-0000-E283-8CE93F1A0822" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-syii_n88g~ifyj">
+      <vin_1_10>1FADP5CU8F</vin_1_10>
+      <county>Island</county>
+      <city>Greenbank</city>
+      <state>WA</state>
+      <zip_code>98253</zip_code>
+      <model_year>2015</model_year>
+      <make>FORD</make>
+      <model>C-MAX</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>102161510</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6071588 48.0754917)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53029971302</_2020_census_tract>
+    </row>
+    

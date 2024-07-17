@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-4rjb-bwgf-jkyb" _uuid="00000000-0000-0000-054A-82A5BB1E6DB6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-4rjb-bwgf-jkyb">
+      <vin_1_10>3FA6P0SU4F</vin_1_10>
+      <county>Carroll</county>
+      <city>Westminster</city>
+      <state>MD</state>
+      <zip_code>21157</zip_code>
+      <model_year>2015</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>120552358</dol_vehicle_id>
+      <geocoded_column>POINT (-76.9964102 39.5793016)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>24013507602</_2020_census_tract>
+    </row>
+    

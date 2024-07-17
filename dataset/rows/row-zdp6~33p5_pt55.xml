@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zdp6~33p5_pt55" _uuid="00000000-0000-0000-AF08-74AF6EA9E57B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zdp6~33p5_pt55">
+      <vin_1_10>WBA8E1C55H</vin_1_10>
+      <county>Pierce</county>
+      <city>Roy</city>
+      <state>WA</state>
+      <zip_code>98580</zip_code>
+      <model_year>2017</model_year>
+      <make>BMW</make>
+      <model>330E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>44100</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>185497119</dol_vehicle_id>
+      <geocoded_column>POINT (-122.522985 46.9876)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053073001</_2020_census_tract>
+    </row>
+    

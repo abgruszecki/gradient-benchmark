@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fttm_bf9w.ecff" _uuid="00000000-0000-0000-F169-C7515DDE5A05" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fttm_bf9w.ecff">
+      <vin_1_10>7SAXCBE55N</vin_1_10>
+      <county>King</county>
+      <city>Clyde Hill</city>
+      <state>WA</state>
+      <zip_code>98004</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>48</legislative_district>
+      <dol_vehicle_id>219019314</dol_vehicle_id>
+      <geocoded_column>POINT (-122.201905 47.61385)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033024100</_2020_census_tract>
+    </row>
+    

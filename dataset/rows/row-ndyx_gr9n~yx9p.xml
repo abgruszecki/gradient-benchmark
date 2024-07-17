@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ndyx_gr9n~yx9p" _uuid="00000000-0000-0000-0D29-879D6D6110BE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ndyx_gr9n~yx9p">
+      <vin_1_10>1FADP5CU4D</vin_1_10>
+      <county>Clark</county>
+      <city>Vancouver</city>
+      <state>WA</state>
+      <zip_code>98685</zip_code>
+      <model_year>2013</model_year>
+      <make>FORD</make>
+      <model>C-MAX</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>18</legislative_district>
+      <dol_vehicle_id>346637574</dol_vehicle_id>
+      <geocoded_column>POINT (-122.70302 45.703706)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040907</_2020_census_tract>
+    </row>
+    

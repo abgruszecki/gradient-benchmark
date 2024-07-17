@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2zuq~hqp7_mixe" _uuid="00000000-0000-0000-B237-2948A8306BEC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2zuq~hqp7_mixe">
+      <vin_1_10>1FADP5CU3G</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Hoquiam</city>
+      <state>WA</state>
+      <zip_code>98550</zip_code>
+      <model_year>2016</model_year>
+      <make>FORD</make>
+      <model>C-MAX</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>119826381</dol_vehicle_id>
+      <geocoded_column>POINT (-123.8868787 46.9805308)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027001500</_2020_census_tract>
+    </row>
+    

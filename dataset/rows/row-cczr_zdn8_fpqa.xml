@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-cczr_zdn8_fpqa" _uuid="00000000-0000-0000-BD0B-C5C1C7D87C15" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-cczr_zdn8_fpqa">
+      <vin_1_10>YV4BR0PL2J</vin_1_10>
+      <county>Pierce</county>
+      <city>Enumclaw</city>
+      <state>WA</state>
+      <zip_code>98022</zip_code>
+      <model_year>2018</model_year>
+      <make>VOLVO</make>
+      <model>XC90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>64950</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>176333370</dol_vehicle_id>
+      <geocoded_column>POINT (-121.98953 47.20347)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053070100</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-88dj-jdmr.62az" _uuid="00000000-0000-0000-DA81-2F027F9DD7EE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-88dj-jdmr.62az">
+      <vin_1_10>3FA6P0PU4D</vin_1_10>
+      <county>Walla Walla</county>
+      <city>Touchet</city>
+      <state>WA</state>
+      <zip_code>99360</zip_code>
+      <model_year>2013</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>349118794</dol_vehicle_id>
+      <geocoded_column>POINT (-118.669895 46.039755)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53071920100</_2020_census_tract>
+    </row>
+    

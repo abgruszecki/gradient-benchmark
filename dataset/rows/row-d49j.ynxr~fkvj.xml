@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-d49j.ynxr~fkvj" _uuid="00000000-0000-0000-DB7F-378EF3D059D7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-d49j.ynxr~fkvj">
+      <vin_1_10>JTDKN3DP5C</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98136</zip_code>
+      <model_year>2012</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>34</legislative_district>
+      <dol_vehicle_id>186066513</dol_vehicle_id>
+      <geocoded_column>POINT (-122.388675 47.5415)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033011601</_2020_census_tract>
+    </row>
+    

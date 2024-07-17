@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kwz6~4rkr~tqs5" _uuid="00000000-0000-0000-878C-5D7DCBE8341B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kwz6~4rkr~tqs5">
+      <vin_1_10>WBY1Z4C53E</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98144</zip_code>
+      <model_year>2014</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>72</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>37</legislative_district>
+      <dol_vehicle_id>349350907</dol_vehicle_id>
+      <geocoded_column>POINT (-122.30823 47.581975)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033009500</_2020_census_tract>
+    </row>
+    

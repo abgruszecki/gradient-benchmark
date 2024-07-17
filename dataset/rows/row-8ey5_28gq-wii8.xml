@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8ey5_28gq-wii8" _uuid="00000000-0000-0000-EB26-DA86EC59FF59" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8ey5_28gq-wii8">
+      <vin_1_10>5YJYGDEE7L</vin_1_10>
+      <county>Prince George's</county>
+      <city>Andrews Air Force Base</city>
+      <state>MD</state>
+      <zip_code>20762</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>291</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>123782137</dol_vehicle_id>
+      <geocoded_column>POINT (-76.89248 38.800715)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>24033801106</_2020_census_tract>
+    </row>
+    

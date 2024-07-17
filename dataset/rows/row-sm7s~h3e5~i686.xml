@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-sm7s~h3e5~i686" _uuid="00000000-0000-0000-F09D-9B36D034C4E2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-sm7s~h3e5~i686">
+      <vin_1_10>5YJ3E1EB2K</vin_1_10>
+      <county>Island</county>
+      <city>Coupeville</city>
+      <state>WA</state>
+      <zip_code>98239</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>176292056</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6880708 48.2179983)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53029971100</_2020_census_tract>
+    </row>
+    

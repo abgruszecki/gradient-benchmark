@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dyyu~4hsd.39x4" _uuid="00000000-0000-0000-1F4C-C0B7280A09F5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dyyu~4hsd.39x4">
+      <vin_1_10>1G1RE6E40D</vin_1_10>
+      <county>Yakima</county>
+      <city>Prosser</city>
+      <state>WA</state>
+      <zip_code>99350</zip_code>
+      <model_year>2013</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>15</legislative_district>
+      <dol_vehicle_id>322180148</dol_vehicle_id>
+      <geocoded_column>POINT (-119.769315 46.204995)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PACIFICORP||BENTON RURAL ELECTRIC ASSN</electric_utility>
+      <_2020_census_tract>53077002701</_2020_census_tract>
+    </row>
+    

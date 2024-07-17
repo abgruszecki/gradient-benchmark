@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-uut8_3q69~773h" _uuid="00000000-0000-0000-4061-F67A7719B962" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-uut8_3q69~773h">
+      <vin_1_10>5YJ3E1EB6J</vin_1_10>
+      <county>Clark</county>
+      <city>Vancouver</city>
+      <state>WA</state>
+      <zip_code>98682</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>17</legislative_district>
+      <dol_vehicle_id>195285464</dol_vehicle_id>
+      <geocoded_column>POINT (-122.5146473 45.67862)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011041335</_2020_census_tract>
+    </row>
+    

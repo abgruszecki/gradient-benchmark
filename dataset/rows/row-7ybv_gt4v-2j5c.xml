@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7ybv_gt4v-2j5c" _uuid="00000000-0000-0000-3D64-B6862C8C0E11" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7ybv_gt4v-2j5c">
+      <vin_1_10>2C4RC1S73M</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99217</zip_code>
+      <model_year>2021</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>151388373</dol_vehicle_id>
+      <geocoded_column>POINT (-117.357575 47.68465)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||VERA IRRIGATION DISTRICT #15</electric_utility>
+      <_2020_census_tract>53063011302</_2020_census_tract>
+    </row>
+    

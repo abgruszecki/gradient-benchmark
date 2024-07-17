@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yf8b_kgb7_q3rr" _uuid="00000000-0000-0000-C59E-1B34F43C36A8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yf8b_kgb7_q3rr">
+      <vin_1_10>KM8K33AG6N</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99202</zip_code>
+      <model_year>2022</model_year>
+      <make>HYUNDAI</make>
+      <model>KONA ELECTRIC</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>3</legislative_district>
+      <dol_vehicle_id>176332978</dol_vehicle_id>
+      <geocoded_column>POINT (-117.383045 47.661935)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063002900</_2020_census_tract>
+    </row>
+    

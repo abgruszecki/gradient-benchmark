@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-xsmf.h3zz~hfy6" _uuid="00000000-0000-0000-6B17-8417678BA32A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-xsmf.h3zz~hfy6">
+      <vin_1_10>1C4RJXR6XR</vin_1_10>
+      <county>Franklin</county>
+      <city>Pasco</city>
+      <state>WA</state>
+      <zip_code>99301</zip_code>
+      <model_year>2024</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>252315465</dol_vehicle_id>
+      <geocoded_column>POINT (-119.0982 46.232395)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FRANKLIN COUNTY</electric_utility>
+      <_2020_census_tract>53021020504</_2020_census_tract>
+    </row>
+    

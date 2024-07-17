@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-xmwf.39q7~a7j3" _uuid="00000000-0000-0000-2801-626CDDCF10D9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-xmwf.39q7~a7j3">
+      <vin_1_10>5YJSA1CN5C</vin_1_10>
+      <county>Lewis</county>
+      <city>Randle</city>
+      <state>WA</state>
+      <zip_code>98377</zip_code>
+      <model_year>2012</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>265</electric_range>
+      <base_msrp>59900</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>182976629</dol_vehicle_id>
+      <geocoded_column>POINT (-121.920025 46.53731)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF LEWIS COUNTY</electric_utility>
+      <_2020_census_tract>53041972000</_2020_census_tract>
+    </row>
+    

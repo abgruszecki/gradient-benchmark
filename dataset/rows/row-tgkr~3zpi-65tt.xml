@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-tgkr~3zpi-65tt" _uuid="00000000-0000-0000-BC0A-D4E93CADF6EE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-tgkr~3zpi-65tt">
+      <vin_1_10>5YJYGDEE9L</vin_1_10>
+      <county>King</county>
+      <city>Maple Valley</city>
+      <state>WA</state>
+      <zip_code>98038</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>291</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>127457011</dol_vehicle_id>
+      <geocoded_column>POINT (-122.05191 47.357985)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031603</_2020_census_tract>
+    </row>
+    

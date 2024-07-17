@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-gvqk~ktwu.u3wj" _uuid="00000000-0000-0000-0FE0-91A7047477E2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-gvqk~ktwu.u3wj">
+      <vin_1_10>3FA6P0PU4J</vin_1_10>
+      <county>Grant</county>
+      <city>Ephrata</city>
+      <state>WA</state>
+      <zip_code>98823</zip_code>
+      <model_year>2018</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>118778845</dol_vehicle_id>
+      <geocoded_column>POINT (-119.55513 47.31936)</geocoded_column>
+      <electric_utility>PUD NO 2 OF GRANT COUNTY</electric_utility>
+      <_2020_census_tract>53025010402</_2020_census_tract>
+    </row>
+    

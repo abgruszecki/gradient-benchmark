@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pei3-48kx-nknk" _uuid="00000000-0000-0000-7EA9-7D2C398FFF2B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pei3-48kx-nknk">
+      <vin_1_10>1G1FW6S08P</vin_1_10>
+      <county>Island</county>
+      <city>Langley</city>
+      <state>WA</state>
+      <zip_code>98260</zip_code>
+      <model_year>2023</model_year>
+      <make>CHEVROLET</make>
+      <model>BOLT EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>224629023</dol_vehicle_id>
+      <geocoded_column>POINT (-122.408015 48.03557)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53029971900</_2020_census_tract>
+    </row>
+    

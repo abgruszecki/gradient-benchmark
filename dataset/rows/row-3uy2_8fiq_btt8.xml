@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3uy2_8fiq_btt8" _uuid="00000000-0000-0000-485A-E10737FCF16A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3uy2_8fiq_btt8">
+      <vin_1_10>3FMTK3R73N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Mountlake Terrace</city>
+      <state>WA</state>
+      <zip_code>98043</zip_code>
+      <model_year>2022</model_year>
+      <make>FORD</make>
+      <model>MUSTANG MACH-E</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>208499903</dol_vehicle_id>
+      <geocoded_column>POINT (-122.30842 47.78416)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051100</_2020_census_tract>
+    </row>
+    

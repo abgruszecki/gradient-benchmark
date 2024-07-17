@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rinv_66hr~5ux7" _uuid="00000000-0000-0000-726D-FB63D79F882A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rinv_66hr~5ux7">
+      <vin_1_10>KM8KRDDF7R</vin_1_10>
+      <county>Kitsap</county>
+      <city>Bainbridge Island</city>
+      <state>WA</state>
+      <zip_code>98110</zip_code>
+      <model_year>2024</model_year>
+      <make>HYUNDAI</make>
+      <model>IONIQ 5</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>259838981</dol_vehicle_id>
+      <geocoded_column>POINT (-122.5235781 47.6293323)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035090901</_2020_census_tract>
+    </row>
+    

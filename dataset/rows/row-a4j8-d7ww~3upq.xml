@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-a4j8-d7ww~3upq" _uuid="00000000-0000-0000-123C-87E6B86CE8ED" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-a4j8-d7ww~3upq">
+      <vin_1_10>1FADP5FU4H</vin_1_10>
+      <county>King</county>
+      <city>Renton</city>
+      <state>WA</state>
+      <zip_code>98055</zip_code>
+      <model_year>2017</model_year>
+      <make>FORD</make>
+      <model>C-MAX</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>20</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>11</legislative_district>
+      <dol_vehicle_id>138553740</dol_vehicle_id>
+      <geocoded_column>POINT (-122.197 47.43876)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033025703</_2020_census_tract>
+    </row>
+    

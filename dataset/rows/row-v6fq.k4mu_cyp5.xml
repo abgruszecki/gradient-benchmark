@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-v6fq.k4mu_cyp5" _uuid="00000000-0000-0000-0E31-3D5C23A82496" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-v6fq.k4mu_cyp5">
+      <vin_1_10>1FADP5CU5G</vin_1_10>
+      <county>Charleston</county>
+      <city>Charleston Afb</city>
+      <state>SC</state>
+      <zip_code>29404</zip_code>
+      <model_year>2016</model_year>
+      <make>FORD</make>
+      <model>C-MAX</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>263204665</dol_vehicle_id>
+      <geocoded_column>POINT (-80.05572 32.89661)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>45019003200</_2020_census_tract>
+    </row>
+    

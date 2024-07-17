@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ds55-rhga~2ncv" _uuid="00000000-0000-0000-1771-7D0720CE8C43" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ds55-rhga~2ncv">
+      <vin_1_10>1N4BZ0CP4H</vin_1_10>
+      <county>King</county>
+      <city>Bellevue</city>
+      <state>WA</state>
+      <zip_code>98006</zip_code>
+      <model_year>2017</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>107</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>348427936</dol_vehicle_id>
+      <geocoded_column>POINT (-122.16937 47.571015)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033024901</_2020_census_tract>
+    </row>
+    

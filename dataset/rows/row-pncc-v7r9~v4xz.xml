@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pncc-v7r9~v4xz" _uuid="00000000-0000-0000-4937-ED536BD66EDC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pncc-v7r9~v4xz">
+      <vin_1_10>1N4BZ1DP1L</vin_1_10>
+      <county>Whatcom</county>
+      <city>Lummi Island</city>
+      <state>WA</state>
+      <zip_code>98262</zip_code>
+      <model_year>2020</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>154452217</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6888403 48.7199947)</geocoded_column>
+      <electric_utility>PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073010900</_2020_census_tract>
+    </row>
+    

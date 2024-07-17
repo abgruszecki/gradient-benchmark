@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-g5gv-7qsk-zyhf" _uuid="00000000-0000-0000-6D62-937D6EED5DC3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-g5gv-7qsk-zyhf">
+      <vin_1_10>JTDKARFP7J</vin_1_10>
+      <county>Okanogan</county>
+      <city>Oroville</city>
+      <state>WA</state>
+      <zip_code>98844</zip_code>
+      <model_year>2018</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>201983421</dol_vehicle_id>
+      <geocoded_column>POINT (-119.43496 48.935165)</geocoded_column>
+      <electric_utility>PUD NO 1 OF OKANOGAN COUNTY</electric_utility>
+      <_2020_census_tract>53047970302</_2020_census_tract>
+    </row>
+    

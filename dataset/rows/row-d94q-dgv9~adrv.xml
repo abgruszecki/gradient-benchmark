@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-d94q-dgv9~adrv" _uuid="00000000-0000-0000-C01D-457D1539375B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-d94q-dgv9~adrv">
+      <vin_1_10>7SAYGDEE1P</vin_1_10>
+      <county>Snohomish</county>
+      <city>Snohomish</city>
+      <state>WA</state>
+      <zip_code>98296</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>252197228</dol_vehicle_id>
+      <geocoded_column>POINT (-122.15134 47.8851158)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061041610</_2020_census_tract>
+    </row>
+    

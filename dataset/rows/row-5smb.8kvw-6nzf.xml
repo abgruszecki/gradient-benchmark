@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5smb.8kvw-6nzf" _uuid="00000000-0000-0000-C14D-3F3EC092E90A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5smb.8kvw-6nzf">
+      <vin_1_10>KNAGV4LD9J</vin_1_10>
+      <county>Snohomish</county>
+      <city>Snohomish</city>
+      <state>WA</state>
+      <zip_code>98296</zip_code>
+      <model_year>2018</model_year>
+      <make>KIA</make>
+      <model>OPTIMA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>29</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>131534826</dol_vehicle_id>
+      <geocoded_column>POINT (-122.15134 47.8851158)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052114</_2020_census_tract>
+    </row>
+    

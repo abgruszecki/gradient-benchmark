@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-h26n~nqck_esc8" _uuid="00000000-0000-0000-D5E2-28A8C595987C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-h26n~nqck_esc8">
+      <vin_1_10>5YJ3E1EA2M</vin_1_10>
+      <county>Yakima</county>
+      <city>Mabton</city>
+      <state>WA</state>
+      <zip_code>98935</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>15</legislative_district>
+      <dol_vehicle_id>176446350</dol_vehicle_id>
+      <geocoded_column>POINT (-119.996825 46.21362)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PACIFICORP||BENTON RURAL ELECTRIC ASSN</electric_utility>
+      <_2020_census_tract>53077002701</_2020_census_tract>
+    </row>
+    

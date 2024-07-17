@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fvgm_ve5t.bv9t" _uuid="00000000-0000-0000-6343-39D5F759ED07" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fvgm_ve5t.bv9t">
+      <vin_1_10>5YJ3E1EB0P</vin_1_10>
+      <county>Mason</county>
+      <city>Shelton</city>
+      <state>WA</state>
+      <zip_code>98584</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>35</legislative_district>
+      <dol_vehicle_id>252657835</dol_vehicle_id>
+      <geocoded_column>POINT (-123.105305 47.211085)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 3 OF MASON COUNTY</electric_utility>
+      <_2020_census_tract>53045961000</_2020_census_tract>
+    </row>
+    

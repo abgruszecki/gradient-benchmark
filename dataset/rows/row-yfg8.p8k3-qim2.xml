@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yfg8.p8k3-qim2" _uuid="00000000-0000-0000-5542-5F9243553EC9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yfg8.p8k3-qim2">
+      <vin_1_10>KNDCC3LG7N</vin_1_10>
+      <county>Whatcom</county>
+      <city>Bellingham</city>
+      <state>WA</state>
+      <zip_code>98229</zip_code>
+      <model_year>2022</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>198935992</dol_vehicle_id>
+      <geocoded_column>POINT (-122.4569227 48.7470973)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073001101</_2020_census_tract>
+    </row>
+    

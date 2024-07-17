@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6bk8.5tpj-k7bi" _uuid="00000000-0000-0000-44AB-ECE57AE4D62A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6bk8.5tpj-k7bi">
+      <vin_1_10>WBA33AG00N</vin_1_10>
+      <county>King</county>
+      <city>Renton</city>
+      <state>WA</state>
+      <zip_code>98058</zip_code>
+      <model_year>2022</model_year>
+      <make>BMW</make>
+      <model>530E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>18</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>47</legislative_district>
+      <dol_vehicle_id>211689789</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1298876 47.4451257)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031906</_2020_census_tract>
+    </row>
+    

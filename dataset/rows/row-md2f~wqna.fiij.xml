@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-md2f~wqna.fiij" _uuid="00000000-0000-0000-A6A9-CB75CECE3708" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-md2f~wqna.fiij">
+      <vin_1_10>KL8CL6S05F</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98126</zip_code>
+      <model_year>2015</model_year>
+      <make>CHEVROLET</make>
+      <model>SPARK</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>82</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>34</legislative_district>
+      <dol_vehicle_id>476777430</dol_vehicle_id>
+      <geocoded_column>POINT (-122.374105 47.54468)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033009900</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-xzhv-eqbw.37ku" _uuid="00000000-0000-0000-44A9-34A2B4F460E6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-xzhv-eqbw.37ku">
+      <vin_1_10>WBY1Z4C57F</vin_1_10>
+      <county>Snohomish</county>
+      <city>Stanwood</city>
+      <state>WA</state>
+      <zip_code>98292</zip_code>
+      <model_year>2015</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>72</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>175251086</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3684051 48.2414921)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY</electric_utility>
+      <_2020_census_tract>53061053302</_2020_census_tract>
+    </row>
+    

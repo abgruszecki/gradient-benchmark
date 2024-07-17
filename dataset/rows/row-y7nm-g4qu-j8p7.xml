@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-y7nm-g4qu-j8p7" _uuid="00000000-0000-0000-E288-632CD3FF9D96" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-y7nm-g4qu-j8p7">
+      <vin_1_10>5YJSA1E27L</vin_1_10>
+      <county>Grant</county>
+      <city>Moses Lake</city>
+      <state>WA</state>
+      <zip_code>98837</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>330</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>127134003</dol_vehicle_id>
+      <geocoded_column>POINT (-119.2599876 47.1240154)</geocoded_column>
+      <electric_utility>PUD NO 2 OF GRANT COUNTY</electric_utility>
+      <_2020_census_tract>53025011101</_2020_census_tract>
+    </row>
+    

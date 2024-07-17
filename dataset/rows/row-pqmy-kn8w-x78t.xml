@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pqmy-kn8w-x78t" _uuid="00000000-0000-0000-B961-116993B54628" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pqmy-kn8w-x78t">
+      <vin_1_10>1N4BZ1CV3N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Granite Falls</city>
+      <state>WA</state>
+      <zip_code>98252</zip_code>
+      <model_year>2022</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>39</legislative_district>
+      <dol_vehicle_id>199114254</dol_vehicle_id>
+      <geocoded_column>POINT (-121.96994 48.08334)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY</electric_utility>
+      <_2020_census_tract>53061053605</_2020_census_tract>
+    </row>
+    

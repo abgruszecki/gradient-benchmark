@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-twfk~n4fy~c8pq" _uuid="00000000-0000-0000-710E-361938E908F8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-twfk~n4fy~c8pq">
+      <vin_1_10>1C4RJXN60R</vin_1_10>
+      <county>Douglas</county>
+      <city>Rock Island</city>
+      <state>WA</state>
+      <zip_code>98850</zip_code>
+      <model_year>2024</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>258107979</dol_vehicle_id>
+      <geocoded_column>POINT (-120.14368 47.376555)</geocoded_column>
+      <electric_utility>PUD NO 1 OF DOUGLAS COUNTY</electric_utility>
+      <_2020_census_tract>53017950300</_2020_census_tract>
+    </row>
+    

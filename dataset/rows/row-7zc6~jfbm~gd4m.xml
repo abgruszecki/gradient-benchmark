@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7zc6~jfbm~gd4m" _uuid="00000000-0000-0000-9969-376A6AC91EDD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7zc6~jfbm~gd4m">
+      <vin_1_10>1N4BZ1CP7L</vin_1_10>
+      <county>Okanogan</county>
+      <city>Winthrop</city>
+      <state>WA</state>
+      <zip_code>98862</zip_code>
+      <model_year>2020</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>133740834</dol_vehicle_id>
+      <geocoded_column>POINT (-120.1774093 48.4741766)</geocoded_column>
+      <electric_utility>OKANOGAN COUNTY ELEC COOP, INC</electric_utility>
+      <_2020_census_tract>53047970900</_2020_census_tract>
+    </row>
+    

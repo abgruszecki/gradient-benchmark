@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-azyp.h45c.fr3f" _uuid="00000000-0000-0000-BDCD-E27D7BF0EDFE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-azyp.h45c.fr3f">
+      <vin_1_10>JTMAB3FV6M</vin_1_10>
+      <county>Cowlitz</county>
+      <city>Longview</city>
+      <state>WA</state>
+      <zip_code>98632</zip_code>
+      <model_year>2021</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>213501088</dol_vehicle_id>
+      <geocoded_column>POINT (-122.9379953 46.1372997)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF COWLITZ COUNTY</electric_utility>
+      <_2020_census_tract>53015000706</_2020_census_tract>
+    </row>
+    

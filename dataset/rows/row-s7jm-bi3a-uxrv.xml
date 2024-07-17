@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-s7jm-bi3a-uxrv" _uuid="00000000-0000-0000-8E0C-4AD4068B7FC6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-s7jm-bi3a-uxrv">
+      <vin_1_10>KNDJX3AE6J</vin_1_10>
+      <county>Thurston</county>
+      <city>Olympia</city>
+      <state>WA</state>
+      <zip_code>98501</zip_code>
+      <model_year>2018</model_year>
+      <make>KIA</make>
+      <model>SOUL EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>111</electric_range>
+      <base_msrp>33950</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>257048641</dol_vehicle_id>
+      <geocoded_column>POINT (-122.89692 47.043535)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067010300</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-e7mp~nr4a~g7dr" _uuid="00000000-0000-0000-CB00-7D6715BDE50F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-e7mp~nr4a~g7dr">
+      <vin_1_10>WA1LAAGE4N</vin_1_10>
+      <county>King</county>
+      <city>Bellevue</city>
+      <state>WA</state>
+      <zip_code>98027</zip_code>
+      <model_year>2022</model_year>
+      <make>AUDI</make>
+      <model>E-TRON</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>202838212</dol_vehicle_id>
+      <geocoded_column>POINT (-122.03646 47.534065)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033025008</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-uure~rc43~2est" _uuid="00000000-0000-0000-682E-B23E39E65EF4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-uure~rc43~2est">
+      <vin_1_10>YV4H60DM5R</vin_1_10>
+      <county>Chelan</county>
+      <city>Wenatchee</city>
+      <state>WA</state>
+      <zip_code>98801</zip_code>
+      <model_year>2024</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>35</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>260941103</dol_vehicle_id>
+      <geocoded_column>POINT (-120.32009 47.42255)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007961301</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kqr4_jqf3~3t5z" _uuid="00000000-0000-0000-07F9-C295908B87FA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kqr4_jqf3~3t5z">
+      <vin_1_10>WBY7Z2C52J</vin_1_10>
+      <county>King</county>
+      <city>Kent</city>
+      <state>WA</state>
+      <zip_code>98042</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>114</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>47</legislative_district>
+      <dol_vehicle_id>131264822</dol_vehicle_id>
+      <geocoded_column>POINT (-122.111625 47.36078)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031704</_2020_census_tract>
+    </row>
+    

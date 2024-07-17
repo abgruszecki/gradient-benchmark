@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kpus.d79v~bvtp" _uuid="00000000-0000-0000-EF19-DA2E3DD8754D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kpus.d79v~bvtp">
+      <vin_1_10>5UXKT0C57H</vin_1_10>
+      <county>King</county>
+      <city>Black Diamond</city>
+      <state>WA</state>
+      <zip_code>98010</zip_code>
+      <model_year>2017</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>348939790</dol_vehicle_id>
+      <geocoded_column>POINT (-122.00451 47.312185)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031605</_2020_census_tract>
+    </row>
+    

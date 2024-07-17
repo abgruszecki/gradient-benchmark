@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dikb-k9ec_vnvi" _uuid="00000000-0000-0000-DE25-25D220C4F083" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dikb-k9ec_vnvi">
+      <vin_1_10>2C4RC1N77J</vin_1_10>
+      <county>Snohomish</county>
+      <city>Stanwood</city>
+      <state>WA</state>
+      <zip_code>98292</zip_code>
+      <model_year>2018</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>33</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>225983642</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3684051 48.2414921)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY</electric_utility>
+      <_2020_census_tract>53061053302</_2020_census_tract>
+    </row>
+    

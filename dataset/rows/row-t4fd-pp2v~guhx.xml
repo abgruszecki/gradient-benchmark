@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-t4fd-pp2v~guhx" _uuid="00000000-0000-0000-C842-C4DA16E045FC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-t4fd-pp2v~guhx">
+      <vin_1_10>JTDKN3DP9C</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Ocean Shores</city>
+      <state>WA</state>
+      <zip_code>98569</zip_code>
+      <model_year>2012</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>267706036</dol_vehicle_id>
+      <geocoded_column>POINT (-124.1599804 47.0075271)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027000201</_2020_census_tract>
+    </row>
+    

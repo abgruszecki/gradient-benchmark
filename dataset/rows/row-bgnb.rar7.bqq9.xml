@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-bgnb.rar7.bqq9" _uuid="00000000-0000-0000-BBE7-1B9F184054E6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-bgnb.rar7.bqq9">
+      <vin_1_10>1G1RB6E43D</vin_1_10>
+      <county>Franklin</county>
+      <city>Eltopia</city>
+      <state>WA</state>
+      <zip_code>99330</zip_code>
+      <model_year>2013</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>240637974</dol_vehicle_id>
+      <geocoded_column>POINT (-119.0189476 46.4536241)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||BIG BEND ELECTRIC COOP, INC</electric_utility>
+      <_2020_census_tract>53021020608</_2020_census_tract>
+    </row>
+    

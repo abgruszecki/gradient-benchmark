@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-qr8s~7pun~ar8t" _uuid="00000000-0000-0000-22FB-16DE392DA91A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-qr8s~7pun~ar8t">
+      <vin_1_10>JTDKARFP7L</vin_1_10>
+      <county>Asotin</county>
+      <city>Clarkston</city>
+      <state>WA</state>
+      <zip_code>99403</zip_code>
+      <model_year>2020</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>9120863</dol_vehicle_id>
+      <geocoded_column>POINT (-117.045685 46.4163)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||PUD NO 1 OF ASOTIN COUNTY</electric_utility>
+      <_2020_census_tract>53003960200</_2020_census_tract>
+    </row>
+    

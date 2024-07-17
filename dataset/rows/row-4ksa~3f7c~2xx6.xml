@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-4ksa~3f7c~2xx6" _uuid="00000000-0000-0000-565A-498AE469E8E2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-4ksa~3f7c~2xx6">
+      <vin_1_10>YV4BR0PL1J</vin_1_10>
+      <county>King</county>
+      <city>Sammamish</city>
+      <state>WA</state>
+      <zip_code>98075</zip_code>
+      <model_year>2018</model_year>
+      <make>VOLVO</make>
+      <model>XC90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>64950</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>474648849</dol_vehicle_id>
+      <geocoded_column>POINT (-122.03309 47.58153)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032218</_2020_census_tract>
+    </row>
+    

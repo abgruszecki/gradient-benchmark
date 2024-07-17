@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8zxw_rpy6-kxub" _uuid="00000000-0000-0000-E471-E19BEDD57188" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8zxw_rpy6-kxub">
+      <vin_1_10>KL8CL6S01E</vin_1_10>
+      <county>El Paso</county>
+      <city>Colorado Springs</city>
+      <state>CO</state>
+      <zip_code>80923</zip_code>
+      <model_year>2014</model_year>
+      <make>CHEVROLET</make>
+      <model>SPARK</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>82</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>172410990</dol_vehicle_id>
+      <geocoded_column>POINT (-104.7100237 38.9185559)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>08041005120</_2020_census_tract>
+    </row>
+    

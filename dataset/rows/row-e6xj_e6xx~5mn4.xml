@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-e6xj_e6xx~5mn4" _uuid="00000000-0000-0000-CE9B-AAF50C3F01D2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-e6xj_e6xx~5mn4">
+      <vin_1_10>YV4BR0DM4L</vin_1_10>
+      <county>King</county>
+      <city>Burien</city>
+      <state>WA</state>
+      <zip_code>98166</zip_code>
+      <model_year>2020</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>34</legislative_district>
+      <dol_vehicle_id>106963650</dol_vehicle_id>
+      <geocoded_column>POINT (-122.341345 47.465925)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033027800</_2020_census_tract>
+    </row>
+    

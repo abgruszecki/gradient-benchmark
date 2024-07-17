@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-hf2b-jtpp~hukb" _uuid="00000000-0000-0000-E9D7-E67BC7A39409" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-hf2b-jtpp~hukb">
+      <vin_1_10>3FMTK1RM0N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Everett</city>
+      <state>WA</state>
+      <zip_code>98204</zip_code>
+      <model_year>2022</model_year>
+      <make>FORD</make>
+      <model>MUSTANG MACH-E</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>21</legislative_district>
+      <dol_vehicle_id>221443400</dol_vehicle_id>
+      <geocoded_column>POINT (-122.240535 47.91139)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061041815</_2020_census_tract>
+    </row>
+    

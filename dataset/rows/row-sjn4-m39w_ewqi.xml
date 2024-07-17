@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-sjn4-m39w_ewqi" _uuid="00000000-0000-0000-055F-972F01CAAFAB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-sjn4-m39w_ewqi">
+      <vin_1_10>WDC0G5EB1K</vin_1_10>
+      <county>King</county>
+      <city>Renton</city>
+      <state>WA</state>
+      <zip_code>98056</zip_code>
+      <model_year>2019</model_year>
+      <make>MERCEDES-BENZ</make>
+      <model>GLC-CLASS</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>10</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>11</legislative_district>
+      <dol_vehicle_id>186072449</dol_vehicle_id>
+      <geocoded_column>POINT (-122.180505 47.500055)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033025601</_2020_census_tract>
+    </row>
+    

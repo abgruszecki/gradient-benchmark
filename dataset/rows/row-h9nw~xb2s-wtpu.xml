@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-h9nw~xb2s-wtpu" _uuid="00000000-0000-0000-BAA8-3A6E7647E719" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-h9nw~xb2s-wtpu">
+      <vin_1_10>KM8JFDA2XP</vin_1_10>
+      <county>Kitsap</county>
+      <city>Kingston</city>
+      <state>WA</state>
+      <zip_code>98346</zip_code>
+      <model_year>2023</model_year>
+      <make>HYUNDAI</make>
+      <model>TUCSON</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>33</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>235256654</dol_vehicle_id>
+      <geocoded_column>POINT (-122.50156 47.8019)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035090102</_2020_census_tract>
+    </row>
+    

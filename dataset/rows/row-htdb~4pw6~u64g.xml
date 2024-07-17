@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-htdb~4pw6~u64g" _uuid="00000000-0000-0000-91B9-8CC760F7C5AD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-htdb~4pw6~u64g">
+      <vin_1_10>5YJXCBE26J</vin_1_10>
+      <county>Asotin</county>
+      <city>Clarkston</city>
+      <state>WA</state>
+      <zip_code>99403</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>158513785</dol_vehicle_id>
+      <geocoded_column>POINT (-117.045685 46.4163)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||PUD NO 1 OF ASOTIN COUNTY</electric_utility>
+      <_2020_census_tract>53003960100</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-utuv_4f8c.x3y4" _uuid="00000000-0000-0000-E2D0-AA829A021FA3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-utuv_4f8c.x3y4">
+      <vin_1_10>3MW39FS00P</vin_1_10>
+      <county>King</county>
+      <city>Fall City</city>
+      <state>WA</state>
+      <zip_code>98024</zip_code>
+      <model_year>2023</model_year>
+      <make>BMW</make>
+      <model>330E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>20</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>240625507</dol_vehicle_id>
+      <geocoded_column>POINT (-121.8936184 47.5640832)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032221</_2020_census_tract>
+    </row>
+    

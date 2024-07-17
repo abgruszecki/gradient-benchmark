@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kyum.etif~7hwf" _uuid="00000000-0000-0000-A544-B5C76FB424D4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kyum.etif~7hwf">
+      <vin_1_10>1C4RJYC66P</vin_1_10>
+      <county>Thurston</county>
+      <city>Rochester</city>
+      <state>WA</state>
+      <zip_code>98579</zip_code>
+      <model_year>2023</model_year>
+      <make>JEEP</make>
+      <model>GRAND CHEROKEE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>35</legislative_district>
+      <dol_vehicle_id>254666856</dol_vehicle_id>
+      <geocoded_column>POINT (-123.09575 46.82114)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012720</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-9ict~bst8~fx6p" _uuid="00000000-0000-0000-447E-1EBC356974BA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-9ict~bst8~fx6p">
+      <vin_1_10>SADHD2S14K</vin_1_10>
+      <county>King</county>
+      <city>Kirkland</city>
+      <state>WA</state>
+      <zip_code>98033</zip_code>
+      <model_year>2019</model_year>
+      <make>JAGUAR</make>
+      <model>I-PACE</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>234</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>48</legislative_district>
+      <dol_vehicle_id>120213236</dol_vehicle_id>
+      <geocoded_column>POINT (-122.20264 47.6785)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033022701</_2020_census_tract>
+    </row>
+    

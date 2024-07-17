@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kg6v_vpk9-cjxp" _uuid="00000000-0000-0000-4497-48B9BFC34F66" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kg6v_vpk9-cjxp">
+      <vin_1_10>1C4RJYB69P</vin_1_10>
+      <county>Grant</county>
+      <city>Moses Lake</city>
+      <state>WA</state>
+      <zip_code>98837</zip_code>
+      <model_year>2023</model_year>
+      <make>JEEP</make>
+      <model>GRAND CHEROKEE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>256332492</dol_vehicle_id>
+      <geocoded_column>POINT (-119.2599876 47.1240154)</geocoded_column>
+      <electric_utility>PUD NO 2 OF GRANT COUNTY</electric_utility>
+      <_2020_census_tract>53025011001</_2020_census_tract>
+    </row>
+    

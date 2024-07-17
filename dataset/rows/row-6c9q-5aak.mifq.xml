@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6c9q-5aak.mifq" _uuid="00000000-0000-0000-FF36-933547A8BA83" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6c9q-5aak.mifq">
+      <vin_1_10>5YJSA1H13E</vin_1_10>
+      <county>Kitsap</county>
+      <city>Bremerton</city>
+      <state>WA</state>
+      <zip_code>98312</zip_code>
+      <model_year>2014</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>69900</base_msrp>
+      <legislative_district>35</legislative_district>
+      <dol_vehicle_id>112459756</dol_vehicle_id>
+      <geocoded_column>POINT (-122.65223 47.57192)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035080700</_2020_census_tract>
+    </row>
+    

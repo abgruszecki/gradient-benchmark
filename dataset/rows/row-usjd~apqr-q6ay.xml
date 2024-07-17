@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-usjd~apqr-q6ay" _uuid="00000000-0000-0000-B8F5-B535FF9CA45A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-usjd~apqr-q6ay">
+      <vin_1_10>3FA6P0SU7K</vin_1_10>
+      <county>Spokane</county>
+      <city>Deer Park</city>
+      <state>WA</state>
+      <zip_code>99006</zip_code>
+      <model_year>2019</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>172740739</dol_vehicle_id>
+      <geocoded_column>POINT (-117.47501 47.956285)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063010304</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-hwj6.nkpc.6jkb" _uuid="00000000-0000-0000-FC20-1E5C764790DE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-hwj6.nkpc.6jkb">
+      <vin_1_10>JTMAB3FV9M</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98115</zip_code>
+      <model_year>2021</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>46</legislative_district>
+      <dol_vehicle_id>181525004</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3185 47.67949)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033004201</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-murm.sb26-bbkh" _uuid="00000000-0000-0000-4324-43B16A1C09CE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-murm.sb26-bbkh">
+      <vin_1_10>JTMAB3FV9N</vin_1_10>
+      <county>Santa Clara</county>
+      <city>San Jose</city>
+      <state>CA</state>
+      <zip_code>95112</zip_code>
+      <model_year>2022</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>208502822</dol_vehicle_id>
+      <geocoded_column>POINT (-121.89457 37.35312)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06085503122</_2020_census_tract>
+    </row>
+    

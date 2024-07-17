@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-c28d_ytg2.sbb5" _uuid="00000000-0000-0000-7AE4-33BE753A824B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-c28d_ytg2.sbb5">
+      <vin_1_10>5UXTA6C05P</vin_1_10>
+      <county>Pierce</county>
+      <city>Lakewood</city>
+      <state>WA</state>
+      <zip_code>98499</zip_code>
+      <model_year>2023</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>30</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>28</legislative_district>
+      <dol_vehicle_id>236662667</dol_vehicle_id>
+      <geocoded_column>POINT (-122.5181098 47.1712579)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053071902</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-w49s~5sr6.pthq" _uuid="00000000-0000-0000-CF56-2536DB089759" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-w49s~5sr6.pthq">
+      <vin_1_10>5UXKT0C57G</vin_1_10>
+      <county>Pierce</county>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip_code>98422</zip_code>
+      <model_year>2016</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>27</legislative_district>
+      <dol_vehicle_id>149203421</dol_vehicle_id>
+      <geocoded_column>POINT (-122.38578 47.28971)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053940001</_2020_census_tract>
+    </row>
+    

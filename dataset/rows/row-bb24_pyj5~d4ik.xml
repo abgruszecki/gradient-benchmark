@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-bb24_pyj5~d4ik" _uuid="00000000-0000-0000-06BD-7D7A40D72A6F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-bb24_pyj5~d4ik">
+      <vin_1_10>1FADP5CU3F</vin_1_10>
+      <county>Jefferson</county>
+      <city>Felts Mills</city>
+      <state>NY</state>
+      <zip_code>13638</zip_code>
+      <model_year>2015</model_year>
+      <make>FORD</make>
+      <model>C-MAX</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>119998469</dol_vehicle_id>
+      <geocoded_column>POINT (-75.7609913 44.021459)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>36045061101</_2020_census_tract>
+    </row>
+    

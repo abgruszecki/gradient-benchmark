@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-za6k-3cxf.tqet" _uuid="00000000-0000-0000-C537-1EE677BA1EB4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-za6k-3cxf.tqet">
+      <vin_1_10>7SAXCBE59N</vin_1_10>
+      <county>King</county>
+      <city>Enumclaw</city>
+      <state>WA</state>
+      <zip_code>98022</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>219030976</dol_vehicle_id>
+      <geocoded_column>POINT (-121.98953 47.20347)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031202</_2020_census_tract>
+    </row>
+    

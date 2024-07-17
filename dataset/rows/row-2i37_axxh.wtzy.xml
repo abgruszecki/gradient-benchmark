@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2i37_axxh.wtzy" _uuid="00000000-0000-0000-4628-25E79B5D9A7D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2i37_axxh.wtzy">
+      <vin_1_10>7PDSGABA5P</vin_1_10>
+      <county>Snohomish</county>
+      <city>Mountlake Terrace</city>
+      <state>WA</state>
+      <zip_code>98043</zip_code>
+      <model_year>2023</model_year>
+      <make>RIVIAN</make>
+      <model>R1S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>254907600</dol_vehicle_id>
+      <geocoded_column>POINT (-122.30842 47.78416)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051301</_2020_census_tract>
+    </row>
+    

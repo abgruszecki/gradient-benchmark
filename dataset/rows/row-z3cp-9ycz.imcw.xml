@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-z3cp-9ycz.imcw" _uuid="00000000-0000-0000-DD24-AEEBD0C145AA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-z3cp-9ycz.imcw">
+      <vin_1_10>JTDKAMFP0M</vin_1_10>
+      <county>King</county>
+      <city>Bellevue</city>
+      <state>WA</state>
+      <zip_code>98006</zip_code>
+      <model_year>2021</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>147071984</dol_vehicle_id>
+      <geocoded_column>POINT (-122.16937 47.571015)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033024901</_2020_census_tract>
+    </row>
+    

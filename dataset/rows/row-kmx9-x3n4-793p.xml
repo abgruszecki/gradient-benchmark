@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kmx9-x3n4-793p" _uuid="00000000-0000-0000-50BB-DAAD6A7BE155" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kmx9-x3n4-793p">
+      <vin_1_10>YV1H60EP9R</vin_1_10>
+      <county>King</county>
+      <city>Snoqualmie</city>
+      <state>WA</state>
+      <zip_code>98024</zip_code>
+      <model_year>2024</model_year>
+      <make>VOLVO</make>
+      <model>V60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>41</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>252771606</dol_vehicle_id>
+      <geocoded_column>POINT (-121.8936184 47.5640832)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032604</_2020_census_tract>
+    </row>
+    

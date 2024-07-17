@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mjnw.bp4v_zf6q" _uuid="00000000-0000-0000-DEB7-A66221784E68" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mjnw.bp4v_zf6q">
+      <vin_1_10>2C4RC1H78J</vin_1_10>
+      <county>Oldham</county>
+      <city>Goshen</city>
+      <state>KY</state>
+      <zip_code>40026</zip_code>
+      <model_year>2018</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>33</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>277234681</dol_vehicle_id>
+      <geocoded_column>POINT (-85.5824778 38.4053653)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>21185030802</_2020_census_tract>
+    </row>
+    

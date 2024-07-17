@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-duqd~mrud_2rgt" _uuid="00000000-0000-0000-9068-292D739CEEC6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-duqd~mrud_2rgt">
+      <vin_1_10>WVWKR7AU3K</vin_1_10>
+      <county>Benton</county>
+      <city>Kennewick</city>
+      <state>WA</state>
+      <zip_code>99336</zip_code>
+      <model_year>2019</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>E-GOLF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>125</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>8</legislative_district>
+      <dol_vehicle_id>179095864</dol_vehicle_id>
+      <geocoded_column>POINT (-119.113535 46.204945)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF BENTON COUNTY</electric_utility>
+      <_2020_census_tract>53005010809</_2020_census_tract>
+    </row>
+    

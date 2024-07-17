@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-z2t7_n8j7_zzfz" _uuid="00000000-0000-0000-63D4-2753DE037E36" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-z2t7_n8j7_zzfz">
+      <vin_1_10>7SAYGDEF2N</vin_1_10>
+      <county>Thurston</county>
+      <city>Yelm</city>
+      <state>WA</state>
+      <zip_code>98597</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>205675802</dol_vehicle_id>
+      <geocoded_column>POINT (-122.61023 46.94126)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012510</_2020_census_tract>
+    </row>
+    

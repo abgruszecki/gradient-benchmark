@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2r44~mwti_v3q2" _uuid="00000000-0000-0000-E522-C22AF5DA0E7A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2r44~mwti_v3q2">
+      <vin_1_10>5YJXCBE23J</vin_1_10>
+      <county>Lewis</county>
+      <city>Ashford</city>
+      <state>WA</state>
+      <zip_code>98304</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>279886050</dol_vehicle_id>
+      <geocoded_column>POINT (-122.0187185 46.7560603)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF LEWIS COUNTY</electric_utility>
+      <_2020_census_tract>53041971800</_2020_census_tract>
+    </row>
+    

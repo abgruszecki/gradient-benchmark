@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-knij~76k2.xqnq" _uuid="00000000-0000-0000-1D37-F8FFCD5F6274" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-knij~76k2.xqnq">
+      <vin_1_10>5LMYJ9YYXP</vin_1_10>
+      <county>Grant</county>
+      <city>Mattawa</city>
+      <state>WA</state>
+      <zip_code>99349</zip_code>
+      <model_year>2023</model_year>
+      <make>LINCOLN</make>
+      <model>AVIATOR</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>223681181</dol_vehicle_id>
+      <geocoded_column>POINT (-119.901675 46.7377996)</geocoded_column>
+      <electric_utility>PUD NO 2 OF GRANT COUNTY</electric_utility>
+      <_2020_census_tract>53025011406</_2020_census_tract>
+    </row>
+    

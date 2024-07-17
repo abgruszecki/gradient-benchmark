@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-96ku-4k7f~2x9d" _uuid="00000000-0000-0000-CEDC-48817D6EB5A6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-96ku-4k7f~2x9d">
+      <vin_1_10>1C4RJYB61P</vin_1_10>
+      <county>Douglas</county>
+      <city>Grand Coulee</city>
+      <state>WA</state>
+      <zip_code>99133</zip_code>
+      <model_year>2023</model_year>
+      <make>JEEP</make>
+      <model>GRAND CHEROKEE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>252619531</dol_vehicle_id>
+      <geocoded_column>POINT (-119.00325 47.942725)</geocoded_column>
+      <electric_utility>PUD NO 1 OF DOUGLAS COUNTY</electric_utility>
+      <_2020_census_tract>53017950102</_2020_census_tract>
+    </row>
+    

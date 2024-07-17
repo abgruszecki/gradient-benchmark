@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-j6u2.9vdb-39va" _uuid="00000000-0000-0000-270E-4D0D4807A470" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-j6u2.9vdb-39va">
+      <vin_1_10>5YJ3E1EB0L</vin_1_10>
+      <county>Okanogan</county>
+      <city>Winthrop</city>
+      <state>WA</state>
+      <zip_code>98862</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>322</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>127523182</dol_vehicle_id>
+      <geocoded_column>POINT (-120.1774093 48.4741766)</geocoded_column>
+      <electric_utility>OKANOGAN COUNTY ELEC COOP, INC</electric_utility>
+      <_2020_census_tract>53047970900</_2020_census_tract>
+    </row>
+    

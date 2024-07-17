@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-vt6u_idpp-bkr4" _uuid="00000000-0000-0000-6EE1-C8C30CF3BA88" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-vt6u_idpp-bkr4">
+      <vin_1_10>1FT6W1EV8P</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Westport</city>
+      <state>WA</state>
+      <zip_code>98595</zip_code>
+      <model_year>2023</model_year>
+      <make>FORD</make>
+      <model>F-150</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>257770306</dol_vehicle_id>
+      <geocoded_column>POINT (-124.107315 46.886855)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027001601</_2020_census_tract>
+    </row>
+    

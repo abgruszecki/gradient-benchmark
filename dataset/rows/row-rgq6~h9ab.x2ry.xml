@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rgq6~h9ab.x2ry" _uuid="00000000-0000-0000-3418-F82D45D26D4F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rgq6~h9ab.x2ry">
+      <vin_1_10>2C4RC1S74M</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98144</zip_code>
+      <model_year>2021</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>11</legislative_district>
+      <dol_vehicle_id>140993653</dol_vehicle_id>
+      <geocoded_column>POINT (-122.30823 47.581975)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033010002</_2020_census_tract>
+    </row>
+    

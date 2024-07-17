@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3jh5-pk7a.hqbt" _uuid="00000000-0000-0000-2AA6-833BA15AF69E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3jh5-pk7a.hqbt">
+      <vin_1_10>5YJ3E1EB1K</vin_1_10>
+      <county>Spokane</county>
+      <city>Valleyford</city>
+      <state>WA</state>
+      <zip_code>99036</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>476319217</dol_vehicle_id>
+      <geocoded_column>POINT (-117.242025 47.53164)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063013502</_2020_census_tract>
+    </row>
+    

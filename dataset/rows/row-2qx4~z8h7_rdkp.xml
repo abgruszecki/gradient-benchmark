@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2qx4~z8h7_rdkp" _uuid="00000000-0000-0000-F475-0E023EA729E9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2qx4~z8h7_rdkp">
+      <vin_1_10>WDC0G5EB3K</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98115</zip_code>
+      <model_year>2019</model_year>
+      <make>MERCEDES-BENZ</make>
+      <model>GLC-CLASS</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>10</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>46</legislative_district>
+      <dol_vehicle_id>169135725</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3185 47.67949)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033004201</_2020_census_tract>
+    </row>
+    

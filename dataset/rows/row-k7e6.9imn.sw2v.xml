@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-k7e6.9imn.sw2v" _uuid="00000000-0000-0000-114B-C2A6E5D65A0C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-k7e6.9imn.sw2v">
+      <vin_1_10>JM3KKEHA1R</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99212</zip_code>
+      <model_year>2024</model_year>
+      <make>MAZDA</make>
+      <model>CX-90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>259793481</dol_vehicle_id>
+      <geocoded_column>POINT (-117.288055 47.68043)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||VERA IRRIGATION DISTRICT #15</electric_utility>
+      <_2020_census_tract>53063011301</_2020_census_tract>
+    </row>
+    

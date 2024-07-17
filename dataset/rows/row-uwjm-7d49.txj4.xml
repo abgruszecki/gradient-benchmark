@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-uwjm-7d49.txj4" _uuid="00000000-0000-0000-27F8-3FE20851103C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-uwjm-7d49.txj4">
+      <vin_1_10>5YJSA1E20G</vin_1_10>
+      <county>San Diego</county>
+      <city>Oceanside</city>
+      <state>CA</state>
+      <zip_code>92058</zip_code>
+      <model_year>2016</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>210</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>232897395</dol_vehicle_id>
+      <geocoded_column>POINT (-117.368405 33.20734)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06073018601</_2020_census_tract>
+    </row>
+    

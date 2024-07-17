@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3u7t-5tbm.m2wq" _uuid="00000000-0000-0000-8AEE-6D80B3A08357" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3u7t-5tbm.m2wq">
+      <vin_1_10>JTMEB3FV6N</vin_1_10>
+      <county>King</county>
+      <city>Newcastle</city>
+      <state>WA</state>
+      <zip_code>98056</zip_code>
+      <model_year>2022</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>200729539</dol_vehicle_id>
+      <geocoded_column>POINT (-122.180505 47.500055)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033025001</_2020_census_tract>
+    </row>
+    

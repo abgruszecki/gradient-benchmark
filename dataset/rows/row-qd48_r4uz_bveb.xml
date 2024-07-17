@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-qd48_r4uz_bveb" _uuid="00000000-0000-0000-4CD0-89B7ED524278" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-qd48_r4uz_bveb">
+      <vin_1_10>KNDJX3AE1H</vin_1_10>
+      <county>Kitsap</county>
+      <city>Bremerton</city>
+      <state>WA</state>
+      <zip_code>98311</zip_code>
+      <model_year>2017</model_year>
+      <make>KIA</make>
+      <model>SOUL EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>32250</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>243930109</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6466274 47.6341188)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035091600</_2020_census_tract>
+    </row>
+    

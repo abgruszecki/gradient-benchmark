@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jxva~gwcb~8e9y" _uuid="00000000-0000-0000-B947-ED251DBFA8A5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jxva~gwcb~8e9y">
+      <vin_1_10>5YJYGDEEXL</vin_1_10>
+      <county>Pacific</county>
+      <city>Bay Center</city>
+      <state>WA</state>
+      <zip_code>98586</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>291</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>124594011</dol_vehicle_id>
+      <geocoded_column>POINT (-123.81213 46.66546)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 2 OF PACIFIC COUNTY</electric_utility>
+      <_2020_census_tract>53049950301</_2020_census_tract>
+    </row>
+    

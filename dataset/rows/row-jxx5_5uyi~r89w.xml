@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jxx5_5uyi~r89w" _uuid="00000000-0000-0000-CB65-5F8DA106E3BD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jxx5_5uyi~r89w">
+      <vin_1_10>WVGGNPE24M</vin_1_10>
+      <county>Chelan</county>
+      <city>Wenatchee</city>
+      <state>WA</state>
+      <zip_code>98801</zip_code>
+      <model_year>2021</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>ID.4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>196379438</dol_vehicle_id>
+      <geocoded_column>POINT (-120.32009 47.42255)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007960700</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-crs5_874m~ge5e" _uuid="00000000-0000-0000-6129-7B17AA4998B8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-crs5_874m~ge5e">
+      <vin_1_10>KNDPYDAH9P</vin_1_10>
+      <county>Benton</county>
+      <city>Kennewick</city>
+      <state>WA</state>
+      <zip_code>99336</zip_code>
+      <model_year>2023</model_year>
+      <make>KIA</make>
+      <model>SPORTAGE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>34</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>8</legislative_district>
+      <dol_vehicle_id>240935901</dol_vehicle_id>
+      <geocoded_column>POINT (-119.113535 46.204945)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF BENTON COUNTY</electric_utility>
+      <_2020_census_tract>53005010816</_2020_census_tract>
+    </row>
+    

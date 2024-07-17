@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-x9jy_r84h-sqdg" _uuid="00000000-0000-0000-772C-D885D6168034" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-x9jy_r84h-sqdg">
+      <vin_1_10>KM8KM4AE3N</vin_1_10>
+      <county>Pierce</county>
+      <city>Puyallup</city>
+      <state>WA</state>
+      <zip_code>98374</zip_code>
+      <model_year>2022</model_year>
+      <make>HYUNDAI</make>
+      <model>IONIQ 5</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>25</legislative_district>
+      <dol_vehicle_id>199168371</dol_vehicle_id>
+      <geocoded_column>POINT (-122.275748 47.1395924)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053071209</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-vxqw.c7j3~huyy" _uuid="00000000-0000-0000-3695-D2FA61A7F964" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-vxqw.c7j3~huyy">
+      <vin_1_10>JTMEB3FV2N</vin_1_10>
+      <county>Spokane</county>
+      <city>Nine Mile Falls</city>
+      <state>WA</state>
+      <zip_code>99026</zip_code>
+      <model_year>2022</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>195352447</dol_vehicle_id>
+      <geocoded_column>POINT (-117.5967686 47.8204962)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063010601</_2020_census_tract>
+    </row>
+    

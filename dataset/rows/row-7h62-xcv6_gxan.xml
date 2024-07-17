@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7h62-xcv6_gxan" _uuid="00000000-0000-0000-8AD4-8EE2C60A1216" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7h62-xcv6_gxan">
+      <vin_1_10>2C4RC1L79M</vin_1_10>
+      <county>Thurston</county>
+      <city>Yelm</city>
+      <state>WA</state>
+      <zip_code>98597</zip_code>
+      <model_year>2021</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>141879636</dol_vehicle_id>
+      <geocoded_column>POINT (-122.61023 46.94126)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012421</_2020_census_tract>
+    </row>
+    

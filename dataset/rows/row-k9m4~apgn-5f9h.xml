@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-k9m4~apgn-5f9h" _uuid="00000000-0000-0000-2F1B-4ED018B5A7D3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-k9m4~apgn-5f9h">
+      <vin_1_10>5YJYGDEF0M</vin_1_10>
+      <county>San Diego</county>
+      <city>San Diego</city>
+      <state>CA</state>
+      <zip_code>92154</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>213673428</dol_vehicle_id>
+      <geocoded_column>POINT (-117.09543 32.57934)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06073010017</_2020_census_tract>
+    </row>
+    

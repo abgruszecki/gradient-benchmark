@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-p9pk~bfq6.9dvg" _uuid="00000000-0000-0000-48A8-3093F2673FB9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-p9pk~bfq6.9dvg">
+      <vin_1_10>KNDCS3LF0R</vin_1_10>
+      <county>Snohomish</county>
+      <city>Snohomish</city>
+      <state>WA</state>
+      <zip_code>98290</zip_code>
+      <model_year>2024</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>33</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>44</legislative_district>
+      <dol_vehicle_id>260220054</dol_vehicle_id>
+      <geocoded_column>POINT (-122.091505 47.915555)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052402</_2020_census_tract>
+    </row>
+    

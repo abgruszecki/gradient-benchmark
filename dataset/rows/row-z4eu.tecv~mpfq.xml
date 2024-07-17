@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-z4eu.tecv~mpfq" _uuid="00000000-0000-0000-4617-BA06F940D798" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-z4eu.tecv~mpfq">
+      <vin_1_10>JTDKN3DP1D</vin_1_10>
+      <county>Clark</county>
+      <city>Vancouver</city>
+      <state>WA</state>
+      <zip_code>98660</zip_code>
+      <model_year>2013</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PLUG-IN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>6</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>49</legislative_district>
+      <dol_vehicle_id>478560393</dol_vehicle_id>
+      <geocoded_column>POINT (-122.675975 45.630465)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011042300</_2020_census_tract>
+    </row>
+    

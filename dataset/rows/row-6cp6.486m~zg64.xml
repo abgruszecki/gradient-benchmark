@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6cp6.486m~zg64" _uuid="00000000-0000-0000-8C09-976640845BA4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6cp6.486m~zg64">
+      <vin_1_10>WBAJB1C59J</vin_1_10>
+      <county>Skagit</county>
+      <city>Burlington</city>
+      <state>WA</state>
+      <zip_code>98233</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>530E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>54950</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>196420199</dol_vehicle_id>
+      <geocoded_column>POINT (-122.33079 48.474765)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53057950802</_2020_census_tract>
+    </row>
+    

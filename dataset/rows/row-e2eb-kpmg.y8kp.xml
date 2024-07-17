@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-e2eb-kpmg.y8kp" _uuid="00000000-0000-0000-566F-7D98ABAE2865" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-e2eb-kpmg.y8kp">
+      <vin_1_10>KL8CK6S0XF</vin_1_10>
+      <county>Pierce</county>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip_code>98408</zip_code>
+      <model_year>2015</model_year>
+      <make>CHEVROLET</make>
+      <model>SPARK</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>82</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>29</legislative_district>
+      <dol_vehicle_id>156885235</dol_vehicle_id>
+      <geocoded_column>POINT (-122.438105 47.20322)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053062502</_2020_census_tract>
+    </row>
+    

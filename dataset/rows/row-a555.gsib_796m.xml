@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-a555.gsib_796m" _uuid="00000000-0000-0000-366D-9FF96E0774CE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-a555.gsib_796m">
+      <vin_1_10>1C4JJXR60M</vin_1_10>
+      <county>King</county>
+      <city>Ravensdale</city>
+      <state>WA</state>
+      <zip_code>98051</zip_code>
+      <model_year>2021</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>167066819</dol_vehicle_id>
+      <geocoded_column>POINT (-121.98104 47.358625)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031501</_2020_census_tract>
+    </row>
+    

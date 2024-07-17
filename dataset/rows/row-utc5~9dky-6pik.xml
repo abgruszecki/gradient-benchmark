@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-utc5~9dky-6pik" _uuid="00000000-0000-0000-B8CF-ED0CCA970FAA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-utc5~9dky-6pik">
+      <vin_1_10>1C4JJXP6XM</vin_1_10>
+      <county>Spokane</county>
+      <city>Colbert</city>
+      <state>WA</state>
+      <zip_code>99005</zip_code>
+      <model_year>2021</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>179001966</dol_vehicle_id>
+      <geocoded_column>POINT (-117.4015511 47.8159901)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063010204</_2020_census_tract>
+    </row>
+    

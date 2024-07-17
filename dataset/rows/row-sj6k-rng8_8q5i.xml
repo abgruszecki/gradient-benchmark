@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-sj6k-rng8_8q5i" _uuid="00000000-0000-0000-9AE9-88F9C45B4481" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-sj6k-rng8_8q5i">
+      <vin_1_10>5YJ3E1EB0N</vin_1_10>
+      <county>Mason</county>
+      <city>Tahuya</city>
+      <state>WA</state>
+      <zip_code>98588</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>35</legislative_district>
+      <dol_vehicle_id>202264149</dol_vehicle_id>
+      <geocoded_column>POINT (-122.9843687 47.4382712)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 3 OF MASON COUNTY</electric_utility>
+      <_2020_census_tract>53045960301</_2020_census_tract>
+    </row>
+    

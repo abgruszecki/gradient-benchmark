@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-58um_6gea-g6e6" _uuid="00000000-0000-0000-10B2-2B2B47777500" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-58um_6gea-g6e6">
+      <vin_1_10>KNDCE3LG9N</vin_1_10>
+      <county>Pierce</county>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip_code>98444</zip_code>
+      <model_year>2022</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>29</legislative_district>
+      <dol_vehicle_id>186746864</dol_vehicle_id>
+      <geocoded_column>POINT (-122.43827 47.153995)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PARKLAND LIGHT &amp; WATER COMPANY|PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053071504</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-h5k9~uyy8_fs62" _uuid="00000000-0000-0000-C41B-19D030A3D886" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-h5k9~uyy8_fs62">
+      <vin_1_10>JTMEB3FV7N</vin_1_10>
+      <county>Whatcom</county>
+      <city>Lynden</city>
+      <state>WA</state>
+      <zip_code>98264</zip_code>
+      <model_year>2022</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>257588187</dol_vehicle_id>
+      <geocoded_column>POINT (-122.4584536 48.9461196)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073010302</_2020_census_tract>
+    </row>
+    

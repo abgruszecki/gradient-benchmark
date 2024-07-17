@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-r953-zex6.8zc9" _uuid="00000000-0000-0000-C7B0-9A4E333B89FA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-r953-zex6.8zc9">
+      <vin_1_10>WBAJB1C55J</vin_1_10>
+      <county>Island</county>
+      <city>Langley</city>
+      <state>WA</state>
+      <zip_code>98260</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>530E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>54950</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>316294793</dol_vehicle_id>
+      <geocoded_column>POINT (-122.408015 48.03557)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53029971900</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wyh2.s6me_gz9z" _uuid="00000000-0000-0000-C7E7-D11059686466" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wyh2.s6me_gz9z">
+      <vin_1_10>4JGGM1CB9P</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99217</zip_code>
+      <model_year>2023</model_year>
+      <make>MERCEDES-BENZ</make>
+      <model>EQE-CLASS SUV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>262806008</dol_vehicle_id>
+      <geocoded_column>POINT (-117.357575 47.68465)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063011203</_2020_census_tract>
+    </row>
+    

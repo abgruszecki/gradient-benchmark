@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6zhi_iy48~2jvn" _uuid="00000000-0000-0000-B23D-5E261E2EA6B5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6zhi_iy48~2jvn">
+      <vin_1_10>1C4JJXP62P</vin_1_10>
+      <county>Chelan</county>
+      <city>Leavenworth</city>
+      <state>WA</state>
+      <zip_code>98826</zip_code>
+      <model_year>2023</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>238143181</dol_vehicle_id>
+      <geocoded_column>POINT (-120.6619153 47.5970083)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007960202</_2020_census_tract>
+    </row>
+    

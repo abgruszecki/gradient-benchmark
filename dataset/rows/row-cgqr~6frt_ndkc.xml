@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-cgqr~6frt_ndkc" _uuid="00000000-0000-0000-A2DC-EADF151E0BB9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-cgqr~6frt_ndkc">
+      <vin_1_10>3C3CFFGE6D</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98126</zip_code>
+      <model_year>2013</model_year>
+      <make>FIAT</make>
+      <model>500</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>87</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>34</legislative_district>
+      <dol_vehicle_id>185323827</dol_vehicle_id>
+      <geocoded_column>POINT (-122.374105 47.54468)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033011602</_2020_census_tract>
+    </row>
+    

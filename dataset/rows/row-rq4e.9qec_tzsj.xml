@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rq4e.9qec_tzsj" _uuid="00000000-0000-0000-63FE-BF0FFD0D52F8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rq4e.9qec_tzsj">
+      <vin_1_10>5YJ3E1EA7P</vin_1_10>
+      <county>Kitsap</county>
+      <city>Olalla</city>
+      <state>WA</state>
+      <zip_code>98359</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>26</legislative_district>
+      <dol_vehicle_id>232594183</dol_vehicle_id>
+      <geocoded_column>POINT (-122.54483 47.41801)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035092802</_2020_census_tract>
+    </row>
+    

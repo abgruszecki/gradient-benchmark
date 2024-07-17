@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-q5ea~4ku4-7cih" _uuid="00000000-0000-0000-75D5-BE0A883A62F9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-q5ea~4ku4-7cih">
+      <vin_1_10>5UXKT0C52H</vin_1_10>
+      <county>Spokane</county>
+      <city>Mead</city>
+      <state>WA</state>
+      <zip_code>99021</zip_code>
+      <model_year>2017</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>332237552</dol_vehicle_id>
+      <geocoded_column>POINT (-117.35761 47.76885)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063010102</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-h5wd~6z55-46at" _uuid="00000000-0000-0000-50F7-0BA87F9CABDE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-h5wd~6z55-46at">
+      <vin_1_10>5LMTJ5DZXN</vin_1_10>
+      <county>King</county>
+      <city>Covington</city>
+      <state>WA</state>
+      <zip_code>98042</zip_code>
+      <model_year>2022</model_year>
+      <make>LINCOLN</make>
+      <model>CORSAIR</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>28</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>47</legislative_district>
+      <dol_vehicle_id>216808875</dol_vehicle_id>
+      <geocoded_column>POINT (-122.111625 47.36078)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031709</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ncdu~98q2.fq65" _uuid="00000000-0000-0000-886C-D0C10580B440" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ncdu~98q2.fq65">
+      <vin_1_10>WMZYU7C53K</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98102</zip_code>
+      <model_year>2019</model_year>
+      <make>MINI</make>
+      <model>COUNTRYMAN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>12</electric_range>
+      <base_msrp>36900</base_msrp>
+      <legislative_district>43</legislative_district>
+      <dol_vehicle_id>475231823</dol_vehicle_id>
+      <geocoded_column>POINT (-122.32226 47.64058)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033007404</_2020_census_tract>
+    </row>
+    

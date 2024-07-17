@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pawx.5aqp.39cp" _uuid="00000000-0000-0000-D5ED-A50487803663" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pawx.5aqp.39cp">
+      <vin_1_10>5YJ3E1EA8P</vin_1_10>
+      <county>Platte</county>
+      <city>Platte City</city>
+      <state>MO</state>
+      <zip_code>64079</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>252402587</dol_vehicle_id>
+      <geocoded_column>POINT (-94.77962 39.36557)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>29165030501</_2020_census_tract>
+    </row>
+    

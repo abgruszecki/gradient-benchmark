@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zn7j~cp76_watb" _uuid="00000000-0000-0000-7B73-7D6F6A8124D5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zn7j~cp76_watb">
+      <vin_1_10>7PDSGABAXP</vin_1_10>
+      <county>Snohomish</county>
+      <city>Woodway</city>
+      <state>WA</state>
+      <zip_code>98020</zip_code>
+      <model_year>2023</model_year>
+      <make>RIVIAN</make>
+      <model>R1S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>259877292</dol_vehicle_id>
+      <geocoded_column>POINT (-122.37507 47.80807)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061050600</_2020_census_tract>
+    </row>
+    

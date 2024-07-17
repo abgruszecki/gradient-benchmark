@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fnmb~yve2_pqxk" _uuid="00000000-0000-0000-1FE6-434DBF06717B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fnmb~yve2_pqxk">
+      <vin_1_10>WVGGNPE25M</vin_1_10>
+      <county>Riverside</county>
+      <city>Cathedral City</city>
+      <state>CA</state>
+      <zip_code>92234</zip_code>
+      <model_year>2021</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>ID.4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>195267250</dol_vehicle_id>
+      <geocoded_column>POINT (-116.4666102 33.7803793)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06065941001</_2020_census_tract>
+    </row>
+    

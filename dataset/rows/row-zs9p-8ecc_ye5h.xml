@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zs9p-8ecc_ye5h" _uuid="00000000-0000-0000-7177-5A9E76875AA1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zs9p-8ecc_ye5h">
+      <vin_1_10>JHMZC5F30J</vin_1_10>
+      <county>Grant</county>
+      <city>Moses Lake</city>
+      <state>WA</state>
+      <zip_code>98837</zip_code>
+      <model_year>2018</model_year>
+      <make>HONDA</make>
+      <model>CLARITY</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>47</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>121857928</dol_vehicle_id>
+      <geocoded_column>POINT (-119.2599876 47.1240154)</geocoded_column>
+      <electric_utility>PUD NO 2 OF GRANT COUNTY</electric_utility>
+      <_2020_census_tract>53025011101</_2020_census_tract>
+    </row>
+    

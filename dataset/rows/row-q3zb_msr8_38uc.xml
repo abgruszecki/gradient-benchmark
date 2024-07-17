@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-q3zb_msr8_38uc" _uuid="00000000-0000-0000-B06F-E59C8978542C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-q3zb_msr8_38uc">
+      <vin_1_10>YV4H60DM0N</vin_1_10>
+      <county>Skagit</county>
+      <city>Anacortes</city>
+      <state>WA</state>
+      <zip_code>98221</zip_code>
+      <model_year>2022</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>35</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>203569341</dol_vehicle_id>
+      <geocoded_column>POINT (-122.615305 48.501275)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53057940302</_2020_census_tract>
+    </row>
+    

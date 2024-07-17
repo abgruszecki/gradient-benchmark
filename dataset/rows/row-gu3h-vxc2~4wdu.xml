@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-gu3h-vxc2~4wdu" _uuid="00000000-0000-0000-6686-3B3C133A9217" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-gu3h-vxc2~4wdu">
+      <vin_1_10>WA1VAAGE2K</vin_1_10>
+      <county>Kitsap</county>
+      <city>Bremerton</city>
+      <state>WA</state>
+      <zip_code>98310</zip_code>
+      <model_year>2019</model_year>
+      <make>AUDI</make>
+      <model>E-TRON</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>204</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>476666046</dol_vehicle_id>
+      <geocoded_column>POINT (-122.611365 47.575195)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035080101</_2020_census_tract>
+    </row>
+    

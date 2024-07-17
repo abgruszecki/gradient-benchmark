@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-s4g9-c62f.kmfg" _uuid="00000000-0000-0000-E1CF-247E7E1CFBC0" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-s4g9-c62f.kmfg">
+      <vin_1_10>WBY2Z2C59E</vin_1_10>
+      <county>Chelan</county>
+      <city>Chelan</city>
+      <state>WA</state>
+      <zip_code>98816</zip_code>
+      <model_year>2014</model_year>
+      <make>BMW</make>
+      <model>I8</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>246509686</dol_vehicle_id>
+      <geocoded_column>POINT (-120.015875 47.839895)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007960303</_2020_census_tract>
+    </row>
+    

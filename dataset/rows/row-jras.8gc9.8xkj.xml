@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jras.8gc9.8xkj" _uuid="00000000-0000-0000-5893-9BA6B34100E3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jras.8gc9.8xkj">
+      <vin_1_10>WMEFJ9BA5H</vin_1_10>
+      <county>Benton</county>
+      <city>Kennewick</city>
+      <state>WA</state>
+      <zip_code>99338</zip_code>
+      <model_year>2017</model_year>
+      <make>SMART</make>
+      <model>FORTWO</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>58</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>8</legislative_district>
+      <dol_vehicle_id>144712515</dol_vehicle_id>
+      <geocoded_column>POINT (-119.1973001 46.1911488)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF BENTON COUNTY</electric_utility>
+      <_2020_census_tract>53005010815</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mw8i-wzn2~r75g" _uuid="00000000-0000-0000-9AE8-A18B827C18BC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mw8i-wzn2~r75g">
+      <vin_1_10>WVGJNPE2XM</vin_1_10>
+      <county>Autauga</county>
+      <city>Prattville</city>
+      <state>AL</state>
+      <zip_code>36067</zip_code>
+      <model_year>2021</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>ID.4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>193939854</dol_vehicle_id>
+      <geocoded_column>POINT (-86.47131 32.4596)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>01001020100</_2020_census_tract>
+    </row>
+    

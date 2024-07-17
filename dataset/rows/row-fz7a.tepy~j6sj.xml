@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fz7a.tepy~j6sj" _uuid="00000000-0000-0000-12F9-1445CF0D3F04" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fz7a.tepy~j6sj">
+      <vin_1_10>5YJYGDEE3M</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Westport</city>
+      <state>WA</state>
+      <zip_code>98595</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>141810084</dol_vehicle_id>
+      <geocoded_column>POINT (-124.107315 46.886855)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027001601</_2020_census_tract>
+    </row>
+    

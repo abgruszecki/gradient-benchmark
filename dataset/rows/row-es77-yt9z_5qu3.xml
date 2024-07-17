@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-es77-yt9z_5qu3" _uuid="00000000-0000-0000-67D3-29479DEF8EE5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-es77-yt9z_5qu3">
+      <vin_1_10>5YJSA1H18E</vin_1_10>
+      <county>Benton</county>
+      <city>Richland</city>
+      <state>WA</state>
+      <zip_code>99354</zip_code>
+      <model_year>2014</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>69900</base_msrp>
+      <legislative_district>8</legislative_district>
+      <dol_vehicle_id>475440276</dol_vehicle_id>
+      <geocoded_column>POINT (-119.28753 46.29747)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF RICHLAND - (WA)</electric_utility>
+      <_2020_census_tract>53005010100</_2020_census_tract>
+    </row>
+    

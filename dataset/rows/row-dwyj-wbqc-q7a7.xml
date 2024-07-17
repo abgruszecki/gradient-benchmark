@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dwyj-wbqc-q7a7" _uuid="00000000-0000-0000-20C6-5E329D06E0C2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dwyj-wbqc-q7a7">
+      <vin_1_10>KNAGV4LD7L</vin_1_10>
+      <county>Whatcom</county>
+      <city>Bellingham</city>
+      <state>WA</state>
+      <zip_code>98229</zip_code>
+      <model_year>2020</model_year>
+      <make>KIA</make>
+      <model>OPTIMA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>28</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>203358795</dol_vehicle_id>
+      <geocoded_column>POINT (-122.4569227 48.7470973)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073000803</_2020_census_tract>
+    </row>
+    

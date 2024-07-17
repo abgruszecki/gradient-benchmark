@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-sjh8~vaif~x796" _uuid="00000000-0000-0000-0A7C-3C671D802AC5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-sjh8~vaif~x796">
+      <vin_1_10>JA4J2VA77N</vin_1_10>
+      <county>Whatcom</county>
+      <city>Bellingham</city>
+      <state>WA</state>
+      <zip_code>98225</zip_code>
+      <model_year>2022</model_year>
+      <make>MITSUBISHI</make>
+      <model>OUTLANDER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>24</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>195975244</dol_vehicle_id>
+      <geocoded_column>POINT (-122.486115 48.761615)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073000502</_2020_census_tract>
+    </row>
+    

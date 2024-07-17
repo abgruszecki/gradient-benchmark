@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zy4g_6a3a-a5gf" _uuid="00000000-0000-0000-1D3E-4A18726A2569" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zy4g_6a3a-a5gf">
+      <vin_1_10>WBA7J2C50J</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane Valley</city>
+      <state>WA</state>
+      <zip_code>99037</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>740E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>90700</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>131630383</dol_vehicle_id>
+      <geocoded_column>POINT (-117.19651 47.65942)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063012902</_2020_census_tract>
+    </row>
+    

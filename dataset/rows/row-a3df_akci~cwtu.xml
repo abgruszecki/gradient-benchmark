@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-a3df_akci~cwtu" _uuid="00000000-0000-0000-6880-E1E95F99B0B0" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-a3df_akci~cwtu">
+      <vin_1_10>5YJXCBE25J</vin_1_10>
+      <county>Okanogan</county>
+      <city>Oroville</city>
+      <state>WA</state>
+      <zip_code>98844</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>241771701</dol_vehicle_id>
+      <geocoded_column>POINT (-119.43496 48.935165)</geocoded_column>
+      <electric_utility>PUD NO 1 OF OKANOGAN COUNTY</electric_utility>
+      <_2020_census_tract>53047970302</_2020_census_tract>
+    </row>
+    

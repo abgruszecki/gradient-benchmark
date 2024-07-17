@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-28ku~f696_5dvs" _uuid="00000000-0000-0000-EF59-0FE49B30C4A0" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-28ku~f696_5dvs">
+      <vin_1_10>5YJSA1E26K</vin_1_10>
+      <county>Pierce</county>
+      <city>Roy</city>
+      <state>WA</state>
+      <zip_code>98580</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>270</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>228803515</dol_vehicle_id>
+      <geocoded_column>POINT (-122.522985 46.9876)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053073006</_2020_census_tract>
+    </row>
+    

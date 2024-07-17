@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7h6r_mucs~3wvv" _uuid="00000000-0000-0000-689D-563FB9844E81" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7h6r_mucs~3wvv">
+      <vin_1_10>5YJYGDEE1L</vin_1_10>
+      <county>King</county>
+      <city>Des Moines</city>
+      <state>WA</state>
+      <zip_code>98148</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>291</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>33</legislative_district>
+      <dol_vehicle_id>109755726</dol_vehicle_id>
+      <geocoded_column>POINT (-122.32863 47.46233)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033028700</_2020_census_tract>
+    </row>
+    

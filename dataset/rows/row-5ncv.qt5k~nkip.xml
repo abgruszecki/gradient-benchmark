@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5ncv.qt5k~nkip" _uuid="00000000-0000-0000-9109-DCA23900A693" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5ncv.qt5k~nkip">
+      <vin_1_10>7SAYGDEF9N</vin_1_10>
+      <county>Kent</county>
+      <city>Dover</city>
+      <state>DE</state>
+      <zip_code>19901</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>220766101</dol_vehicle_id>
+      <geocoded_column>POINT (-75.5183205 39.1601351)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>10001041101</_2020_census_tract>
+    </row>
+    

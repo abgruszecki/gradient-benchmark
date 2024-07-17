@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mz24~78fx~ntgf" _uuid="00000000-0000-0000-7DB1-9BBEE51F0AED" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mz24~78fx~ntgf">
+      <vin_1_10>1C4JJXP60M</vin_1_10>
+      <county>Clark</county>
+      <city>Vancouver</city>
+      <state>WA</state>
+      <zip_code>98686</zip_code>
+      <model_year>2021</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>17</legislative_district>
+      <dol_vehicle_id>187493330</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6483953 45.7010427)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040412</_2020_census_tract>
+    </row>
+    

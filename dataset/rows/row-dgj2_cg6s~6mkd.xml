@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dgj2_cg6s~6mkd" _uuid="00000000-0000-0000-233C-AD5BD1E9F012" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dgj2_cg6s~6mkd">
+      <vin_1_10>1N4AZ1CP0K</vin_1_10>
+      <county>Clark</county>
+      <city>Camas</city>
+      <state>WA</state>
+      <zip_code>98607</zip_code>
+      <model_year>2019</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>150</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>18</legislative_district>
+      <dol_vehicle_id>475998526</dol_vehicle_id>
+      <geocoded_column>POINT (-122.405565 45.59009)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040604</_2020_census_tract>
+    </row>
+    

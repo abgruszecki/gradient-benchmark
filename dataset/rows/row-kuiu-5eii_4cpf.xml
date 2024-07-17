@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kuiu-5eii_4cpf" _uuid="00000000-0000-0000-1AB6-6253A3986B83" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kuiu-5eii_4cpf">
+      <vin_1_10>1G1RD6S51H</vin_1_10>
+      <county>Yakima</county>
+      <city>Sunnyside</city>
+      <state>WA</state>
+      <zip_code>98944</zip_code>
+      <model_year>2017</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>53</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>15</legislative_district>
+      <dol_vehicle_id>209631208</dol_vehicle_id>
+      <geocoded_column>POINT (-120.011515 46.32189)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PACIFICORP||BENTON RURAL ELECTRIC ASSN</electric_utility>
+      <_2020_census_tract>53077002103</_2020_census_tract>
+    </row>
+    

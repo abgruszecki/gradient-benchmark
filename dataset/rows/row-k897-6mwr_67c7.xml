@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-k897-6mwr_67c7" _uuid="00000000-0000-0000-76C3-4A4DA6D2D318" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-k897-6mwr_67c7">
+      <vin_1_10>KMHCX5LD0N</vin_1_10>
+      <county>Clark</county>
+      <city>Vancouver</city>
+      <state>WA</state>
+      <zip_code>98661</zip_code>
+      <model_year>2022</model_year>
+      <make>HYUNDAI</make>
+      <model>IONIQ</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>29</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>49</legislative_district>
+      <dol_vehicle_id>195866541</dol_vehicle_id>
+      <geocoded_column>POINT (-122.641835 45.638545)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011041110</_2020_census_tract>
+    </row>
+    

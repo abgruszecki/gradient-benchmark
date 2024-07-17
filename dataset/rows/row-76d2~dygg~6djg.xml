@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-76d2~dygg~6djg" _uuid="00000000-0000-0000-91EF-C15BDAFE49E5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-76d2~dygg~6djg">
+      <vin_1_10>5YJ3E1EB7K</vin_1_10>
+      <county>Champaign</county>
+      <city>Champaign</city>
+      <state>IL</state>
+      <zip_code>61822</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>477078535</dol_vehicle_id>
+      <geocoded_column>POINT (-88.2937957 40.0832406)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>17019000902</_2020_census_tract>
+    </row>
+    

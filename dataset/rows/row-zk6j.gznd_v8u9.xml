@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zk6j.gznd_v8u9" _uuid="00000000-0000-0000-5F95-986A7FC8DA8E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zk6j.gznd_v8u9">
+      <vin_1_10>YV4BR0DL4L</vin_1_10>
+      <county>Pierce</county>
+      <city>Gig Harbor</city>
+      <state>WA</state>
+      <zip_code>98335</zip_code>
+      <model_year>2020</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>18</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>26</legislative_district>
+      <dol_vehicle_id>9895588</dol_vehicle_id>
+      <geocoded_column>POINT (-122.5835454 47.3234488)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053072408</_2020_census_tract>
+    </row>
+    

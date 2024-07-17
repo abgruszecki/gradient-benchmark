@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5b9j_qyi5.rih8" _uuid="00000000-0000-0000-F4F7-9BD8A9C59848" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5b9j_qyi5.rih8">
+      <vin_1_10>5YJXCAE21J</vin_1_10>
+      <county>Jefferson</county>
+      <city>Port Ludlow</city>
+      <state>WA</state>
+      <zip_code>98365</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>296321203</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6872285 47.9281524)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUGET SOUND ENERGY INC||PUD NO 1 OF JEFFERSON COUNTY</electric_utility>
+      <_2020_census_tract>53031950302</_2020_census_tract>
+    </row>
+    

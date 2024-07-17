@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-9pb3-29r8.v6bu" _uuid="00000000-0000-0000-7795-F2BB77170031" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-9pb3-29r8.v6bu">
+      <vin_1_10>5YJXCAE45G</vin_1_10>
+      <county>King</county>
+      <city>Auburn</city>
+      <state>WA</state>
+      <zip_code>98001</zip_code>
+      <model_year>2016</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>200</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>30</legislative_district>
+      <dol_vehicle_id>171958069</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2849393 47.3384055)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033030405</_2020_census_tract>
+    </row>
+    

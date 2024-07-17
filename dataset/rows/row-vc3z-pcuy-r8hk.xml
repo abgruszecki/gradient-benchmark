@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-vc3z-pcuy-r8hk" _uuid="00000000-0000-0000-8CB2-2593479A2EBB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-vc3z-pcuy-r8hk">
+      <vin_1_10>WAUTPBFF8J</vin_1_10>
+      <county>King</county>
+      <city>Burien</city>
+      <state>WA</state>
+      <zip_code>98166</zip_code>
+      <model_year>2018</model_year>
+      <make>AUDI</make>
+      <model>A3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>16</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>34</legislative_district>
+      <dol_vehicle_id>330993645</dol_vehicle_id>
+      <geocoded_column>POINT (-122.341345 47.465925)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033027901</_2020_census_tract>
+    </row>
+    

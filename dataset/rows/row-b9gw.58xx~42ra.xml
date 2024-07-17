@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-b9gw.58xx~42ra" _uuid="00000000-0000-0000-BEDC-9D85D8CA3D95" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-b9gw.58xx~42ra">
+      <vin_1_10>3FA6P0SUXK</vin_1_10>
+      <county>Kitsap</county>
+      <city>Hansville</city>
+      <state>WA</state>
+      <zip_code>98340</zip_code>
+      <model_year>2019</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>277167789</dol_vehicle_id>
+      <geocoded_column>POINT (-122.57781 47.903975)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035090101</_2020_census_tract>
+    </row>
+    

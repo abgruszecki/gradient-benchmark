@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-we44~u7sy_6jbh" _uuid="00000000-0000-0000-3027-E72AA6992DB1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-we44~u7sy_6jbh">
+      <vin_1_10>7SAYGDEE8P</vin_1_10>
+      <county>Pinal</county>
+      <city>Tucson</city>
+      <state>AZ</state>
+      <zip_code>85739</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>255739333</dol_vehicle_id>
+      <geocoded_column>POINT (-110.9234933 32.5026504)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>04021000604</_2020_census_tract>
+    </row>
+    

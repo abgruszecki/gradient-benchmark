@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-h6t6~hqck-f7v8" _uuid="00000000-0000-0000-0602-980BB64E202A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-h6t6~hqck-f7v8">
+      <vin_1_10>KNDJX3AE3G</vin_1_10>
+      <county>King</county>
+      <city>Kent</city>
+      <state>WA</state>
+      <zip_code>98031</zip_code>
+      <model_year>2016</model_year>
+      <make>KIA</make>
+      <model>SOUL</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>31950</base_msrp>
+      <legislative_district>47</legislative_district>
+      <dol_vehicle_id>172462559</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2012521 47.3931814)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033029406</_2020_census_tract>
+    </row>
+    

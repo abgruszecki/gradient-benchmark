@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-z8rg.3cpx-9vm9" _uuid="00000000-0000-0000-3EE1-3F7E61B6C1CE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-z8rg.3cpx-9vm9">
+      <vin_1_10>1C4RJYD67N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Monroe</city>
+      <state>WA</state>
+      <zip_code>98272</zip_code>
+      <model_year>2022</model_year>
+      <make>JEEP</make>
+      <model>GRAND CHEROKEE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>39</legislative_district>
+      <dol_vehicle_id>229966187</dol_vehicle_id>
+      <geocoded_column>POINT (-121.972215 47.85674)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052206</_2020_census_tract>
+    </row>
+    

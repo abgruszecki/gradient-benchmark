@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-89ez_9k7x~ur9m" _uuid="00000000-0000-0000-5BB8-91DEDADEB1F7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-89ez_9k7x~ur9m">
+      <vin_1_10>JN1AZ0CP8B</vin_1_10>
+      <county>Cowlitz</county>
+      <city>Kelso</city>
+      <state>WA</state>
+      <zip_code>98626</zip_code>
+      <model_year>2011</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>73</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>171670684</dol_vehicle_id>
+      <geocoded_column>POINT (-122.90724 46.14458)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF COWLITZ COUNTY</electric_utility>
+      <_2020_census_tract>53015001700</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kn26.rmsb~b5y4" _uuid="00000000-0000-0000-D941-370AAE7EF73B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kn26.rmsb~b5y4">
+      <vin_1_10>WP1AE2AY0K</vin_1_10>
+      <county>King</county>
+      <city>Kirkland</city>
+      <state>WA</state>
+      <zip_code>98033</zip_code>
+      <model_year>2019</model_year>
+      <make>PORSCHE</make>
+      <model>CAYENNE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>13</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>48</legislative_district>
+      <dol_vehicle_id>8194945</dol_vehicle_id>
+      <geocoded_column>POINT (-122.20264 47.6785)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033022501</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-9ygp.kedc-ih9i" _uuid="00000000-0000-0000-C960-8B5264490FBC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-9ygp.kedc-ih9i">
+      <vin_1_10>2C4RC1N7XM</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99224</zip_code>
+      <model_year>2021</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>209544856</dol_vehicle_id>
+      <geocoded_column>POINT (-117.460225 47.64927)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063013503</_2020_census_tract>
+    </row>
+    

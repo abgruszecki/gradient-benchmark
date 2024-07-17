@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ivgi_eiwy_763q" _uuid="00000000-0000-0000-617A-F4080B16DA28" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ivgi_eiwy_763q">
+      <vin_1_10>JA4T5VA98P</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98105</zip_code>
+      <model_year>2023</model_year>
+      <make>MITSUBISHI</make>
+      <model>OUTLANDER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>46</legislative_district>
+      <dol_vehicle_id>236278535</dol_vehicle_id>
+      <geocoded_column>POINT (-122.319115 47.66132)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033004202</_2020_census_tract>
+    </row>
+    

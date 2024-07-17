@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-gr95.jmhj~nb9n" _uuid="00000000-0000-0000-D976-5E10F08E1BB9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-gr95.jmhj~nb9n">
+      <vin_1_10>WA1DCBGE2R</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98112</zip_code>
+      <model_year>2024</model_year>
+      <make>AUDI</make>
+      <model>SQ8</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>43</legislative_district>
+      <dol_vehicle_id>258877587</dol_vehicle_id>
+      <geocoded_column>POINT (-122.30764 47.62523)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033007700</_2020_census_tract>
+    </row>
+    

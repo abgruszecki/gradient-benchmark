@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8duk.j7ad_5c88" _uuid="00000000-0000-0000-6155-576297375E89" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8duk.j7ad_5c88">
+      <vin_1_10>5LMYJ8XY2M</vin_1_10>
+      <county>Franklin</county>
+      <city>Eltopia</city>
+      <state>WA</state>
+      <zip_code>99330</zip_code>
+      <model_year>2021</model_year>
+      <make>LINCOLN</make>
+      <model>AVIATOR</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>211695697</dol_vehicle_id>
+      <geocoded_column>POINT (-119.0189476 46.4536241)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FRANKLIN COUNTY</electric_utility>
+      <_2020_census_tract>53021020608</_2020_census_tract>
+    </row>
+    

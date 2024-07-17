@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rhn5-q7d9-zuyy" _uuid="00000000-0000-0000-8341-4A2A297C4153" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rhn5-q7d9-zuyy">
+      <vin_1_10>1FTBW3XK2N</vin_1_10>
+      <county>Kitsap</county>
+      <city>Poulsbo</city>
+      <state>WA</state>
+      <zip_code>98370</zip_code>
+      <model_year>2022</model_year>
+      <make>FORD</make>
+      <model>TRANSIT</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>259742745</dol_vehicle_id>
+      <geocoded_column>POINT (-122.64177 47.737525)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035090400</_2020_census_tract>
+    </row>
+    

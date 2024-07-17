@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-x2q6-di5v.rsgr" _uuid="00000000-0000-0000-8FF3-02EE3F45DF93" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-x2q6-di5v.rsgr">
+      <vin_1_10>1N4AZ0CP1F</vin_1_10>
+      <county>Cook</county>
+      <city>Chicago</city>
+      <state>IL</state>
+      <zip_code>60605</zip_code>
+      <model_year>2015</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>84</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>178714595</dol_vehicle_id>
+      <geocoded_column>POINT (-87.626255 41.869255)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>17031839000</_2020_census_tract>
+    </row>
+    

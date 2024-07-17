@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fyz8_qptr_btdb" _uuid="00000000-0000-0000-6589-7953D2A5B6EF" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fyz8_qptr_btdb">
+      <vin_1_10>KNDCC3LG3M</vin_1_10>
+      <county>Clark</county>
+      <city>Vancouver</city>
+      <state>WA</state>
+      <zip_code>98664</zip_code>
+      <model_year>2021</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>49</legislative_district>
+      <dol_vehicle_id>241692482</dol_vehicle_id>
+      <geocoded_column>POINT (-122.589388 45.6228731)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011041208</_2020_census_tract>
+    </row>
+    

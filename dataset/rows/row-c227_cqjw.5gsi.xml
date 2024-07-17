@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-c227_cqjw.5gsi" _uuid="00000000-0000-0000-1BB9-C94A7C58F679" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-c227_cqjw.5gsi">
+      <vin_1_10>2C4RC1L72J</vin_1_10>
+      <county>Pierce</county>
+      <city>Parkland</city>
+      <state>WA</state>
+      <zip_code>98446</zip_code>
+      <model_year>2018</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>33</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>29</legislative_district>
+      <dol_vehicle_id>474046618</dol_vehicle_id>
+      <geocoded_column>POINT (-122.377475 47.096645)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||ELMHURST MUTUAL POWER &amp; LIGHT CO|PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053071412</_2020_census_tract>
+    </row>
+    

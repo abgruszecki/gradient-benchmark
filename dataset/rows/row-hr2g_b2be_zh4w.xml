@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-hr2g_b2be_zh4w" _uuid="00000000-0000-0000-411C-8074BE1D3E30" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-hr2g_b2be_zh4w">
+      <vin_1_10>1FTBW9CK3N</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98134</zip_code>
+      <model_year>2022</model_year>
+      <make>FORD</make>
+      <model>TRANSIT</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>11</legislative_district>
+      <dol_vehicle_id>208303567</dol_vehicle_id>
+      <geocoded_column>POINT (-122.329815 47.57981)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033009300</_2020_census_tract>
+    </row>
+    

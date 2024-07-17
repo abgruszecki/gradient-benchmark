@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7f26-by78.q47n" _uuid="00000000-0000-0000-CAD6-38C6C8F4B895" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7f26-by78.q47n">
+      <vin_1_10>JA4J2VA78N</vin_1_10>
+      <county>Thurston</county>
+      <city>Olympia</city>
+      <state>WA</state>
+      <zip_code>98506</zip_code>
+      <model_year>2022</model_year>
+      <make>MITSUBISHI</make>
+      <model>OUTLANDER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>24</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>251157959</dol_vehicle_id>
+      <geocoded_column>POINT (-122.8874781 47.0519573)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067010200</_2020_census_tract>
+    </row>
+    

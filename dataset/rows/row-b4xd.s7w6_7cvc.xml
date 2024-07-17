@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-b4xd.s7w6_7cvc" _uuid="00000000-0000-0000-9995-6262D4A8B2C1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-b4xd.s7w6_7cvc">
+      <vin_1_10>JTMAB3FV4R</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99203</zip_code>
+      <model_year>2024</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>3</legislative_district>
+      <dol_vehicle_id>262034559</dol_vehicle_id>
+      <geocoded_column>POINT (-117.425265 47.635365)</geocoded_column>
+      <electric_utility>MODERN ELECTRIC WATER COMPANY</electric_utility>
+      <_2020_census_tract>53063004500</_2020_census_tract>
+    </row>
+    

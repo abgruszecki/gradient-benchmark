@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jkk6_4qcn~mdvy" _uuid="00000000-0000-0000-BA9D-68ACBCA27630" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jkk6_4qcn~mdvy">
+      <vin_1_10>5YJXCDE27J</vin_1_10>
+      <county>King</county>
+      <city>Federal Way</city>
+      <state>WA</state>
+      <zip_code>98003</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>30</legislative_district>
+      <dol_vehicle_id>476486503</dol_vehicle_id>
+      <geocoded_column>POINT (-122.31327 47.32309)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033030102</_2020_census_tract>
+    </row>
+    

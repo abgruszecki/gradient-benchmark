@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-a7kn_64sx_uwje" _uuid="00000000-0000-0000-ECE1-267075322F8F" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-a7kn_64sx_uwje">
+      <vin_1_10>5YJ3E1EBXK</vin_1_10>
+      <county>Yakima</county>
+      <city>Zillah</city>
+      <state>WA</state>
+      <zip_code>98953</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>15</legislative_district>
+      <dol_vehicle_id>9404685</dol_vehicle_id>
+      <geocoded_column>POINT (-120.26317 46.40556)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077002201</_2020_census_tract>
+    </row>
+    

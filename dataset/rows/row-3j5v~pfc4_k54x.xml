@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3j5v~pfc4_k54x" _uuid="00000000-0000-0000-779E-974813A380A9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3j5v~pfc4_k54x">
+      <vin_1_10>1C4RJXR61R</vin_1_10>
+      <county>Thurston</county>
+      <city>Lacey</city>
+      <state>WA</state>
+      <zip_code>98516</zip_code>
+      <model_year>2024</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>256398978</dol_vehicle_id>
+      <geocoded_column>POINT (-122.7474291 47.0821119)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012226</_2020_census_tract>
+    </row>
+    

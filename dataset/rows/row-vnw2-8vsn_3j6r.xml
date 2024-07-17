@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-vnw2-8vsn_3j6r" _uuid="00000000-0000-0000-C3D2-E284D73275B8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-vnw2-8vsn_3j6r">
+      <vin_1_10>5YJRE1A39A</vin_1_10>
+      <county>Clark</county>
+      <city>Brush Prairie</city>
+      <state>WA</state>
+      <zip_code>98606</zip_code>
+      <model_year>2010</model_year>
+      <make>TESLA</make>
+      <model>ROADSTER</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>245</electric_range>
+      <base_msrp>110950</base_msrp>
+      <legislative_district>17</legislative_district>
+      <dol_vehicle_id>267463178</dol_vehicle_id>
+      <geocoded_column>POINT (-122.5485715 45.7336587)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040713</_2020_census_tract>
+    </row>
+    

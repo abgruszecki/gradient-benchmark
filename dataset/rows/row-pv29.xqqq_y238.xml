@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pv29.xqqq_y238" _uuid="00000000-0000-0000-DB52-A0AFB355FD01" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pv29.xqqq_y238">
+      <vin_1_10>1G1RA6S58J</vin_1_10>
+      <county>Spokane</county>
+      <city>Liberty Lake</city>
+      <state>WA</state>
+      <zip_code>99019</zip_code>
+      <model_year>2018</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>53</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>312969128</dol_vehicle_id>
+      <geocoded_column>POINT (-117.0923638 47.6643385)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063013205</_2020_census_tract>
+    </row>
+    

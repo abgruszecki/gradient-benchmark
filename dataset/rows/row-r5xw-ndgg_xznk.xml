@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-r5xw-ndgg_xznk" _uuid="00000000-0000-0000-EC48-27FD0E0C83C7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-r5xw-ndgg_xznk">
+      <vin_1_10>JN1AZ0CP0B</vin_1_10>
+      <county>Klickitat</county>
+      <city>Bingen</city>
+      <state>WA</state>
+      <zip_code>98605</zip_code>
+      <model_year>2011</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>73</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>251856090</dol_vehicle_id>
+      <geocoded_column>POINT (-121.648859 45.7491397)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KLICKITAT COUNTY</electric_utility>
+      <_2020_census_tract>53039950302</_2020_census_tract>
+    </row>
+    

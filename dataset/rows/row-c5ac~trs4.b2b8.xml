@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-c5ac~trs4.b2b8" _uuid="00000000-0000-0000-C27D-42F3356B89F6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-c5ac~trs4.b2b8">
+      <vin_1_10>5UXTA6C05M</vin_1_10>
+      <county>King</county>
+      <city>Newcastle</city>
+      <state>WA</state>
+      <zip_code>98059</zip_code>
+      <model_year>2021</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>30</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>172482376</dol_vehicle_id>
+      <geocoded_column>POINT (-122.15734 47.487175)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033025005</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rz6s_3s9f~vinm" _uuid="00000000-0000-0000-14FD-08BFF38509F0" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rz6s_3s9f~vinm">
+      <vin_1_10>1C4JJXR66N</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99224</zip_code>
+      <model_year>2022</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>22</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>205605970</dol_vehicle_id>
+      <geocoded_column>POINT (-117.460225 47.64927)</geocoded_column>
+      <electric_utility>MODERN ELECTRIC WATER COMPANY</electric_utility>
+      <_2020_census_tract>53063013503</_2020_census_tract>
+    </row>
+    

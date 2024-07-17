@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-nvi6.cs3r_d3fq" _uuid="00000000-0000-0000-0F20-9D65D46EEDC2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-nvi6.cs3r_d3fq">
+      <vin_1_10>JA4J24A53K</vin_1_10>
+      <county>Pierce</county>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip_code>98409</zip_code>
+      <model_year>2019</model_year>
+      <make>MITSUBISHI</make>
+      <model>OUTLANDER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>22</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>29</legislative_district>
+      <dol_vehicle_id>262851382</dol_vehicle_id>
+      <geocoded_column>POINT (-122.47913 47.2198)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053062600</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-hihg_scvh-e5dh" _uuid="00000000-0000-0000-5769-1FC834882C84" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-hihg_scvh-e5dh">
+      <vin_1_10>KMUKEDTB9P</vin_1_10>
+      <county>Orange</county>
+      <city>Midway City</city>
+      <state>CA</state>
+      <zip_code>92655</zip_code>
+      <model_year>2023</model_year>
+      <make>GENESIS</make>
+      <model>GV60</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>220657608</dol_vehicle_id>
+      <geocoded_column>POINT (-117.98419 33.74565)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06059099702</_2020_census_tract>
+    </row>
+    

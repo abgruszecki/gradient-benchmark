@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ac8u~4amh_hcvk" _uuid="00000000-0000-0000-99BF-35E5996A539E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ac8u~4amh_hcvk">
+      <vin_1_10>JTDKARFP0H</vin_1_10>
+      <county>Pierce</county>
+      <city>Gig Harbor</city>
+      <state>WA</state>
+      <zip_code>98332</zip_code>
+      <model_year>2017</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>26</legislative_district>
+      <dol_vehicle_id>344014086</dol_vehicle_id>
+      <geocoded_column>POINT (-122.589645 47.342345)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053072506</_2020_census_tract>
+    </row>
+    

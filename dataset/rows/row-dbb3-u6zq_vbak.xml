@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dbb3-u6zq_vbak" _uuid="00000000-0000-0000-1B97-6AB0F3B2B7AD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dbb3-u6zq_vbak">
+      <vin_1_10>KM8JFDA29P</vin_1_10>
+      <county>Benton</county>
+      <city>West Richland</city>
+      <state>WA</state>
+      <zip_code>99353</zip_code>
+      <model_year>2023</model_year>
+      <make>HYUNDAI</make>
+      <model>TUCSON</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>33</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>8</legislative_district>
+      <dol_vehicle_id>234948514</dol_vehicle_id>
+      <geocoded_column>POINT (-119.3535873 46.2778489)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF BENTON COUNTY</electric_utility>
+      <_2020_census_tract>53005010708</_2020_census_tract>
+    </row>
+    

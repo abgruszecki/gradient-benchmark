@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kzv9-qty8~a77m" _uuid="00000000-0000-0000-2477-7C174963EDA3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kzv9-qty8~a77m">
+      <vin_1_10>1N4BZ0CP8H</vin_1_10>
+      <county>Pierce</county>
+      <city>Kapowsin</city>
+      <state>WA</state>
+      <zip_code>98344</zip_code>
+      <model_year>2017</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>107</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>129113211</dol_vehicle_id>
+      <geocoded_column>POINT (-122.23469 46.98436)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053073119</_2020_census_tract>
+    </row>
+    

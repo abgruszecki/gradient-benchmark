@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7jyt_q7h2~8tkd" _uuid="00000000-0000-0000-7654-C5CA4B8DF287" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7jyt_q7h2~8tkd">
+      <vin_1_10>JM3KKDHA9R</vin_1_10>
+      <county>King</county>
+      <city>Bellevue</city>
+      <state>WA</state>
+      <zip_code>98007</zip_code>
+      <model_year>2024</model_year>
+      <make>MAZDA</make>
+      <model>CX-90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>48</legislative_district>
+      <dol_vehicle_id>252688999</dol_vehicle_id>
+      <geocoded_column>POINT (-122.147385 47.599975)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033022804</_2020_census_tract>
+    </row>
+    

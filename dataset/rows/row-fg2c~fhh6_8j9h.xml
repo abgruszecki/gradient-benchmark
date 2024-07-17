@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-fg2c~fhh6_8j9h" _uuid="00000000-0000-0000-A4A7-46C4CFEC7F1E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-fg2c~fhh6_8j9h">
+      <vin_1_10>1C4RJXP69R</vin_1_10>
+      <county>Walla Walla</county>
+      <city>Walla Walla</city>
+      <state>WA</state>
+      <zip_code>99362</zip_code>
+      <model_year>2024</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>256270374</dol_vehicle_id>
+      <geocoded_column>POINT (-118.34332 46.063985)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53071920701</_2020_census_tract>
+    </row>
+    

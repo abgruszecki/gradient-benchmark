@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-qswt~ukym~a9zt" _uuid="00000000-0000-0000-D158-700013477B31" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-qswt~ukym~a9zt">
+      <vin_1_10>WMZYU7C42J</vin_1_10>
+      <county>Snohomish</county>
+      <city>Edmonds</city>
+      <state>WA</state>
+      <zip_code>98026</zip_code>
+      <model_year>2018</model_year>
+      <make>MINI</make>
+      <model>COUNTRYMAN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>12</electric_range>
+      <base_msrp>36800</base_msrp>
+      <legislative_district>21</legislative_district>
+      <dol_vehicle_id>156481958</dol_vehicle_id>
+      <geocoded_column>POINT (-122.335685 47.80372)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061050404</_2020_census_tract>
+    </row>
+    

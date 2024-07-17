@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2unq-cdmv_r2v9" _uuid="00000000-0000-0000-81A4-452B0A59DD88" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2unq-cdmv_r2v9">
+      <vin_1_10>5YJ3E1EC2L</vin_1_10>
+      <county>Benton</county>
+      <city>Benton City</city>
+      <state>WA</state>
+      <zip_code>99320</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>308</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>5036146</dol_vehicle_id>
+      <geocoded_column>POINT (-119.48994 46.2669552)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF BENTON COUNTY</electric_utility>
+      <_2020_census_tract>53005011900</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-rq7h-h5ac.4jqr" _uuid="00000000-0000-0000-A7F0-68D4079AEAA6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-rq7h-h5ac.4jqr">
+      <vin_1_10>1G1RA6E4XD</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98144</zip_code>
+      <model_year>2013</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>37</legislative_district>
+      <dol_vehicle_id>257447529</dol_vehicle_id>
+      <geocoded_column>POINT (-122.30823 47.581975)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033009400</_2020_census_tract>
+    </row>
+    

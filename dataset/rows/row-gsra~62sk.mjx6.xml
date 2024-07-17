@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-gsra~62sk.mjx6" _uuid="00000000-0000-0000-0886-D23E59421B70" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-gsra~62sk.mjx6">
+      <vin_1_10>1FADP5FU8H</vin_1_10>
+      <county>Walla Walla</county>
+      <city>Burbank</city>
+      <state>WA</state>
+      <zip_code>99323</zip_code>
+      <model_year>2017</model_year>
+      <make>FORD</make>
+      <model>C-MAX</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>20</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>144148168</dol_vehicle_id>
+      <geocoded_column>POINT (-119.0127002 46.1971863)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||COLUMBIA RURAL ELEC ASSN, INC</electric_utility>
+      <_2020_census_tract>53071920000</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-27tj~a2sv_gcfk" _uuid="00000000-0000-0000-DE3A-BE8B99D6F0F8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-27tj~a2sv_gcfk">
+      <vin_1_10>5YJSA1H23E</vin_1_10>
+      <county>Yakima</county>
+      <city>Selah</city>
+      <state>WA</state>
+      <zip_code>98942</zip_code>
+      <model_year>2014</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>69900</base_msrp>
+      <legislative_district>15</legislative_district>
+      <dol_vehicle_id>126540459</dol_vehicle_id>
+      <geocoded_column>POINT (-120.54188 46.654175)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077003200</_2020_census_tract>
+    </row>
+    

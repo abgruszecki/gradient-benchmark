@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pqk4~edyr_dfcv" _uuid="00000000-0000-0000-5BCC-83DF88B7F382" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pqk4~edyr_dfcv">
+      <vin_1_10>1V2WNPE82P</vin_1_10>
+      <county>Skagit</county>
+      <city>Mount Vernon</city>
+      <state>WA</state>
+      <zip_code>98274</zip_code>
+      <model_year>2023</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>ID.4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>253766509</dol_vehicle_id>
+      <geocoded_column>POINT (-122.322955 48.4152)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53057952700</_2020_census_tract>
+    </row>
+    

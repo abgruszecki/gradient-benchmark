@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dc8n.65ig~c92b" _uuid="00000000-0000-0000-37F5-8C2926D6F78E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dc8n.65ig~c92b">
+      <vin_1_10>JN1AZ0CP6C</vin_1_10>
+      <county>Adams</county>
+      <city>Othello</city>
+      <state>WA</state>
+      <zip_code>99344</zip_code>
+      <model_year>2012</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>73</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>159968420</dol_vehicle_id>
+      <geocoded_column>POINT (-119.168765 46.826175)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||BIG BEND ELECTRIC COOP, INC</electric_utility>
+      <_2020_census_tract>53001950500</_2020_census_tract>
+    </row>
+    

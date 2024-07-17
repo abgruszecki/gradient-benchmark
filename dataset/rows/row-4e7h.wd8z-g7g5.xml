@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-4e7h.wd8z-g7g5" _uuid="00000000-0000-0000-7E55-EC6E880686CB" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-4e7h.wd8z-g7g5">
+      <vin_1_10>7SAYGDEF5N</vin_1_10>
+      <county>Los Angeles</county>
+      <city>Torrance</city>
+      <state>CA</state>
+      <zip_code>90504</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>219900572</dol_vehicle_id>
+      <geocoded_column>POINT (-118.328525 33.87147)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06037650101</_2020_census_tract>
+    </row>
+    

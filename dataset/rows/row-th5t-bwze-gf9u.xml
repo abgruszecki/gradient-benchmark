@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-th5t-bwze-gf9u" _uuid="00000000-0000-0000-EEE5-F6D21A4D23D4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-th5t-bwze-gf9u">
+      <vin_1_10>JM3KKEHA7R</vin_1_10>
+      <county>King</county>
+      <city>Renton</city>
+      <state>WA</state>
+      <zip_code>98055</zip_code>
+      <model_year>2024</model_year>
+      <make>MAZDA</make>
+      <model>CX-90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>11</legislative_district>
+      <dol_vehicle_id>259929449</dol_vehicle_id>
+      <geocoded_column>POINT (-122.197 47.43876)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033026200</_2020_census_tract>
+    </row>
+    

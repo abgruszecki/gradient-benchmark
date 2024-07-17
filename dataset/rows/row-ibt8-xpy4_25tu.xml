@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ibt8-xpy4_25tu" _uuid="00000000-0000-0000-7064-C31CC2486597" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ibt8-xpy4_25tu">
+      <vin_1_10>KNDCE3LG9M</vin_1_10>
+      <county>Sarpy</county>
+      <city>Bellevue</city>
+      <state>NE</state>
+      <zip_code>68123</zip_code>
+      <model_year>2021</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>176406086</dol_vehicle_id>
+      <geocoded_column>POINT (-95.9608972 41.1315757)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>31153010306</_2020_census_tract>
+    </row>
+    

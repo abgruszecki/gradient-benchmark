@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-aiec-tq57-i3pw" _uuid="00000000-0000-0000-EEE5-B69F73400877" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-aiec-tq57-i3pw">
+      <vin_1_10>WA1VABGE9K</vin_1_10>
+      <county>Thurston</county>
+      <city>Olympia</city>
+      <state>WA</state>
+      <zip_code>98513</zip_code>
+      <model_year>2019</model_year>
+      <make>AUDI</make>
+      <model>E-TRON</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>204</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>10026810</dol_vehicle_id>
+      <geocoded_column>POINT (-122.817545 46.98876)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012420</_2020_census_tract>
+    </row>
+    

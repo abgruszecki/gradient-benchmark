@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-uvqw-r77w_25yc" _uuid="00000000-0000-0000-AE86-E20C24063F6D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-uvqw-r77w_25yc">
+      <vin_1_10>5YJSA1H13F</vin_1_10>
+      <county>Pierce</county>
+      <city>Puyallup</city>
+      <state>WA</state>
+      <zip_code>98375</zip_code>
+      <model_year>2015</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>477155640</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3085456 47.1042426)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||ELMHURST MUTUAL POWER &amp; LIGHT CO|PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053073127</_2020_census_tract>
+    </row>
+    

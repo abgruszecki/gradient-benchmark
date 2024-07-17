@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-tmq4.759q~6tg2" _uuid="00000000-0000-0000-8C0F-CDEE4775204B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-tmq4.759q~6tg2">
+      <vin_1_10>KNDRJDLH0N</vin_1_10>
+      <county>Pierce</county>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip_code>98422</zip_code>
+      <model_year>2022</model_year>
+      <make>KIA</make>
+      <model>SORENTO</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>27</legislative_district>
+      <dol_vehicle_id>213766024</dol_vehicle_id>
+      <geocoded_column>POINT (-122.38578 47.28971)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053940008</_2020_census_tract>
+    </row>
+    

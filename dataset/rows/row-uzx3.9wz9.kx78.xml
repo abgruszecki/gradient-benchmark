@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-uzx3.9wz9.kx78" _uuid="00000000-0000-0000-DB2C-AAA5C2010DB3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-uzx3.9wz9.kx78">
+      <vin_1_10>1C4JJXR64P</vin_1_10>
+      <county>Lewis</county>
+      <city>Curtis</city>
+      <state>WA</state>
+      <zip_code>98538</zip_code>
+      <model_year>2023</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>244784095</dol_vehicle_id>
+      <geocoded_column>POINT (-123.1267988 46.567008)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF LEWIS COUNTY</electric_utility>
+      <_2020_census_tract>53041971502</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-4zv8~iv4w~83t2" _uuid="00000000-0000-0000-56AF-6FB348F5E1B2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-4zv8~iv4w~83t2">
+      <vin_1_10>JTDKARFP2K</vin_1_10>
+      <county>Pierce</county>
+      <city>Eatonville</city>
+      <state>WA</state>
+      <zip_code>98328</zip_code>
+      <model_year>2019</model_year>
+      <make>TOYOTA</make>
+      <model>PRIUS PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>2</legislative_district>
+      <dol_vehicle_id>153780322</dol_vehicle_id>
+      <geocoded_column>POINT (-122.270565 46.86822)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||OHOP MUTUAL LIGHT COMPANY, INC|PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053073117</_2020_census_tract>
+    </row>
+    

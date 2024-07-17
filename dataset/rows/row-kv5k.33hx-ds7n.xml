@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kv5k.33hx-ds7n" _uuid="00000000-0000-0000-7CA2-83E749BB9DFF" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kv5k.33hx-ds7n">
+      <vin_1_10>7SAXCBE58P</vin_1_10>
+      <county>Kittitas</county>
+      <city>Ellensburg</city>
+      <state>WA</state>
+      <zip_code>98926</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>262134925</dol_vehicle_id>
+      <geocoded_column>POINT (-120.54513 46.993465)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53037975402</_2020_census_tract>
+    </row>
+    

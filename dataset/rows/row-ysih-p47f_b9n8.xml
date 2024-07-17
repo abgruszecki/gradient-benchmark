@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ysih-p47f_b9n8" _uuid="00000000-0000-0000-220F-4183BC4E89D6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ysih-p47f_b9n8">
+      <vin_1_10>3FMTK3SU4M</vin_1_10>
+      <county>Columbia</county>
+      <city>Dayton</city>
+      <state>WA</state>
+      <zip_code>99328</zip_code>
+      <model_year>2021</model_year>
+      <make>FORD</make>
+      <model>MUSTANG MACH-E</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>195699605</dol_vehicle_id>
+      <geocoded_column>POINT (-117.977095 46.320425)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53013960200</_2020_census_tract>
+    </row>
+    

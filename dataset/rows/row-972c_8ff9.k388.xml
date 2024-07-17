@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-972c_8ff9.k388" _uuid="00000000-0000-0000-60C9-DF0DBB2604E3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-972c_8ff9.k388">
+      <vin_1_10>5YJXCAE24L</vin_1_10>
+      <county>Pierce</county>
+      <city>University Place</city>
+      <state>WA</state>
+      <zip_code>98466</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL X</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>293</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>28</legislative_district>
+      <dol_vehicle_id>133034639</dol_vehicle_id>
+      <geocoded_column>POINT (-122.537565 47.231645)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053072309</_2020_census_tract>
+    </row>
+    

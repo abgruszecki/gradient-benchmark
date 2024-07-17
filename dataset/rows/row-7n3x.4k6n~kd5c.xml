@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7n3x.4k6n~kd5c" _uuid="00000000-0000-0000-605B-57C8944476B7" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7n3x.4k6n~kd5c">
+      <vin_1_10>KM8K53AG5L</vin_1_10>
+      <county>Grant</county>
+      <city>Mattawa</city>
+      <state>WA</state>
+      <zip_code>99349</zip_code>
+      <model_year>2020</model_year>
+      <make>HYUNDAI</make>
+      <model>KONA</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>258</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>104607695</dol_vehicle_id>
+      <geocoded_column>POINT (-119.901675 46.7377996)</geocoded_column>
+      <electric_utility>PUD NO 2 OF GRANT COUNTY</electric_utility>
+      <_2020_census_tract>53025011406</_2020_census_tract>
+    </row>
+    

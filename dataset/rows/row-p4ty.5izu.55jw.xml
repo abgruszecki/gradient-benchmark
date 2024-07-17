@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-p4ty.5izu.55jw" _uuid="00000000-0000-0000-9265-B3F51882E35A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-p4ty.5izu.55jw">
+      <vin_1_10>JTMEB3FV6N</vin_1_10>
+      <county>King</county>
+      <city>Covington</city>
+      <state>WA</state>
+      <zip_code>98042</zip_code>
+      <model_year>2022</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>47</legislative_district>
+      <dol_vehicle_id>228051288</dol_vehicle_id>
+      <geocoded_column>POINT (-122.111625 47.36078)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032005</_2020_census_tract>
+    </row>
+    

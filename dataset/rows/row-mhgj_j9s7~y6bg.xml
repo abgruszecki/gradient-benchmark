@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mhgj_j9s7~y6bg" _uuid="00000000-0000-0000-3F7F-550B77993DEF" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mhgj_j9s7~y6bg">
+      <vin_1_10>1N4AZ1CP3K</vin_1_10>
+      <county>Grant</county>
+      <city>Ephrata</city>
+      <state>WA</state>
+      <zip_code>98823</zip_code>
+      <model_year>2019</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>150</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>1517477</dol_vehicle_id>
+      <geocoded_column>POINT (-119.55513 47.31936)</geocoded_column>
+      <electric_utility>PUD NO 2 OF GRANT COUNTY</electric_utility>
+      <_2020_census_tract>53025011200</_2020_census_tract>
+    </row>
+    

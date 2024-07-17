@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-749h.nqce~bs5i" _uuid="00000000-0000-0000-6E05-5013A6AE0AA5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-749h.nqce~bs5i">
+      <vin_1_10>5YJSA1E46G</vin_1_10>
+      <county>Clark</county>
+      <city>Las Vegas</city>
+      <state>NV</state>
+      <zip_code>89129</zip_code>
+      <model_year>2016</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>210</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>120910422</dol_vehicle_id>
+      <geocoded_column>POINT (-115.324085 36.22763)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>32003003242</_2020_census_tract>
+    </row>
+    

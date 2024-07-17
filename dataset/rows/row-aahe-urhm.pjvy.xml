@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-aahe-urhm.pjvy" _uuid="00000000-0000-0000-B9F2-4C12010FA9D6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-aahe-urhm.pjvy">
+      <vin_1_10>1FMCU0LZ2N</vin_1_10>
+      <county>Okanogan</county>
+      <city>Omak</city>
+      <state>WA</state>
+      <zip_code>98841</zip_code>
+      <model_year>2022</model_year>
+      <make>FORD</make>
+      <model>ESCAPE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>238015347</dol_vehicle_id>
+      <geocoded_column>POINT (-119.529965 48.41147)</geocoded_column>
+      <electric_utility>PUD NO 1 OF OKANOGAN COUNTY</electric_utility>
+      <_2020_census_tract>53047970602</_2020_census_tract>
+    </row>
+    

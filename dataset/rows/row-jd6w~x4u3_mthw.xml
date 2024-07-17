@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jd6w~x4u3_mthw" _uuid="00000000-0000-0000-25ED-6C304A1A9A1C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jd6w~x4u3_mthw">
+      <vin_1_10>WP1AE2A27J</vin_1_10>
+      <county>King</county>
+      <city>Sammamish</city>
+      <state>WA</state>
+      <zip_code>98074</zip_code>
+      <model_year>2018</model_year>
+      <make>PORSCHE</make>
+      <model>CAYENNE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>122279139</dol_vehicle_id>
+      <geocoded_column>POINT (-122.0313266 47.6285782)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032217</_2020_census_tract>
+    </row>
+    

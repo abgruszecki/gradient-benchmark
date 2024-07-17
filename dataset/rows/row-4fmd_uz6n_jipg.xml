@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-4fmd_uz6n_jipg" _uuid="00000000-0000-0000-1A0C-D31E63E6EE2D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-4fmd_uz6n_jipg">
+      <vin_1_10>1C4JJXR67N</vin_1_10>
+      <county>King</county>
+      <city>Covington</city>
+      <state>WA</state>
+      <zip_code>98042</zip_code>
+      <model_year>2022</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>22</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>47</legislative_district>
+      <dol_vehicle_id>251446471</dol_vehicle_id>
+      <geocoded_column>POINT (-122.111625 47.36078)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033031705</_2020_census_tract>
+    </row>
+    

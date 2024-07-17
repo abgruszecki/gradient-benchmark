@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-u63g~j4xi_u5ri" _uuid="00000000-0000-0000-AC65-35016A0FBEA3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-u63g~j4xi_u5ri">
+      <vin_1_10>WBAJB1C53J</vin_1_10>
+      <county>King</county>
+      <city>Kenmore</city>
+      <state>WA</state>
+      <zip_code>98028</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>530E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>54950</base_msrp>
+      <legislative_district>46</legislative_district>
+      <dol_vehicle_id>223609025</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2504747 47.7617128)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033021702</_2020_census_tract>
+    </row>
+    

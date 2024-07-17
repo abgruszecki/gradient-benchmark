@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-cca9~ps5k-awi8" _uuid="00000000-0000-0000-D2EA-0DDB348D2B4E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-cca9~ps5k-awi8">
+      <vin_1_10>7SAYGDEE3P</vin_1_10>
+      <county>Douglas</county>
+      <city>Orondo</city>
+      <state>WA</state>
+      <zip_code>98843</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>229545606</dol_vehicle_id>
+      <geocoded_column>POINT (-120.19519 47.704075)</geocoded_column>
+      <electric_utility>PUD NO 1 OF DOUGLAS COUNTY</electric_utility>
+      <_2020_census_tract>53017950101</_2020_census_tract>
+    </row>
+    

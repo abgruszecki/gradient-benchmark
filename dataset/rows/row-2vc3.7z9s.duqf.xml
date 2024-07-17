@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2vc3.7z9s.duqf" _uuid="00000000-0000-0000-4181-FBA7EC73C0A1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2vc3.7z9s.duqf">
+      <vin_1_10>WB533CF0XP</vin_1_10>
+      <county>King</county>
+      <city>Kirkland</city>
+      <state>WA</state>
+      <zip_code>98034</zip_code>
+      <model_year>2023</model_year>
+      <make>BMW</make>
+      <model>IX</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>45</legislative_district>
+      <dol_vehicle_id>217919215</dol_vehicle_id>
+      <geocoded_column>POINT (-122.209285 47.71124)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033021904</_2020_census_tract>
+    </row>
+    

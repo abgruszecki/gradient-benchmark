@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-4kuf_dm3c-bwew" _uuid="00000000-0000-0000-DBB4-A44856D29FE6" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-4kuf_dm3c-bwew">
+      <vin_1_10>YV4BR0PLXJ</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lake Stevens</city>
+      <state>WA</state>
+      <zip_code>98258</zip_code>
+      <model_year>2018</model_year>
+      <make>VOLVO</make>
+      <model>XC90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>64950</base_msrp>
+      <legislative_district>39</legislative_district>
+      <dol_vehicle_id>114703032</dol_vehicle_id>
+      <geocoded_column>POINT (-122.112265 48.0047)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061053505</_2020_census_tract>
+    </row>
+    

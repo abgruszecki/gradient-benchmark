@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-grsf.2aw2-jbd3" _uuid="00000000-0000-0000-E51A-37D0AD9A6736" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-grsf.2aw2-jbd3">
+      <vin_1_10>1N4AZ1CP7K</vin_1_10>
+      <county>King</county>
+      <city>Mercer Island</city>
+      <state>WA</state>
+      <zip_code>98040</zip_code>
+      <model_year>2019</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>150</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>253809727</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2377542 47.582905)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033024602</_2020_census_tract>
+    </row>
+    

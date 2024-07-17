@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-shns~4m4i-d8sh" _uuid="00000000-0000-0000-05A0-08CEC6F33B3C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-shns~4m4i-d8sh">
+      <vin_1_10>WBY1Z4C50F</vin_1_10>
+      <county>Chelan</county>
+      <city>Leavenworth</city>
+      <state>WA</state>
+      <zip_code>98826</zip_code>
+      <model_year>2015</model_year>
+      <make>BMW</make>
+      <model>I3</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>72</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>106535530</dol_vehicle_id>
+      <geocoded_column>POINT (-120.6619153 47.5970083)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007960201</_2020_census_tract>
+    </row>
+    

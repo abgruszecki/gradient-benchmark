@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-jt8c-xwi4_3pa5" _uuid="00000000-0000-0000-8149-3F2F1B5285EA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-jt8c-xwi4_3pa5">
+      <vin_1_10>5YJ3E1EA6M</vin_1_10>
+      <county>San Diego</county>
+      <city>Chula Vista</city>
+      <state>CA</state>
+      <zip_code>91915</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>203582277</dol_vehicle_id>
+      <geocoded_column>POINT (-116.957235 32.62445)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06073013319</_2020_census_tract>
+    </row>
+    

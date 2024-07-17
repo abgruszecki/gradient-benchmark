@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-x7ya-pvvs~g9nj" _uuid="00000000-0000-0000-E9C7-006F3D40A27B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-x7ya-pvvs~g9nj">
+      <vin_1_10>KNDJX3AE2G</vin_1_10>
+      <county>Whatcom</county>
+      <city>Bellingham</city>
+      <state>WA</state>
+      <zip_code>98226</zip_code>
+      <model_year>2016</model_year>
+      <make>KIA</make>
+      <model>SOUL</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>93</electric_range>
+      <base_msrp>31950</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>250898805</dol_vehicle_id>
+      <geocoded_column>POINT (-122.45493 48.76809)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073000803</_2020_census_tract>
+    </row>
+    

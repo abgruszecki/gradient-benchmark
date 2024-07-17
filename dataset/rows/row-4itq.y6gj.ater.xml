@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-4itq.y6gj.ater" _uuid="00000000-0000-0000-D19B-E2A312CDB614" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-4itq.y6gj.ater">
+      <vin_1_10>3FMTK3SU6M</vin_1_10>
+      <county>Pend Oreille</county>
+      <city>Newport</city>
+      <state>WA</state>
+      <zip_code>99156</zip_code>
+      <model_year>2021</model_year>
+      <make>FORD</make>
+      <model>MUSTANG MACH-E</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>186277661</dol_vehicle_id>
+      <geocoded_column>POINT (-117.049135 48.181095)</geocoded_column>
+      <electric_utility>PUD NO 1 OF PEND OREILLE COUNTY</electric_utility>
+      <_2020_census_tract>53051970500</_2020_census_tract>
+    </row>
+    

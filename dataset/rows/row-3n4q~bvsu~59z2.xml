@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3n4q~bvsu~59z2" _uuid="00000000-0000-0000-A4D1-A34C06A98058" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3n4q~bvsu~59z2">
+      <vin_1_10>5UXTA6C05N</vin_1_10>
+      <county>Kittitas</county>
+      <city>Cle Elum</city>
+      <state>WA</state>
+      <zip_code>98922</zip_code>
+      <model_year>2022</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>30</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>196655294</dol_vehicle_id>
+      <geocoded_column>POINT (-120.938305 47.195355)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53037975101</_2020_census_tract>
+    </row>
+    

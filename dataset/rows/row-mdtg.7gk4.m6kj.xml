@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-mdtg.7gk4.m6kj" _uuid="00000000-0000-0000-B244-85B887A61C47" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-mdtg.7gk4.m6kj">
+      <vin_1_10>1C4RJXN63R</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98101</zip_code>
+      <model_year>2024</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>43</legislative_district>
+      <dol_vehicle_id>254630498</dol_vehicle_id>
+      <geocoded_column>POINT (-122.335345 47.61079)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033008200</_2020_census_tract>
+    </row>
+    

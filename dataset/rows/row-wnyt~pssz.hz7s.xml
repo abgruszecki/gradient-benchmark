@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-wnyt~pssz.hz7s" _uuid="00000000-0000-0000-9040-309C3E8590B9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-wnyt~pssz.hz7s">
+      <vin_1_10>7SAYGDEE4P</vin_1_10>
+      <county>Kittitas</county>
+      <city>Cle Elum</city>
+      <state>WA</state>
+      <zip_code>98922</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>256158038</dol_vehicle_id>
+      <geocoded_column>POINT (-120.938305 47.195355)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KITTITAS COUNTY</electric_utility>
+      <_2020_census_tract>53037975101</_2020_census_tract>
+    </row>
+    

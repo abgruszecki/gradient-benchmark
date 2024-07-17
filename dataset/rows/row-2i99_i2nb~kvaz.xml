@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2i99_i2nb~kvaz" _uuid="00000000-0000-0000-E1C4-0CDC41A1EAAD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2i99_i2nb~kvaz">
+      <vin_1_10>KNDC3DLC3N</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99218</zip_code>
+      <model_year>2022</model_year>
+      <make>KIA</make>
+      <model>EV6</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>195201492</dol_vehicle_id>
+      <geocoded_column>POINT (-117.411805 47.745795)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063011203</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kc2c~6g9a~fdzz" _uuid="00000000-0000-0000-169A-EE6B220D42A1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kc2c~6g9a~fdzz">
+      <vin_1_10>5YJSA1H20F</vin_1_10>
+      <county>Fairfax</county>
+      <city>Alexandria</city>
+      <state>VA</state>
+      <zip_code>22308</zip_code>
+      <model_year>2015</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>223163748</dol_vehicle_id>
+      <geocoded_column>POINT (-77.061349 38.7383059)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>51059415500</_2020_census_tract>
+    </row>
+    

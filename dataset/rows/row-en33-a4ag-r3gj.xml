@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-en33-a4ag-r3gj" _uuid="00000000-0000-0000-4BEE-1E1BAED5D4F2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-en33-a4ag-r3gj">
+      <vin_1_10>1N4AZ0CP4E</vin_1_10>
+      <county>Asotin</county>
+      <city>Asotin</city>
+      <state>WA</state>
+      <zip_code>99402</zip_code>
+      <model_year>2014</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>84</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>348574285</dol_vehicle_id>
+      <geocoded_column>POINT (-117.04437 46.338085)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||PUD NO 1 OF ASOTIN COUNTY</electric_utility>
+      <_2020_census_tract>53003960100</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7a2s~ss77_puam" _uuid="00000000-0000-0000-67D8-3DBBB0E0631A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7a2s~ss77_puam">
+      <vin_1_10>7SAYGDEE4N</vin_1_10>
+      <county>Middlesex</county>
+      <city>Chelmsford</city>
+      <state>MA</state>
+      <zip_code>01824</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>195647805</dol_vehicle_id>
+      <geocoded_column>POINT (-71.3487326 42.5972887)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>25017317102</_2020_census_tract>
+    </row>
+    

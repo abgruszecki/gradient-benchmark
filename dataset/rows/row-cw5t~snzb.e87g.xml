@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-cw5t~snzb.e87g" _uuid="00000000-0000-0000-97CD-10E0A9D67C76" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-cw5t~snzb.e87g">
+      <vin_1_10>WBAJA9C09L</vin_1_10>
+      <county>Pierce</county>
+      <city>University Place</city>
+      <state>WA</state>
+      <zip_code>98466</zip_code>
+      <model_year>2020</model_year>
+      <make>BMW</make>
+      <model>530E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>20</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>28</legislative_district>
+      <dol_vehicle_id>177627635</dol_vehicle_id>
+      <geocoded_column>POINT (-122.537565 47.231645)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053072309</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-nwh8.exzx~9qxr" _uuid="00000000-0000-0000-D6AF-52CDD699B8AD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-nwh8.exzx~9qxr">
+      <vin_1_10>KNDCR3L19P</vin_1_10>
+      <county>Yakima</county>
+      <city>Grandview</city>
+      <state>WA</state>
+      <zip_code>98930</zip_code>
+      <model_year>2023</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>15</legislative_district>
+      <dol_vehicle_id>252712155</dol_vehicle_id>
+      <geocoded_column>POINT (-119.91556 46.249215)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PACIFICORP||BENTON RURAL ELECTRIC ASSN</electric_utility>
+      <_2020_census_tract>53077001901</_2020_census_tract>
+    </row>
+    

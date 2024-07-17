@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-qrgk.nzt3_vdg6" _uuid="00000000-0000-0000-B7DB-8AC052BC1AC3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-qrgk.nzt3_vdg6">
+      <vin_1_10>WA1BCBFZ4P</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane Valley</city>
+      <state>WA</state>
+      <zip_code>99212</zip_code>
+      <model_year>2023</model_year>
+      <make>AUDI</make>
+      <model>Q4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>4</legislative_district>
+      <dol_vehicle_id>249447040</dol_vehicle_id>
+      <geocoded_column>POINT (-117.288055 47.68043)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||VERA IRRIGATION DISTRICT #15</electric_utility>
+      <_2020_census_tract>53063012100</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-by84-6epi.uhzw" _uuid="00000000-0000-0000-C349-D9802ADE27CD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-by84-6epi.uhzw">
+      <vin_1_10>3FA6P0PU5H</vin_1_10>
+      <county>Whitman</county>
+      <city>Tekoa</city>
+      <state>WA</state>
+      <zip_code>99033</zip_code>
+      <model_year>2017</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>8970783</dol_vehicle_id>
+      <geocoded_column>POINT (-117.071775 47.22265)</geocoded_column>
+      <electric_utility>AVISTA CORP</electric_utility>
+      <_2020_census_tract>53075000900</_2020_census_tract>
+    </row>
+    

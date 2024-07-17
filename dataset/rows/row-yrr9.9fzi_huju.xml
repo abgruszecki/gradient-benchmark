@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yrr9.9fzi_huju" _uuid="00000000-0000-0000-E6E6-BB47D13E02FD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yrr9.9fzi_huju">
+      <vin_1_10>1G1RD6E4XD</vin_1_10>
+      <county>Pierce</county>
+      <city>Spanaway</city>
+      <state>WA</state>
+      <zip_code>98387</zip_code>
+      <model_year>2013</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>29</legislative_district>
+      <dol_vehicle_id>145014194</dol_vehicle_id>
+      <geocoded_column>POINT (-122.435115 47.1045)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||ELMHURST MUTUAL POWER &amp; LIGHT CO|PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053071403</_2020_census_tract>
+    </row>
+    

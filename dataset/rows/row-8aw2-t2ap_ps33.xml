@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8aw2-t2ap_ps33" _uuid="00000000-0000-0000-BD4B-839B1211420C" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8aw2-t2ap_ps33">
+      <vin_1_10>JN1AZ0CP8B</vin_1_10>
+      <county>Snohomish</county>
+      <city>Marysville</city>
+      <state>WA</state>
+      <zip_code>98271</zip_code>
+      <model_year>2011</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>73</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>38</legislative_district>
+      <dol_vehicle_id>214494164</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1713847 48.10433)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052803</_2020_census_tract>
+    </row>
+    

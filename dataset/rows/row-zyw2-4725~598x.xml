@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zyw2-4725~598x" _uuid="00000000-0000-0000-6394-B1428C76595B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zyw2-4725~598x">
+      <vin_1_10>1N4AZ1CP1J</vin_1_10>
+      <county>Spokane</county>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip_code>99204</zip_code>
+      <model_year>2018</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>151</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>3</legislative_district>
+      <dol_vehicle_id>112567808</dol_vehicle_id>
+      <geocoded_column>POINT (-117.43167 47.64724)</geocoded_column>
+      <electric_utility>MODERN ELECTRIC WATER COMPANY</electric_utility>
+      <_2020_census_tract>53063003200</_2020_census_tract>
+    </row>
+    

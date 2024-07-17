@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8ji6-yjfv.wkjn" _uuid="00000000-0000-0000-C628-54C51066E31E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8ji6-yjfv.wkjn">
+      <vin_1_10>5YJRE11B48</vin_1_10>
+      <state>BC</state>
+      <model_year>2008</model_year>
+      <make>TESLA</make>
+      <model>ROADSTER</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>98950</base_msrp>
+      <dol_vehicle_id>143609049</dol_vehicle_id>
+    </row>
+    

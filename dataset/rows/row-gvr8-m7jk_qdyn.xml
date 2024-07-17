@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-gvr8-m7jk_qdyn" _uuid="00000000-0000-0000-9A41-4D53866ED9D2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-gvr8-m7jk_qdyn">
+      <vin_1_10>5LMTJ5DZ0N</vin_1_10>
+      <county>Snohomish</county>
+      <city>Bothell</city>
+      <state>WA</state>
+      <zip_code>98021</zip_code>
+      <model_year>2022</model_year>
+      <make>LINCOLN</make>
+      <model>CORSAIR</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>28</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>192599011</dol_vehicle_id>
+      <geocoded_column>POINT (-122.179458 47.802589)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051926</_2020_census_tract>
+    </row>
+    

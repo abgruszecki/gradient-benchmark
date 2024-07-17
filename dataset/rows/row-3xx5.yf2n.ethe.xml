@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3xx5.yf2n.ethe" _uuid="00000000-0000-0000-0C1F-DC19013D69F9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3xx5.yf2n.ethe">
+      <vin_1_10>1C4JJXP66M</vin_1_10>
+      <county>Yakima</county>
+      <city>Zillah</city>
+      <state>WA</state>
+      <zip_code>98953</zip_code>
+      <model_year>2021</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>15</legislative_district>
+      <dol_vehicle_id>213616364</dol_vehicle_id>
+      <geocoded_column>POINT (-120.26317 46.40556)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077002202</_2020_census_tract>
+    </row>
+    

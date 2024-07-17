@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-xgv4_55rt~ne8j" _uuid="00000000-0000-0000-F19D-41D1D1C821D3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-xgv4_55rt~ne8j">
+      <vin_1_10>5YJSA1H18F</vin_1_10>
+      <county>Skamania</county>
+      <city>North Bonneville</city>
+      <state>WA</state>
+      <zip_code>98639</zip_code>
+      <model_year>2015</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>14</legislative_district>
+      <dol_vehicle_id>240455547</dol_vehicle_id>
+      <geocoded_column>POINT (-121.9755204 45.6395805)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF SKAMANIA CO</electric_utility>
+      <_2020_census_tract>53059950200</_2020_census_tract>
+    </row>
+    

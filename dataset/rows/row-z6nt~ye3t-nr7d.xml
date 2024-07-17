@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-z6nt~ye3t-nr7d" _uuid="00000000-0000-0000-6CB0-BD4E0078BC99" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-z6nt~ye3t-nr7d">
+      <vin_1_10>WB523CF06R</vin_1_10>
+      <county>Snohomish</county>
+      <city>Marysville</city>
+      <state>WA</state>
+      <zip_code>98271</zip_code>
+      <model_year>2024</model_year>
+      <make>BMW</make>
+      <model>IX</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>38</legislative_district>
+      <dol_vehicle_id>259497465</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1713847 48.10433)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061940001</_2020_census_tract>
+    </row>
+    

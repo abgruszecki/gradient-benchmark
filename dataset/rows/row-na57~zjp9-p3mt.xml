@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-na57~zjp9-p3mt" _uuid="00000000-0000-0000-492A-BC1B483ECC67" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-na57~zjp9-p3mt">
+      <vin_1_10>WP1AE2A20J</vin_1_10>
+      <county>Cowlitz</county>
+      <city>Cougar</city>
+      <state>WA</state>
+      <zip_code>98616</zip_code>
+      <model_year>2018</model_year>
+      <make>PORSCHE</make>
+      <model>CAYENNE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>186368997</dol_vehicle_id>
+      <geocoded_column>POINT (-122.30456 46.04977)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF COWLITZ COUNTY</electric_utility>
+      <_2020_census_tract>53015001501</_2020_census_tract>
+    </row>
+    

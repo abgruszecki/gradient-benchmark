@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-f2pk~yh8v_q9rg" _uuid="00000000-0000-0000-3C88-730E11376709" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-f2pk~yh8v_q9rg">
+      <vin_1_10>WBY73AW0XP</vin_1_10>
+      <county>Garfield</county>
+      <city>Enid</city>
+      <state>OK</state>
+      <zip_code>73703</zip_code>
+      <model_year>2023</model_year>
+      <make>BMW</make>
+      <model>I4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>255064442</dol_vehicle_id>
+      <geocoded_column>POINT (-97.8963 36.398575)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>40047001301</_2020_census_tract>
+    </row>
+    

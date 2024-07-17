@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-tp9h~h3yr_n579" _uuid="00000000-0000-0000-6C79-A121461B1655" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-tp9h~h3yr_n579">
+      <vin_1_10>1G1RD6E46D</vin_1_10>
+      <county>Norfolk</county>
+      <city>Norfolk</city>
+      <state>VA</state>
+      <zip_code>23503</zip_code>
+      <model_year>2013</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>131848146</dol_vehicle_id>
+      <geocoded_column>POINT (-76.240465 36.93896)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>51710000600</_2020_census_tract>
+    </row>
+    

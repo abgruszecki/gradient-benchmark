@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3ge2-rtc5~mh7j" _uuid="00000000-0000-0000-1ED1-1A0DD5BB3658" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3ge2-rtc5~mh7j">
+      <vin_1_10>1N4BZ1CPXK</vin_1_10>
+      <county>Pulaski</county>
+      <city>Little Rock</city>
+      <state>AR</state>
+      <zip_code>72207</zip_code>
+      <model_year>2019</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>150</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>219350309</dol_vehicle_id>
+      <geocoded_column>POINT (-92.33944 34.76896)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>05119002203</_2020_census_tract>
+    </row>
+    

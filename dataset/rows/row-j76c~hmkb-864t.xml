@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-j76c~hmkb-864t" _uuid="00000000-0000-0000-2A10-D633EC3B95CA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-j76c~hmkb-864t">
+      <vin_1_10>KNDC4DLC3N</vin_1_10>
+      <county>Yakima</county>
+      <city>Sunnyside</city>
+      <state>WA</state>
+      <zip_code>98944</zip_code>
+      <model_year>2022</model_year>
+      <make>KIA</make>
+      <model>EV6</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>15</legislative_district>
+      <dol_vehicle_id>207004234</dol_vehicle_id>
+      <geocoded_column>POINT (-120.011515 46.32189)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PACIFICORP||BENTON RURAL ELECTRIC ASSN</electric_utility>
+      <_2020_census_tract>53077002104</_2020_census_tract>
+    </row>
+    

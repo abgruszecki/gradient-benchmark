@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-f2ck_fud4_45t9" _uuid="00000000-0000-0000-595A-359B10AD2B4B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-f2ck_fud4_45t9">
+      <vin_1_10>1G1RD6S52G</vin_1_10>
+      <county>Pierce</county>
+      <city>Auburn</city>
+      <state>WA</state>
+      <zip_code>98092</zip_code>
+      <model_year>2016</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>53</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>110355241</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1820969 47.3198995)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053070315</_2020_census_tract>
+    </row>
+    

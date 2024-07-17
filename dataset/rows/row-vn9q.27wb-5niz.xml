@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-vn9q.27wb-5niz" _uuid="00000000-0000-0000-46F2-8989947B4614" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-vn9q.27wb-5niz">
+      <vin_1_10>1N4AZ0CP2F</vin_1_10>
+      <county>Whatcom</county>
+      <city>Everson</city>
+      <state>WA</state>
+      <zip_code>98247</zip_code>
+      <model_year>2015</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>84</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>171873502</dol_vehicle_id>
+      <geocoded_column>POINT (-122.3582814 48.9098139)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073010201</_2020_census_tract>
+    </row>
+    

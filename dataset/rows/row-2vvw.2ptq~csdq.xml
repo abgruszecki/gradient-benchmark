@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-2vvw.2ptq~csdq" _uuid="00000000-0000-0000-5405-8087B3AA1BA9" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-2vvw.2ptq~csdq">
+      <vin_1_10>1FADP5CU9G</vin_1_10>
+      <county>King</county>
+      <city>Kirkland</city>
+      <state>WA</state>
+      <zip_code>98034</zip_code>
+      <model_year>2016</model_year>
+      <make>FORD</make>
+      <model>C-MAX</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>350013674</dol_vehicle_id>
+      <geocoded_column>POINT (-122.209285 47.71124)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033022204</_2020_census_tract>
+    </row>
+    

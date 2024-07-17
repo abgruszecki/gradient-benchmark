@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-e8jh_uuej.2b4b" _uuid="00000000-0000-0000-AE63-0473FA185736" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-e8jh_uuej.2b4b">
+      <vin_1_10>1N4AZ0CPXD</vin_1_10>
+      <county>Spokane</county>
+      <city>Nine Mile Falls</city>
+      <state>WA</state>
+      <zip_code>99026</zip_code>
+      <model_year>2013</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>75</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>6</legislative_district>
+      <dol_vehicle_id>238351599</dol_vehicle_id>
+      <geocoded_column>POINT (-117.5967686 47.8204962)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063010404</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-98ac-5cwe-cxp4" _uuid="00000000-0000-0000-DB33-72EC0CF36029" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-98ac-5cwe-cxp4">
+      <vin_1_10>KM8KMDAF9N</vin_1_10>
+      <county>Pierce</county>
+      <city>Longbranch</city>
+      <state>WA</state>
+      <zip_code>98351</zip_code>
+      <model_year>2022</model_year>
+      <make>HYUNDAI</make>
+      <model>IONIQ 5</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>26</legislative_district>
+      <dol_vehicle_id>197529552</dol_vehicle_id>
+      <geocoded_column>POINT (-122.7736637 47.1835998)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53053072603</_2020_census_tract>
+    </row>
+    

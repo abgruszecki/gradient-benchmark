@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-v5ab_9iyq~i695" _uuid="00000000-0000-0000-160B-E531A373C2CC" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-v5ab_9iyq~i695">
+      <vin_1_10>5YJ3E1EB0J</vin_1_10>
+      <county>Spokane</county>
+      <city>Mead</city>
+      <state>WA</state>
+      <zip_code>99021</zip_code>
+      <model_year>2018</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>215</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>244100594</dol_vehicle_id>
+      <geocoded_column>POINT (-117.35761 47.76885)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53063010504</_2020_census_tract>
+    </row>
+    

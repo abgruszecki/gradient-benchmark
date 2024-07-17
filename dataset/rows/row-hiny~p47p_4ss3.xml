@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-hiny~p47p_4ss3" _uuid="00000000-0000-0000-2E0A-E88DDCCFE3D4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-hiny~p47p_4ss3">
+      <vin_1_10>5UXKT0C50J</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98177</zip_code>
+      <model_year>2018</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>13</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>36</legislative_district>
+      <dol_vehicle_id>474658726</dol_vehicle_id>
+      <geocoded_column>POINT (-122.382425 47.77279)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033001600</_2020_census_tract>
+    </row>
+    

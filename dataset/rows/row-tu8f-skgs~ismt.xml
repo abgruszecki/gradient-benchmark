@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-tu8f-skgs~ismt" _uuid="00000000-0000-0000-A3E9-45274C42BED3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-tu8f-skgs~ismt">
+      <vin_1_10>7PDSGABL4P</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lynnwood</city>
+      <state>WA</state>
+      <zip_code>98036</zip_code>
+      <model_year>2023</model_year>
+      <make>RIVIAN</make>
+      <model>R1S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>32</legislative_district>
+      <dol_vehicle_id>258912328</dol_vehicle_id>
+      <geocoded_column>POINT (-122.316675 47.819365)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051702</_2020_census_tract>
+    </row>
+    

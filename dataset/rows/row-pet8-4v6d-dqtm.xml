@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pet8-4v6d-dqtm" _uuid="00000000-0000-0000-CF1B-1EBA9106DEEF" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pet8-4v6d-dqtm">
+      <vin_1_10>5YJSA1CG3D</vin_1_10>
+      <county>Riverside</county>
+      <city>Indio</city>
+      <state>CA</state>
+      <zip_code>92201</zip_code>
+      <model_year>2013</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>69900</base_msrp>
+      <dol_vehicle_id>239204752</dol_vehicle_id>
+      <geocoded_column>POINT (-116.21818 33.71927)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06065045606</_2020_census_tract>
+    </row>
+    

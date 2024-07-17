@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-n8u9-jxfg-m6rs" _uuid="00000000-0000-0000-2A0F-6E5A45FD5C83" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-n8u9-jxfg-m6rs">
+      <vin_1_10>YV4H60DZ5N</vin_1_10>
+      <county>Kitsap</county>
+      <city>Bremerton</city>
+      <state>WA</state>
+      <zip_code>98311</zip_code>
+      <model_year>2022</model_year>
+      <make>VOLVO</make>
+      <model>XC60</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>35</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>199548247</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6466274 47.6341188)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035091900</_2020_census_tract>
+    </row>
+    

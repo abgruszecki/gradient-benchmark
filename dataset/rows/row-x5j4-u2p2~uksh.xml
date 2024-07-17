@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-x5j4-u2p2~uksh" _uuid="00000000-0000-0000-ED42-B348E7E84CDE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-x5j4-u2p2~uksh">
+      <vin_1_10>3FMTK3SU8M</vin_1_10>
+      <county>Island</county>
+      <city>Langley</city>
+      <state>WA</state>
+      <zip_code>98260</zip_code>
+      <model_year>2021</model_year>
+      <make>FORD</make>
+      <model>MUSTANG MACH-E</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>10</legislative_district>
+      <dol_vehicle_id>223463397</dol_vehicle_id>
+      <geocoded_column>POINT (-122.408015 48.03557)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53029972000</_2020_census_tract>
+    </row>
+    

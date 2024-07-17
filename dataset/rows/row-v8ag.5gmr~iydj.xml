@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-v8ag.5gmr~iydj" _uuid="00000000-0000-0000-E490-B8D6EE5B9A67" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-v8ag.5gmr~iydj">
+      <vin_1_10>YV4H60CA1P</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98105</zip_code>
+      <model_year>2023</model_year>
+      <make>VOLVO</make>
+      <model>XC90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>46</legislative_district>
+      <dol_vehicle_id>219491667</dol_vehicle_id>
+      <geocoded_column>POINT (-122.319115 47.66132)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033004102</_2020_census_tract>
+    </row>
+    

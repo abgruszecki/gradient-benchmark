@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-366m.44pu-397x" _uuid="00000000-0000-0000-08E4-0E0C1EA58076" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-366m.44pu-397x">
+      <vin_1_10>3C3CFFGE8E</vin_1_10>
+      <county>King</county>
+      <city>Bellevue</city>
+      <state>WA</state>
+      <zip_code>98005</zip_code>
+      <model_year>2014</model_year>
+      <make>FIAT</make>
+      <model>500</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>87</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>41</legislative_district>
+      <dol_vehicle_id>349730062</dol_vehicle_id>
+      <geocoded_column>POINT (-122.16085 47.624515)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033023500</_2020_census_tract>
+    </row>
+    

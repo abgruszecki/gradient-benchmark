@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-92wg_2dd9~5tbz" _uuid="00000000-0000-0000-4342-CBE353CA87FF" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-92wg_2dd9~5tbz">
+      <vin_1_10>1N4AZ1CP8K</vin_1_10>
+      <county>Snohomish</county>
+      <city>Snohomish</city>
+      <state>WA</state>
+      <zip_code>98290</zip_code>
+      <model_year>2019</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>150</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>39</legislative_district>
+      <dol_vehicle_id>2163234</dol_vehicle_id>
+      <geocoded_column>POINT (-122.091505 47.915555)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY</electric_utility>
+      <_2020_census_tract>53061052301</_2020_census_tract>
+    </row>
+    

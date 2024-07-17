@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-83nx-t6g2-xcch" _uuid="00000000-0000-0000-A542-4DC4C31ED30D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-83nx-t6g2-xcch">
+      <vin_1_10>5UXKT0C36H</vin_1_10>
+      <county>Leavenworth</county>
+      <city>Lansing</city>
+      <state>KS</state>
+      <zip_code>66043</zip_code>
+      <model_year>2017</model_year>
+      <make>BMW</make>
+      <model>X5</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>14</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>122897484</dol_vehicle_id>
+      <geocoded_column>POINT (-94.900705 39.25895)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>20103071104</_2020_census_tract>
+    </row>
+    

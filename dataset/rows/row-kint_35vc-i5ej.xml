@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-kint_35vc-i5ej" _uuid="00000000-0000-0000-C96D-8D5B681E815D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-kint_35vc-i5ej">
+      <vin_1_10>5YJYGDED9M</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98178</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>37</legislative_district>
+      <dol_vehicle_id>141688746</dol_vehicle_id>
+      <geocoded_column>POINT (-122.234385 47.494545)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033026001</_2020_census_tract>
+    </row>
+    

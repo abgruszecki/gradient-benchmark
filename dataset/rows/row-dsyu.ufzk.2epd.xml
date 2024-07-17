@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-dsyu.ufzk.2epd" _uuid="00000000-0000-0000-B7EB-C5C68A89B090" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-dsyu.ufzk.2epd">
+      <vin_1_10>3FA6P0SU9E</vin_1_10>
+      <county>Monterey</county>
+      <city>Seaside</city>
+      <state>CA</state>
+      <zip_code>93955</zip_code>
+      <model_year>2014</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>119899125</dol_vehicle_id>
+      <geocoded_column>POINT (-121.848325 36.606985)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06053014108</_2020_census_tract>
+    </row>
+    

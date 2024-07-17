@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-siky_3ing.48kx" _uuid="00000000-0000-0000-29D8-9EDCE9265CF1" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-siky_3ing.48kx">
+      <vin_1_10>5YJSA1E23M</vin_1_10>
+      <county>Clark</county>
+      <city>Brush Prairie</city>
+      <state>WA</state>
+      <zip_code>98606</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>18</legislative_district>
+      <dol_vehicle_id>142603597</dol_vehicle_id>
+      <geocoded_column>POINT (-122.5485715 45.7336587)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)</electric_utility>
+      <_2020_census_tract>53011040603</_2020_census_tract>
+    </row>
+    

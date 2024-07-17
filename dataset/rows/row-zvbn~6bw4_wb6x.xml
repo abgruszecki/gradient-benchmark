@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-zvbn~6bw4_wb6x" _uuid="00000000-0000-0000-8701-06A21D1D55B2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-zvbn~6bw4_wb6x">
+      <vin_1_10>3C3CFFGE8F</vin_1_10>
+      <county>Mason</county>
+      <city>Shelton</city>
+      <state>WA</state>
+      <zip_code>98584</zip_code>
+      <model_year>2015</model_year>
+      <make>FIAT</make>
+      <model>500</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>87</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>35</legislative_district>
+      <dol_vehicle_id>264576196</dol_vehicle_id>
+      <geocoded_column>POINT (-123.105305 47.211085)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 3 OF MASON COUNTY</electric_utility>
+      <_2020_census_tract>53045960900</_2020_census_tract>
+    </row>
+    

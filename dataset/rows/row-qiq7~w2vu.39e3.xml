@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-qiq7~w2vu.39e3" _uuid="00000000-0000-0000-FAD2-F25CE85FB6CA" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-qiq7~w2vu.39e3">
+      <vin_1_10>JN1DF0CD5P</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lynnwood</city>
+      <state>WA</state>
+      <zip_code>98036</zip_code>
+      <model_year>2023</model_year>
+      <make>NISSAN</make>
+      <model>ARIYA</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>259380341</dol_vehicle_id>
+      <geocoded_column>POINT (-122.316675 47.819365)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061051932</_2020_census_tract>
+    </row>
+    

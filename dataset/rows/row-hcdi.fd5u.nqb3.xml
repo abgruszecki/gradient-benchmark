@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-hcdi.fd5u.nqb3" _uuid="00000000-0000-0000-E209-1C200BFC8F1E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-hcdi.fd5u.nqb3">
+      <vin_1_10>YV4H60CE4R</vin_1_10>
+      <county>Thurston</county>
+      <city>Olympia</city>
+      <state>WA</state>
+      <zip_code>98502</zip_code>
+      <model_year>2024</model_year>
+      <make>VOLVO</make>
+      <model>XC90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>260857649</dol_vehicle_id>
+      <geocoded_column>POINT (-122.92145 47.045935)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067011100</_2020_census_tract>
+    </row>
+    

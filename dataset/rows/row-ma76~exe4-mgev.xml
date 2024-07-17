@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ma76~exe4-mgev" _uuid="00000000-0000-0000-A142-E3F8A0268498" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ma76~exe4-mgev">
+      <vin_1_10>WMZYU7C53K</vin_1_10>
+      <county>Snohomish</county>
+      <city>Marysville</city>
+      <state>WA</state>
+      <zip_code>98271</zip_code>
+      <model_year>2019</model_year>
+      <make>MINI</make>
+      <model>COUNTRYMAN</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>12</electric_range>
+      <base_msrp>36900</base_msrp>
+      <legislative_district>38</legislative_district>
+      <dol_vehicle_id>476060462</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1713847 48.10433)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061053102</_2020_census_tract>
+    </row>
+    

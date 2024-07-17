@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-6j6r-mxeb_3em5" _uuid="00000000-0000-0000-9C95-684FC42C4863" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-6j6r-mxeb_3em5">
+      <vin_1_10>JM3KKBHA5R</vin_1_10>
+      <county>Pierce</county>
+      <city>South Hill</city>
+      <state>WA</state>
+      <zip_code>98374</zip_code>
+      <model_year>2024</model_year>
+      <make>MAZDA</make>
+      <model>CX-90</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>25</legislative_district>
+      <dol_vehicle_id>258214015</dol_vehicle_id>
+      <geocoded_column>POINT (-122.275748 47.1395924)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053073122</_2020_census_tract>
+    </row>
+    

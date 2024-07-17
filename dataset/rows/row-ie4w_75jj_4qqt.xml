@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ie4w_75jj_4qqt" _uuid="00000000-0000-0000-0A45-E4E8DA70C9BD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ie4w_75jj_4qqt">
+      <vin_1_10>1N4AZ0CP0D</vin_1_10>
+      <county>Thurston</county>
+      <city>Rainier</city>
+      <state>WA</state>
+      <zip_code>98576</zip_code>
+      <model_year>2013</model_year>
+      <make>NISSAN</make>
+      <model>LEAF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>75</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>20</legislative_district>
+      <dol_vehicle_id>166701979</dol_vehicle_id>
+      <geocoded_column>POINT (-122.6898776 46.8908492)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067012530</_2020_census_tract>
+    </row>
+    

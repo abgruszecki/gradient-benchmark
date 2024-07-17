@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-96gy_qhva.tx8n" _uuid="00000000-0000-0000-F327-4A9CDC9A6F5B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-96gy_qhva.tx8n">
+      <vin_1_10>7SAYGDEE6N</vin_1_10>
+      <county>Mason</county>
+      <city>Allyn</city>
+      <state>WA</state>
+      <zip_code>98524</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>35</legislative_district>
+      <dol_vehicle_id>219126547</dol_vehicle_id>
+      <geocoded_column>POINT (-122.8386266 47.3819798)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 3 OF MASON COUNTY</electric_utility>
+      <_2020_census_tract>53045960403</_2020_census_tract>
+    </row>
+    

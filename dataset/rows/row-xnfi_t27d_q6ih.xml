@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-xnfi_t27d_q6ih" _uuid="00000000-0000-0000-56B4-95C6D3436265" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-xnfi_t27d_q6ih">
+      <vin_1_10>5YJ3E1EA0L</vin_1_10>
+      <county>Kitsap</county>
+      <city>Port Orchard</city>
+      <state>WA</state>
+      <zip_code>98366</zip_code>
+      <model_year>2020</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>266</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>26</legislative_district>
+      <dol_vehicle_id>3624155</dol_vehicle_id>
+      <geocoded_column>POINT (-122.639265 47.5373)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035092701</_2020_census_tract>
+    </row>
+    

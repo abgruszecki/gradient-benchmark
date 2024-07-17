@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-4w8v~967n_2tan" _uuid="00000000-0000-0000-232A-8C214AEFBB00" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-4w8v~967n_2tan">
+      <vin_1_10>1G1FZ6S09K</vin_1_10>
+      <county>King</county>
+      <city>Woodinville</city>
+      <state>WA</state>
+      <zip_code>98072</zip_code>
+      <model_year>2019</model_year>
+      <make>CHEVROLET</make>
+      <model>BOLT EV</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>238</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>45</legislative_district>
+      <dol_vehicle_id>476097681</dol_vehicle_id>
+      <geocoded_column>POINT (-122.151665 47.75855)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032320</_2020_census_tract>
+    </row>
+    

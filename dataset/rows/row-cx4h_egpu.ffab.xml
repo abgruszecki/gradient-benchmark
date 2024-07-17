@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-cx4h_egpu.ffab" _uuid="00000000-0000-0000-6400-D83EF57D4DD3" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-cx4h_egpu.ffab">
+      <vin_1_10>5YJSA1DN0D</vin_1_10>
+      <county>Kitsap</county>
+      <city>Silverdale</city>
+      <state>WA</state>
+      <zip_code>98383</zip_code>
+      <model_year>2013</model_year>
+      <make>TESLA</make>
+      <model>MODEL S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>208</electric_range>
+      <base_msrp>69900</base_msrp>
+      <legislative_district>23</legislative_district>
+      <dol_vehicle_id>349595858</dol_vehicle_id>
+      <geocoded_column>POINT (-122.668076 47.665978)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035091302</_2020_census_tract>
+    </row>
+    

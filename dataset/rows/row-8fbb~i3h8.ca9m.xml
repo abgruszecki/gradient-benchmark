@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-8fbb~i3h8.ca9m" _uuid="00000000-0000-0000-4561-607A4107950D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-8fbb~i3h8.ca9m">
+      <vin_1_10>WP0AB2Y12L</vin_1_10>
+      <county>Snohomish</county>
+      <city>Lynnwood</city>
+      <state>WA</state>
+      <zip_code>98087</zip_code>
+      <model_year>2020</model_year>
+      <make>PORSCHE</make>
+      <model>TAYCAN</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>203</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>21</legislative_district>
+      <dol_vehicle_id>260953899</dol_vehicle_id>
+      <geocoded_column>POINT (-122.2551991 47.8650827)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061041703</_2020_census_tract>
+    </row>
+    

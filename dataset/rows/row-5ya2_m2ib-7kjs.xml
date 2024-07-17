@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-5ya2_m2ib-7kjs" _uuid="00000000-0000-0000-1DD8-5B93197CF01D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-5ya2_m2ib-7kjs">
+      <vin_1_10>5YJ3E1EB8M</vin_1_10>
+      <county>Douglas</county>
+      <city>Coulee City</city>
+      <state>WA</state>
+      <zip_code>99115</zip_code>
+      <model_year>2021</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>168538758</dol_vehicle_id>
+      <geocoded_column>POINT (-119.29021 47.6128)</geocoded_column>
+      <electric_utility>PUD NO 1 OF DOUGLAS COUNTY</electric_utility>
+      <_2020_census_tract>53017950200</_2020_census_tract>
+    </row>
+    

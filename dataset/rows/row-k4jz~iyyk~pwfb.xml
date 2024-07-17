@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-k4jz~iyyk~pwfb" _uuid="00000000-0000-0000-A16D-0F9101C23FE2" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-k4jz~iyyk~pwfb">
+      <vin_1_10>1G1RF6E49E</vin_1_10>
+      <county>Wahkiakum</county>
+      <city>Grays River</city>
+      <state>WA</state>
+      <zip_code>98621</zip_code>
+      <model_year>2014</model_year>
+      <make>CHEVROLET</make>
+      <model>VOLT</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>19</legislative_district>
+      <dol_vehicle_id>186237159</dol_vehicle_id>
+      <geocoded_column>POINT (-123.5689506 46.3598681)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF WAHKIAKUM COUNTY</electric_utility>
+      <_2020_census_tract>53069950100</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ezw5~xsy7_n2v7" _uuid="00000000-0000-0000-5876-7098648553E4" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ezw5~xsy7_n2v7">
+      <vin_1_10>WVWKP7AU5F</vin_1_10>
+      <county>San Juan</county>
+      <city>Eastsound</city>
+      <state>WA</state>
+      <zip_code>98245</zip_code>
+      <model_year>2015</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>E-GOLF</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>83</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>40</legislative_district>
+      <dol_vehicle_id>257645972</dol_vehicle_id>
+      <geocoded_column>POINT (-122.907229 48.7016716)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||ORCAS POWER &amp; LIGHT COOP</electric_utility>
+      <_2020_census_tract>53055960101</_2020_census_tract>
+    </row>
+    

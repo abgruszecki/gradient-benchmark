@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-di8p_fsyu~g3vn" _uuid="00000000-0000-0000-9812-73732DCE4163" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-di8p_fsyu~g3vn">
+      <vin_1_10>3FA6P0SU3K</vin_1_10>
+      <county>Whitman</county>
+      <city>Lamont</city>
+      <state>WA</state>
+      <zip_code>99017</zip_code>
+      <model_year>2019</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>26</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>9</legislative_district>
+      <dol_vehicle_id>475716314</dol_vehicle_id>
+      <geocoded_column>POINT (-117.90507 47.20237)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53075000900</_2020_census_tract>
+    </row>
+    

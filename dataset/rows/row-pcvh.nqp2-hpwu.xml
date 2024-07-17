@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pcvh.nqp2-hpwu" _uuid="00000000-0000-0000-0C97-9CA424A8EA47" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pcvh.nqp2-hpwu">
+      <vin_1_10>1C4RJYB65R</vin_1_10>
+      <county>King</county>
+      <city>Renton</city>
+      <state>WA</state>
+      <zip_code>98057</zip_code>
+      <model_year>2024</model_year>
+      <make>JEEP</make>
+      <model>GRAND CHEROKEE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>25</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>11</legislative_district>
+      <dol_vehicle_id>259170292</dol_vehicle_id>
+      <geocoded_column>POINT (-122.21024 47.4797047)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033026200</_2020_census_tract>
+    </row>
+    

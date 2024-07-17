@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-e67r-jtci_pu63" _uuid="00000000-0000-0000-C75F-C4142D4D8F36" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-e67r-jtci_pu63">
+      <vin_1_10>7SAYGAEE7N</vin_1_10>
+      <county>Pierce</county>
+      <city>Edgewood</city>
+      <state>WA</state>
+      <zip_code>98372</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL Y</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>31</legislative_district>
+      <dol_vehicle_id>213584164</dol_vehicle_id>
+      <geocoded_column>POINT (-122.28718 47.190465)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53053073502</_2020_census_tract>
+    </row>
+    

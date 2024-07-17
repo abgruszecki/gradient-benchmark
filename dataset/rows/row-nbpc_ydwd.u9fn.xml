@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-nbpc_ydwd.u9fn" _uuid="00000000-0000-0000-A286-A6A8353FC60D" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-nbpc_ydwd.u9fn">
+      <vin_1_10>5YJ3E1EC5N</vin_1_10>
+      <county>Solano</county>
+      <city>Travis Afb</city>
+      <state>CA</state>
+      <zip_code>94535</zip_code>
+      <model_year>2022</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>227507269</dol_vehicle_id>
+      <geocoded_column>POINT (-121.939135 38.27708)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>06095252801</_2020_census_tract>
+    </row>
+    

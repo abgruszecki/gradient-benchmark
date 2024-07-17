@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-522f_syue.rvzd" _uuid="00000000-0000-0000-DB43-71C7183126BE" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-522f_syue.rvzd">
+      <vin_1_10>WMW13DJ01R</vin_1_10>
+      <county>King</county>
+      <city>North Bend</city>
+      <state>WA</state>
+      <zip_code>98065</zip_code>
+      <model_year>2024</model_year>
+      <make>MINI</make>
+      <model>HARDTOP</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>260400164</dol_vehicle_id>
+      <geocoded_column>POINT (-121.8740496 47.5345546)</geocoded_column>
+      <electric_utility>CITY OF TACOMA - (WA)||TANNER ELECTRIC COOP</electric_utility>
+      <_2020_census_tract>53033032800</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ecsd-9rku-dpky" _uuid="00000000-0000-0000-B448-D825E42B4C4E" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ecsd-9rku-dpky">
+      <vin_1_10>WVGTMPE25M</vin_1_10>
+      <county>Maricopa</county>
+      <city>Mesa</city>
+      <state>AZ</state>
+      <zip_code>85212</zip_code>
+      <model_year>2021</model_year>
+      <make>VOLKSWAGEN</make>
+      <model>ID.4</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>170816474</dol_vehicle_id>
+      <geocoded_column>POINT (-111.6084812 33.3266891)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>04013817600</_2020_census_tract>
+    </row>
+    

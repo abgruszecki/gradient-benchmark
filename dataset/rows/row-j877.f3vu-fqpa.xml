@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-j877.f3vu-fqpa" _uuid="00000000-0000-0000-B553-B0EE80C19A48" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-j877.f3vu-fqpa">
+      <vin_1_10>JTMFB3FV4M</vin_1_10>
+      <county>Yakima</county>
+      <city>Selah</city>
+      <state>WA</state>
+      <zip_code>98942</zip_code>
+      <model_year>2021</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>15</legislative_district>
+      <dol_vehicle_id>187055088</dol_vehicle_id>
+      <geocoded_column>POINT (-120.54188 46.654175)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53077003100</_2020_census_tract>
+    </row>
+    

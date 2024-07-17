@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pwaj-8ytz~k78r" _uuid="00000000-0000-0000-C787-743B62804F31" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pwaj-8ytz~k78r">
+      <vin_1_10>5YJRE1A32A</vin_1_10>
+      <county>King</county>
+      <city>Kirkland</city>
+      <state>WA</state>
+      <zip_code>98034</zip_code>
+      <model_year>2010</model_year>
+      <make>TESLA</make>
+      <model>ROADSTER</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>245</electric_range>
+      <base_msrp>110950</base_msrp>
+      <legislative_district>1</legislative_district>
+      <dol_vehicle_id>244019401</dol_vehicle_id>
+      <geocoded_column>POINT (-122.209285 47.71124)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033022300</_2020_census_tract>
+    </row>
+    

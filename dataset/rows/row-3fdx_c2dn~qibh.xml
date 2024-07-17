@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-3fdx_c2dn~qibh" _uuid="00000000-0000-0000-9CCB-B8DE32014128" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-3fdx_c2dn~qibh">
+      <vin_1_10>JTMAB3FV6P</vin_1_10>
+      <county>Chelan</county>
+      <city>Chelan</city>
+      <state>WA</state>
+      <zip_code>98816</zip_code>
+      <model_year>2023</model_year>
+      <make>TOYOTA</make>
+      <model>RAV4 PRIME</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>42</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>259207917</dol_vehicle_id>
+      <geocoded_column>POINT (-120.015875 47.839895)</geocoded_column>
+      <electric_utility>PUD NO 1 OF CHELAN COUNTY</electric_utility>
+      <_2020_census_tract>53007960301</_2020_census_tract>
+    </row>
+    

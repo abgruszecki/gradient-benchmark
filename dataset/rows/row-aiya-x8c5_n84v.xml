@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-aiya-x8c5_n84v" _uuid="00000000-0000-0000-32E1-C84617DF3825" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-aiya-x8c5_n84v">
+      <vin_1_10>1C4RJXN66R</vin_1_10>
+      <county>Whatcom</county>
+      <city>Lynden</city>
+      <state>WA</state>
+      <zip_code>98264</zip_code>
+      <model_year>2024</model_year>
+      <make>JEEP</make>
+      <model>WRANGLER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>21</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>42</legislative_district>
+      <dol_vehicle_id>258216143</dol_vehicle_id>
+      <geocoded_column>POINT (-122.4584536 48.9461196)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY</electric_utility>
+      <_2020_census_tract>53073010303</_2020_census_tract>
+    </row>
+    

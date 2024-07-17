@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-ae2v.u9uf~jy3s" _uuid="00000000-0000-0000-8E92-A16152220243" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-ae2v.u9uf~jy3s">
+      <vin_1_10>JHMZC5F11L</vin_1_10>
+      <county>Kitsap</county>
+      <city>Olalla</city>
+      <state>WA</state>
+      <zip_code>98359</zip_code>
+      <model_year>2020</model_year>
+      <make>HONDA</make>
+      <model>CLARITY</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>47</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>26</legislative_district>
+      <dol_vehicle_id>141818904</dol_vehicle_id>
+      <geocoded_column>POINT (-122.54483 47.41801)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53035092803</_2020_census_tract>
+    </row>
+    

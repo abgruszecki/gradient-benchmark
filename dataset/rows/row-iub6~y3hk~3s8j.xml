@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-iub6~y3hk~3s8j" _uuid="00000000-0000-0000-893F-12084839DA69" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-iub6~y3hk~3s8j">
+      <vin_1_10>1FTVW1EL3N</vin_1_10>
+      <county>Thurston</county>
+      <city>Tumwater</city>
+      <state>WA</state>
+      <zip_code>98501</zip_code>
+      <model_year>2022</model_year>
+      <make>FORD</make>
+      <model>F-150</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>22</legislative_district>
+      <dol_vehicle_id>219492521</dol_vehicle_id>
+      <geocoded_column>POINT (-122.89692 47.043535)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53067010801</_2020_census_tract>
+    </row>
+    

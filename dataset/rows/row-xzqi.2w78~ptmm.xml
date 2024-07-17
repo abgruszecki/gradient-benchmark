@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-xzqi.2w78~ptmm" _uuid="00000000-0000-0000-9ECF-A3298ACD973A" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-xzqi.2w78~ptmm">
+      <vin_1_10>KNDCR3L15P</vin_1_10>
+      <county>Ferry</county>
+      <city>Kettle Falls</city>
+      <state>WA</state>
+      <zip_code>99141</zip_code>
+      <model_year>2023</model_year>
+      <make>KIA</make>
+      <model>NIRO</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>7</legislative_district>
+      <dol_vehicle_id>253443284</dol_vehicle_id>
+      <geocoded_column>POINT (-118.056575 48.604475)</geocoded_column>
+      <electric_utility>AVISTA CORP</electric_utility>
+      <_2020_census_tract>53019970100</_2020_census_tract>
+    </row>
+    

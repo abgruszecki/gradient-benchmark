@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-q3b3.4hfn~d465" _uuid="00000000-0000-0000-82B0-26930FEC6DBD" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-q3b3.4hfn~d465">
+      <vin_1_10>WA1E2AFY2R</vin_1_10>
+      <county>King</county>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zip_code>98109</zip_code>
+      <model_year>2024</model_year>
+      <make>AUDI</make>
+      <model>Q5 E</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>23</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>36</legislative_district>
+      <dol_vehicle_id>261445579</dol_vehicle_id>
+      <geocoded_column>POINT (-122.34848 47.632405)</geocoded_column>
+      <electric_utility>CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033007101</_2020_census_tract>
+    </row>
+    

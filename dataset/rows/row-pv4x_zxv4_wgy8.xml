@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pv4x_zxv4_wgy8" _uuid="00000000-0000-0000-D1C7-28A0341D9AB5" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pv4x_zxv4_wgy8">
+      <vin_1_10>7PDSGBBA9P</vin_1_10>
+      <county>Snohomish</county>
+      <city>Marysville</city>
+      <state>WA</state>
+      <zip_code>98271</zip_code>
+      <model_year>2023</model_year>
+      <make>RIVIAN</make>
+      <model>R1S</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>38</legislative_district>
+      <dol_vehicle_id>259823469</dol_vehicle_id>
+      <geocoded_column>POINT (-122.1713847 48.10433)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC</electric_utility>
+      <_2020_census_tract>53061052807</_2020_census_tract>
+    </row>
+    

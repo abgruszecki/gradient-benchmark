@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-egvd-8a7n~brmu" _uuid="00000000-0000-0000-7888-B7027BBFB271" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-egvd-8a7n~brmu">
+      <vin_1_10>2C4RC1S72M</vin_1_10>
+      <county>El Paso</county>
+      <city>Colorado Springs</city>
+      <state>CO</state>
+      <zip_code>80919</zip_code>
+      <model_year>2021</model_year>
+      <make>CHRYSLER</make>
+      <model>PACIFICA</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>32</electric_range>
+      <base_msrp>0</base_msrp>
+      <dol_vehicle_id>192612143</dol_vehicle_id>
+      <geocoded_column>POINT (-104.83059 38.928275)</geocoded_column>
+      <electric_utility>NON WASHINGTON STATE ELECTRIC UTILITY</electric_utility>
+      <_2020_census_tract>08041003706</_2020_census_tract>
+    </row>
+    

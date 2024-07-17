@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-bfad.nnty~r8xi" _uuid="00000000-0000-0000-2A2B-9812310D0D15" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-bfad.nnty~r8xi">
+      <vin_1_10>5YJ3E1EB3K</vin_1_10>
+      <county>Douglas</county>
+      <city>Coulee Dam</city>
+      <state>WA</state>
+      <zip_code>99116</zip_code>
+      <model_year>2019</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>220</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>12</legislative_district>
+      <dol_vehicle_id>168532486</dol_vehicle_id>
+      <geocoded_column>POINT (-118.95252 47.998715)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||CITY OF COULEE DAM - (WA)</electric_utility>
+      <_2020_census_tract>53017950102</_2020_census_tract>
+    </row>
+    

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-t2sh.qwep~vdh4" _uuid="00000000-0000-0000-712C-0EA2FCF09BB8" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-t2sh.qwep~vdh4">
+      <vin_1_10>5YJ3E1EB1P</vin_1_10>
+      <county>Walla Walla</county>
+      <city>College Place</city>
+      <state>WA</state>
+      <zip_code>99324</zip_code>
+      <model_year>2023</model_year>
+      <make>TESLA</make>
+      <model>MODEL 3</model>
+      <ev_type>Battery Electric Vehicle (BEV)</ev_type>
+      <cafv_type>Eligibility unknown as battery range has not been researched</cafv_type>
+      <electric_range>0</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>16</legislative_district>
+      <dol_vehicle_id>244395707</dol_vehicle_id>
+      <geocoded_column>POINT (-118.38409 46.043895)</geocoded_column>
+      <electric_utility>PACIFICORP</electric_utility>
+      <_2020_census_tract>53071920301</_2020_census_tract>
+    </row>
+    

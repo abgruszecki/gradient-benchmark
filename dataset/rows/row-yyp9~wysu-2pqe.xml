@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-yyp9~wysu-2pqe" _uuid="00000000-0000-0000-CF32-B728E18C7773" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-yyp9~wysu-2pqe">
+      <vin_1_10>3FA6P0PU4G</vin_1_10>
+      <county>Lincoln</county>
+      <city>Wilbur</city>
+      <state>WA</state>
+      <zip_code>99185</zip_code>
+      <model_year>2016</model_year>
+      <make>FORD</make>
+      <model>FUSION</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Not eligible due to low battery range</cafv_type>
+      <electric_range>19</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>13</legislative_district>
+      <dol_vehicle_id>189378983</dol_vehicle_id>
+      <geocoded_column>POINT (-118.70598 47.755985)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER &amp; LIGHT COMPANY</electric_utility>
+      <_2020_census_tract>53043960300</_2020_census_tract>
+    </row>
+    

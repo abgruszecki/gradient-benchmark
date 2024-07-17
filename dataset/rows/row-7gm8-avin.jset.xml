@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-7gm8-avin.jset" _uuid="00000000-0000-0000-5F4F-BA3A26C5961B" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-7gm8-avin.jset">
+      <vin_1_10>1FMCU0E1XP</vin_1_10>
+      <county>Grays Harbor</county>
+      <city>Elma</city>
+      <state>WA</state>
+      <zip_code>98541</zip_code>
+      <model_year>2023</model_year>
+      <make>FORD</make>
+      <model>ESCAPE</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>37</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>24</legislative_district>
+      <dol_vehicle_id>261311669</dol_vehicle_id>
+      <geocoded_column>POINT (-123.410105 47.00679)</geocoded_column>
+      <electric_utility>BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY</electric_utility>
+      <_2020_census_tract>53027000501</_2020_census_tract>
+    </row>
+    

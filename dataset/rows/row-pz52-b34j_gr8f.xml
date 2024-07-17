@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<row _id="row-pz52-b34j_gr8f" _uuid="00000000-0000-0000-605B-47B36F1E0D72" _position="0" _address="https://data.wa.gov/resource/f6w7-q2d2/row-pz52-b34j_gr8f">
+      <vin_1_10>JA4T5VA93R</vin_1_10>
+      <county>King</county>
+      <city>Sammamish</city>
+      <state>WA</state>
+      <zip_code>98029</zip_code>
+      <model_year>2024</model_year>
+      <make>MITSUBISHI</make>
+      <model>OUTLANDER</model>
+      <ev_type>Plug-in Hybrid Electric Vehicle (PHEV)</ev_type>
+      <cafv_type>Clean Alternative Fuel Vehicle Eligible</cafv_type>
+      <electric_range>38</electric_range>
+      <base_msrp>0</base_msrp>
+      <legislative_district>5</legislative_district>
+      <dol_vehicle_id>261929412</dol_vehicle_id>
+      <geocoded_column>POINT (-121.9993659 47.5484866)</geocoded_column>
+      <electric_utility>PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)</electric_utility>
+      <_2020_census_tract>53033032223</_2020_census_tract>
+    </row>
+    
